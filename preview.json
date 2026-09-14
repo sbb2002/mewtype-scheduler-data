@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-14T18:00:03Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-15T14:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/BOaAB71BdU0/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【#歌枠 】私はアニソンしか歌わなーーーーーい！！！！【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【#노래방】나는 애니송밖에 안 부른다!!!!【峰月律/ゆめみた】",
       "url": "https://www.youtube.com/watch?v=BOaAB71BdU0",
       "video_id": "BOaAB71BdU0"
     },
