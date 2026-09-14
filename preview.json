@@ -63,35 +63,8 @@
       ]
     }
   },
-  "generated_at": "2026-09-14T16:00:04Z",
+  "generated_at": "2026-09-14T16:07:56Z",
   "items": [
-    {
-      "actual_start": null,
-      "api_start_seen": "2026-09-14T14:30:00Z",
-      "assumed_live": false,
-      "channel_key": "ritsu",
-      "collab_with": [],
-      "concurrent_viewers": null,
-      "expires_at": "2026-09-14T17:30:00Z",
-      "first_seen": "2026-09-13T15:47:27Z",
-      "host": null,
-      "id": "pv_b6ba40fa",
-      "info_at": "2026-09-13T15:42:11Z",
-      "info_source": "personal",
-      "kind": "unknown",
-      "last_updated": "2026-09-14T16:00:04Z",
-      "membership": false,
-      "scheduled_start": "2026-09-14T14:30:00Z",
-      "source": "personal",
-      "state": "watching",
-      "state_since": "2026-09-14T16:00:04Z",
-      "thumbnail": "https://i.ytimg.com/vi/ANoN-maKbTE/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【狂気実写劇団】りつぬいちゃんとあそぼ！２【峰月律/ゆめみた】",
-      "title_ko": "【광기 실사극단】리츠누이짱과 놀자! 2【미네츠키 리츠/유메미타】",
-      "url": "https://www.youtube.com/watch?v=ANoN-maKbTE",
-      "video_id": "ANoN-maKbTE"
-    },
     {
       "actual_start": null,
       "api_start_seen": "2026-12-24T14:59:00Z",
