@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:13:07Z",
+  "generated_at": "2026-09-15T02:42:08Z",
   "tweets": {
     "arale": [
       {
@@ -41,6 +41,18 @@
         "text": "次回の配信予定は明日22:00！✨️\nよろしくねぇ〜⸜🌷︎⸝‍",
         "text_ko": "다음 방송 예정은 내일 22시!✨️\n잘 부탁해요~⸜🌷︎⸝‍",
         "url": "https://x.com/i/status/2099449018925695444"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-16T02:42:08Z",
+        "handle": "arale_yumemita",
+        "id": "2099689862408687740",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-15T02:42:08Z",
+        "text": "おはようございます☀️ﾊｻﾞｽｯ\n\nなかまちあられ！とーじょー！！",
+        "text_ko": "좋은 아침입니다☀️하사스\n\n동료들아, 아라레! 토죠!!",
+        "url": "https://x.com/i/status/2099689862408687740"
       }
     ],
     "miyako": [
