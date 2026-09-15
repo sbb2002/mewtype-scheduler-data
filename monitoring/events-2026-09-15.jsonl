@@ -147,3 +147,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T15:19:00Z", "who": "6rJiVrTaTBE"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T15:19:04Z", "who": "BOaAB71BdU0"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T15:20:00Z", "who": "BOaAB71BdU0"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T15:20:05Z", "who": "6rJiVrTaTBE"}
