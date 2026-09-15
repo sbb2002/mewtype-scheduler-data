@@ -5,3 +5,4 @@
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-15T10:00:10Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-15T10:00:10Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-15T10:05:03Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-15T10:05:03Z", "via": "ingest", "who": ""}
