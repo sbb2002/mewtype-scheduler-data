@@ -1,0 +1,14 @@
+{"backfill": true, "detail": "[백필] 실제 방송 시작(actual_start)", "flow": "preview", "result": "ok", "src_id": "pv_1ef7c81c", "title": "【朝活】☀ ☀ ☀GOOD　MORNING☀ ☀ 【夢限大みゅーたいぷ/藤都子】 #shorts #縦型配信 #vtuber", "to_state": "live", "ts": "2026-09-13T21:59:30Z", "who": "miyako"}
+{"backfill": true, "detail": "[백필] preview_archive 최종 상태", "flow": "preview", "result": "ok", "src_id": "pv_1ef7c81c", "title": "【朝活】☀ ☀ ☀GOOD　MORNING☀ ☀ 【夢限大みゅーたいぷ/藤都子】 #shorts #縦型配信 #vtuber", "to_state": "none", "ts": "2026-09-13T23:10:10Z", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "pf50ed4883d4b201", "ts": "2026-09-14T06:41:17Z", "via": "ingest", "who": "yuno"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099432847425843273", "ts": "2026-09-14T09:40:04Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099433080356520222", "ts": "2026-09-14T09:40:28Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099434160503091219", "ts": "2026-09-14T09:44:47Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweets.json)", "flow": "tweet", "result": "ok", "src_id": "2099437161489768458", "ts": "2026-09-14T09:56:41Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweets.json)", "flow": "tweet", "result": "ok", "src_id": "2099481115895705604", "ts": "2026-09-14T12:52:11Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweets.json)", "flow": "tweet", "result": "ok", "src_id": "2099481635138031794", "ts": "2026-09-14T12:53:25Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweets.json)", "flow": "tweet", "result": "ok", "src_id": "2099489786440659316", "ts": "2026-09-14T13:25:48Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweets.json)", "flow": "tweet", "result": "ok", "src_id": "2099494223703855437", "ts": "2026-09-14T13:44:08Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweets.json)", "flow": "tweet", "result": "ok", "src_id": "2099506503631995088", "ts": "2026-09-14T14:34:43Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweets.json)", "flow": "tweet", "result": "ok", "src_id": "2099514058995364055", "ts": "2026-09-14T15:02:20Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] preview_archive 최종 상태", "flow": "preview", "result": "ok", "src_id": "pv_b6ba40fa", "title": "【狂気実写劇団】りつぬいちゃんとあそぼ！２【峰月律/ゆめみた】", "to_state": "none", "ts": "2026-09-14T16:07:56Z", "who": "ritsu"}
