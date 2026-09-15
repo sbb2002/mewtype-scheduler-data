@@ -1,2 +1,3 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-15T08:41:16Z", "via": "ingest", "who": "ritsu"}
 {"candidates": 90, "detail": "candidates=90 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-15T09:00:02Z", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-15T09:00:06Z", "via": "ingest", "who": ""}
