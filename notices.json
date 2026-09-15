@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:05:03Z",
+  "generated_at": "2026-09-15T12:23:53Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -302,6 +302,32 @@
       "title_raw": "チケット一般発売を開始しました💡",
       "title_slug": "チケット一般発売を開始しました",
       "tweet_url": "https://x.com/i/status/2098018660086657040",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": null,
+      "body_for_llm": "˗ˏˋ 🆕 イベント情報🆕 ˎˊ˗ 新潟グランプリに千石ユノの出演が決定✨ 🗓 (日) 📍 CARDBASE JABURO 詳細は引用ポストをチェック‼👇 #ヴァンガード #ゆめみた",
+      "body_raw": "˗ˏˋ 🆕 イベント情報🆕  ˎˊ˗\n\n新潟グランプリに千石ユノの出演が決定✨\n\n🗓　11月15日(日)\n📍　CARDBASE JABURO\n\n詳細は引用ポストをチェック‼👇\n\n#ヴァンガード #ゆめみた",
+      "category": "etc",
+      "date": "2026-11-15",
+      "deadline": false,
+      "expires_at": "2026-11-15T15:00:00Z",
+      "first_seen": "2026-09-15T12:23:53Z",
+      "id": "2099836384936882682",
+      "last_updated": "2026-09-15T12:23:53Z",
+      "participants": null,
+      "seen_ids": [
+        "2099836384936882682"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "千石ユノ、 新潟グランプリに出演決定！",
+      "title_ko": "치세키 유노, 니가타 그랑프리 출연 확정!",
+      "title_raw": "新潟グランプリに千石ユノの出演が決定",
+      "title_slug": "新潟グランプリに千石ユノの出演が決定",
+      "tweet_url": "https://x.com/i/status/2099836384936882682",
       "url": null
     },
     {
