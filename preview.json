@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-15T15:14:30Z",
+  "generated_at": "2026-09-15T15:31:00Z",
   "items": [
     {
       "actual_start": "2026-09-15T14:35:56Z",
@@ -71,7 +71,7 @@
       "assumed_live": false,
       "channel_key": "ritsu",
       "collab_with": null,
-      "concurrent_viewers": 921,
+      "concurrent_viewers": 883,
       "expires_at": "2026-09-15T17:00:00Z",
       "first_seen": "2026-09-14T18:00:03Z",
       "host": null,
@@ -79,7 +79,7 @@
       "info_at": "2026-09-15T08:38:32Z",
       "info_source": "personal",
       "kind": "song",
-      "last_updated": "2026-09-15T15:08:00Z",
+      "last_updated": "2026-09-15T15:31:00Z",
       "membership": false,
       "scheduled_start": "2026-09-15T14:00:00Z",
       "source": "api",
@@ -106,7 +106,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-15T15:08:00Z",
+      "last_updated": "2026-09-15T15:31:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -175,33 +175,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@arale_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-09-15T13:00:20Z",
-      "api_start_seen": "2026-09-15T13:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": [],
-      "concurrent_viewers": 3365,
-      "expires_at": "2026-09-15T16:00:00Z",
-      "first_seen": "2026-09-15T02:47:24Z",
-      "host": null,
-      "id": "pv_4f41a9cb",
-      "info_at": "2026-09-15T03:37:51Z",
-      "info_source": "personal",
-      "kind": "song",
-      "last_updated": "2026-09-15T15:08:00Z",
-      "membership": false,
-      "scheduled_start": "2026-09-15T13:00:00Z",
-      "source": "personal",
-      "state": "end",
-      "state_since": "2026-09-15T15:01:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/6rJiVrTaTBE/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【🟡#アワーノーツ 】バンドリ！Vo.が先行プレイ配信！✨️ライブにストーリーに…ﾍﾍﾍﾍ【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": "【🟡#아워노트】뱅드림! Vo.가 선공 플레이 방송!✨️ 라이브와 스토리까지…ㅎㅎㅎㅎ【 나카마치 아라레 / 무겐다이 뮤타입 】",
-      "url": "https://www.youtube.com/watch?v=6rJiVrTaTBE",
-      "video_id": "6rJiVrTaTBE"
     }
   ]
 }
