@@ -138,3 +138,4 @@
 {"detail": "mode: added, needs_tl=true", "flow": "tweet", "result": "degraded", "ts": "2026-09-15T15:14:30Z", "via": "ingest", "who": "miyako"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-15T15:15:00Z", "who": "BOaAB71BdU0"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T15:15:06Z", "who": "6rJiVrTaTBE"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T15:16:00Z", "who": "BOaAB71BdU0"}
