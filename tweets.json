@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-09-15T10:39:14Z",
+  "generated_at": "2026-09-15T10:40:01Z",
   "tweets": {
     "arale": [
-      {
-        "channel_key": "arale",
-        "expires_at": "2026-09-16T03:36:42Z",
-        "handle": "arale_yumemita",
-        "id": "2099703048314704181",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-15T03:36:42Z",
-        "text": "な",
-        "text_ko": "야",
-        "url": "https://x.com/i/status/2099703048314704181"
-      },
       {
         "channel_key": "arale",
         "expires_at": "2026-09-16T03:43:00Z",
@@ -69,6 +57,18 @@
         "text": "‼️‼️‼️‼️‼️‼️‼️‼️‼️\n‼️‼️‼️本日まで‼️‼️‼️\n‼️‼️‼️‼️‼️‼️‼️‼️‼️",
         "text_ko": "와!와!와!와!와!와!와!와!와!\n‼️‼️‼️오늘까지‼️‼️‼️\n‼️‼️‼️‼️‼️‼️‼️‼️‼️",
         "url": "https://x.com/i/status/2099810239315116183"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-16T10:40:01Z",
+        "handle": "arale_yumemita",
+        "id": "2099810456571691513",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-15T10:40:01Z",
+        "text": "花粉が……ﾍｸｼｮｲ🤧",
+        "text_ko": "꽃가루가……헥시오🤧",
+        "url": "https://x.com/i/status/2099810456571691513"
       }
     ],
     "miyako": [
