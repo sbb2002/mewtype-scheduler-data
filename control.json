@@ -1,8 +1,9 @@
 {
-  "by": "telegram:/push-monitor --auto",
+  "by": "telegram:/monitor --auto",
   "log_level": "normal",
+  "monitor_auto": true,
   "paused": false,
   "push_monitor_auto": true,
   "since": null,
-  "updated_at": "2026-09-14T06:46:11Z"
+  "updated_at": "2026-09-15T07:59:57Z"
 }
