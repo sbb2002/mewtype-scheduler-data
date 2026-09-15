@@ -26,3 +26,4 @@
 {"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_2c3f396e", "result": "ok", "title": "【#歌枠 】私はアニソンしか歌わなーーーーーい！！！！【峰月律/ゆめみた】", "ts": "2026-09-15T13:57:00Z", "video_id": "BOaAB71BdU0", "who": "ritsu"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T14:00:00Z", "who": "BOaAB71BdU0"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T14:03:00Z", "who": "BOaAB71BdU0"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-15T14:03:48Z", "who": "6rJiVrTaTBE"}
