@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-15T02:42:08Z",
+  "generated_at": "2026-09-15T02:47:24Z",
   "tweets": {
     "arale": [
-      {
-        "channel_key": "arale",
-        "expires_at": "2026-09-15T09:40:04Z",
-        "handle": "arale_yumemita",
-        "id": "2099432847425843273",
-        "received_at": "2026-09-14T09:40:04Z",
-        "text": "こんばんは\n涼しくなったと思ったら、今日は暑かったね……🥵",
-        "text_ko": "안녕하세요.\n시원해졌다고 생각했는데, 오늘은 정말 더웠네요……🥵",
-        "url": "https://x.com/i/status/2099432847425843273"
-      },
       {
         "channel_key": "arale",
         "expires_at": "2026-09-15T09:40:28Z",
@@ -53,6 +43,20 @@
         "text": "おはようございます☀️ﾊｻﾞｽｯ\n\nなかまちあられ！とーじょー！！",
         "text_ko": "좋은 아침입니다☀️하사스\n\n동료들아, 아라레! 토죠!!",
         "url": "https://x.com/i/status/2099689862408687740"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-16T02:47:24Z",
+        "handle": "arale_yumemita",
+        "id": "2099691241864851842",
+        "media": [
+          "https://pbs.twimg.com/media/HSOaDg3aYAAfjgu.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-15T02:47:24Z",
+        "text": "⋱𖤐配信予定𖤐⋰\n\n 9月15(水) 22:00〜\n￣￣￣￣￣￣￣￣￣￣\n⟡.·歌枠配信🎤\n\n🔗 #イ中田丁なう\nhttps://www.youtube.com/live/6rJiVrTaTBE\n＿＿＿＿＿＿＿＿＿＿\n\n✏️𓂃 #アワーノーツ 先行プレイ配信！✨️\nゆめみたストーリーのぞいちゃったり…！？ライブしたい！！！楽しみ！！！！",
+        "text_ko": "⋱𖤐방송 예정𖤐⋰\n\n9월 15일(수) 22:00〜\n￣￣￣￣￣￣￣￣￣￣\n⟡.·노래 방송🎤\n\n🔗 #이중다정 나우\nhttps://www.youtube.com/live/6rJiVrTaTBE\n＿＿＿＿＿＿＿＿＿＿\n\n✏️𓂃 #우리노트 사전 플레이 방송!✨️\n꿈꾸던 스토리를 살짝 엿보기도…!? 라이브하고 싶어!!! 기대돼!!!!!!!!!",
+        "url": "https://x.com/i/status/2099691241864851842"
       }
     ],
     "miyako": [
