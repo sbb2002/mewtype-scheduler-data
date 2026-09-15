@@ -19,3 +19,4 @@
 {"detail": "mode: rolled", "flow": "tweet", "result": "ok", "ts": "2026-09-15T13:15:17Z", "via": "ingest", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-15T13:15:17Z", "via": "ingest", "who": "yuno"}
 {"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-15T13:33:48Z", "who": ""}
+{"detail": "upcoming→live", "flow": "preview", "item_id": "pv_4f41a9cb", "result": "ok", "title": "【🟡#アワーノーツ 】バンドリ！Vo.が先行プレイ配信！✨️ライブにストーリーに…ﾍﾍﾍﾍ【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-09-15T13:33:48Z", "video_id": "6rJiVrTaTBE", "who": "arale"}
