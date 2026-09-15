@@ -1,0 +1,32 @@
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098953336003453281", "ts": "2026-09-13T02:00:41Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098954191771414817", "ts": "2026-09-13T02:00:41Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098959386479837537", "ts": "2026-09-13T02:19:51Z", "via": "ingest", "who": "yuno"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098961905608208609", "ts": "2026-09-13T02:33:35Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098966159064535371", "ts": "2026-09-13T02:47:48Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099005292327715298", "ts": "2026-09-13T05:20:39Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099005913155997759", "ts": "2026-09-13T05:23:04Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099009879646367922", "ts": "2026-09-13T05:39:08Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099010064569016470", "ts": "2026-09-13T05:39:33Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099034343129981296", "ts": "2026-09-13T07:16:05Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099036954755285217", "ts": "2026-09-13T07:26:25Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] アワーノーツ リリース日決定特番 生配信開始", "flow": "notice", "result": "ok", "src_id": "2099069766875136210", "ts": "2026-09-13T09:37:51Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099075022312861838", "ts": "2026-09-13T09:58:09Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099078609898246292", "ts": "2026-09-13T10:13:26Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] 실제 방송 시작(actual_start)", "flow": "preview", "result": "ok", "src_id": "pv_9e3e5a37", "title": "【＃アニメゆめみた】最終回ありゃとう❣全13話振り返りませう🦆【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-09-13T11:00:19Z", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099088768330518844", "ts": "2026-09-13T11:10:41Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099101632797806710", "ts": "2026-09-13T11:50:29Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] 실제 방송 시작(actual_start)", "flow": "preview", "result": "ok", "src_id": "pv_20250d18", "title": "アワーノーツ リリース日決定特番", "to_state": "live", "ts": "2026-09-13T11:55:46Z", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099108431533900108", "ts": "2026-09-13T12:10:41Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] アワーノーツ正式リリース決定！", "flow": "notice", "result": "ok", "src_id": "2099109296038699236", "ts": "2026-09-13T12:14:09Z", "who": ""}
+{"backfill": true, "detail": "[백필] 楽曲情報：夢限大みゅーたいぷ デジタルリリース決定", "flow": "notice", "result": "ok", "src_id": "2099114377307967603", "ts": "2026-09-13T12:34:42Z", "who": ""}
+{"backfill": true, "detail": "[백필] preview_archive 최종 상태", "flow": "preview", "result": "ok", "src_id": "pv_9e3e5a37", "title": "【＃アニメゆめみた】最終回ありゃとう❣全13話振り返りませう🦆【ゆめみた/藤都子】", "to_state": "none", "ts": "2026-09-13T12:40:05Z", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099120185836015969", "ts": "2026-09-13T13:02:37Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] 실제 방송 시작(actual_start)", "flow": "preview", "result": "ok", "src_id": "pv_49ae3882", "title": "【#歌枠 】私は歌を歌いつくすーーーーーーーー！！！！！【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-09-13T13:36:59Z", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099130254241693729", "ts": "2026-09-13T13:38:14Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099130768442474748", "ts": "2026-09-13T13:39:11Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099131568929522032", "ts": "2026-09-13T13:44:05Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099132780802392566", "ts": "2026-09-13T13:48:23Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] preview_archive 최종 상태", "flow": "preview", "result": "ok", "src_id": "pv_20250d18", "title": "アワーノーツ リリース日決定特番", "to_state": "none", "ts": "2026-09-13T14:09:05Z", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099139354660851771", "ts": "2026-09-13T14:13:20Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2099161728806477972", "ts": "2026-09-13T15:47:27Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] preview_archive 최종 상태", "flow": "preview", "result": "ok", "src_id": "pv_49ae3882", "title": "【#歌枠 】私は歌を歌いつくすーーーーーーーー！！！！！【峰月律/ゆめみた】", "to_state": "none", "ts": "2026-09-13T16:01:05Z", "who": "ritsu"}
