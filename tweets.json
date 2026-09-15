@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:38:20Z",
+  "generated_at": "2026-09-15T08:41:16Z",
   "tweets": {
     "arale": [
       {
@@ -197,6 +197,20 @@
         "text": "見られてて終わった",
         "text_ko": "보여서 끝났어",
         "url": "https://x.com/i/status/2099697942097735777"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-16T08:41:16Z",
+        "handle": "ritsu_yumemita",
+        "id": "2099779890073731265",
+        "media": [
+          "https://pbs.twimg.com/media/HSPqrZ1bcAAqtye.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-15T08:41:16Z",
+        "text": "【今日の配信】\n🩵 ･･････････････････････ 🩵\n\n  𝗦𝗧𝗔𝗥𝗧 今夜23:00〜予定\n\nアニソンしか歌わない歌枠\n\n↻ ＵＲＬ\n https://www.youtube.com/live/BOaAB71BdU0?si=_Xiib4fjxt4grNUP\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【오늘의 방송】\n🩵 ･･････････････････････ 🩵\n\n  𝗦𝗧𝗔𝗥𝗧 오늘 밤 23:00~ 예정\n\n애니송만 부르는 노래 시간\n\n↻ ＵＲＬ\n https://www.youtube.com/live/BOaAB71BdU0?si=_Xiib4fjxt4grNUP\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2099779890073731265"
       }
     ],
     "yuno": [
