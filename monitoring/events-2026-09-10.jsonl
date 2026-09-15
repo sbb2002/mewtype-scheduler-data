@@ -1,0 +1,58 @@
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097804024292770059", "ts": "2026-09-09T22:01:47Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097877713021444380", "ts": "2026-09-10T02:40:03Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097878440573890786", "ts": "2026-09-10T02:42:53Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097878620295602197", "ts": "2026-09-10T02:43:36Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097881182147084783", "ts": "2026-09-10T02:53:48Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] グッズと一緒に盛り上げよう♪ pic.x.com/BmkG63EzwW", "flow": "notice", "result": "ok", "src_id": "2097881189134803294", "ts": "2026-09-10T02:53:48Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097889562333008292", "ts": "2026-09-10T03:27:24Z", "via": "ingest", "who": "yuno"}
+{"backfill": true, "detail": "[백필] TVアニメ「バンドリ！ ゆめ∞みた」最終回放送に向けて", "flow": "notice", "result": "degraded", "src_id": "2097894490233344298", "ts": "2026-09-10T03:49:00Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097898129421177012", "ts": "2026-09-10T04:08:15Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097901520075592064", "ts": "2026-09-10T04:14:36Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097908716456870248", "ts": "2026-09-10T04:43:14Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097909280863334784", "ts": "2026-09-10T04:45:26Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] バンドリ！ ゆめ∞みた 最終話放送記念リポストキャンペーン", "flow": "notice", "result": "ok", "src_id": "2097929208765002012", "ts": "2026-09-10T06:07:37Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097930135232241963", "ts": "2026-09-10T06:24:15Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] 『バンドリ！ ゆめ∞みた』が雑誌掲載！対談特集", "flow": "notice", "result": "ok", "src_id": "2097945192364167584", "ts": "2026-09-10T07:11:02Z", "who": ""}
+{"backfill": true, "detail": "[백필] 集え！#ゆめみた筋トレ部 〜輝け！上腕二頭筋〜", "flow": "notice", "result": "ok", "src_id": "n862390d67e958a4", "ts": "2026-09-10T07:19:28Z", "who": ""}
+{"backfill": true, "detail": "[백필] NAKAMACHI ARALE LIVE 2026 「RESONEXT」", "flow": "notice", "result": "ok", "src_id": "nd9f0821858f4ac9", "ts": "2026-09-10T07:22:36Z", "who": ""}
+{"backfill": true, "detail": "[백필] 仲町あられ バースデーグッズ2026 発売開始", "flow": "notice", "result": "ok", "src_id": "nd798f1c0d764e4f", "ts": "2026-09-10T07:23:53Z", "who": ""}
+{"backfill": true, "detail": "[백필] BanG Dream! 13th LIVE グッズ情報公開", "flow": "notice", "result": "ok", "src_id": "2097960024417124657", "ts": "2026-09-10T08:12:27Z", "who": ""}
+{"backfill": true, "detail": "[백필] TVアニメ『バンドリ！ ゆめ∞みた』が雑誌掲載！インタビューとポスター紹介", "flow": "notice", "result": "ok", "src_id": "2097962720096333987", "ts": "2026-09-10T08:17:48Z", "who": ""}
+{"backfill": true, "detail": "[백필] バンドリ！TV LIVE 2026 #331 夢限大みゅーたいぷ 5名出演", "flow": "notice", "result": "ok", "src_id": "2097973357287489685", "ts": "2026-09-10T09:00:05Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097975197047685527", "ts": "2026-09-10T09:07:22Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] バンドリ！ ゆめ∞みたがニュータイプ10月号に掲載", "flow": "notice", "result": "ok", "src_id": "2097986500009119837", "ts": "2026-09-10T09:52:26Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097992569074713045", "ts": "2026-09-10T10:16:24Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097993661388902793", "ts": "2026-09-10T10:20:45Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098005271725633556", "ts": "2026-09-10T11:06:52Z", "via": "ingest", "who": "yuno"}
+{"backfill": true, "detail": "[백필] バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」チケット一般発売開始", "flow": "notice", "result": "ok", "src_id": "2098018660086657040", "ts": "2026-09-10T12:18:02Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098026198106526197", "ts": "2026-09-10T12:38:18Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098026587736424642", "ts": "2026-09-10T12:38:18Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] 『バンドリ！ ゆめ∞みた』最終回放送開始のお知らせ", "flow": "notice", "result": "ok", "src_id": "2098026190376497465", "ts": "2026-09-10T12:38:18Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098028645063553150", "ts": "2026-09-10T12:39:44Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098034027332784333", "ts": "2026-09-10T13:49:20Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] バンドリ！TV LIVE 2026 生配信のお知らせ", "flow": "notice", "result": "ok", "src_id": "2098033047874736148", "ts": "2026-09-10T13:49:20Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098050201814786547", "ts": "2026-09-10T14:59:58Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098049662951567630", "ts": "2026-09-10T14:59:58Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] 「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ開催決定", "flow": "notice", "result": "ok", "src_id": "2098050273273172111", "ts": "2026-09-10T15:00:00Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098049924726431824", "ts": "2026-09-10T15:00:03Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098049845168889946", "ts": "2026-09-10T15:00:07Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098051159768605044", "ts": "2026-09-10T15:00:08Z", "via": "ingest", "who": "yuno"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098053113320218810", "ts": "2026-09-10T15:00:17Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098053281650229464", "ts": "2026-09-10T15:00:22Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098053765786144884", "ts": "2026-09-10T15:00:22Z", "via": "ingest", "who": "ritsu"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098054881341014273", "ts": "2026-09-10T15:00:38Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] バンドリ13thライブ DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」チケット販売開始", "flow": "notice", "result": "ok", "src_id": "2098057825541136762", "ts": "2026-09-10T15:00:39Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098058901732397156", "ts": "2026-09-10T15:00:48Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098058916378915114", "ts": "2026-09-10T15:00:48Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] アニメ女心研究所特別放送決定！", "flow": "notice", "result": "ok", "src_id": "2098058929989472631", "ts": "2026-09-10T15:00:50Z", "who": ""}
+{"backfill": true, "detail": "[백필] バンドリ！ ゆめ∞みた Blu-ray 下巻 ジャケット公開", "flow": "notice", "result": "ok", "src_id": "2098059091252047961", "ts": "2026-09-10T15:00:53Z", "who": ""}
+{"backfill": true, "detail": "[백필] バンドリ！ ゆめ∞みた Blu-ray発売と15秒CM公開", "flow": "notice", "result": "ok", "src_id": "2098059265680515490", "ts": "2026-09-10T15:00:59Z", "who": ""}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098059532715036904", "ts": "2026-09-10T15:01:03Z", "via": "ingest", "who": "yuno"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098064657101812036", "ts": "2026-09-10T15:02:50Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098066772117303679", "ts": "2026-09-10T15:11:15Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098069482296242209", "ts": "2026-09-10T15:22:01Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098070005321757153", "ts": "2026-09-10T15:24:05Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098071354562244814", "ts": "2026-09-10T15:29:27Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098076926095286314", "ts": "2026-09-10T15:51:35Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098077213459693882", "ts": "2026-09-10T15:52:44Z", "via": "ingest", "who": "miyako"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2098079030314758249", "ts": "2026-09-10T16:00:00Z", "via": "ingest", "who": "ritsu"}
