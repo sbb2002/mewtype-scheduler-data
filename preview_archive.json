@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:07:56Z",
+  "generated_at": "2026-09-15T15:31:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -303,6 +303,34 @@
       "title_ko": "【광기 실사극단】리츠누이짱과 놀자! 2【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=ANoN-maKbTE",
       "video_id": "ANoN-maKbTE"
+    },
+    {
+      "actual_start": "2026-09-15T13:00:20Z",
+      "api_start_seen": "2026-09-15T13:00:00Z",
+      "archived_at": "2026-09-15T15:31:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [],
+      "concurrent_viewers": 3365,
+      "expires_at": "2026-09-15T16:00:00Z",
+      "first_seen": "2026-09-15T02:47:24Z",
+      "host": null,
+      "id": "pv_4f41a9cb",
+      "info_at": "2026-09-15T03:37:51Z",
+      "info_source": "personal",
+      "kind": "song",
+      "last_updated": "2026-09-15T15:31:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-15T13:00:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-15T15:31:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/6rJiVrTaTBE/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡#アワーノーツ 】バンドリ！Vo.が先行プレイ配信！✨️ライブにストーリーに…ﾍﾍﾍﾍ【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡#아워노트】뱅드림! Vo.가 선공 플레이 방송!✨️ 라이브와 스토리까지…ㅎㅎㅎㅎ【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=6rJiVrTaTBE",
+      "video_id": "6rJiVrTaTBE"
     }
   ]
 }
