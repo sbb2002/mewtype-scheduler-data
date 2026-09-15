@@ -9,11 +9,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 added (10月9日(金)発売 お楽しみに)",
+    "action": "소식 added (10月8日(木)発売)",
     "at": "2026-09-15T23:21:48Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "2f16b0878dad10d678d3cf6555838d5e111bd635",
+    "new_sha": "81868e5b59b589b10d50982ad2eadf3325bd1a10",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-09-15T23:21:48Z",
@@ -243,6 +243,32 @@
           "title_raw": "TVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ",
           "title_slug": "tvアニメバンドリゆめみた極楽湯rakuspaコ",
           "tweet_url": "https://x.com/i/status/2098050273273172111",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "運命星戦",
+          "body_for_llm": "RT @cfvanguard_PR: 【#週ヴァン】 🌕🫧ブースターパック『運命星戦』🫧🌕 ✨🛸「夢限大みゅーたいぷ」のクリティカルトリガー新規収録が決定🛸✨ キャラサインの箔押しされた特別仕様ver.もまれに出現！ (金)発売✨お楽しみに！ #ヴァンガード #…",
+          "body_raw": "RT @cfvanguard_PR: 【#週ヴァン】\n🌕🫧ブースターパック『運命星戦』🫧🌕\n\n✨🛸「夢限大みゅーたいぷ」のクリティカルトリガー新規収録が決定🛸✨\nキャラサインの箔押しされた特別仕様ver.もまれに出現！\n\n10月9日(金)発売✨お楽しみに！\n\n#ヴァンガード #…",
+          "category": "release",
+          "date": "2026-10-09",
+          "deadline": false,
+          "expires_at": "2026-10-09T15:00:00Z",
+          "first_seen": "2026-09-15T23:21:48Z",
+          "id": "2100002145563242562",
+          "last_updated": "2026-09-15T23:21:48Z",
+          "participants": null,
+          "seen_ids": [
+            "2100002145563242562"
+          ],
+          "site": "x",
+          "src_handle": "RT @cfvanguard_PR",
+          "time": null,
+          "title": "『運命星戦』ブースターパックで夢限大みゅーたいぷのクリティカルトリガーが新規収録決定",
+          "title_ko": "『운명성전』부스터팩에 무겐다이 뮤타입의 크리티컬 트리거 신규 수록 결정",
+          "title_raw": "10月9日(金)発売 お楽しみに",
+          "title_slug": "金発売お楽しみに",
+          "tweet_url": "https://x.com/i/status/2100002145563242562",
           "url": null
         },
         {
