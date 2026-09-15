@@ -202,16 +202,6 @@
     "yuno": [
       {
         "channel_key": "yuno",
-        "expires_at": "2026-09-15T06:41:17Z",
-        "handle": "yuno_yumemita",
-        "id": "pf50ed4883d4b201",
-        "received_at": "2026-09-14T06:41:17Z",
-        "text": "本日配信おやすみになります！\nよろしくお願いします！",
-        "text_ko": "오늘은 배포를 쉬겠습니다!\n잘 부탁드립니다!",
-        "url": null
-      },
-      {
-        "channel_key": "yuno",
         "expires_at": "2026-09-16T07:38:20Z",
         "handle": "yuno_yumemita",
         "id": "2099764083654545557",
