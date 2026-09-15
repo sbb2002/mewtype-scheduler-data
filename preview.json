@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-15T08:41:16Z",
+  "generated_at": "2026-09-15T11:01:41Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": "2026-09-15T03:37:51Z",
       "info_source": "personal",
       "kind": "song",
-      "last_updated": "2026-09-15T03:43:04Z",
+      "last_updated": "2026-09-15T11:01:41Z",
       "membership": false,
       "scheduled_start": "2026-09-15T13:00:00Z",
       "source": "personal",
@@ -105,8 +105,8 @@
       "id": "pv_2c3f396e",
       "info_at": "2026-09-15T08:38:32Z",
       "info_source": "personal",
-      "kind": null,
-      "last_updated": "2026-09-15T08:41:16Z",
+      "kind": "song",
+      "last_updated": "2026-09-15T11:01:41Z",
       "membership": false,
       "scheduled_start": "2026-09-15T14:00:00Z",
       "source": "api",
