@@ -11,3 +11,4 @@
 {"detail": "mode: rolled", "flow": "tweet", "result": "ok", "ts": "2026-09-15T10:52:46Z", "via": "ingest", "who": "arale"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-15T11:01:41Z", "via": "ingest", "who": ""}
 {"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-09-15T11:01:41Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-15T11:54:28Z", "via": "ingest", "who": ""}
