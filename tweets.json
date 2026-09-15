@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-09-15T03:36:42Z",
+  "generated_at": "2026-09-15T03:43:00Z",
   "tweets": {
     "arale": [
-      {
-        "channel_key": "arale",
-        "expires_at": "2026-09-15T09:44:47Z",
-        "handle": "arale_yumemita",
-        "id": "2099434160503091219",
-        "received_at": "2026-09-14T09:44:47Z",
-        "text": "音楽配信サービスでも聴いてもらえるの嬉しいなっ♬\n\n激しく唱えた〜よ〜🤟✨",
-        "text_ko": "음악 스트리밍 서비스에서도 들어줄 수 있어서 기뻐♬\n\n힘껏 외쳤어~🤟✨",
-        "url": "https://x.com/i/status/2099434160503091219"
-      },
       {
         "channel_key": "arale",
         "expires_at": "2026-09-15T10:44:17Z",
@@ -59,6 +49,18 @@
         "text": "な",
         "text_ko": "야",
         "url": "https://x.com/i/status/2099703048314704181"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-16T03:43:00Z",
+        "handle": "arale_yumemita",
+        "id": "2099705319207436792",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-15T03:43:00Z",
+        "text": "今日、今までにないくらい水曜だと思ってた\n火曜だ",
+        "text_ko": "오늘은 지금까지 없던 만큼 수요일인 줄 알았는데 화요일이었어. @@GLOSSARY0@@",
+        "url": "https://x.com/i/status/2099705319207436792"
       }
     ],
     "miyako": [
