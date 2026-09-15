@@ -411,6 +411,58 @@
       "title_slug": "リリース記念インターネットサイン会",
       "tweet_url": "https://x.com/i/status/2098698140819857544",
       "url": "https://www.youtube.com/live/V2AJBNJGR8E"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "802palette",
+      "archived_at": "2026-09-15T10:00:10Z",
+      "body_for_llm": "RT @802Palette: 🗓 (土) 〜📡 FM802『802 Palette』🎨 ━━━━━━━━━━━━ ✧ ゲストは #夢限大みゅーたいぷ🛸 メンバー5人揃ってお迎えします！ #アニメゆめみた 感想会をお届け🌟 ✧ ━━━━━━━━━━━━ 🔻#ハチ…",
+      "body_raw": "RT @802Palette: 🗓9/12(土)25時〜📡\nFM802『802 Palette』🎨\n━━━━━━━━━━━━ ✧\n\nゲストは #夢限大みゅーたいぷ🛸\nメンバー5人揃ってお迎えします！\n#アニメゆめみた 感想会をお届け🌟\n\n✧ ━━━━━━━━━━━━\n🔻#ハチ…",
+      "category": "etc",
+      "date": "2026-09-12",
+      "deadline": false,
+      "expires_at": "2026-09-13T15:00:00Z",
+      "first_seen": "2026-09-12T10:10:52Z",
+      "id": "2098715953857221074",
+      "last_updated": "2026-09-12T10:10:52Z",
+      "seen_ids": [
+        "2098715953857221074"
+      ],
+      "site": "x",
+      "src_handle": "RT @802Palette",
+      "time": "25:00",
+      "title": "FM802『802 Palette』で夢限大みゅーたいぷアニメ感想会開催",
+      "title_ko": "FM802『802 Palette』에서 무겐다이 뮤타입 애니 감상회 개최",
+      "title_raw": "FM802『802 Palette』🎨",
+      "title_slug": "fm802802palette",
+      "tweet_url": "https://x.com/i/status/2098715953857221074",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "アワーノーツリリース日決定特番",
+      "archived_at": "2026-09-15T10:00:10Z",
+      "body_for_llm": "RT @bang_dream_on: 本日 より「アワーノーツ リリース日決定特番」を生配信📺 配信ではついに #アワーノーツ のリリース日を発表🎉 その他にも最新情報を盛りだくさんでお届けいたします！ぜひご覧ください💫 ▼YouTube Live",
+      "body_raw": "RT @bang_dream_on: 本日21:00より「アワーノーツ リリース日決定特番」を生配信📺\n\n配信ではついに #アワーノーツ のリリース日を発表🎉\nその他にも最新情報を盛りだくさんでお届けいたします！ぜひご覧ください💫\n\n▼YouTube Live\nhttps://…",
+      "category": "live",
+      "date": "2026-09-13",
+      "deadline": false,
+      "expires_at": "2026-09-13T15:00:00Z",
+      "first_seen": "2026-09-13T09:37:51Z",
+      "id": "2099069766875136210",
+      "last_updated": "2026-09-13T12:45:00Z",
+      "seen_ids": [
+        "2099069766875136210"
+      ],
+      "site": "x",
+      "src_handle": "RT @bang_dream_on",
+      "time": "21:00",
+      "title": "アワーノーツ リリース日決定特番 生配信開始",
+      "title_ko": "아워노트 출시일 결정 특집 생방송",
+      "title_raw": "RT @bang_dream_on: 本日21:00より「アワーノーツ リリース日決定特番」を生配信",
+      "title_slug": "rtbangdreamon本日よりアワーノーツリ",
+      "tweet_url": "https://x.com/i/status/2099069766875136210",
+      "url": null
     }
   ]
 }
