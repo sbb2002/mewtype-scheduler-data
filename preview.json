@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-14T18:00:03Z",
+  "generated_at": "2026-09-15T02:47:24Z",
   "items": [
     {
       "actual_start": null,
@@ -119,6 +119,34 @@
       "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
       "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
       "video_id": "h31Mi6AS7a0"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-15T16:00:00Z",
+      "first_seen": "2026-09-15T02:47:24Z",
+      "host": null,
+      "id": "pv_4f41a9cb",
+      "info_at": "2026-09-15T02:46:17Z",
+      "info_source": "personal",
+      "kind": "song",
+      "last_updated": "2026-09-15T02:47:24Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-09-15T13:00:00Z",
+      "source": "personal",
+      "state": "announced",
+      "state_since": "2026-09-15T02:47:24Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/live/6rJiVrTaTBE",
+      "video_id": "6rJiVrTaTBE"
     }
   ]
 }
