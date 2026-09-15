@@ -4,16 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-09-15T10:44:17Z",
-        "handle": "arale_yumemita",
-        "id": "2099449018925695444",
-        "received_at": "2026-09-14T10:44:17Z",
-        "text": "次回の配信予定は明日22:00！✨️\nよろしくねぇ〜⸜🌷︎⸝‍",
-        "text_ko": "다음 방송 예정은 내일 22시!✨️\n잘 부탁해요~⸜🌷︎⸝‍",
-        "url": "https://x.com/i/status/2099449018925695444"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-09-16T02:42:08Z",
         "handle": "arale_yumemita",
         "id": "2099689862408687740",
@@ -49,6 +39,20 @@
         "text": "な",
         "text_ko": "야",
         "url": "https://x.com/i/status/2099703048314704181"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-16T03:43:00Z",
+        "handle": "arale_yumemita",
+        "id": "2099705218221195496",
+        "media": [
+          "https://pbs.twimg.com/media/HSOmxEmaMAE4Wqe.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-15T03:43:00Z",
+        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 9/15(火) 22:00〜┊#イ中田丁なう\n\n┊ #アワーノーツ 先行プレイ配信┊\n\n🔗 https://www.youtube.com/live/6rJiVrTaTBE",
+        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 9/15(화) 22:00〜┊#이중다정 나우\n\n┊ #아워노트 선행 플레이 방송┊\n\n🔗 https://www.youtube.com/live/6rJiVrTaTBE",
+        "url": "https://x.com/i/status/2099705218221195496"
       },
       {
         "channel_key": "arale",
