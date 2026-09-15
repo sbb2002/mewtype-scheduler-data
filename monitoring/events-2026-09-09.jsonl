@@ -1,0 +1,4 @@
+{"backfill": true, "detail": "[백필] 실제 방송 시작(actual_start)", "flow": "preview", "result": "ok", "src_id": "pv_7e4143db", "title": "【弾き語り】アニメ最終回直前！ざつだんギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "live", "ts": "2026-09-09T14:34:34Z", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "p8dbc9abb72e5427", "ts": "2026-09-09T15:53:51Z", "via": "ingest", "who": "arale"}
+{"backfill": true, "detail": "[백필] mode: backfill(tweet_archive)", "flow": "tweet", "result": "ok", "src_id": "2097729065151263061", "ts": "2026-09-09T16:49:21Z", "via": "ingest", "who": "nonoka"}
+{"backfill": true, "detail": "[백필] preview_archive 최종 상태", "flow": "preview", "result": "ok", "src_id": "pv_7e4143db", "title": "【弾き語り】アニメ最終回直前！ざつだんギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "none", "ts": "2026-09-09T17:17:43Z", "who": "nonoka"}
