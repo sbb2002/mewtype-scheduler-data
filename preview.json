@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-15T03:43:04Z",
+  "generated_at": "2026-09-15T08:41:16Z",
   "items": [
     {
       "actual_start": null,
@@ -103,10 +103,10 @@
       "first_seen": "2026-09-14T18:00:03Z",
       "host": null,
       "id": "pv_2c3f396e",
-      "info_at": null,
-      "info_source": "api",
+      "info_at": "2026-09-15T08:38:32Z",
+      "info_source": "personal",
       "kind": null,
-      "last_updated": "2026-09-15T03:00:06Z",
+      "last_updated": "2026-09-15T08:41:16Z",
       "membership": false,
       "scheduled_start": "2026-09-15T14:00:00Z",
       "source": "api",
