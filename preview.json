@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-15T21:00:08Z",
+  "generated_at": "2026-09-16T03:45:35Z",
   "items": [
     {
       "actual_start": null,
@@ -131,10 +131,10 @@
       "first_seen": "2026-09-15T15:14:30Z",
       "host": null,
       "id": "pv_aaa24650",
-      "info_at": "2026-09-15T15:14:28Z",
+      "info_at": "2026-09-16T03:45:29Z",
       "info_source": "personal",
       "kind": "unknown",
-      "last_updated": "2026-09-15T15:14:30Z",
+      "last_updated": "2026-09-16T03:45:35Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-09-16T12:30:00Z",
@@ -146,7 +146,7 @@
       "title": null,
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
-      "video_id": null
+      "video_id": "MhAUAgNvQuw"
     },
     {
       "actual_start": null,
