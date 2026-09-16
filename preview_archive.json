@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:13:00Z",
+  "generated_at": "2026-09-16T16:00:01Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -415,6 +415,34 @@
       "title_ko": "【노래 틀】애니메이션 유메미타 우타우타♪🛸💨💨【유메미타/藤都子】",
       "url": "https://www.youtube.com/watch?v=MhAUAgNvQuw",
       "video_id": "MhAUAgNvQuw"
+    },
+    {
+      "actual_start": "2026-09-16T12:00:55Z",
+      "api_start_seen": "2026-09-16T12:00:00Z",
+      "archived_at": "2026-09-16T16:00:01Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 951,
+      "expires_at": "2026-09-16T15:00:00Z",
+      "first_seen": "2026-09-15T21:00:08Z",
+      "host": null,
+      "id": "pv_b3c80963",
+      "info_at": "2026-09-16T07:23:52Z",
+      "info_source": "personal",
+      "kind": "game",
+      "last_updated": "2026-09-16T16:00:01Z",
+      "membership": false,
+      "scheduled_start": "2026-09-16T12:00:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-16T16:00:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/n4GTqIu9sjw/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【青鬼 ブルーベリー温泉の怪異 】何回も何回も、しつこいです【峰月律/ゆめみた】",
+      "title_ko": "【청귀 블루베리 온천의 괴이】몇 번이고 몇 번이고, 끈질깁니다【峰月律/ゆめみた】",
+      "url": "https://www.youtube.com/watch?v=n4GTqIu9sjw",
+      "video_id": "n4GTqIu9sjw"
     }
   ]
 }
