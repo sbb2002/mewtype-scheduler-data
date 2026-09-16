@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-16T14:08:00Z",
+  "generated_at": "2026-09-16T14:13:00Z",
   "items": [
     {
       "actual_start": "2026-09-16T12:00:55Z",
@@ -71,7 +71,7 @@
       "assumed_live": false,
       "channel_key": "ritsu",
       "collab_with": null,
-      "concurrent_viewers": 927,
+      "concurrent_viewers": 951,
       "expires_at": "2026-09-16T15:00:00Z",
       "first_seen": "2026-09-15T21:00:08Z",
       "host": null,
@@ -79,7 +79,7 @@
       "info_at": "2026-09-16T07:23:52Z",
       "info_source": "personal",
       "kind": "game",
-      "last_updated": "2026-09-16T14:08:00Z",
+      "last_updated": "2026-09-16T14:13:00Z",
       "membership": false,
       "scheduled_start": "2026-09-16T12:00:00Z",
       "source": "api",
@@ -106,7 +106,7 @@
       "info_at": "2026-09-16T11:33:28Z",
       "info_source": "personal",
       "kind": "unknown",
-      "last_updated": "2026-09-16T14:08:00Z",
+      "last_updated": "2026-09-16T14:13:00Z",
       "membership": false,
       "scheduled_start": "2026-09-19T12:30:00Z",
       "source": "personal",
@@ -133,7 +133,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-16T14:08:00Z",
+      "last_updated": "2026-09-16T14:13:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -146,33 +146,6 @@
       "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
       "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
       "video_id": "h31Mi6AS7a0"
-    },
-    {
-      "actual_start": "2026-09-16T12:30:13Z",
-      "api_start_seen": "2026-09-16T12:30:00Z",
-      "assumed_live": false,
-      "channel_key": "miyako",
-      "collab_with": [],
-      "concurrent_viewers": 777,
-      "expires_at": "2026-09-16T15:30:00Z",
-      "first_seen": "2026-09-15T15:14:30Z",
-      "host": null,
-      "id": "pv_aaa24650",
-      "info_at": "2026-09-16T03:45:29Z",
-      "info_source": "personal",
-      "kind": "unknown",
-      "last_updated": "2026-09-16T14:08:00Z",
-      "membership": false,
-      "scheduled_start": "2026-09-16T12:30:00Z",
-      "source": "personal",
-      "state": "end",
-      "state_since": "2026-09-16T13:43:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/MhAUAgNvQuw/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【歌枠】アニメゆめみたうたうた♪🛸💨💨【ゆめみた/藤都子】",
-      "title_ko": "【노래 틀】애니메이션 유메미타 우타우타♪🛸💨💨【유메미타/藤都子】",
-      "url": "https://www.youtube.com/watch?v=MhAUAgNvQuw",
-      "video_id": "MhAUAgNvQuw"
     }
   ]
 }
