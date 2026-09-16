@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-16T15:30:01Z",
+  "generated_at": "2026-09-16T15:40:05Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": "2026-09-16T11:33:28Z",
       "info_source": "personal",
       "kind": "unknown",
-      "last_updated": "2026-09-16T15:30:01Z",
+      "last_updated": "2026-09-16T15:40:05Z",
       "membership": false,
       "scheduled_start": "2026-09-19T12:30:00Z",
       "source": "personal",
@@ -106,7 +106,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-16T15:30:01Z",
+      "last_updated": "2026-09-16T15:40:05Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -162,13 +162,13 @@
       "info_at": "2026-09-16T07:23:52Z",
       "info_source": "personal",
       "kind": "game",
-      "last_updated": "2026-09-16T15:30:01Z",
+      "last_updated": "2026-09-16T15:40:05Z",
       "membership": false,
       "scheduled_start": "2026-09-16T12:00:00Z",
       "source": "api",
       "state": "end",
       "state_since": "2026-09-16T15:30:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/n4GTqIu9sjw/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/n4GTqIu9sjw/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【青鬼 ブルーベリー温泉の怪異 】何回も何回も、しつこいです【峰月律/ゆめみた】",
       "title_ko": "【청귀 블루베리 온천의 괴이】몇 번이고 몇 번이고, 끈질깁니다【峰月律/ゆめみた】",
