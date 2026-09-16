@@ -47,3 +47,4 @@
 {"detail": "announced→upcoming", "flow": "preview", "item_id": "pv_afb223db", "result": "ok", "title": "🎂生誕配信🎂＃藤都子生誕祭2026 みやこは16歳♪【ゆめみた/藤都子】", "ts": "2026-09-16T11:57:01Z", "video_id": "MNocXlK5P8s", "who": "miyako"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-16T12:00:01Z", "who": "n4GTqIu9sjw"}
 {"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-16T12:00:05Z", "who": ""}
+{"detail": "None→live", "flow": "preview", "item_id": "pv_09289c97", "result": "ok", "title": "【弾き語り】㊗アニメ最終回！アニメゆめみた、どうだった？【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-09-16T12:00:05Z", "video_id": "9Di14qEQJH8", "who": "nonoka"}
