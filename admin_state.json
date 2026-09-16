@@ -6,11 +6,13 @@
   "pending_notice": null,
   "pending_notice_edit": null,
   "pending_op": {
-    "at": "2026-09-16T12:12:33Z",
+    "at": "2026-09-16T12:12:52Z",
     "cmd": "edit",
     "contents": "preview",
-    "ctx": {},
-    "step": "await_unit"
+    "ctx": {
+      "unit": "arale"
+    },
+    "step": "await_idx"
   },
   "pending_undo": null,
   "suppress": [],
