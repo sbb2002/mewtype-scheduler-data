@@ -40,3 +40,4 @@
 {"detail": "mode: error (exception)", "flow": "tweet", "result": "err", "ts": "2026-09-16T11:12:50Z", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-16T11:12:50Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-16T11:30:24Z", "via": "ingest", "who": "miyako"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-16T11:37:30Z", "via": "ingest", "who": "miyako"}
