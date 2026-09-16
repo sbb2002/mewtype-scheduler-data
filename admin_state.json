@@ -9,11 +9,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 added (10月8日(木)発売)",
-    "at": "2026-09-15T23:21:48Z",
+    "action": "소식 added (東京ゲームショウ2026では、正式リリース版の先行プレイがで)",
+    "at": "2026-09-16T00:59:11Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "81868e5b59b589b10d50982ad2eadf3325bd1a10",
+    "new_sha": "47aefcf145a114bb93c75a391ce076109dab7118",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-09-15T23:21:48Z",
@@ -244,6 +244,32 @@
           "title_slug": "tvアニメバンドリゆめみた極楽湯rakuspaコ",
           "tweet_url": "https://x.com/i/status/2098050273273172111",
           "url": null
+        },
+        {
+          "anchor_a": ":〜:text=%E2%96%A0BanG%20Dream!%20%E3%82%",
+          "anchor_b": "bangdream!ゆめ∞みたあられ∞あらぶレーション",
+          "body_for_llm": "RT @bushiroad_works: ◤🎁コミックス特典情報🎁◢ (木)発売 『BanG Dream! ゆめ∞みた あられ∞あらぶレーション』 豪華購入特典が決定！ お目当ての特典を今すぐチェック！✨ https…",
+          "body_raw": "RT @bushiroad_works: ◤🎁コミックス特典情報🎁◢\n10月8日(木)発売\n『BanG Dream! ゆめ∞みた あられ∞あらぶレーション』\n\n豪華購入特典が決定！\nお目当ての特典を今すぐチェック！✨\n\nhttps://bushiroad-works.com/benefits/5728/#:〜:text=%E2%96%A0BanG%20Dream!%20%E3%82%86%E3%82%81%E2%88%9E%E3%81%BF%E3%81%9F%20%E3%81%82%E3%82%89%E3%82%8C%E2%88%9E%E3%81%82%E3%82%89%E3%81%B6%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%201 https…",
+          "category": "release",
+          "date": "2026-10-08",
+          "deadline": false,
+          "expires_at": "2026-10-08T15:00:00Z",
+          "first_seen": "2026-09-15T23:21:48Z",
+          "id": "2100002155935760874",
+          "last_updated": "2026-09-15T23:21:48Z",
+          "participants": null,
+          "seen_ids": [
+            "2100002155935760874"
+          ],
+          "site": "store",
+          "src_handle": "RT @bushiroad_works",
+          "time": null,
+          "title": "BanG Dream! ゆめ∞みた あられ∞あらぶレーション コミックス特典情報",
+          "title_ko": "BanG Dream! 유메∞미타 아라레∞아라부레이션 커믹스 특전 안내",
+          "title_raw": "10月8日(木)発売",
+          "title_slug": "木発売",
+          "tweet_url": "https://x.com/i/status/2100002155935760874",
+          "url": "https://bushiroad-works.com/benefits/5728/#:〜:text=%E2%96%A0BanG%20Dream!%20%E3%82%86%E3%82%81%E2%88%9E%E3%81%BF%E3%81%9F%20%E3%81%82%E3%82%89%E3%82%8C%E2%88%9E%E3%81%82%E3%82%89%E3%81%B6%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%201"
         },
         {
           "anchor_a": null,
