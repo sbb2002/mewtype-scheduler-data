@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:00:06Z",
+  "generated_at": "2026-09-16T06:14:50Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -254,6 +254,32 @@
       "title_raw": "東京ゲームショウ2026では、正式リリース版の先行プレイができます🎶ぜひ皆さまのご来場をお待ちしています",
       "title_slug": "東京ゲームショウ2026では正式リリース版の先行",
       "tweet_url": "https://x.com/i/status/2100027078901170267",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "これはぼくたちの生存のあらすじ",
+      "body_for_llm": "RT @BUSHIM_ongaku: 【 発売 CD情報③】 夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」は 発売！ 店舗別購入特典は無くなり次第終了となります。発売まで残り2週間♪ご予約はお早めに！ #ゆめみた #バンドリ…",
+      "body_raw": "RT @BUSHIM_ongaku: 【9月30日発売 CD情報③】\n\n夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」は9月30日発売！\n\n店舗別購入特典は無くなり次第終了となります。発売まで残り2週間♪ご予約はお早めに！\n\n#ゆめみた\n#バンドリ…",
+      "category": "release",
+      "date": "2026-09-30",
+      "deadline": false,
+      "expires_at": "2026-09-30T15:00:00Z",
+      "first_seen": "2026-09-16T06:14:50Z",
+      "id": "2100105528081080748",
+      "last_updated": "2026-09-16T06:14:50Z",
+      "participants": null,
+      "seen_ids": [
+        "2100105528081080748"
+      ],
+      "site": "x",
+      "src_handle": "RT @BUSHIM_ongaku",
+      "time": null,
+      "title": "【発売 CD情報③】 夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」発売！",
+      "title_ko": "【발매 CD정보③】 무겐다이 뮤타입 5번째 싱글「これはぼくたちの生존의 아라스지」발매！",
+      "title_raw": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」は9月30日発売",
+      "title_slug": "夢限大みゅーたいぷ5thsingleこれはぼくた",
+      "tweet_url": "https://x.com/i/status/2100105528081080748",
       "url": null
     },
     {
