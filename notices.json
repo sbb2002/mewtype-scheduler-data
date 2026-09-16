@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:14:50Z",
+  "generated_at": "2026-09-16T11:00:49Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -102,6 +102,32 @@
       "title_slug": "放送日時",
       "tweet_url": "https://x.com/i/status/2098058929989472631",
       "url": null
+    },
+    {
+      "anchor_a": "@miyako_yumemita",
+      "anchor_b": null,
+      "body_for_llm": "＼🎂生誕記念配信決定🎂／ 📅 (土) 〜 藤都子生誕記念配信を バースデー当日に実施💜 📺藤都子 個人YouTubeチャンネルにて配信！ ぜひお祝いに来てくださいね🥳 #藤都子生誕祭2026 #バンドリ",
+      "body_raw": "＼🎂生誕記念配信決定🎂／\n\n📅9月19日(土) 21:30〜\n\n藤都子生誕記念配信を\nバースデー当日に実施💜\n\n📺藤都子 個人YouTubeチャンネルにて配信！\nhttps://youtube.com/@miyako_yumemita\n\nぜひお祝いに来てくださいね🥳\n\n#藤都子生誕祭2026\n#バンドリ",
+      "category": "live",
+      "date": "2026-09-19",
+      "deadline": false,
+      "expires_at": "2026-09-19T15:00:00Z",
+      "first_seen": "2026-09-16T11:00:49Z",
+      "id": "2100177886896644118",
+      "last_updated": "2026-09-16T11:00:49Z",
+      "participants": null,
+      "seen_ids": [
+        "2100177886896644118"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:30",
+      "title": "藤都子生誕記念配信決定！",
+      "title_ko": "藤都子 생일 기념 방송 결정!",
+      "title_raw": "🎂生誕記念配信決定🎂",
+      "title_slug": "生誕記念配信決定",
+      "tweet_url": "https://x.com/i/status/2100177886896644118",
+      "url": "https://youtube.com/@miyako_yumemita"
     },
     {
       "anchor_a": "yumemita-arale",
