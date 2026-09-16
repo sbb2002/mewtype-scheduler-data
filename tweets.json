@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:41:25Z",
+  "generated_at": "2026-09-16T14:00:19Z",
   "tweets": {
     "arale": [
       {
@@ -167,6 +167,26 @@
         "text": "はじまる！",
         "text_ko": "시작한다!",
         "url": "https://x.com/i/status/2100201390891266099"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-09-17T14:00:19Z",
+        "handle": "miyako_yumemita",
+        "id": "2100223186663272847",
+        "media": [
+          "https://pbs.twimg.com/media/HSV8U2sbIAAJLkp.jpg"
+        ],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HSTxEZKbEAAwXDw.jpg"
+          ],
+          "text": "💜配信よてい💜\n本日9/16(水)21:30~歌枠🎤\n🐶ﾗﾗﾗ~♪\n\n【歌枠】アニメゆめみたうたうた♪🛸💨💨【ゆめみた/藤都子】 https://www.youtube.com/live/MhAUAgNvQuw?si=lB__B3AuDDtIo0Aj\n＃みるみやこ",
+          "text_ko": "💜방송 일정💜\n오늘 9/16(수) 21:30~ 노래 방송🎤\n🐶라라라~♪\n\n【노래 방송】 애니메이션 유메미타 우타우타♪🛸💨💨【유메미타/후지츠코】 https://www.youtube.com/live/MhAUAgNvQuw?si=lB__B3AuDDtIo0Aj\n#미루미야코"
+        },
+        "received_at": "2026-09-16T14:00:19Z",
+        "text": "＃アニメゆめみた 歌枠🎤\nありゃとうございました🐶✨\n\n🎵ｾﾄ〜ﾘ🎵\nこれはぼくたちの生存のあらすじ\nマジるる！ナイスバルク\nTearJerker\nうちゅうのふしぎ\n\nゆめみたソングをたくさん聴きなさい❣\n＃みるみやこ",
+        "text_ko": "#アニメゆめみた 歌枠🎤\n감사했습니다🐶✨\n\n🎵ｾﾄ〜ﾘ🎵\n이것은 우리들의 생존 개요\n진짜 멋져! 나이스벌크\nTearJerker\n우주의 신비\n\nゆめみたソング을 많이 들어라❣\n#みるみやこ",
+        "url": "https://x.com/i/status/2100223186663272847"
       }
     ],
     "nonoka": [
