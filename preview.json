@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-16T12:31:01Z",
+  "generated_at": "2026-09-16T12:31:42Z",
   "items": [
     {
       "actual_start": "2026-09-16T11:07:20Z",
@@ -200,34 +200,6 @@
       "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
       "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
       "video_id": "h31Mi6AS7a0"
-    },
-    {
-      "actual_start": null,
-      "api_start_seen": null,
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": [],
-      "concurrent_viewers": null,
-      "expires_at": "2026-09-23T20:00:00Z",
-      "first_seen": "2026-09-15T15:04:33Z",
-      "host": null,
-      "id": "pv_149221ec",
-      "info_at": "2026-09-15T15:03:53Z",
-      "info_source": "personal",
-      "kind": "unknown",
-      "last_updated": "2026-09-15T15:04:33Z",
-      "membership": false,
-      "needs_tl": false,
-      "scheduled_start": "2026-09-23T17:00:00Z",
-      "source": "personal",
-      "state": "announced",
-      "state_since": "2026-09-15T15:04:33Z",
-      "thumbnail": null,
-      "time_tbd": false,
-      "title": null,
-      "title_ko": null,
-      "url": "https://www.youtube.com/@arale_yumemita",
-      "video_id": null
     }
   ]
 }
