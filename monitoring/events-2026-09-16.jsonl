@@ -22,3 +22,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-16T06:14:50Z", "via": "ingest", "who": ""}
 {"detail": "mode: rolled", "flow": "tweet", "result": "ok", "ts": "2026-09-16T07:24:19Z", "via": "ingest", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-16T07:24:19Z", "via": "ingest", "who": "ritsu"}
+{"detail": "mode: added · 파싱 3건", "flow": "relay", "result": "ok", "ts": "2026-09-16T08:30:03Z", "via": "ingest", "who": ""}
