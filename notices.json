@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:00:08Z",
+  "generated_at": "2026-09-16T06:00:06Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -38,8 +38,7 @@
       "expires_at": "2026-09-16T15:00:00Z",
       "first_seen": "2026-09-16T05:00:08Z",
       "id": "2100087288508166271",
-      "last_updated": "2026-09-16T05:00:08Z",
-      "needs_tl": true,
+      "last_updated": "2026-09-16T06:00:06Z",
       "participants": null,
       "seen_ids": [
         "2100087288508166271"
@@ -47,8 +46,8 @@
       "site": "web",
       "src_handle": "@BDP_yumemita",
       "time": "18:00",
-      "title": "夢限大みゅーたいぷの 「ゆめ∞みたラジオ」#12",
-      "title_ko": null,
+      "title": "本日配信開始！夢限大みゅーたいぷの『ゆめ∞みたラジオ』#12",
+      "title_ko": "오늘부터 방송! 무겐다이 뮤타입의 '꿈∞미타 라디오' #12",
       "title_raw": "夢限大みゅーたいぷの 「ゆめ∞みたラジオ」#12",
       "title_slug": "夢限大みゅーたいぷのゆめみたラジオ",
       "tweet_url": "https://x.com/i/status/2100087288508166271",
