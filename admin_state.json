@@ -9,14 +9,14 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 added (東京ゲームショウ2026では、正式リリース版の先行プレイがで)",
-    "at": "2026-09-16T00:59:11Z",
+    "action": "소식 updated (東京ゲームショウ2026では、正式リリース版の先行プレイがで)",
+    "at": "2026-09-16T01:00:49Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "47aefcf145a114bb93c75a391ce076109dab7118",
+    "new_sha": "c0c04afc8376b91c62019742641e6c736ccfbe3b",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-15T23:21:48Z",
+      "generated_at": "2026-09-16T00:59:11Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -218,6 +218,33 @@
           "title_raw": "9/30(水)リリース",
           "title_slug": "水リリース",
           "tweet_url": "https://x.com/i/status/2098351126504718514",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": null,
+          "body_for_llm": "📢広告掲出中！ JR海浜幕張駅J･ADビジョンにて新KVを使用した #アワーノーツ の広告を掲出中です！ 📅掲出期間 (水)まで 東京ゲームショウ2026では、正式リリース版の先行プレイができます🎶ぜひ皆さまのご来場をお待ちしています✨ ※駅係員へのお問合せはご遠慮ください。 #バンドリ",
+          "body_raw": "📢広告掲出中！\n\nJR海浜幕張駅J･ADビジョンにて新KVを使用した #アワーノーツ の広告を掲出中です！\n\n📅掲出期間\n9月30日(水)まで\n\n東京ゲームショウ2026では、正式リリース版の先行プレイができます🎶ぜひ皆さまのご来場をお待ちしています✨\n\n※駅係員へのお問合せはご遠慮ください。\n#バンドリ",
+          "category": "release",
+          "date": "2026-09-30",
+          "deadline": true,
+          "expires_at": "2026-09-30T15:00:00Z",
+          "first_seen": "2026-09-16T00:59:11Z",
+          "id": "2100026657302327330",
+          "last_updated": "2026-09-16T00:59:11Z",
+          "needs_tl": true,
+          "participants": null,
+          "seen_ids": [
+            "2100026657302327330"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "東京ゲームショウ2026では、正式リリース版の先行プレイができます🎶ぜひ皆さまのご来場をお待ちしています",
+          "title_ko": null,
+          "title_raw": "東京ゲームショウ2026では、正式リリース版の先行プレイができます🎶ぜひ皆さまのご来場をお待ちしています",
+          "title_slug": "東京ゲームショウ2026では正式リリース版の先行",
+          "tweet_url": "https://x.com/i/status/2100026657302327330",
           "url": null
         },
         {
