@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:08:00Z",
+  "generated_at": "2026-09-16T14:13:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -387,6 +387,34 @@
       "title_ko": "【弾き語리】㊗애니메이션 최종회! 애니메이션 유메미타, 어땠어?【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=9Di14qEQJH8",
       "video_id": "9Di14qEQJH8"
+    },
+    {
+      "actual_start": "2026-09-16T12:30:13Z",
+      "api_start_seen": "2026-09-16T12:30:00Z",
+      "archived_at": "2026-09-16T14:13:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": [],
+      "concurrent_viewers": 777,
+      "expires_at": "2026-09-16T15:30:00Z",
+      "first_seen": "2026-09-15T15:14:30Z",
+      "host": null,
+      "id": "pv_aaa24650",
+      "info_at": "2026-09-16T03:45:29Z",
+      "info_source": "personal",
+      "kind": "unknown",
+      "last_updated": "2026-09-16T14:13:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-16T12:30:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-16T14:13:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/MhAUAgNvQuw/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【歌枠】アニメゆめみたうたうた♪🛸💨💨【ゆめみた/藤都子】",
+      "title_ko": "【노래 틀】애니메이션 유메미타 우타우타♪🛸💨💨【유메미타/藤都子】",
+      "url": "https://www.youtube.com/watch?v=MhAUAgNvQuw",
+      "video_id": "MhAUAgNvQuw"
     }
   ]
 }
