@@ -490,6 +490,33 @@
       "title_slug": "仲町あられバースデーグッズ2026",
       "tweet_url": "https://x.com/i/status/2099800403642888381",
       "url": "https://bushiroad-store.com/collections/arale-birthday2026"
+    },
+    {
+      "anchor_a": "detail",
+      "anchor_b": "ゆめ∞みたラジオ",
+      "archived_at": "2026-09-16T15:00:09Z",
+      "body_for_llm": "＼本日 より配信📢／ 🛸夢限大みゅーたいぷの 「ゆめ∞みたラジオ」#12🛸 宮永ののか・峰月律・藤都子が出演🎉 🔗ご視聴はこちら お楽しみに✨ #バンドリ",
+      "body_raw": "＼本日18時より配信📢／\n\n🛸夢限大みゅーたいぷの\n　「ゆめ∞みたラジオ」#12🛸\n\n宮永ののか・峰月律・藤都子が出演🎉\n\n🔗ご視聴はこちら\nhttps://hibiki-radio.jp/description/yumemita/detail\n\nお楽しみに✨\n\n#バンドリ",
+      "category": "etc",
+      "date": "2026-09-16",
+      "deadline": false,
+      "expires_at": "2026-09-16T15:00:00Z",
+      "first_seen": "2026-09-16T05:00:08Z",
+      "id": "2100087288508166271",
+      "last_updated": "2026-09-16T06:00:06Z",
+      "participants": null,
+      "seen_ids": [
+        "2100087288508166271"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "18:00",
+      "title": "本日配信開始！夢限大みゅーたいぷの『ゆめ∞みたラジオ』#12",
+      "title_ko": "오늘부터 방송! 무겐다이 뮤타입의 '꿈∞미타 라디오' #12",
+      "title_raw": "夢限大みゅーたいぷの 「ゆめ∞みたラジオ」#12",
+      "title_slug": "夢限大みゅーたいぷのゆめみたラジオ",
+      "tweet_url": "https://x.com/i/status/2100087288508166271",
+      "url": "https://hibiki-radio.jp/description/yumemita/detail"
     }
   ]
 }
