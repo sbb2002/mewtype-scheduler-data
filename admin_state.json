@@ -1,31 +1,11 @@
 {
-  "edit_lock": {
-    "id": "pv_149221ec",
-    "until": "2026-09-16T12:13:59Z"
-  },
+  "edit_lock": null,
   "pending_del": null,
   "pending_ingest": null,
   "pending_member": null,
   "pending_notice": null,
   "pending_notice_edit": null,
-  "pending_op": {
-    "at": "2026-09-16T12:12:59Z",
-    "cmd": "edit",
-    "contents": "preview",
-    "ctx": {
-      "id": "pv_149221ec",
-      "idx": 2,
-      "patch": {},
-      "pre": {
-        "date": "2026-09-23T17:00:00Z",
-        "state": "announced",
-        "title": null,
-        "url": "https://www.youtube.com/@arale_yumemita"
-      },
-      "unit": "arale"
-    },
-    "step": "await_field"
-  },
+  "pending_op": null,
   "pending_undo": null,
   "suppress": [],
   "undo": {
