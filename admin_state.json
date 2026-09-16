@@ -1,18 +1,30 @@
 {
-  "edit_lock": null,
+  "edit_lock": {
+    "id": "pv_09289c97",
+    "until": "2026-09-16T12:14:55Z"
+  },
   "pending_del": null,
   "pending_ingest": null,
   "pending_member": null,
   "pending_notice": null,
   "pending_notice_edit": null,
   "pending_op": {
-    "at": "2026-09-16T12:13:50Z",
+    "at": "2026-09-16T12:13:55Z",
     "cmd": "edit",
     "contents": "preview",
     "ctx": {
+      "id": "pv_09289c97",
+      "idx": 1,
+      "patch": {},
+      "pre": {
+        "date": "2026-09-16T11:06:58Z",
+        "state": "live",
+        "title": "【弾き語り】㊗アニメ最終回！アニメゆめみた、どうだった？【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+        "url": "https://www.youtube.com/watch?v=9Di14qEQJH8"
+      },
       "unit": "nonoka"
     },
-    "step": "await_idx"
+    "step": "await_field"
   },
   "pending_undo": null,
   "suppress": [],
