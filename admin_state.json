@@ -9,11 +9,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "본인 예고 미네츠키 리츠 (【今日の配信】 \n🩵 ･･････････････････････ 🩵)",
-    "at": "2026-09-16T07:24:19Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-09-16T08:30:03Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "264f96dfef20a8cbf925539a8ced32fe3614a350",
+    "new_sha": "b89d1aa321a90a48f20b177a16ad3e4db4f3ad0d",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -80,7 +80,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-16T06:00:06Z",
+      "generated_at": "2026-09-16T07:24:19Z",
       "items": [
         {
           "actual_start": null,
@@ -93,10 +93,10 @@
           "first_seen": "2026-09-15T21:00:08Z",
           "host": null,
           "id": "pv_b3c80963",
-          "info_at": null,
-          "info_source": "api",
+          "info_at": "2026-09-16T07:23:52Z",
+          "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-09-16T06:00:06Z",
+          "last_updated": "2026-09-16T07:24:19Z",
           "membership": false,
           "scheduled_start": "2026-09-16T12:00:00Z",
           "source": "api",
