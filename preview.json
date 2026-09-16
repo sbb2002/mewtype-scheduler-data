@@ -108,7 +108,6 @@
       "kind": "unknown",
       "last_updated": "2026-09-16T06:00:06Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-16T12:30:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -116,7 +115,7 @@
       "thumbnail": "https://i.ytimg.com/vi/MhAUAgNvQuw/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【歌枠】アニメゆめみたうたうた♪🛸💨💨【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【노래 틀】애니메이션 유메미타 우타우타♪🛸💨💨【유메미타/藤都子】",
       "url": "https://www.youtube.com/watch?v=MhAUAgNvQuw",
       "video_id": "MhAUAgNvQuw"
     },
