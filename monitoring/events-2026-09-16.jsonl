@@ -35,3 +35,4 @@
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_29df073f", "result": "ok", "title": null, "ts": "2026-09-16T11:00:03Z", "video_id": null, "who": "nonoka"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-16T11:00:49Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-16T11:00:49Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-16T11:12:50Z", "via": "ingest", "who": ""}
