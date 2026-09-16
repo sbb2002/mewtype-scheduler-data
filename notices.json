@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:00:49Z",
+  "generated_at": "2026-09-16T05:00:08Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -26,6 +26,33 @@
       "title_slug": "fm802802paletteに",
       "tweet_url": "https://x.com/i/status/2098849126125535314",
       "url": "https://radiko.jp/#!/ts/802/20260913010000"
+    },
+    {
+      "anchor_a": "detail",
+      "anchor_b": "ゆめ∞みたラジオ",
+      "body_for_llm": "＼本日 より配信📢／ 🛸夢限大みゅーたいぷの 「ゆめ∞みたラジオ」#12🛸 宮永ののか・峰月律・藤都子が出演🎉 🔗ご視聴はこちら お楽しみに✨ #バンドリ",
+      "body_raw": "＼本日18時より配信📢／\n\n🛸夢限大みゅーたいぷの\n　「ゆめ∞みたラジオ」#12🛸\n\n宮永ののか・峰月律・藤都子が出演🎉\n\n🔗ご視聴はこちら\nhttps://hibiki-radio.jp/description/yumemita/detail\n\nお楽しみに✨\n\n#バンドリ",
+      "category": "etc",
+      "date": "2026-09-16",
+      "deadline": false,
+      "expires_at": "2026-09-16T15:00:00Z",
+      "first_seen": "2026-09-16T05:00:08Z",
+      "id": "2100087288508166271",
+      "last_updated": "2026-09-16T05:00:08Z",
+      "needs_tl": true,
+      "participants": null,
+      "seen_ids": [
+        "2100087288508166271"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "18:00",
+      "title": "夢限大みゅーたいぷの 「ゆめ∞みたラジオ」#12",
+      "title_ko": null,
+      "title_raw": "夢限大みゅーたいぷの 「ゆめ∞みたラジオ」#12",
+      "title_slug": "夢限大みゅーたいぷのゆめみたラジオ",
+      "tweet_url": "https://x.com/i/status/2100087288508166271",
+      "url": "https://hibiki-radio.jp/description/yumemita/detail"
     },
     {
       "anchor_a": null,
