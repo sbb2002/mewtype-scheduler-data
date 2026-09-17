@@ -5,7 +5,13 @@
   "pending_member": null,
   "pending_notice": null,
   "pending_notice_edit": null,
-  "pending_op": null,
+  "pending_op": {
+    "at": "2026-09-17T08:45:22Z",
+    "cmd": "edit",
+    "contents": "preview",
+    "ctx": {},
+    "step": "await_unit"
+  },
   "pending_undo": null,
   "suppress": [],
   "undo": {
