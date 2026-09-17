@@ -1,18 +1,30 @@
 {
-  "edit_lock": null,
+  "edit_lock": {
+    "id": "pv_f4f2157c",
+    "until": "2026-09-17T08:49:56Z"
+  },
   "pending_del": null,
   "pending_ingest": null,
   "pending_member": null,
   "pending_notice": null,
   "pending_notice_edit": null,
   "pending_op": {
-    "at": "2026-09-17T08:48:49Z",
+    "at": "2026-09-17T08:48:56Z",
     "cmd": "edit",
     "contents": "preview",
     "ctx": {
+      "id": "pv_f4f2157c",
+      "idx": 1,
+      "patch": {},
+      "pre": {
+        "date": "2026-09-25T10:30:00Z",
+        "state": "watching",
+        "title": "【全編無料生配信】TVアニメ「バンドリ！ ゆめ∞みた」放送記念フリーライブ「新宿着陸計画」DAY2【アーカイブ無し】",
+        "url": "https://www.youtube.com/watch?v=DWMQTpDQ1fc"
+      },
       "unit": "yuno"
     },
-    "step": "await_idx"
+    "step": "await_field"
   },
   "pending_undo": null,
   "suppress": [],
