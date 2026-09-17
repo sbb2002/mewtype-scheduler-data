@@ -32,10 +32,10 @@
   "suppress": [],
   "undo": {
     "action": "/edit preview pv_f4f2157c",
-    "at": "2026-09-17T08:47:35Z",
+    "at": "2026-09-17T08:49:58Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "c421ca345b436a76d31cfb977e7509dff26481c2",
+    "new_sha": "62bbdb2996b55b4af195d661f86a599e9a052807",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -102,7 +102,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-17T08:10:02Z",
+      "generated_at": "2026-09-17T08:47:35Z",
       "items": [
         {
           "actual_start": null,
@@ -123,9 +123,9 @@
           "info_at": "2026-09-17T08:03:04Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-09-17T08:10:02Z",
+          "last_updated": "2026-09-17T08:47:35Z",
           "membership": false,
-          "scheduled_start": "2026-09-17T08:03:04Z",
+          "scheduled_start": "2026-09-25T10:30:00Z",
           "source": "x-relay",
           "state": "watching",
           "state_since": "2026-09-17T08:10:02Z",
