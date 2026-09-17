@@ -1695,6 +1695,36 @@
       "text": "おまたせはじめます！",
       "text_ko": "오래 기다리게 해서 미안합니다, 시작합니다!",
       "url": "https://x.com/i/status/2099869989910225330"
+    },
+    {
+      "archived_at": "2026-09-17T06:29:46Z",
+      "archived_reason": "expired",
+      "channel_key": "miyako",
+      "expires_at": "2026-09-16T15:14:30Z",
+      "handle": "miyako_yumemita",
+      "id": "2099879529548578887",
+      "media": [],
+      "quote": null,
+      "received_at": "2026-09-15T15:14:30Z",
+      "text": "#藤都子16歳\n16歳就寝\n\nあした（きょう？）は21:30配信予定なり♪\nぽやしみ〜🐶💤",
+      "text_ko": "#藤都子16歳\n16세 취침\n\n내일(오늘?)은 21:30 방송 예정이야♪\n포야시미~🐶💤",
+      "url": "https://x.com/i/status/2099879529548578887"
+    },
+    {
+      "archived_at": "2026-09-17T06:29:46Z",
+      "archived_reason": "expired",
+      "channel_key": "miyako",
+      "expires_at": "2026-09-17T03:45:35Z",
+      "handle": "miyako_yumemita",
+      "id": "2100068528338751836",
+      "media": [
+        "https://pbs.twimg.com/media/HSTxEZKbEAAwXDw.jpg"
+      ],
+      "quote": null,
+      "received_at": "2026-09-16T03:45:35Z",
+      "text": "💜配信よてい💜\n本日9/16(水)21:30〜歌枠🎤\n🐶ﾗﾗﾗ〜♪\n\n【歌枠】アニメゆめみたうたうた♪🛸💨💨【ゆめみた/藤都子】 https://www.youtube.com/live/MhAUAgNvQuw?si=lB__B3AuDDtIo0Aj\n＃みるみやこ",
+      "text_ko": "💜방송 일정💜  \n오늘 9/16(수) 21:30~ 노래 방송🎤  \n🐶라라라~♪\n\n【노래 방송】 애니메이션 '유메미타 우타우타'♪🛸💨💨【유메미타/후지츠코】 https://www.youtube.com/live/MhAUAgNvQuw?si=lB__B3AuDDtIo0Aj  \n#미루미야코",
+      "url": "https://x.com/i/status/2100068528338751836"
     }
   ]
 }
