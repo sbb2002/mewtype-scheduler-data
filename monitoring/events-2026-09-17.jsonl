@@ -324,3 +324,7 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T17:00:00Z", "who": "DWMQTpDQ1fc"}
 {"detail": "watching→none", "flow": "preview", "item_id": "pv_9a8433d3", "result": "ok", "title": null, "ts": "2026-09-17T17:00:00Z", "video_id": null, "who": "miyako"}
 {"detail": "watching→none", "flow": "preview", "item_id": "pv_ffd9d69f", "result": "ok", "title": null, "ts": "2026-09-17T17:00:00Z", "video_id": null, "who": "ritsu"}
+{"candidates": 1, "detail": "candidates=1 preview_changed=False", "flow": "wake", "mode": "wake", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-17T18:52:00Z", "who": "DWMQTpDQ1fc"}
+{"detail": "None→watching", "flow": "preview", "item_id": "pv_f4f2157c", "result": "ok", "title": "【全編無料生配信】TVアニメ「バンドリ！ ゆめ∞みた」放送記念フリーライブ「新宿着陸計画」DAY2【アーカイブ無し】", "ts": "2026-09-17T18:52:00Z", "video_id": "DWMQTpDQ1fc", "who": "arale"}
+{"detail": "None→upcoming", "flow": "preview", "item_id": "pv_afb223db", "result": "ok", "title": "🎂生誕配信🎂＃藤都子生誕祭2026 みやこは16歳♪【ゆめみた/藤都子】", "ts": "2026-09-17T18:52:00Z", "video_id": "MNocXlK5P8s", "who": "miyako"}
+{"detail": "None→upcoming", "flow": "preview", "item_id": "pv_30fc42dc", "result": "ok", "title": "🌟ライブ開催🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026年12月24日(木)　@大手町三井ホール", "ts": "2026-09-17T18:52:00Z", "video_id": "h31Mi6AS7a0", "who": "arale"}
