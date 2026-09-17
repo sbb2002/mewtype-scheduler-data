@@ -81,3 +81,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T11:12:57Z", "via": "ingest", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T11:13:04Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T11:13:09Z", "via": "ingest", "who": "nonoka"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T11:14:01Z", "who": "DWMQTpDQ1fc"}
