@@ -141,7 +141,6 @@
       "kind": null,
       "last_updated": "2026-09-17T14:00:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-17T14:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -149,7 +148,7 @@
       "thumbnail": "https://i.ytimg.com/vi/k0jmWRjG-iQ/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #ヴァンガード 】#ごみぎゃ デッキ開封！ぶっちぎるぞ！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #ヴァンガード 】#ごみぎゃ 덱 개봉! 완전히 장악한다!【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=k0jmWRjG-iQ",
       "video_id": "k0jmWRjG-iQ"
     },
