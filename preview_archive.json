@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:31:01Z",
+  "generated_at": "2026-09-17T15:49:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -471,6 +471,34 @@
       "title_ko": "【弾き語り】또라리【ゆめみた/무겐다이 뮤타입】 #반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=G7uEkKAC8Bc",
       "video_id": "G7uEkKAC8Bc"
+    },
+    {
+      "actual_start": "2026-09-17T14:30:21Z",
+      "api_start_seen": "2026-09-17T14:30:00Z",
+      "archived_at": "2026-09-17T15:49:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 237,
+      "expires_at": "2026-09-17T17:30:00Z",
+      "first_seen": "2026-09-17T14:00:00Z",
+      "host": null,
+      "id": "pv_2eba04f8",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-09-17T15:49:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-17T14:30:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-17T15:49:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/k0jmWRjG-iQ/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【 #ヴァンガード 】#ごみぎゃ デッキ開封！ぶっちぎるぞ！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #ヴァンガード 】#ごみぎゃ 덱 개봉! 완전히 장악한다!【 #千石ユノ / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=k0jmWRjG-iQ",
+      "video_id": "k0jmWRjG-iQ"
     }
   ]
 }
