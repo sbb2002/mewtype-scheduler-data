@@ -31,11 +31,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-09-17T08:03:04Z",
+    "action": "/edit preview pv_f4f2157c",
+    "at": "2026-09-17T08:47:35Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "5d999508a2b5651dbf567d032ea13401a213643e",
+    "new_sha": "c421ca345b436a76d31cfb977e7509dff26481c2",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -102,8 +102,40 @@
           ]
         }
       },
-      "generated_at": "2026-09-16T16:00:01Z",
+      "generated_at": "2026-09-17T08:10:02Z",
       "items": [
+        {
+          "actual_start": null,
+          "api_start_seen": "2026-09-25T10:30:00Z",
+          "assumed_live": false,
+          "channel_key": "arale",
+          "collab_with": [
+            "yuno",
+            "nonoka",
+            "ritsu",
+            "miyako"
+          ],
+          "concurrent_viewers": null,
+          "expires_at": "2026-09-17T11:03:04Z",
+          "first_seen": "2026-09-17T08:03:04Z",
+          "host": "group",
+          "id": "pv_f4f2157c",
+          "info_at": "2026-09-17T08:03:04Z",
+          "info_source": "x-relay",
+          "kind": "collab",
+          "last_updated": "2026-09-17T08:10:02Z",
+          "membership": false,
+          "scheduled_start": "2026-09-17T08:03:04Z",
+          "source": "x-relay",
+          "state": "watching",
+          "state_since": "2026-09-17T08:10:02Z",
+          "thumbnail": "https://i.ytimg.com/vi/DWMQTpDQ1fc/maxresdefault_live.jpg",
+          "time_tbd": false,
+          "title": "【全編無料生配信】TVアニメ「バンドリ！ ゆめ∞みた」放送記念フリーライブ「新宿着陸計画」DAY2【アーカイブ無し】",
+          "title_ko": "【전편 무료 생중계】TV 애니메이션 「뱅드림! 꿈∞미타」 방송 기념 프리 라이브 「신주쿠 착륙 계획」 DAY2【아카이브 없음】",
+          "url": "https://www.youtube.com/watch?v=DWMQTpDQ1fc",
+          "video_id": "DWMQTpDQ1fc"
+        },
         {
           "actual_start": null,
           "api_start_seen": "2026-09-19T12:30:00Z",
@@ -118,7 +150,7 @@
           "info_at": "2026-09-16T11:33:28Z",
           "info_source": "personal",
           "kind": "unknown",
-          "last_updated": "2026-09-16T16:00:01Z",
+          "last_updated": "2026-09-17T08:10:02Z",
           "membership": false,
           "scheduled_start": "2026-09-19T12:30:00Z",
           "source": "personal",
@@ -145,7 +177,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-09-16T16:00:01Z",
+          "last_updated": "2026-09-17T08:10:02Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
