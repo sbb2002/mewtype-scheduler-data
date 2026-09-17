@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:00:01Z",
+  "generated_at": "2026-09-17T13:31:01Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -443,6 +443,34 @@
       "title_ko": "【청귀 블루베리 온천의 괴이】몇 번이고 몇 번이고, 끈질깁니다【峰月律/ゆめみた】",
       "url": "https://www.youtube.com/watch?v=n4GTqIu9sjw",
       "video_id": "n4GTqIu9sjw"
+    },
+    {
+      "actual_start": "2026-09-17T11:06:24Z",
+      "api_start_seen": "2026-09-17T11:06:05Z",
+      "archived_at": "2026-09-17T13:31:01Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 296,
+      "expires_at": "2026-09-17T14:06:05Z",
+      "first_seen": "2026-09-17T11:13:09Z",
+      "host": null,
+      "id": "pv_9aaae965",
+      "info_at": "2026-09-17T11:13:09Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-17T13:31:01Z",
+      "membership": false,
+      "scheduled_start": "2026-09-17T11:06:05Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-17T13:31:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/G7uEkKAC8Bc/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【弾き語り】またーり【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+      "title_ko": "【弾き語り】또라리【ゆめみた/무겐다이 뮤타입】 #반인간 #shorts",
+      "url": "https://www.youtube.com/watch?v=G7uEkKAC8Bc",
+      "video_id": "G7uEkKAC8Bc"
     }
   ]
 }
