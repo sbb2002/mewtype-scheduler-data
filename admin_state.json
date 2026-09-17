@@ -6,11 +6,13 @@
   "pending_notice": null,
   "pending_notice_edit": null,
   "pending_op": {
-    "at": "2026-09-17T08:47:58Z",
+    "at": "2026-09-17T08:48:49Z",
     "cmd": "edit",
     "contents": "preview",
-    "ctx": {},
-    "step": "await_unit"
+    "ctx": {
+      "unit": "yuno"
+    },
+    "step": "await_idx"
   },
   "pending_undo": null,
   "suppress": [],
