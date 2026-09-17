@@ -9,11 +9,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "URL 확정 예고 nonoka (G7uEkKAC8Bc)",
-    "at": "2026-09-17T11:13:09Z",
+    "action": "본인 예고 후지 미야코 (⚡️本日23:00〜⚡️\nTOKYO MXほかにて \n#アニメゆめみた 特別番組)",
+    "at": "2026-09-17T12:34:35Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "acf9f0d1b957652979905bc3da0ede54107c21cb",
+    "new_sha": "7bb8ededc5760b11940dfcb78781e5bd429a5cb5",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -80,8 +80,35 @@
           ]
         }
       },
-      "generated_at": "2026-09-17T08:49:58Z",
+      "generated_at": "2026-09-17T11:20:03Z",
       "items": [
+        {
+          "actual_start": "2026-09-17T11:06:24Z",
+          "api_start_seen": "2026-09-17T11:06:05Z",
+          "assumed_live": false,
+          "channel_key": "nonoka",
+          "collab_with": null,
+          "concurrent_viewers": 296,
+          "expires_at": "2026-09-17T14:06:05Z",
+          "first_seen": "2026-09-17T11:13:09Z",
+          "host": null,
+          "id": "pv_9aaae965",
+          "info_at": "2026-09-17T11:13:09Z",
+          "info_source": "personal",
+          "kind": null,
+          "last_updated": "2026-09-17T11:13:09Z",
+          "membership": false,
+          "scheduled_start": "2026-09-17T11:06:05Z",
+          "source": "personal",
+          "state": "live",
+          "state_since": "2026-09-17T11:13:09Z",
+          "thumbnail": "https://i.ytimg.com/vi/G7uEkKAC8Bc/maxresdefault_live.jpg",
+          "time_tbd": false,
+          "title": "【弾き語り】またーり【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+          "title_ko": "【弾き語り】또라리【ゆめみた/무겐다이 뮤타입】 #반인간 #shorts",
+          "url": "https://www.youtube.com/watch?v=G7uEkKAC8Bc",
+          "video_id": "G7uEkKAC8Bc"
+        },
         {
           "actual_start": null,
           "api_start_seen": "2026-09-25T10:30:00Z",
