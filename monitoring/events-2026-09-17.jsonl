@@ -61,3 +61,4 @@
 {"candidates": 2, "detail": "candidates=2 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-17T06:00:01Z", "who": ""}
 {"candidates": 2, "detail": "candidates=2 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-17T06:10:02Z", "who": ""}
 {"candidates": 2, "detail": "candidates=2 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-09-17T06:20:02Z", "who": ""}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T06:29:46Z", "via": "ingest", "who": "ritsu"}
