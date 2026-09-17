@@ -9,10 +9,11 @@
   "pending_notice": null,
   "pending_notice_edit": null,
   "pending_op": {
-    "at": "2026-09-17T08:48:56Z",
+    "at": "2026-09-17T08:49:02Z",
     "cmd": "edit",
     "contents": "preview",
     "ctx": {
+      "_field": "date",
       "id": "pv_f4f2157c",
       "idx": 1,
       "patch": {},
@@ -24,7 +25,7 @@
       },
       "unit": "yuno"
     },
-    "step": "await_field"
+    "step": "await_value"
   },
   "pending_undo": null,
   "suppress": [],
