@@ -64,3 +64,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T06:29:46Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-17T06:31:57Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-17T08:02:34Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-17T08:02:34Z", "via": "ingest", "who": ""}
