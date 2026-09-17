@@ -112,3 +112,4 @@
 {"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_2eba04f8", "result": "ok", "title": "【 #ヴァンガード 】#ごみぎゃ デッキ開封！ぶっちぎるぞ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-17T14:27:00Z", "video_id": "k0jmWRjG-iQ", "who": "yuno"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T14:31:01Z", "who": "k0jmWRjG-iQ"}
 {"detail": "watching→live", "flow": "preview", "item_id": "pv_2eba04f8", "result": "ok", "title": "【 #ヴァンガード 】#ごみぎゃ デッキ開封！ぶっちぎるぞ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-17T14:31:01Z", "video_id": "k0jmWRjG-iQ", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T14:39:08Z", "via": "ingest", "who": "ritsu"}
