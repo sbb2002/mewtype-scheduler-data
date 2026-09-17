@@ -96,3 +96,5 @@
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-17T13:02:28Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-17T13:02:28Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T13:15:12Z", "via": "ingest", "who": "nonoka"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T13:31:01Z", "who": "DWMQTpDQ1fc"}
+{"detail": "end→none", "flow": "preview", "item_id": "pv_9aaae965", "result": "ok", "title": "【弾き語り】またーり【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-09-17T13:31:01Z", "video_id": "G7uEkKAC8Bc", "who": "nonoka"}
