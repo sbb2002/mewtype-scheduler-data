@@ -107,3 +107,4 @@
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_ffd9d69f", "result": "ok", "title": null, "ts": "2026-09-17T14:05:01Z", "video_id": null, "who": "ritsu"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-17T14:06:43Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-17T14:06:43Z", "via": "ingest", "who": ""}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T14:18:27Z", "via": "ingest", "who": "yuno"}
