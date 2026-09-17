@@ -53,6 +53,32 @@
       "url": null
     },
     {
+      "anchor_a": "Goods_onsite",
+      "anchor_b": "バンドリ！ゆめ∞みた",
+      "body_for_llm": "＼📢フリーライブ情報①／ TVアニメ「バンドリ！ ゆめ∞みた」 放送記念フリーライブ 「新宿着陸計画」🌎 会場でのグッズ物販の詳細を公開🛍❕ ⏰先行物販: 〜 開場後物販: 〜 🔗 上記リンクをチェック✅ #バンドリ #アニメゆめみた",
+      "body_raw": "＼📢フリーライブ情報①／\n\nTVアニメ「バンドリ！ ゆめ∞みた」\n放送記念フリーライブ\n「新宿着陸計画」🌎\n\n会場でのグッズ物販の詳細を公開🛍❕\n\n⏰先行物販:15:00〜18:00\n　開場後物販:18:30〜19:30\n\n🔗https://bang-dream.com/yumemita_2026free_day2/#Goods_onsite\n\n上記リンクをチェック✅\n\n#バンドリ #アニメゆめみた",
+      "category": "release",
+      "date": "2026-09-17",
+      "deadline": false,
+      "expires_at": "2026-09-17T15:00:00Z",
+      "first_seen": "2026-09-17T08:02:34Z",
+      "id": "2100494978409459985",
+      "last_updated": "2026-09-17T08:02:34Z",
+      "participants": null,
+      "seen_ids": [
+        "2100494978409459985"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "15:00",
+      "title": "TVアニメ「バンドリ！ ゆめ∞みた」 放送記念フリーライブ 「新宿着陸計画」",
+      "title_ko": "TV 애니메이션 「뱅드림! ゆめ∞みた」 방송 기념 프리 라이브 「신주쿠 착륙 계획」",
+      "title_raw": "会場でのグッズ物販の詳細を公開🛍",
+      "title_slug": "会場でのグッズ物販の詳細を公開",
+      "tweet_url": "https://x.com/i/status/2100494978409459985",
+      "url": "https://bang-dream.com/yumemita_2026free_day2/#Goods_onsite"
+    },
+    {
       "anchor_a": "CD_sales",
       "anchor_b": "バンドリ！ゆめ∞みた",
       "body_for_llm": "＼📢フリーライブ情報②／ TVアニメ「バンドリ！ ゆめ∞みた」 放送記念フリーライブ 「新宿着陸計画」🌎 会場でのCD予約販売の詳細を公開💿❕ ⏰先行販売: 〜 開場後販売: 〜 🔗 上記リンクをチェック✅ #バンドリ #アニメゆめみた",
