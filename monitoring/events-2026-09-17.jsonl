@@ -94,3 +94,4 @@
 {"detail": "live→end", "flow": "preview", "item_id": "pv_9aaae965", "result": "ok", "title": "【弾き語り】またーり【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-09-17T13:01:01Z", "video_id": "G7uEkKAC8Bc", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-17T13:02:28Z", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-17T13:02:28Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-17T13:02:28Z", "via": "ingest", "who": ""}
