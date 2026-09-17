@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-17T11:20:03Z",
+  "generated_at": "2026-09-17T12:34:35Z",
   "items": [
     {
       "actual_start": "2026-09-17T11:06:24Z",
@@ -205,6 +205,34 @@
       "title": null,
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
+      "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-17T17:00:00Z",
+      "first_seen": "2026-09-17T12:34:35Z",
+      "host": null,
+      "id": "pv_9a8433d3",
+      "info_at": "2026-09-17T12:33:56Z",
+      "info_source": "personal",
+      "kind": "unknown",
+      "last_updated": "2026-09-17T12:34:35Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-09-17T14:00:00Z",
+      "source": "personal",
+      "state": "announced",
+      "state_since": "2026-09-17T12:34:35Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@miyako_yumemita",
       "video_id": null
     }
   ]
