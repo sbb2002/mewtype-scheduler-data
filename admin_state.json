@@ -9,14 +9,15 @@
   "pending_notice": null,
   "pending_notice_edit": null,
   "pending_op": {
-    "at": "2026-09-17T08:49:02Z",
+    "at": "2026-09-17T08:49:39Z",
     "cmd": "edit",
     "contents": "preview",
     "ctx": {
-      "_field": "date",
       "id": "pv_f4f2157c",
       "idx": 1,
-      "patch": {},
+      "patch": {
+        "date": "2026-09-25T10:30:00Z"
+      },
       "pre": {
         "date": "2026-09-25T10:30:00Z",
         "state": "watching",
@@ -25,7 +26,7 @@
       },
       "unit": "yuno"
     },
-    "step": "await_value"
+    "step": "await_field"
   },
   "pending_undo": null,
   "suppress": [],
