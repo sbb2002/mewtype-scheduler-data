@@ -121,3 +121,5 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T15:19:00Z", "who": "k0jmWRjG-iQ"}
 {"detail": "live→end", "flow": "preview", "item_id": "pv_2eba04f8", "result": "ok", "title": "【 #ヴァンガード 】#ごみぎゃ デッキ開封！ぶっちぎるぞ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-17T15:19:00Z", "video_id": "k0jmWRjG-iQ", "who": "yuno"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T15:38:00Z", "who": "k0jmWRjG-iQ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T15:49:00Z", "who": "DWMQTpDQ1fc"}
+{"detail": "end→none", "flow": "preview", "item_id": "pv_2eba04f8", "result": "ok", "title": "【 #ヴァンガード 】#ごみぎゃ デッキ開封！ぶっちぎるぞ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-17T15:49:00Z", "video_id": "k0jmWRjG-iQ", "who": "yuno"}
