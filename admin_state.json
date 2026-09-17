@@ -9,14 +9,14 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 updated (「バンドリTVLIVE 2026」)",
-    "at": "2026-09-17T14:06:43Z",
+    "action": "소식 updated (最高に可愛いイラストは路地子！🐻‍❄)",
+    "at": "2026-09-17T14:43:12Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "89a3e706e96a936a3e6dfae1ddbb7f7cf3d84de1",
+    "new_sha": "92d3d12ff18a30435b30c7d11d035ba4eb8fddc5",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-17T13:02:28Z",
+      "generated_at": "2026-09-17T14:06:43Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -278,27 +278,28 @@
         },
         {
           "anchor_a": null,
-          "anchor_b": null,
-          "body_for_llm": "RT @bang_dream_on: ┎┈┈┈┈┈┈┈┈┈┈┈┒ 2026年 (木) アワーノーツ 正式リリース決定！ ┖┈┈┈┈┈┈┈┈┈┈┈┚ ついに正式リリース日が決定！ (火･祝)より事前ダウンロードが順次開始となります💫… http…",
-          "body_raw": "RT @bang_dream_on: ┎┈┈┈┈┈┈┈┈┈┈┈┒\n　　2026年9月24日(木)\n 　　　アワーノーツ\n　　正式リリース決定！\n┖┈┈┈┈┈┈┈┈┈┈┈┚ \n\nついに正式リリース日が決定！9月22日(火･祝)より事前ダウンロードが順次開始となります💫… http…",
-          "category": "release",
+          "anchor_b": "#バンドリtvlive2026",
+          "body_for_llm": "📢 (木) 頃より生配信！ 「#バンドリTVLIVE 2026」#333 配信内ではアワーノーツ正式リリース後の様々な新情報を盛りだくさんでお届けいたします！お楽しみに✨ #アワーノーツ",
+          "body_raw": "📢9月24日(木)21:33頃より生配信！\n「#バンドリTVLIVE 2026」#333\n\n配信内ではアワーノーツ正式リリース後の様々な新情報を盛りだくさんでお届けいたします！お楽しみに✨\n\n#アワーノーツ",
+          "category": "live",
           "date": "2026-09-24",
           "deadline": false,
           "expires_at": "2026-09-24T15:00:00Z",
           "first_seen": "2026-09-13T12:14:09Z",
           "id": "2099109296038699236",
-          "last_updated": "2026-09-13T12:14:09Z",
+          "last_updated": "2026-09-17T14:06:43Z",
           "seen_ids": [
-            "2099109296038699236"
+            "2099109296038699236",
+            "2100587232780558791"
           ],
           "site": "x",
-          "src_handle": "RT @bang_dream_on",
-          "time": null,
-          "title": "アワーノーツ正式リリース決定！",
+          "src_handle": "@BDP_yumemita",
+          "time": "21:33",
+          "title": "「バンドリTVLIVE 2026」",
           "title_ko": "아워노트 정식 출시 결정!",
-          "title_raw": "正式リリース決定",
-          "title_slug": "正式リリース決定",
-          "tweet_url": "https://x.com/i/status/2099109296038699236",
+          "title_raw": "「バンドリTVLIVE 2026」",
+          "title_slug": "バンドリtvlive2026",
+          "tweet_url": "https://x.com/i/status/2100587232780558791",
           "url": null
         },
         {
