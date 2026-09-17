@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-17T11:13:09Z",
+  "generated_at": "2026-09-17T11:20:03Z",
   "items": [
     {
       "actual_start": "2026-09-17T11:06:24Z",
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-17T11:13:09Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-17T11:06:05Z",
       "source": "personal",
       "state": "live",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/G7uEkKAC8Bc/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【弾き語り】またーり【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-      "title_ko": null,
+      "title_ko": "【弾き語り】또라리【ゆめみた/무겐다이 뮤타입】 #반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=G7uEkKAC8Bc",
       "video_id": "G7uEkKAC8Bc"
     },
