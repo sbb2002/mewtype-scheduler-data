@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:02:28Z",
+  "generated_at": "2026-09-17T13:15:12Z",
   "tweets": {
     "arale": [
       {
@@ -183,6 +183,20 @@
         "text": "#パパ永放置少女現役らしい",
         "text_ko": "#파파 영구 방치 소녀 현역인 것 같다",
         "url": "https://x.com/i/status/2100570921081999595"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-09-18T13:15:12Z",
+        "handle": "nonoka_yumemita",
+        "id": "2100571980286288366",
+        "media": [
+          "https://pbs.twimg.com/card_img/2100510664397885440/KId12WQ3?format=jpg&name=800x419"
+        ],
+        "quote": null,
+        "received_at": "2026-09-17T13:15:12Z",
+        "text": "あられちゃん😍😍😍\n\n【ゆめ∞みた キャラクター診断】私の診断結果は「仲町あられ」でした！ https://anime.bang-dream.com/yumemita/shindan/result-arale.html #ゆめみたキャラ診断 #バンドリ",
+        "text_ko": "아라레짱😍😍😍\n\n【유메∞미타 캐릭터 진단】내 진단 결과는 “나카마치 아라레”였습니다! https://anime.bang-dream.com/yumemita/shindan/result-arale.html #유메미타캐라진단 #뱅드림",
+        "url": "https://x.com/i/status/2100571980286288366"
       }
     ],
     "ritsu": [
