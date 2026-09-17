@@ -131,6 +131,27 @@
         "url": "https://x.com/i/status/2100223186663272847"
       }
     ],
+    "nonoka": [
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-09-18T11:12:52Z",
+        "handle": "nonoka_yumemita",
+        "id": "2100539919294943474",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HSZVVqYaYAACgaL.jpg",
+            "https://pbs.twimg.com/media/HSZVWvfaEAAdyJz.jpg"
+          ],
+          "text": "／\n🛸夢限大みゅーたいぷ\n9/17(木)の配信スケジュール🌟\n＼\n\n🎸20:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n✨23:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ #ゆめみた",
+          "text_ko": "/\n🛸무겐다이 뮤타입\n9/17(목) 방송 일정🌟\n\\\n\n🎸20:00~ 미야나가 노노카\nhttps://www.youtube.com/@nonoka_yumemita\n\n✨23:30~ 센고쿠 유노\nhttps://www.youtube.com/@yuno_yumemita\n\n※시간은 사전 예고 없이 변경될 수 있습니다.\n#뱅드림 #유메미타"
+        },
+        "received_at": "2026-09-17T11:12:52Z",
+        "text": "はいしん🎶",
+        "text_ko": "방송🎶",
+        "url": "https://x.com/i/status/2100539919294943474"
+      }
+    ],
     "ritsu": [
       {
         "channel_key": "ritsu",
