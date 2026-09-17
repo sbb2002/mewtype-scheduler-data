@@ -4,18 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-09-17T07:24:19Z",
-        "handle": "arale_yumemita",
-        "id": "2100122323424796992",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-16T07:24:19Z",
-        "text": "おはようございます☀️ﾊｻﾞｽｯ\n\n今日は雨くもりだから、1日の速さが分かりにくいなぁ…^  'ᜊ'  ^",
-        "text_ko": "좋은 아침입니다☀️ﾊｻﾞｽｯ\n\n오늘은 비가 흐려서 하루가 얼마나 빨리 가는지 파악하기 어렵네요…^  'ᜊ'  ^",
-        "url": "https://x.com/i/status/2100122323424796992"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-09-17T13:41:25Z",
         "handle": "arale_yumemita",
         "id": "2100216355018654162",
@@ -131,76 +119,7 @@
         "url": "https://x.com/i/status/2100223186663272847"
       }
     ],
-    "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-09-17T10:20:45Z",
-        "handle": "nonoka_yumemita",
-        "id": "2100167883636781306",
-        "media": [],
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HSU1bgKaQAAoGY0.jpg"
-          ],
-          "text": "＼ご視聴ありがとうございました✨／\n\n🛸夢限大みゅーたいぷの\n　「ゆめ∞みたラジオ」#12🛸\n\n番組の感想は #ゆめみたラジオ でお待ちしています🎶\n\n#13 の出演者は、\n仲町あられと千石ユノ💛💖\n\n✉お便り募集中\nhttps://hibiki-radio.jp/description/yumemita/detail\n\n来週もお楽しみに✨\n\n#バンドリ",
-          "text_ko": "＼시청해 주셔서 감사합니다✨／\n\n🛸무겐다이 뮤타입의\n　「ゆめ∞みた라디오」#12🛸\n\n프로그램에 대한 감상은 #ゆめみた라ジ오 에서 기다리고 있습니다🎶\n\n#13의 출연자는,\n나카마치 아라레와 센고쿠 유노💛💖\n\n✉편지 모집 중\nhttps://hibiki-radio.jp/description/yumemita/detail\n\n다음 주도 기대해 주세요✨\n\n#뱅드림"
-        },
-        "received_at": "2026-09-16T10:20:45Z",
-        "text": "今週は急遽、楽器隊🎹🎸✨\nたのしかった！！😆\n\n#ゆめみたラジオ 感想まってまつ🎶",
-        "text_ko": "이번 주는 급히, 악기팀 🎹🎸✨\n재밌었어!! 😆\n\n#ゆめみた라디오 감상 기다릴게요 🎶",
-        "url": "https://x.com/i/status/2100167883636781306"
-      },
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-09-17T10:28:14Z",
-        "handle": "nonoka_yumemita",
-        "id": "2100168493706760604",
-        "media": [],
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HSTRK3ybUAAU2NB.jpg",
-            "https://pbs.twimg.com/media/HSTRL3caYAAfqxf.jpg",
-            "https://pbs.twimg.com/media/HSTRM8MaUAAT-L2.jpg"
-          ],
-          "text": "／\n🛸夢限大みゅーたいぷ\n9/16(水)の配信スケジュール🌟\n＼\n\n✨20:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n🎮21:00～ 峰月律\nhttps://www.youtube.com/watch?v=n4GTqIu9sjw\n\n🎤21:30～ 藤都子\nhttps://www.youtube.com/@miyako_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ #ゆめみた",
-          "text_ko": "/\n🛸무겐다이 뮤타입\n9/16(수) 방송 일정🌟\n\\\n\n✨20:00～ 미야나가 노노카\nhttps://www.youtube.com/@nonoka_yumemita\n\n🎮21:00～ 미네츠키 리츠\nhttps://www.youtube.com/watch?v=n4GTqIu9sjw\n\n🎤21:30～ 후지츠코\nhttps://www.youtube.com/@miyako_yumemita\n\n※시간은 사전 예고 없이 변경될 수 있습니다.\n#뱅드림 #유메미타"
-        },
-        "received_at": "2026-09-16T10:28:14Z",
-        "text": "ぎたー🎶\nアニメの最終回を迎えて、アニメのこと、配信で話したいな🎶\n\nぎたーもちゃんとやるよ‼️😆",
-        "text_ko": "기타🎶  \n애니의 최종회를 맞이해서, 애니에 대해 스트리밍에서 이야기하고 싶어🎶  \n\n기타도 열심히 할게‼️😆",
-        "url": "https://x.com/i/status/2100168493706760604"
-      }
-    ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-09-17T07:24:19Z",
-        "handle": "ritsu_yumemita",
-        "id": "2100123486740160549",
-        "media": [
-          "https://pbs.twimg.com/media/HSUjLiyaEAA3aa_.jpg"
-        ],
-        "quote": null,
-        "received_at": "2026-09-16T07:24:19Z",
-        "text": "【今日の配信】\n🩵 ･･････････････････････ 🩵\n\n  𝗦𝗧𝗔𝗥𝗧 今夜21:00〜\n青鬼ブルーベリー温泉！\nゲーム実況モンスターふたたび\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/n4GTqIu9sjw?si=dnhVsODRtY8u8LWU\n\n🩵 ･･････････････････････ 🩵",
-        "text_ko": "【오늘의 방송】\n🩵 ･･････････････････････ 🩵\n\n  𝗦𝗧𝗔𝗥𝗧 오늘 밤 21:00〜\n청귀 블루베리 온천!\n게임 실황 몬스터 다시 보기\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/n4GTqIu9sjw?si=dnhVsODRtY8u8LWU\n\n🩵 ･･････････････････････ 🩵",
-        "url": "https://x.com/i/status/2100123486740160549"
-      },
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-09-17T10:46:36Z",
-        "handle": "ritsu_yumemita",
-        "id": "2100174487434178607",
-        "media": [
-          "https://pbs.twimg.com/media/HSVRj5Jb0AAzjOO.jpg",
-          "https://pbs.twimg.com/media/HSVRj5dbEAAiT0R.jpg"
-        ],
-        "quote": null,
-        "received_at": "2026-09-16T10:46:36Z",
-        "text": "仮面",
-        "text_ko": "가면",
-        "url": "https://x.com/i/status/2100174487434178607"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-09-17T12:07:00Z",
