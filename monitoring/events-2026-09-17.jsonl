@@ -228,3 +228,6 @@
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-17T16:30:06Z", "who": ""}
 {"detail": "watching→announced", "flow": "preview", "item_id": "pv_9a8433d3", "result": "ok", "title": null, "ts": "2026-09-17T16:30:06Z", "video_id": null, "who": "miyako"}
 {"detail": "watching→announced", "flow": "preview", "item_id": "pv_ffd9d69f", "result": "ok", "title": null, "ts": "2026-09-17T16:30:06Z", "video_id": null, "who": "ritsu"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-17T16:31:00Z", "who": "DWMQTpDQ1fc"}
+{"detail": "announced→watching", "flow": "preview", "item_id": "pv_9a8433d3", "result": "ok", "title": null, "ts": "2026-09-17T16:31:00Z", "video_id": null, "who": "miyako"}
+{"detail": "announced→watching", "flow": "preview", "item_id": "pv_ffd9d69f", "result": "ok", "title": null, "ts": "2026-09-17T16:31:00Z", "video_id": null, "who": "ritsu"}
