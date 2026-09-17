@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:02:34Z",
+  "generated_at": "2026-09-17T13:02:28Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -132,28 +132,29 @@
     },
     {
       "anchor_a": null,
-      "anchor_b": "#バンドリtvlive2026",
-      "body_for_llm": "@bang_dream_info: 明日 (木) 頃〜 「#バンドリTVLIVE 2026」＃332 が生配信🎤⭐ 出演者 進藤あまね（倉田ましろ 役） 西尾夕香（広町七深 役） 仲町あられ 峰月律 YouTube で生配信📺✨ youtube.com/live/Eo8iRGa0n… bang-dream.com/news/2401 #バンドリ #バンドリTVLIVE",
-      "body_raw": "@bang_dream_info: 明日9/17(木)22:03頃〜\n「#バンドリTVLIVE 2026」＃332 が生配信🎤⭐\n \n出演者\n進藤あまね（倉田ましろ 役）\n西尾夕香（広町七深 役）\n仲町あられ\n峰月律\n\nYouTube で生配信📺✨\nyoutube.com/live/Eo8iRGa0n…\n\nbang-dream.com/news/2401\n\n#バンドリ #バンドリTVLIVE",
+      "anchor_b": "バンドリ！tvlive2026",
+      "body_for_llm": "RT @bang_dream_info: このあと 頃〜生配信📺✨ 「バンドリ！TV LIVE 2026」＃332 出演者 進藤あまね（倉田ましろ 役） 西尾夕香（広町七深 役） 仲町あられ 峰月律 YouTube で生配信📺✨",
+      "body_raw": "RT @bang_dream_info: このあと22:03頃〜生配信📺✨\n「バンドリ！TV LIVE 2026」＃332\n\n出演者\n進藤あまね（倉田ましろ 役）\n西尾夕香（広町七深 役）\n仲町あられ\n峰月律\n\nYouTube で生配信📺✨",
       "category": "live",
       "date": "2026-09-17",
       "deadline": false,
       "expires_at": "2026-09-17T15:00:00Z",
       "first_seen": "2026-09-16T11:12:50Z",
       "id": "2100178834805166572",
-      "last_updated": "2026-09-16T11:12:50Z",
+      "last_updated": "2026-09-17T13:02:28Z",
       "participants": null,
       "seen_ids": [
-        "2100178834805166572"
+        "2100178834805166572",
+        "2100569361329308113"
       ],
       "site": "x",
       "src_handle": "RT @bang_dream_info",
       "time": "22:03",
-      "title": "明日（木）「#バンドリ TVLIVE 2026」#332 生配信開始",
+      "title": "「バンドリ！TV LIVE 2026」",
       "title_ko": "내일(목) \"#뱅드림 TVLIVE 2026\" #332 실시간 방송 시작",
-      "title_raw": "「バンドリTVLIVE 2026」",
+      "title_raw": "「バンドリ！TV LIVE 2026」",
       "title_slug": "バンドリtvlive2026",
-      "tweet_url": "https://x.com/i/status/2100178834805166572",
+      "tweet_url": "https://x.com/i/status/2100569361329308113",
       "url": null
     },
     {
