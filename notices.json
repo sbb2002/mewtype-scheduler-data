@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:42:59Z",
+  "generated_at": "2026-09-18T01:00:29Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -283,6 +283,32 @@
       "title_slug": "tvアニメバンドリゆめみた極楽湯rakuspaコ",
       "tweet_url": "https://x.com/i/status/2098050273273172111",
       "url": null
+    },
+    {
+      "anchor_a": "7616",
+      "anchor_b": "bangdream!×アトレ秋葉原popupstore2026",
+      "body_for_llm": "「BanG Dream! × アトレ秋葉原 POP UP STORE 2026」 本日より開催🎉 館内外を #アワーノーツ のメンバー25人がジャック中✨ ここでしか聞けない館内放送など、様々なコラボが楽しめます🎸 📅開催期間 (木)まで ぜひ遊びに来てくださいね💫 #バンドリ",
+      "body_raw": "「BanG Dream! × アトレ秋葉原 POP UP STORE 2026」\n本日より開催🎉\n\n館内外を #アワーノーツ のメンバー25人がジャック中✨\nここでしか聞けない館内放送など、様々なコラボが楽しめます🎸\n\n📅開催期間\n10月1日(木)まで\n\nぜひ遊びに来てくださいね💫\nhttps://www.atre.co.jp/akihabara/news/7616/\n\n#バンドリ",
+      "category": "etc",
+      "date": "2026-10-01",
+      "deadline": true,
+      "expires_at": "2026-10-01T15:00:00Z",
+      "first_seen": "2026-09-18T01:00:29Z",
+      "id": "2100751660582891717",
+      "last_updated": "2026-09-18T01:00:29Z",
+      "participants": null,
+      "seen_ids": [
+        "2100751660582891717"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "BanG Dream! × アトレ秋葉原 POP UP STORE 2026 開催開始！",
+      "title_ko": "BanG Dream! × 아트레 아키하바라 POP UP STORE 2026 개최 시작!",
+      "title_raw": "「BanG Dream! × アトレ秋葉原 POP UP STORE 2026」",
+      "title_slug": "bangdreamアトレ秋葉原popupstor",
+      "tweet_url": "https://x.com/i/status/2100751660582891717",
+      "url": "https://www.atre.co.jp/akihabara/news/7616/"
     },
     {
       "anchor_a": ":〜:text=%E2%96%A0BanG%20Dream!%20%E3%82%",
