@@ -27,3 +27,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T10:37:18Z", "via": "ingest", "who": "arale"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T11:57:15Z", "who": "DWMQTpDQ1fc"}
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T11:57:15Z", "video_id": null, "who": "arale"}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-18T12:04:00Z", "via": "ingest", "who": ""}
