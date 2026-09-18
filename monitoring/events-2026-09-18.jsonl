@@ -168,3 +168,5 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T14:33:00Z", "who": "DWMQTpDQ1fc"}
 {"detail": "watching→live", "flow": "preview", "item_id": "pv_5b982b73", "result": "ok", "title": "【演技＆朗読】新人女性声優・肉月律さん【峰月律/ゆめみた】", "ts": "2026-09-18T14:33:00Z", "video_id": "7gVfpsqsqKk", "who": "ritsu"}
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:33:00Z", "video_id": null, "who": "arale"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T14:33:07Z", "who": "7gVfpsqsqKk"}
+{"detail": "watching→announced", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:33:07Z", "video_id": null, "who": "arale"}
