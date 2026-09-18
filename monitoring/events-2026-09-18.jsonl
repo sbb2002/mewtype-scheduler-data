@@ -324,3 +324,4 @@
 {"detail": "announced→none", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T15:00:00Z", "video_id": null, "who": "arale"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-18T15:08:34Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T15:08:34Z", "via": "ingest", "who": "miyako"}
+{"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-18T15:36:45Z", "via": "ingest", "who": ""}
