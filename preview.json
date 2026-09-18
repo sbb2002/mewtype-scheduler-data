@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-18T14:10:05Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-18T14:00:50Z",
       "source": "personal",
       "state": "live",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/UQBqWEKNZWk/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【弾き語り】ぎたー！！！！！！！！！【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-      "title_ko": null,
+      "title_ko": "【반주노래】기타！！！！！！！！！【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=UQBqWEKNZWk",
       "video_id": "UQBqWEKNZWk"
     },
@@ -223,7 +222,6 @@
       "kind": null,
       "last_updated": "2026-09-18T14:10:05Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-20T12:00:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -231,7 +229,7 @@
       "thumbnail": "https://i.ytimg.com/vi/JsvLrSmgSz8/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【バンドリ！アワーノーツ】バンドリ！公式優等生が先行プレイさせていただきます【峰月律/ゆめみた】#アワーノーツ",
-      "title_ko": null,
+      "title_ko": "【뱅드림! 아워노트】뱅드림! 공식 우등생이 선행 플레이를 진행합니다【峰月律/유메미타】#아워노트",
       "url": "https://www.youtube.com/watch?v=JsvLrSmgSz8",
       "video_id": "JsvLrSmgSz8"
     },
