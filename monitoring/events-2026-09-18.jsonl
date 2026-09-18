@@ -184,3 +184,4 @@
 {"detail": "watching→announced", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:35:05Z", "video_id": null, "who": "arale"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T14:35:11Z", "who": "UQBqWEKNZWk"}
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:35:11Z", "video_id": null, "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T14:35:47Z", "via": "ingest", "who": "ritsu"}
