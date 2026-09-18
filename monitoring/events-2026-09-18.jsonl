@@ -100,3 +100,5 @@
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:19:05Z", "video_id": null, "who": "arale"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T14:20:00Z", "who": "DWMQTpDQ1fc"}
 {"detail": "watching→announced", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:20:00Z", "video_id": null, "who": "arale"}
+{"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-18T14:20:05Z", "who": ""}
+{"detail": "announced→watching", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:20:05Z", "video_id": null, "who": "arale"}
