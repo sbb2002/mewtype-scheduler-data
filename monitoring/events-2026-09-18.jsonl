@@ -326,3 +326,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T15:08:34Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-18T15:36:45Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-18T15:36:45Z", "via": "ingest", "who": ""}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T15:43:00Z", "who": "UQBqWEKNZWk"}
+{"detail": "live→end", "flow": "preview", "item_id": "pv_5b982b73", "result": "ok", "title": "【演技＆朗読】新人女性声優・肉月律さん【峰月律/ゆめみた】", "ts": "2026-09-18T15:43:00Z", "video_id": "7gVfpsqsqKk", "who": "ritsu"}
