@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:00:29Z",
+  "generated_at": "2026-09-18T03:03:09Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -180,6 +180,32 @@
       "title_slug": "下記リリースイベントのお申し込みは明日まで",
       "tweet_url": "https://x.com/i/status/2098577343337873642",
       "url": "https://t.co/XpYUyjhJ1A"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "wirforce2026",
+      "body_for_llm": "📢海外イベント情報！ millsage 伊沢 なつめ役の千春さん、一家Dumb Rock! 四宮 寧月役の遠野ひかるさんが台湾「WirForce 2026」のメインステージに出演いたします✨ 📅開催日時 (日) 〜 (現地時間) 📍台北世貿一館 ▼詳細",
+      "body_raw": "📢海外イベント情報！\n\nmillsage 伊沢 なつめ役の千春さん、一家Dumb Rock! 四宮 寧月役の遠野ひかるさんが台湾「WirForce 2026」のメインステージに出演いたします✨\n\n📅開催日時\n9月27日(日)10:30〜12:00(現地時間) \n\n📍台北世貿一館\n\n▼詳細",
+      "category": "etc",
+      "date": "2026-09-27",
+      "deadline": false,
+      "expires_at": "2026-09-27T15:00:00Z",
+      "first_seen": "2026-09-18T03:03:09Z",
+      "id": "2100782046960591258",
+      "last_updated": "2026-09-18T03:03:09Z",
+      "participants": null,
+      "seen_ids": [
+        "2100782046960591258"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": "10:30",
+      "title": "millsage 伊沢 なつめ役の千春さん、遠野ひかるさんが台湾 WirForce 2026 メインステージに出演",
+      "title_ko": "millsage 伊沢 なつめ役의 千春さん, 四宮 寧月役의 遠野ひかるさん이 대만 WirForce 2026 메인 스테이지에 출연",
+      "title_raw": "millsage 伊沢 なつめ役の千春さん、一家Dumb Rock! 四宮 寧月役の遠野ひかるさんが台湾「WirForce 2026」のメインステージに出演いたします",
+      "title_slug": "millsage伊沢なつめ役の千春さん一家dum",
+      "tweet_url": "https://x.com/i/status/2100782046960591258",
+      "url": null
     },
     {
       "anchor_a": null,
