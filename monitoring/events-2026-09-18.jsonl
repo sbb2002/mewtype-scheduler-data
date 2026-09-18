@@ -38,3 +38,5 @@
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_3df6824c", "result": "ok", "title": null, "ts": "2026-09-18T13:57:00Z", "video_id": null, "who": "nonoka"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T14:00:00Z", "who": "DWMQTpDQ1fc"}
 {"detail": "watching→announced", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:00:00Z", "video_id": null, "who": "arale"}
+{"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-18T14:00:05Z", "who": ""}
+{"detail": "announced→watching", "flow": "preview", "item_id": "pv_c181ee4c", "result": "ok", "title": null, "ts": "2026-09-18T14:00:05Z", "video_id": null, "who": "arale"}
