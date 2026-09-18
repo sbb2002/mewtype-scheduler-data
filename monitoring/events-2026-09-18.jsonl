@@ -13,3 +13,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T03:47:58Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-18T04:08:14Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-18T04:30:05Z", "via": "ingest", "who": ""}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T06:37:56Z", "via": "ingest", "who": "yuno"}
