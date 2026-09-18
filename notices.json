@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:03:09Z",
+  "generated_at": "2026-09-18T12:04:00Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -77,6 +77,32 @@
       "title_slug": "resonext",
       "tweet_url": null,
       "url": "https://eplus.jp/yumemita-arale/"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "これはぼくたちの生存のあらすじ",
+      "body_for_llm": "【お知らせ】 (月･祝)にanimate hall BLACK（アニメイト池袋本店 北館9F）にて開催予定の【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」リリースイベント】につきまして、台風25号の接近に伴い状況を注視しております。 お客様とキャストの安全を最優先とし、開催可否につきましては前日20日(日)正午を目処に判断の上、当公式Xにてお知らせいたします。 何卒ご理解・ご了承の程よろしくお願いいたします。",
+      "body_raw": "【お知らせ】\n\n9月21日(月･祝)にanimate hall BLACK（アニメイト池袋本店 北館9F）にて開催予定の【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」リリースイベント】につきまして、台風25号の接近に伴い状況を注視しております。\n\nお客様とキャストの安全を最優先とし、開催可否につきましては前日20日(日)正午を目処に判断の上、当公式Xにてお知らせいたします。\n\n何卒ご理解・ご了承の程よろしくお願いいたします。",
+      "category": "release",
+      "date": "2026-09-21",
+      "deadline": false,
+      "expires_at": "2026-09-21T15:00:00Z",
+      "first_seen": "2026-09-18T12:04:00Z",
+      "id": "2100917757571424645",
+      "last_updated": "2026-09-18T12:04:00Z",
+      "participants": null,
+      "seen_ids": [
+        "2100917757571424645"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」リリースイベント】開催可否のお知らせ",
+      "title_ko": "【무겐다이 뮤타입 5th Single \"これはぼくたちの生存のあらすじ\" 릴리즈 이벤트】 개최 여부 안내",
+      "title_raw": "9月21日(月･祝)にanimate hall BLACK（アニメイト池袋本店 北館9F）にて開催予定の【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」",
+      "title_slug": "月祝にanimatehallblackアニメイト",
+      "tweet_url": "https://x.com/i/status/2100917757571424645",
+      "url": null
     },
     {
       "anchor_a": null,
