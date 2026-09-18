@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-18T12:27:00Z",
+  "generated_at": "2026-09-18T12:30:02Z",
   "items": [
     {
       "actual_start": null,
@@ -141,7 +141,6 @@
       "kind": null,
       "last_updated": "2026-09-18T12:27:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-18T14:30:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -149,7 +148,7 @@
       "thumbnail": "https://i.ytimg.com/vi/7gVfpsqsqKk/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【演技＆朗読】新人女性声優・肉月律さん【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【연기＆낭독】신인 여성 성우·육월律 씨【峰月律/ゆめみた】",
       "url": "https://www.youtube.com/watch?v=7gVfpsqsqKk",
       "video_id": "7gVfpsqsqKk"
     },
