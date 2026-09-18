@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:24:04Z",
+  "generated_at": "2026-09-18T03:47:58Z",
   "tweets": {
     "arale": [
       {
@@ -304,6 +304,20 @@
         "text": "出演させて頂きました！\nありがとうございました（՞>⩊<՞）\nビオラがたくさん！\n\n #アニメゆめみた",
         "text_ko": "출연시켜 주셨습니다!  \n감사했습니다（՞>⩊<՞）  \n비올라가 많이!  \n\n #アニメゆめみた",
         "url": "https://x.com/i/status/2100595404786250107"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-19T03:47:58Z",
+        "handle": "ritsu_yumemita",
+        "id": "2100793912441045424",
+        "media": [
+          "https://pbs.twimg.com/media/HSeE6cKbAAAreIU.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-18T03:47:58Z",
+        "text": "#バンドリTVLIVE\nありがとうございました（՞>⩊<՞）🎀",
+        "text_ko": "#뱅드림 TVLIVE\n감사합니다（՞>⩊<՞）🎀",
+        "url": "https://x.com/i/status/2100793912441045424"
       }
     ],
     "yuno": [
