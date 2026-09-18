@@ -332,3 +332,4 @@
 {"detail": "end→none", "flow": "preview", "item_id": "pv_5b982b73", "result": "ok", "title": "【演技＆朗読】新人女性声優・肉月律さん【峰月律/ゆめみた】", "ts": "2026-09-18T16:13:00Z", "video_id": "7gVfpsqsqKk", "who": "ritsu"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-18T16:19:00Z", "who": "DWMQTpDQ1fc"}
 {"detail": "live→end", "flow": "preview", "item_id": "pv_3eb7fd04", "result": "ok", "title": "【弾き語り】ぎたー！！！！！！！！！【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-09-18T16:19:00Z", "video_id": "UQBqWEKNZWk", "who": "nonoka"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T16:21:47Z", "via": "ingest", "who": "nonoka"}
