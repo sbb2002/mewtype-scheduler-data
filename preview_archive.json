@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:00:00Z",
+  "generated_at": "2026-09-18T16:13:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -586,6 +586,34 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_start": "2026-09-18T14:32:24Z",
+      "api_start_seen": "2026-09-18T14:30:00Z",
+      "archived_at": "2026-09-18T16:13:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 628,
+      "expires_at": "2026-09-18T17:30:00Z",
+      "first_seen": "2026-09-18T12:26:44Z",
+      "host": null,
+      "id": "pv_5b982b73",
+      "info_at": "2026-09-18T12:26:44Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-18T16:13:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-18T14:30:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-18T16:13:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/7gVfpsqsqKk/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【演技＆朗読】新人女性声優・肉月律さん【峰月律/ゆめみた】",
+      "title_ko": "【연기＆낭독】신인 여성 성우·육월律 씨【峰月律/ゆめみた】",
+      "url": "https://www.youtube.com/watch?v=7gVfpsqsqKk",
+      "video_id": "7gVfpsqsqKk"
     }
   ]
 }
