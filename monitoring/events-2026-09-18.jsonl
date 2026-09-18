@@ -20,3 +20,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-18T09:04:47Z", "via": "ingest", "who": ""}
 {"detail": "mode: added · 파싱 3건", "flow": "relay", "result": "ok", "ts": "2026-09-18T09:04:47Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-18T09:17:27Z", "via": "ingest", "who": "yuno"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-18T10:09:48Z", "via": "ingest", "who": ""}
