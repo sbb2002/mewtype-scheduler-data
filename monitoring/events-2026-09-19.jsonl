@@ -60,3 +60,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T14:47:25Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T14:48:27Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T14:50:02Z", "via": "ingest", "who": "miyako"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-19T15:00:08Z", "via": "ingest", "who": ""}
