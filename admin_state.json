@@ -9,11 +9,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "본인 예고 나카마치 아라레 (今日はみゃーちゃんのお誕生日〜🎂✨️\nおめでとう〜！！！！✨️\n21:30~から)",
-    "at": "2026-09-19T09:07:15Z",
+    "action": "본인 예고 후지 미야코 (9/19は〜♪\n16歳の〜誕生日〜♪\n\n本日21:30から\n#藤都子生誕祭202)",
+    "at": "2026-09-19T09:19:12Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "b97bd9e124c4aaa11a1981f31e5148d1d558569c",
+    "new_sha": "e40ed5e4ff9f96d0a21fbacbb17fa313d1bb99bd",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -195,6 +195,34 @@
           "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
           "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
           "video_id": "h31Mi6AS7a0"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "arale",
+          "collab_with": [],
+          "concurrent_viewers": null,
+          "expires_at": "2026-09-19T15:30:00Z",
+          "first_seen": "2026-09-19T09:07:15Z",
+          "host": null,
+          "id": "pv_cb810a64",
+          "info_at": "2026-09-19T09:03:55Z",
+          "info_source": "personal",
+          "kind": "unknown",
+          "last_updated": "2026-09-19T09:07:15Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-09-19T12:30:00Z",
+          "source": "personal",
+          "state": "announced",
+          "state_since": "2026-09-19T09:07:15Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": "https://www.youtube.com/@arale_yumemita",
+          "video_id": null
         }
       ]
     }
