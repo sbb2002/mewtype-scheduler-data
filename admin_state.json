@@ -9,14 +9,14 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 added (下記リリースイベントのお申し込みは明日9/20(日)まで📅)",
-    "at": "2026-09-19T05:30:02Z",
+    "action": "소식 added (【#TGS2026 9月21日(月･祝)中止のお知らせ】)",
+    "at": "2026-09-19T07:04:57Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "6f0b4d975fd55d09601398d5189872d99cdd1011",
+    "new_sha": "31ac10e408e85b38e849134db3d2078378201b97",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-19T05:25:08Z",
+      "generated_at": "2026-09-19T05:30:02Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -72,6 +72,32 @@
           "title_slug": "ぜひ一緒に誕生日をお祝いしましょう",
           "tweet_url": "https://x.com/i/status/2101144247785423004",
           "url": "https://www.youtube.com/live/MNocXlK5P8s"
+        },
+        {
+          "anchor_a": "22079",
+          "anchor_b": "これはぼくたちの生存のあらすじ",
+          "body_for_llm": "＼申し込み明日まで📢／ #ゆめみた 5th Single 「これはぼくたちの生存のあらすじ」 下記リリースイベントのお申し込みは明日 (日)まで📅 ・ (土) HMV&BOOKS SHIBUYA 🔗 お申し込みお忘れないようご注意ください！💡 #バンドリ",
+          "body_raw": "＼申し込み明日まで📢／\n\n#ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」\n下記リリースイベントのお申し込みは明日9/20(日)まで📅\n\n・10/31(土)　HMV&BOOKS SHIBUYA\n\n🔗https://bushiroad-music.com/topics/22079/\n\nお申し込みお忘れないようご注意ください！💡\n\n#バンドリ",
+          "category": "release",
+          "date": "2026-09-20",
+          "deadline": true,
+          "expires_at": "2026-09-20T15:00:00Z",
+          "first_seen": "2026-09-19T05:30:02Z",
+          "id": "2101181994910863417",
+          "last_updated": "2026-09-19T05:30:02Z",
+          "participants": null,
+          "seen_ids": [
+            "2101181994910863417"
+          ],
+          "site": "store",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "5thシングル「これはぼくたちの生存のあらすじ」リリースイベント申し込みは明日まで",
+          "title_ko": "5번째 싱글 \"これはぼくたちの生存のあらすじ\" 릴리즈 이벤트 신청은 내일까지",
+          "title_raw": "下記リリースイベントのお申し込みは明日9/20(日)まで📅",
+          "title_slug": "下記リリースイベントのお申し込みは明日日まで",
+          "tweet_url": "https://x.com/i/status/2101181994910863417",
+          "url": "https://bushiroad-music.com/topics/22079/"
         },
         {
           "anchor_a": "yumemita-arale",
