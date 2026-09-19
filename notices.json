@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T01:27:29Z",
+  "generated_at": "2026-09-19T03:03:19Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -28,32 +28,33 @@
       "url": "https://radiko.jp/#!/ts/802/20260913010000"
     },
     {
-      "anchor_a": "@miyako_yumemita",
+      "anchor_a": "MNocXlK5P8s",
       "anchor_b": null,
-      "body_for_llm": "RT @BushiM_info: 🎂#藤都子誕生祭2026🎂 🎂#藤都子生誕祭2026🎂 は #バンドリ #アワーノーツ 夢限大みゅーたいぷのキーボード担当🎹 🪐藤都子のお誕生日🪐 おめでとうございます！！ グッズと一緒にお祝いしよう🎉",
-      "body_raw": "RT @BushiM_info: 🎂#藤都子誕生祭2026🎂\n🎂#藤都子生誕祭2026🎂\n\n9月19日は #バンドリ #アワーノーツ \n夢限大みゅーたいぷのキーボード担当🎹\n🪐藤都子のお誕生日🪐\n\nおめでとうございます！！\nグッズと一緒にお祝いしよう🎉\nhttps://t.co…",
-      "category": "release",
+      "body_for_llm": "／ ℍ𝕒𝕡𝕡𝕪 𝔹𝕚𝕣𝕥𝕙𝕕𝕒𝕪🎂 藤都子🎹 ＼ ⏰本日 〜 💜藤都子 生誕記念配信💜 📺配信URLはこちら ぜひ一緒に誕生日をお祝いしましょう🥰 #藤都子生誕祭2026 #バンドリ",
+      "body_raw": "／\nℍ𝕒𝕡𝕡𝕪 𝔹𝕚𝕣𝕥𝕙𝕕𝕒𝕪🎂\n藤都子🎹\n＼\n\n⏰本日21:30〜 \n💜藤都子 生誕記念配信💜\n\n📺配信URLはこちら\nhttps://www.youtube.com/live/MNocXlK5P8s\n\nぜひ一緒に誕生日をお祝いしましょう🥰\n\n#藤都子生誕祭2026\n#バンドリ",
+      "category": "etc",
       "date": "2026-09-19",
       "deadline": false,
       "expires_at": "2026-09-19T15:00:00Z",
       "first_seen": "2026-09-16T11:00:49Z",
       "id": "2100177886896644118",
-      "last_updated": "2026-09-19T01:27:29Z",
+      "last_updated": "2026-09-19T03:03:19Z",
       "participants": null,
       "seen_ids": [
         "2100177886896644118",
         "2100972165122412698",
-        "2101119183945875787"
+        "2101119183945875787",
+        "2101144247785423004"
       ],
-      "site": "x",
-      "src_handle": "RT @BushiM_info",
-      "time": "29:00",
-      "title": "グッズと一緒にお祝いしよう",
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:30",
+      "title": "ぜひ一緒に誕生日をお祝いしましょう🥰",
       "title_ko": "藤都子 생일 기념 방송 결정!",
-      "title_raw": "グッズと一緒にお祝いしよう",
-      "title_slug": "グッズと一緒にお祝いしよう",
-      "tweet_url": "https://x.com/i/status/2101119183945875787",
-      "url": "https://youtube.com/@miyako_yumemita"
+      "title_raw": "ぜひ一緒に誕生日をお祝いしましょう🥰",
+      "title_slug": "ぜひ一緒に誕生日をお祝いしましょう",
+      "tweet_url": "https://x.com/i/status/2101144247785423004",
+      "url": "https://www.youtube.com/live/MNocXlK5P8s"
     },
     {
       "anchor_a": "yumemita-arale",
