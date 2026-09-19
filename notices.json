@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:06:16Z",
+  "generated_at": "2026-09-19T13:43:59Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -263,6 +263,32 @@
       "title_slug": "abemaにてtvアニメバンドリゆめみた全話無料",
       "tweet_url": "https://x.com/i/status/2101153519244067194",
       "url": null
+    },
+    {
+      "anchor_a": "09873631",
+      "anchor_b": null,
+      "body_for_llm": "RT @bang_dream_info: ＼コミックス発売決定🎉／ (金)発売📚 💪マジカルフィジカル☆くるる💪 藤都子が描く漫画 #マジるる の コミックスが発売決定🎊 🔗ご予約はこちら ご購入いただくと抽選で…",
+      "body_raw": "RT @bang_dream_info: ＼コミックス発売決定🎉／\n\n9月25日(金)発売📚\n💪マジカルフィジカル☆くるる💪\n\n藤都子が描く漫画 #マジるる の\nコミックスが発売決定🎊\n\n🔗ご予約はこちら\nhttps://www.shogakukan.co.jp/books/09873631\n\nご購入いただくと抽選で…",
+      "category": "release",
+      "date": "2026-09-25",
+      "deadline": false,
+      "expires_at": "2026-09-25T15:00:00Z",
+      "first_seen": "2026-09-19T13:43:59Z",
+      "id": "2101306300093305036",
+      "last_updated": "2026-09-19T13:43:59Z",
+      "participants": null,
+      "seen_ids": [
+        "2101306300093305036"
+      ],
+      "site": "web",
+      "src_handle": "RT @bang_dream_info",
+      "time": null,
+      "title": "コミックス発売決定！",
+      "title_ko": "커믹스 발매 결정!",
+      "title_raw": "RT @bang_dream_info: ＼コミックス発売決定",
+      "title_slug": "rtbangdreaminfoコミックス発売決定",
+      "tweet_url": "https://x.com/i/status/2101306300093305036",
+      "url": "https://www.shogakukan.co.jp/books/09873631"
     },
     {
       "anchor_a": "XpYUyjhJ1A",
