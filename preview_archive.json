@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:49:00Z",
+  "generated_at": "2026-09-19T14:40:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -642,6 +642,34 @@
       "title_ko": "【반주노래】기타！！！！！！！！！【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=UQBqWEKNZWk",
       "video_id": "UQBqWEKNZWk"
+    },
+    {
+      "actual_start": "2026-09-19T12:31:29Z",
+      "api_start_seen": "2026-09-19T12:30:00Z",
+      "archived_at": "2026-09-19T14:40:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": [],
+      "concurrent_viewers": 851,
+      "expires_at": "2026-09-19T15:30:00Z",
+      "first_seen": "2026-09-16T11:37:30Z",
+      "host": null,
+      "id": "pv_afb223db",
+      "info_at": "2026-09-19T09:16:25Z",
+      "info_source": "personal",
+      "kind": "unknown",
+      "last_updated": "2026-09-19T14:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-19T12:30:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-19T14:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/MNocXlK5P8s/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "🎂生誕配信🎂＃藤都子生誕祭2026 みやこは16歳♪【ゆめみた/藤都子】",
+      "title_ko": "🎂생일 방송🎂 #藤都子생일축제2026 미야코는 16살♪【ゆめみた/藤都子】",
+      "url": "https://www.youtube.com/watch?v=MNocXlK5P8s",
+      "video_id": "MNocXlK5P8s"
     }
   ]
 }
