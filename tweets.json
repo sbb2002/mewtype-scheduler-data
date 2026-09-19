@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:22:13Z",
+  "generated_at": "2026-09-19T08:29:16Z",
   "tweets": {
     "arale": [
       {
@@ -38,7 +38,14 @@
         "handle": "arale_yumemita",
         "id": "2100895649764192693",
         "media": [],
-        "quote": null,
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/GKT1eNvakAEbC3Q.png"
+          ],
+          "needs_tl": true,
+          "text": "＼💛歌ってみた動画公開💙／\n\n#夢限大みゅーたいぷ\n仲町あられ・峰月律の歌ってみた動画をプレミア公開🎤✨️\n\n唱 / Ado\n【 covered by 仲町あられ・峰月律 】\n\nぜひたくさん聴いてくださいね🥰🎶\n\nご視聴はこちらから👇\nhttps://www.youtube.com/watch?v=zVdR0urFjnc\n\n#バンドリ #ゆめみた",
+          "text_ko": null
+        },
         "received_at": "2026-09-18T10:35:19Z",
         "text": "2年半前…💛💙",
         "text_ko": "2년 반 전…💛💙",
