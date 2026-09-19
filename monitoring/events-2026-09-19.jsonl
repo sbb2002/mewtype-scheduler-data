@@ -3,3 +3,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T01:06:52Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: skip", "flow": "notice", "result": "ok", "ts": "2026-09-19T01:27:29Z", "via": "ingest", "who": ""}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-19T01:27:29Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-19T01:27:29Z", "via": "ingest", "who": ""}
