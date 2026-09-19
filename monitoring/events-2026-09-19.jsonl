@@ -52,3 +52,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-19T14:10:00Z", "who": "MNocXlK5P8s"}
 {"detail": "live→end", "flow": "preview", "item_id": "pv_afb223db", "result": "ok", "title": "🎂生誕配信🎂＃藤都子生誕祭2026 みやこは16歳♪【ゆめみた/藤都子】", "ts": "2026-09-19T14:10:00Z", "video_id": "MNocXlK5P8s", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T14:33:59Z", "via": "ingest", "who": "miyako"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T14:35:16Z", "via": "ingest", "who": "miyako"}
