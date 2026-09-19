@@ -9,14 +9,14 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 updated (グッズと一緒にお祝いしよう)",
-    "at": "2026-09-19T01:27:29Z",
+    "action": "소식 updated (ぜひ一緒に誕生日をお祝いしましょう🥰)",
+    "at": "2026-09-19T03:03:19Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "cbc5ebaed82a800269b9944bf8f9d18d7702aab6",
+    "new_sha": "9726296e15846bca1ab28c7746f3094ecf3e2bbd",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-18T15:36:45Z",
+      "generated_at": "2026-09-19T01:27:29Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -47,28 +47,29 @@
         {
           "anchor_a": "@miyako_yumemita",
           "anchor_b": null,
-          "body_for_llm": "RT @canvas29 Happy birthday 都子！ #藤都子生誕祭2026 #藤都子誕生祭2026",
-          "body_raw": "RT @canvas2929: Happy birthday 都子！\n#藤都子生誕祭2026\n#藤都子誕生祭2026",
-          "category": "etc",
+          "body_for_llm": "RT @BushiM_info: 🎂#藤都子誕生祭2026🎂 🎂#藤都子生誕祭2026🎂 は #バンドリ #アワーノーツ 夢限大みゅーたいぷのキーボード担当🎹 🪐藤都子のお誕生日🪐 おめでとうございます！！ グッズと一緒にお祝いしよう🎉",
+          "body_raw": "RT @BushiM_info: 🎂#藤都子誕生祭2026🎂\n🎂#藤都子生誕祭2026🎂\n\n9月19日は #バンドリ #アワーノーツ \n夢限大みゅーたいぷのキーボード担当🎹\n🪐藤都子のお誕生日🪐\n\nおめでとうございます！！\nグッズと一緒にお祝いしよう🎉\nhttps://t.co…",
+          "category": "release",
           "date": "2026-09-19",
           "deadline": false,
-          "expires_at": "2026-09-20T15:00:00Z",
+          "expires_at": "2026-09-19T15:00:00Z",
           "first_seen": "2026-09-16T11:00:49Z",
           "id": "2100177886896644118",
-          "last_updated": "2026-09-18T15:36:45Z",
+          "last_updated": "2026-09-19T01:27:29Z",
           "participants": null,
           "seen_ids": [
             "2100177886896644118",
-            "2100972165122412698"
+            "2100972165122412698",
+            "2101119183945875787"
           ],
           "site": "x",
-          "src_handle": "RT @canvas2929",
+          "src_handle": "RT @BushiM_info",
           "time": "29:00",
-          "title": "RT @canvas2929: Happy birthday 都子",
+          "title": "グッズと一緒にお祝いしよう",
           "title_ko": "藤都子 생일 기념 방송 결정!",
-          "title_raw": "RT @canvas2929: Happy birthday 都子",
-          "title_slug": "rtcanvas29happybirthday都",
-          "tweet_url": "https://x.com/i/status/2100972165122412698",
+          "title_raw": "グッズと一緒にお祝いしよう",
+          "title_slug": "グッズと一緒にお祝いしよう",
+          "tweet_url": "https://x.com/i/status/2101119183945875787",
           "url": "https://youtube.com/@miyako_yumemita"
         },
         {
