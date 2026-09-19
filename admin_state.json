@@ -42,11 +42,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "본인 예고 후지 미야코 (9/19は〜♪\n16歳の〜誕生日〜♪\n\n本日21:30から\n#藤都子生誕祭202)",
-    "at": "2026-09-19T09:19:12Z",
+    "action": "/del arale#3",
+    "at": "2026-09-19T11:41:32Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "e40ed5e4ff9f96d0a21fbacbb17fa313d1bb99bd",
+    "new_sha": "705844fd8569f4be1e0d29f64c0fefa05c7c67e7",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -113,7 +113,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-19T09:07:15Z",
+      "generated_at": "2026-09-19T09:19:12Z",
       "items": [
         {
           "actual_start": null,
@@ -126,10 +126,10 @@
           "first_seen": "2026-09-16T11:37:30Z",
           "host": null,
           "id": "pv_afb223db",
-          "info_at": "2026-09-16T11:33:28Z",
+          "info_at": "2026-09-19T09:16:25Z",
           "info_source": "personal",
           "kind": "unknown",
-          "last_updated": "2026-09-19T09:07:15Z",
+          "last_updated": "2026-09-19T09:19:12Z",
           "membership": false,
           "scheduled_start": "2026-09-19T12:30:00Z",
           "source": "personal",
