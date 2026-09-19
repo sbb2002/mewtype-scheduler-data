@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:44:10Z",
+  "generated_at": "2026-09-19T05:25:08Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -261,6 +261,32 @@
       "title_slug": "millsage伊沢なつめ役の千春さん一家dum",
       "tweet_url": "https://x.com/i/status/2100782046960591258",
       "url": null
+    },
+    {
+      "anchor_a": "fujimiyako_exhibition",
+      "anchor_b": null,
+      "body_for_llm": "🎨藤都子展〜16歳〜🎨 藤都子による特典お渡し会の参加券は、 予定枚数終了となりました🎉 🔗詳細はこちら (日)には、BanG Dream! STOREでもお渡し会を開催しますので、お楽しみに✨ #藤都子16歳 #バンドリ",
+      "body_raw": "🎨藤都子展〜16歳〜🎨\n\n藤都子による特典お渡し会の参加券は、\n予定枚数終了となりました🎉\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/fujimiyako_exhibition/\n\n9/27(日)には、BanG Dream! STOREでもお渡し会を開催しますので、お楽しみに✨\n\n#藤都子16歳 #バンドリ",
+      "category": "etc",
+      "date": "2026-09-27",
+      "deadline": false,
+      "expires_at": "2026-09-27T15:00:00Z",
+      "first_seen": "2026-09-19T05:25:08Z",
+      "id": "2101180749676499146",
+      "last_updated": "2026-09-19T05:25:08Z",
+      "participants": null,
+      "seen_ids": [
+        "2101180749676499146"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "藤都子展〜16歳〜 特典お渡し会参加券完売のお知らせ",
+      "title_ko": "藤都子전〜16세〜 특전 전달회 참가권 매진 안내",
+      "title_raw": "藤都子による特典お渡し会の参加券は",
+      "title_slug": "藤都子による特典お渡し会の参加券は",
+      "tweet_url": "https://x.com/i/status/2101180749676499146",
+      "url": "https://bang-dream.com/events/fujimiyako_exhibition/"
     },
     {
       "anchor_a": null,
