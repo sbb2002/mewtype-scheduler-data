@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:43:59Z",
+  "generated_at": "2026-09-19T13:47:34Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -750,6 +750,32 @@
       "title_slug": "水発売",
       "tweet_url": "https://x.com/i/status/2098059265680515490",
       "url": null
+    },
+    {
+      "anchor_a": "miyako_atelier",
+      "anchor_b": null,
+      "body_for_llm": "／ 🎨みやこのアトリエ 開催決定！🎨 ＼ 日程:2027年 (土) 会場:学校法人片柳学園 日本工学院専門学校 片柳記念ホール 🔗詳細はこちら チケットなどの詳細は後日公開いたしますので、 お楽しみに✨ #バンドリ #ゆめみた",
+      "body_raw": "／\n🎨みやこのアトリエ\n　開催決定！🎨\n＼\n\n日程:2027年3月20日(土)\n会場:学校法人片柳学園 日本工学院専門学校 片柳記念ホール\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/miyako_atelier/\n\nチケットなどの詳細は後日公開いたしますので、\nお楽しみに✨\n\n#バンドリ #ゆめみた",
+      "category": "etc",
+      "date": "2027-03-20",
+      "deadline": false,
+      "expires_at": "2027-03-20T15:00:00Z",
+      "first_seen": "2026-09-19T13:47:34Z",
+      "id": "2101307201470263636",
+      "last_updated": "2026-09-19T13:47:34Z",
+      "participants": null,
+      "seen_ids": [
+        "2101307201470263636"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "みやこのアトリエ開催決定！",
+      "title_ko": "미야코의 아틀리에 개최 결정!",
+      "title_raw": "チケットなどの詳細は後日公開いたしますので",
+      "title_slug": "チケットなどの詳細は後日公開いたしますので",
+      "tweet_url": "https://x.com/i/status/2101307201470263636",
+      "url": "https://bang-dream.com/events/miyako_atelier/"
     }
   ]
 }
