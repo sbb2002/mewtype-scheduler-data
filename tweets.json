@@ -4,18 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-09-19T14:56:39Z",
-        "handle": "arale_yumemita",
-        "id": "2100961503226855794",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-18T14:56:39Z",
-        "text": "おふろ...🫠",
-        "text_ko": "목욕...🫠",
-        "url": "https://x.com/i/status/2100961503226855794"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-09-20T09:07:15Z",
         "handle": "arale_yumemita",
         "id": "2101235831302431170",
@@ -36,20 +24,6 @@
       }
     ],
     "miyako": [
-      {
-        "channel_key": "miyako",
-        "expires_at": "2026-09-19T15:08:34Z",
-        "handle": "miyako_yumemita",
-        "id": "2100963065298874458",
-        "media": [
-          "https://pbs.twimg.com/amplify_video_thumb/2100941283837833216/img/mH4PwqIlm2U-gLDf.jpg"
-        ],
-        "quote": null,
-        "received_at": "2026-09-18T15:08:34Z",
-        "text": "✨🦆#藤都子生誕祭2026 🦆✨",
-        "text_ko": "✨🦆#藤都子생일축제2026 🦆✨",
-        "url": "https://x.com/i/status/2100963065298874458"
-      },
       {
         "channel_key": "miyako",
         "expires_at": "2026-09-20T01:06:52Z",
