@@ -35,3 +35,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T09:26:32Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-19T10:00:08Z", "via": "ingest", "who": ""}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-19T12:06:16Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-19T12:06:16Z", "via": "ingest", "who": ""}
