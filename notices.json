@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:03:19Z",
+  "generated_at": "2026-09-19T03:44:10Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -183,6 +183,32 @@
       "title_raw": "RAISE A SUILEN「EXTREME EXPRESS」",
       "title_slug": "raiseasuilenextremeexpre",
       "tweet_url": "https://x.com/i/status/2100717154031239438",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "バンドリ！ゆめ∞みた",
+      "body_for_llm": "@bang_dream_info: 【#アニメゆめみた 一挙配信中📢】 ABEMAにてTVアニメ「バンドリ！ ゆめ∞みた」全話無料配信中❣ 📢 (金) TVアニメ「バンドリ！ ゆめ∞みた」 放送記念フリーライブ「新宿着陸計画」DAY2🌎 ライブ前の振り返りに、ぜひご覧ください🛸✨ #バンドリ",
+      "body_raw": "@bang_dream_info: 【#アニメゆめみた 一挙配信中📢】\n\nABEMAにてTVアニメ「バンドリ！ ゆめ∞みた」全話無料配信中❣\n\n📢9/25(金)\nTVアニメ「バンドリ！ ゆめ∞みた」\n放送記念フリーライブ「新宿着陸計画」DAY2🌎\n\nライブ前の振り返りに、ぜひご覧ください🛸✨\n\n#バンドリ",
+      "category": "etc",
+      "date": "2026-09-25",
+      "deadline": false,
+      "expires_at": "2026-09-25T15:00:00Z",
+      "first_seen": "2026-09-19T03:44:10Z",
+      "id": "2101153519244067194",
+      "last_updated": "2026-09-19T03:44:10Z",
+      "participants": null,
+      "seen_ids": [
+        "2101153519244067194"
+      ],
+      "site": "x",
+      "src_handle": "RT @bang_dream_info",
+      "time": null,
+      "title": "【#アニメゆめみた 一挙配信中📢】",
+      "title_ko": "【#애니메꿈봤 한 번에 스트리밍 중📢】",
+      "title_raw": "ABEMAにてTVアニメ「バンドリ！ ゆめ∞みた」全話無料配信中",
+      "title_slug": "abemaにてtvアニメバンドリゆめみた全話無料",
+      "tweet_url": "https://x.com/i/status/2101153519244067194",
       "url": null
     },
     {
