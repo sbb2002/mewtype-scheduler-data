@@ -27,3 +27,4 @@
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-09-19T09:07:15Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-19T09:07:15Z", "via": "ingest", "who": "arale"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-19T09:07:15Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-19T09:07:15Z", "via": "ingest", "who": ""}
