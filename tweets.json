@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:21:12Z",
+  "generated_at": "2026-09-19T09:26:32Z",
   "tweets": {
     "arale": [
       {
@@ -327,6 +327,20 @@
         "text": "配信をはじめます。",
         "text_ko": "스트리밍을 시작합니다.",
         "url": "https://x.com/i/status/2100956168424484887"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-20T09:26:32Z",
+        "handle": "ritsu_yumemita",
+        "id": "2101240994423533881",
+        "media": [
+          "https://pbs.twimg.com/media/HSkbjCBaMAAy_dr.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-19T09:26:32Z",
+        "text": "ﾐﾔｺｻﾝ16歳おめでとうございます",
+        "text_ko": "ﾐﾔｺｻﾝ 16세 생일을 축하합니다",
+        "url": "https://x.com/i/status/2101240994423533881"
       }
     ],
     "yuno": [
