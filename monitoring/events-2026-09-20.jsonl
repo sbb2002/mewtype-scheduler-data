@@ -66,3 +66,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T13:49:59Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T13:50:42Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T13:56:45Z", "via": "ingest", "who": "ritsu"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T14:00:00Z", "who": "gpxPajeDyO0"}
+{"detail": "announced→watching", "flow": "preview", "item_id": "pv_8cd1a904", "result": "ok", "title": null, "ts": "2026-09-20T14:00:00Z", "video_id": null, "who": "yuno"}
