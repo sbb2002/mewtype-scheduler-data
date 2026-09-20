@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T06:57:02Z",
+  "generated_at": "2026-09-20T08:25:40Z",
   "tweets": {
     "arale": [
       {
@@ -477,6 +477,20 @@
         "text": "夢小説界隈では「まつ毛なっが」「腰ほっそ」等がスタンダードだと存じますが\n\n「お前、弁当それだけ？」\n\nでエントリーさせて頂きます",
         "text_ko": "꿈소설계에서는 “마쓰게 나가”, “코시 호소” 등이 스탠다드라고 알고 있지만\n\n“너, 점심 도시락 그거뿐이야?”\n\n로 엔트리 하겠습니다",
         "url": "https://x.com/i/status/2101566262564503728"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-21T08:25:40Z",
+        "handle": "yuno_yumemita",
+        "id": "2101588047104253987",
+        "media": [
+          "https://pbs.twimg.com/media/HSpXMGXa8AEHpgW.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-20T08:25:40Z",
+        "text": "下書き供養",
+        "text_ko": "초안供養",
+        "url": "https://x.com/i/status/2101588047104253987"
       }
     ]
   }
