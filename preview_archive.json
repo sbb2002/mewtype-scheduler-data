@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:15:00Z",
+  "generated_at": "2026-09-20T15:50:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -726,6 +726,34 @@
       "title_ko": "【뱅드림! 아워노트】뱅드림! 공식 우등생이 선행 플레이를 진행합니다【峰月律/유메미타】#아워노트",
       "url": "https://www.youtube.com/watch?v=JsvLrSmgSz8",
       "video_id": "JsvLrSmgSz8"
+    },
+    {
+      "actual_start": "2026-09-20T14:03:01Z",
+      "api_start_seen": "2026-09-20T14:05:00Z",
+      "archived_at": "2026-09-20T15:50:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-20T19:00:00Z",
+      "first_seen": "2026-09-20T04:01:00Z",
+      "host": null,
+      "id": "pv_8cd1a904",
+      "info_at": "2026-09-20T04:01:00Z",
+      "info_source": "yt-notif",
+      "kind": "song",
+      "last_updated": "2026-09-20T15:50:00Z",
+      "membership": true,
+      "scheduled_start": "2026-09-20T14:05:00Z",
+      "source": "x-relay",
+      "state": "none",
+      "state_since": "2026-09-20T15:50:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/wPWZblyvzDc/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "YUNO's+ 限定配信",
+      "title_ko": "YUNO's+ 한정 배포",
+      "url": "https://www.youtube.com/watch?v=wPWZblyvzDc",
+      "video_id": "wPWZblyvzDc"
     }
   ]
 }
