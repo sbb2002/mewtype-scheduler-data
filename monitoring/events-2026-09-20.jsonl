@@ -76,3 +76,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T14:12:07Z", "via": "ingest", "who": "nonoka"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T14:15:00Z", "who": "_o3jX7LxtJ8"}
 {"detail": "end→none", "flow": "preview", "item_id": "pv_8f5fc89a", "result": "ok", "title": "【バンドリ！アワーノーツ】バンドリ！公式優等生が先行プレイさせていただきます【峰月律/ゆめみた】#アワーノーツ", "ts": "2026-09-20T14:15:00Z", "video_id": "JsvLrSmgSz8", "who": "ritsu"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T14:30:00Z", "who": "wPWZblyvzDc"}
+{"detail": "announced→watching", "flow": "preview", "item_id": "pv_aeb8c7a9", "result": "ok", "title": null, "ts": "2026-09-20T14:30:00Z", "video_id": null, "who": "nonoka"}
