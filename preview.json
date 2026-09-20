@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T12:27:00Z",
+  "generated_at": "2026-09-20T12:28:31Z",
   "items": [
     {
       "actual_start": "2026-09-20T11:59:44Z",
@@ -103,10 +103,10 @@
       "first_seen": "2026-09-20T01:29:53Z",
       "host": null,
       "id": "pv_580e2870",
-      "info_at": "2026-09-20T01:29:53Z",
+      "info_at": "2026-09-20T12:28:28Z",
       "info_source": "personal",
       "kind": "talk",
-      "last_updated": "2026-09-20T12:27:00Z",
+      "last_updated": "2026-09-20T12:28:31Z",
       "membership": false,
       "scheduled_start": "2026-09-20T12:30:00Z",
       "source": "personal",
