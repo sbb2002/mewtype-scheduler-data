@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:05:00Z",
+  "generated_at": "2026-09-20T16:25:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -782,6 +782,34 @@
       "title_ko": "【🟡歌枠】는 하나후초에서, 복귀!!! 노래할 거야오오오오오오오!!! (금단증상)【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=_o3jX7LxtJ8",
       "video_id": "_o3jX7LxtJ8"
+    },
+    {
+      "actual_start": "2026-09-20T14:30:49Z",
+      "api_start_seen": "2026-09-20T14:30:28Z",
+      "archived_at": "2026-09-20T16:25:00Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 667,
+      "expires_at": "2026-09-20T17:30:28Z",
+      "first_seen": "2026-09-20T14:32:24Z",
+      "host": null,
+      "id": "pv_03533f6c",
+      "info_at": "2026-09-20T14:32:24Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-20T16:25:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-20T14:30:28Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-20T16:25:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/R8u6-bD13RY/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【弾き語り】リリイベありがとう🎶ちょっとだけ！【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+      "title_ko": "【弾き語리】리리이벤트 고마워🎶조금만!【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
+      "url": "https://www.youtube.com/watch?v=R8u6-bD13RY",
+      "video_id": "R8u6-bD13RY"
     }
   ]
 }
