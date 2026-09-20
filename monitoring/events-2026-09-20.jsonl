@@ -70,3 +70,5 @@
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_8cd1a904", "result": "ok", "title": null, "ts": "2026-09-20T14:00:00Z", "video_id": null, "who": "yuno"}
 {"detail": "mode: yt-member-live upgraded", "flow": "relay", "result": "ok", "ts": "2026-09-20T14:03:43Z", "via": "ingest", "who": "yuno"}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T14:05:00Z", "who": "gpxPajeDyO0"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T14:10:00Z", "who": "_o3jX7LxtJ8"}
+{"detail": "end→none", "flow": "preview", "item_id": "pv_580e2870", "result": "ok", "title": "【雑談】藤都子16歳day２♪しゃべりたいことをはなすんだよ❣【ゆめみた/藤都子】", "ts": "2026-09-20T14:10:00Z", "video_id": "gpxPajeDyO0", "who": "miyako"}
