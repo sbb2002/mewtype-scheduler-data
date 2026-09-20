@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T13:56:45Z",
+  "generated_at": "2026-09-20T14:12:07Z",
   "tweets": {
     "arale": [
       {
@@ -410,6 +410,24 @@
         "text": "公式さんありがとうございます😭🙇‍♀️✨",
         "text_ko": "공식님 감사합니다😭🙇‍♀️✨",
         "url": "https://x.com/i/status/2101632455035998700"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-09-21T14:12:07Z",
+        "handle": "nonoka_yumemita",
+        "id": "2101675768824885388",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HSjVXusaYAAipwZ.jpg"
+          ],
+          "text": "🛸#ゆめみた\n9/20(日)の配信スケジュール\n\n🎮21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n💭21:30～／☀明日朝7:00～ 藤都子\nhttps://www.youtube.com/@miyako_yumemita\n\n✨22:00～ 仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n🎤23:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n🎸23:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita",
+          "text_ko": "🛸#ゆめみた\n9/20(일) 방송 일정\n\n🎮21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n💭21:30～／☀내일 아침 7:00～ 藤都子\nhttps://www.youtube.com/@miyako_yumemita\n\n✨22:00～ 仲町아라레\nhttps://www.youtube.com/@arale_yumemita\n\n🎤23:00～ 千石유노\nhttps://www.youtube.com/@yuno_yumemita\n\n🎸23:30～ 宮永노노카\nhttps://www.youtube.com/@nonoka_yumemita"
+        },
+        "received_at": "2026-09-20T14:12:07Z",
+        "text": "このあと23:30からはいしん！\nみじかめをよてい",
+        "text_ko": "이후 23:30부터 방송! 짧은 버전을 예정",
+        "url": "https://x.com/i/status/2101675768824885388"
       }
     ],
     "ritsu": [
