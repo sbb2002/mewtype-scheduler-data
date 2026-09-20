@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T14:35:00Z",
+  "generated_at": "2026-09-20T14:40:02Z",
   "items": [
     {
       "actual_start": "2026-09-20T13:02:34Z",
@@ -135,7 +135,6 @@
       "kind": null,
       "last_updated": "2026-09-20T14:35:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-20T14:30:28Z",
       "source": "personal",
       "state": "live",
@@ -143,7 +142,7 @@
       "thumbnail": "https://i.ytimg.com/vi/R8u6-bD13RY/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【弾き語り】リリイベありがとう🎶ちょっとだけ！【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-      "title_ko": null,
+      "title_ko": "【弾き語리】리리이벤트 고마워🎶조금만!【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=R8u6-bD13RY",
       "video_id": "R8u6-bD13RY"
     },
