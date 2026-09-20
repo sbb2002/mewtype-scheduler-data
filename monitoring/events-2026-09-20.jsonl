@@ -4,3 +4,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T01:29:53Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T01:29:53Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T01:29:53Z", "via": "ingest", "who": "nonoka"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-20T01:40:01Z", "who": ""}
