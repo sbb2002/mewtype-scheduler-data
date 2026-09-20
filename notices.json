@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T03:16:13Z",
+  "generated_at": "2026-09-20T04:30:03Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -467,6 +467,32 @@
       "title_slug": "bangdreamアトレ秋葉原popupstor",
       "tweet_url": "https://x.com/i/status/2100751660582891717",
       "url": "https://www.atre.co.jp/akihabara/news/7616/"
+    },
+    {
+      "anchor_a": "shop_list",
+      "anchor_b": null,
+      "body_for_llm": "📢CM放映中！ #アワーノーツ のCMが30店舗の飲食店で現在放映中📺 📅放映期間 (日)まで ▼実施店舗はこちら お越しの際はぜひご覧ください✨ ※最新の営業状況(休業等含む)はご確認いただき、店舗へのお問合せはご遠慮ください。 #バンドリ",
+      "body_raw": "📢CM放映中！\n\n#アワーノーツ のCMが30店舗の飲食店で現在放映中📺\n\n📅放映期間\n10月4日(日)まで\n\n▼実施店舗はこちら\nhttps://misemedia.jp/shop_list\n\nお越しの際はぜひご覧ください✨\n\n※最新の営業状況(休業等含む)はご確認いただき、店舗へのお問合せはご遠慮ください。\n#バンドリ",
+      "category": "etc",
+      "date": "2026-10-04",
+      "deadline": true,
+      "expires_at": "2026-10-04T15:00:00Z",
+      "first_seen": "2026-09-20T04:30:03Z",
+      "id": "2101529285609583024",
+      "last_updated": "2026-09-20T04:30:03Z",
+      "participants": null,
+      "seen_ids": [
+        "2101529285609583024"
+      ],
+      "site": "store",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "CM放映中！ #アワーノーツ のCMが30店舗の飲食店で現在放映中",
+      "title_ko": "CM 방영 중! #아워노트의 CM이 30개 식당에서 현재 방영 중",
+      "title_raw": "CM放映中",
+      "title_slug": "cm放映中",
+      "tweet_url": "https://x.com/i/status/2101529285609583024",
+      "url": "https://misemedia.jp/shop_list"
     },
     {
       "anchor_a": ":〜:text=%E2%96%A0BanG%20Dream!%20%E3%82%",
