@@ -47,3 +47,5 @@
 {"detail": "watching→live", "flow": "preview", "item_id": "pv_8f5fc89a", "result": "ok", "title": "【バンドリ！アワーノーツ】バンドリ！公式優等生が先行プレイさせていただきます【峰月律/ゆめみた】#アワーノーツ", "ts": "2026-09-20T12:00:00Z", "video_id": "JsvLrSmgSz8", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T12:00:40Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-20T12:18:45Z", "via": "ingest", "who": ""}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T12:27:00Z", "who": "gpxPajeDyO0"}
+{"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_580e2870", "result": "ok", "title": "【雑談】藤都子16歳day２♪しゃべりたいことをはなすんだよ❣【ゆめみた/藤都子】", "ts": "2026-09-20T12:27:00Z", "video_id": "gpxPajeDyO0", "who": "miyako"}
