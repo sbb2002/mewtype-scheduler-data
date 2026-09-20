@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T14:10:00Z",
+  "generated_at": "2026-09-20T14:10:06Z",
   "items": [
     {
       "actual_start": "2026-09-20T13:02:34Z",
@@ -108,7 +108,6 @@
       "kind": "song",
       "last_updated": "2026-09-20T14:10:00Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-09-20T14:05:00Z",
       "source": "x-relay",
       "state": "live",
@@ -116,7 +115,7 @@
       "thumbnail": "https://i.ytimg.com/vi/wPWZblyvzDc/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "YUNO's+ 限定配信",
-      "title_ko": null,
+      "title_ko": "YUNO's+ 한정 배포",
       "url": "https://www.youtube.com/watch?v=wPWZblyvzDc",
       "video_id": "wPWZblyvzDc"
     },
