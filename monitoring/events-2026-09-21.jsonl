@@ -1,2 +1,3 @@
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-20T22:00:00Z", "who": ""}
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_40dca19b", "result": "ok", "title": null, "ts": "2026-09-20T22:00:00Z", "video_id": null, "who": "miyako"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T22:09:01Z", "via": "ingest", "who": "miyako"}
