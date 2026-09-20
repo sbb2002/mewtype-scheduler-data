@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:40:00Z",
+  "generated_at": "2026-09-20T14:10:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -670,6 +670,34 @@
       "title_ko": "🎂생일 방송🎂 #藤都子생일축제2026 미야코는 16살♪【ゆめみた/藤都子】",
       "url": "https://www.youtube.com/watch?v=MNocXlK5P8s",
       "video_id": "MNocXlK5P8s"
+    },
+    {
+      "actual_start": "2026-09-20T12:31:31Z",
+      "api_start_seen": "2026-09-20T12:30:00Z",
+      "archived_at": "2026-09-20T14:10:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 477,
+      "expires_at": "2026-09-20T15:30:00Z",
+      "first_seen": "2026-09-20T01:29:53Z",
+      "host": null,
+      "id": "pv_580e2870",
+      "info_at": "2026-09-20T12:28:28Z",
+      "info_source": "personal",
+      "kind": "talk",
+      "last_updated": "2026-09-20T14:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-20T12:30:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-20T14:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/gpxPajeDyO0/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【雑談】藤都子16歳day２♪しゃべりたいことをはなすんだよ❣【ゆめみた/藤都子】",
+      "title_ko": "【잡담】藤都子 16세 day2♪ 하고 싶은 이야기를 말해요❣【ゆめみた/藤都子】",
+      "url": "https://www.youtube.com/watch?v=gpxPajeDyO0",
+      "video_id": "gpxPajeDyO0"
     }
   ]
 }
