@@ -24,3 +24,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T05:31:51Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T05:50:06Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T06:57:02Z", "via": "ingest", "who": "yuno"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-20T08:00:11Z", "via": "ingest", "who": ""}
