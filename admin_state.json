@@ -9,14 +9,14 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 updated (リリースイベント)",
-    "at": "2026-09-20T11:11:50Z",
+    "action": "소식 updated (夢限大みゅーたいぷ 5th Single 「これはぼくたちの)",
+    "at": "2026-09-20T11:13:23Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "4993bc634ca8e000c83309684a7d7042fa856a36",
+    "new_sha": "e5b148188d5a8752e27d06967eef6df1287462ef",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-20T04:30:03Z",
+      "generated_at": "2026-09-20T11:11:50Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -47,27 +47,28 @@
         {
           "anchor_a": "22079",
           "anchor_b": "これはぼくたちの生存のあらすじ",
-          "body_for_llm": "＼申し込み明日まで📢／ #ゆめみた 5th Single 「これはぼくたちの生存のあらすじ」 下記リリースイベントのお申し込みは明日 (日)まで📅 ・ (土) HMV&BOOKS SHIBUYA 🔗 お申し込みお忘れないようご注意ください！💡 #バンドリ",
-          "body_raw": "＼申し込み明日まで📢／\n\n#ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」\n下記リリースイベントのお申し込みは明日9/20(日)まで📅\n\n・10/31(土)　HMV&BOOKS SHIBUYA\n\n🔗https://bushiroad-music.com/topics/22079/\n\nお申し込みお忘れないようご注意ください！💡\n\n#バンドリ",
+          "body_for_llm": "\"🛸夢限大みゅーたいぷ 5th Single 「これはぼくたちの生存のあらすじ」 リリースイベント🛸 ご参加・ご声援いただき、ありがとうございました✨ 次回は、 (土)タワーレコード錦糸町パルコ店様にて開催❕ 💿詳細はこちら お楽しみに🛸 #バンドリ #ゆめみた\"",
+          "body_raw": "\"🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nご参加・ご声援いただき、ありがとうございました✨\n\n次回は、9/26(土)タワーレコード錦糸町パルコ店様にて開催❕\n\n💿詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお楽しみに🛸\n\n#バンドリ #ゆめみた\"",
           "category": "release",
           "date": "2026-09-20",
           "deadline": true,
-          "expires_at": "2026-09-20T15:00:00Z",
+          "expires_at": "2026-09-26T15:00:00Z",
           "first_seen": "2026-09-19T05:30:02Z",
           "id": "2101181994910863417",
-          "last_updated": "2026-09-19T05:30:02Z",
+          "last_updated": "2026-09-20T11:11:50Z",
           "participants": null,
           "seen_ids": [
-            "2101181994910863417"
+            "2101181994910863417",
+            "2101630028593459239"
           ],
           "site": "store",
           "src_handle": "@BDP_yumemita",
           "time": null,
-          "title": "5thシングル「これはぼくたちの生存のあらすじ」リリースイベント申し込みは明日まで",
+          "title": "リリースイベント",
           "title_ko": "5번째 싱글 \"これはぼくたちの生存のあらすじ\" 릴리즈 이벤트 신청은 내일까지",
-          "title_raw": "下記リリースイベントのお申し込みは明日9/20(日)まで📅",
-          "title_slug": "下記リリースイベントのお申し込みは明日日まで",
-          "tweet_url": "https://x.com/i/status/2101181994910863417",
+          "title_raw": "リリースイベント",
+          "title_slug": "リリースイベント",
+          "tweet_url": "https://x.com/i/status/2101630028593459239",
           "url": "https://bushiroad-music.com/topics/22079/"
         },
         {
