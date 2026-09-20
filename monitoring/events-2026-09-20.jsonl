@@ -54,3 +54,5 @@
 {"detail": "watching→live", "flow": "preview", "item_id": "pv_580e2870", "result": "ok", "title": "【雑談】藤都子16歳day２♪しゃべりたいことをはなすんだよ❣【ゆめみた/藤都子】", "ts": "2026-09-20T12:33:00Z", "video_id": "gpxPajeDyO0", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T12:34:35Z", "via": "ingest", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T12:54:46Z", "via": "ingest", "who": "arale"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T12:57:00Z", "who": "_o3jX7LxtJ8"}
+{"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_bdd6d413", "result": "ok", "title": "【🟡歌枠】はなふちょうから、復帰！！！歌うぞおおおおおおおお！！！(禁断症状)【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-09-20T12:57:00Z", "video_id": "_o3jX7LxtJ8", "who": "arale"}
