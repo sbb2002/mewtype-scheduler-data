@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T15:50:00Z",
+  "generated_at": "2026-09-20T15:51:05Z",
   "items": [
     {
       "actual_start": "2026-09-20T14:30:49Z",
@@ -190,10 +190,10 @@
       "first_seen": "2026-09-20T04:01:00Z",
       "host": null,
       "id": "pv_40dca19b",
-      "info_at": "2026-09-20T04:01:00Z",
-      "info_source": "x-relay",
+      "info_at": "2026-09-20T15:51:00Z",
+      "info_source": "personal",
       "kind": "morning",
-      "last_updated": "2026-09-20T04:01:00Z",
+      "last_updated": "2026-09-20T15:51:05Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-09-20T22:00:00Z",
