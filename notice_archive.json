@@ -679,6 +679,37 @@
       "title_slug": "放送日時",
       "tweet_url": "https://x.com/i/status/2098058929989472631",
       "url": null
+    },
+    {
+      "anchor_a": "MNocXlK5P8s",
+      "anchor_b": null,
+      "archived_at": "2026-09-20T03:16:13Z",
+      "body_for_llm": "／ ℍ𝕒𝕡𝕡𝕪 𝔹𝕚𝕣𝕥𝕙𝕕𝕒𝕪🎂 藤都子🎹 ＼ ⏰この後 〜 藤都子生誕記念配信がまもなく始まります！ 🔗配信はこちら お見逃しなく！！ #藤都子生誕祭2026 #バンドリ",
+      "body_raw": "／\nℍ𝕒𝕡𝕡𝕪 𝔹𝕚𝕣𝕥𝕙𝕕𝕒𝕪🎂\n藤都子🎹\n＼\n\n⏰この後21:30〜\n藤都子生誕記念配信がまもなく始まります！\n\n🔗配信はこちら\nhttps://www.youtube.com/live/MNocXlK5P8s\n\nお見逃しなく！！\n\n#藤都子生誕祭2026\n#バンドリ",
+      "category": "etc",
+      "date": "2026-09-19",
+      "deadline": false,
+      "expires_at": "2026-09-19T15:00:00Z",
+      "first_seen": "2026-09-16T11:00:49Z",
+      "id": "2100177886896644118",
+      "last_updated": "2026-09-19T12:06:16Z",
+      "participants": null,
+      "seen_ids": [
+        "2100177886896644118",
+        "2100972165122412698",
+        "2101119183945875787",
+        "2101144247785423004",
+        "2101280146846359564"
+      ],
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:30",
+      "title": "藤都子生誕記念配信がまもなく始まります",
+      "title_ko": "藤都子 생일 기념 방송 결정!",
+      "title_raw": "藤都子生誕記念配信がまもなく始まります",
+      "title_slug": "藤都子生誕記念配信がまもなく始まります",
+      "tweet_url": "https://x.com/i/status/2101280146846359564",
+      "url": "https://www.youtube.com/live/MNocXlK5P8s"
     }
   ]
 }
