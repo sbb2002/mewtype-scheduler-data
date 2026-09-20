@@ -84,3 +84,4 @@
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-20T14:40:46Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-20T14:40:46Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-20T15:00:10Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-20T15:06:24Z", "via": "ingest", "who": ""}
