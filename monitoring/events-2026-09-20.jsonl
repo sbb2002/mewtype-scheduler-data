@@ -81,3 +81,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T14:32:24Z", "via": "ingest", "who": "nonoka"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T14:35:00Z", "who": "_o3jX7LxtJ8"}
 {"candidates": 93, "detail": "candidates=93 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-20T14:40:02Z", "who": ""}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-20T14:40:46Z", "via": "ingest", "who": ""}
