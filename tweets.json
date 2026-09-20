@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:48:40Z",
+  "generated_at": "2026-09-20T01:29:52Z",
   "tweets": {
     "arale": [
       {
@@ -333,6 +333,18 @@
         "text": "バナナのナス バナナス",
         "text_ko": "바나나의 나스 바나나스",
         "url": "https://x.com/i/status/2101239751022145650"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-21T01:29:52Z",
+        "handle": "yuno_yumemita",
+        "id": "2101473431783186903",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-20T01:29:52Z",
+        "text": "𝑴𝒆𝒓𝒓𝒚 𝑪𝒉𝒓𝒊𝒔𝒕𝒎𝒂𝒔",
+        "text_ko": "메리 크리스마스",
+        "url": "https://x.com/i/status/2101473431783186903"
       }
     ]
   }
