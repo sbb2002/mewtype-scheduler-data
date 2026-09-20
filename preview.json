@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T12:57:00Z",
+  "generated_at": "2026-09-20T13:00:02Z",
   "items": [
     {
       "actual_start": "2026-09-20T11:59:44Z",
@@ -135,7 +135,6 @@
       "kind": null,
       "last_updated": "2026-09-20T12:57:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-20T13:00:00Z",
       "source": "personal",
       "state": "watching",
@@ -143,7 +142,7 @@
       "thumbnail": "https://i.ytimg.com/vi/_o3jX7LxtJ8/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡歌枠】はなふちょうから、復帰！！！歌うぞおおおおおおおお！！！(禁断症状)【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡歌枠】는 하나후초에서, 복귀!!! 노래할 거야오오오오오오오!!! (금단증상)【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=_o3jX7LxtJ8",
       "video_id": "_o3jX7LxtJ8"
     },
