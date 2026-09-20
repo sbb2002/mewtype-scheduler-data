@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:29:52Z",
+  "generated_at": "2026-09-20T01:29:53Z",
   "tweets": {
     "arale": [
       {
@@ -277,6 +277,18 @@
         "text": "ﾐﾔｺｻﾝ16歳おめでとうございます",
         "text_ko": "ﾐﾔｺｻﾝ 16세 생일을 축하합니다",
         "url": "https://x.com/i/status/2101240994423533881"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-21T01:29:53Z",
+        "handle": "ritsu_yumemita",
+        "id": "2101481021158068476",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-20T01:29:53Z",
+        "text": "おはぽんこつらーめん大盛一丁",
+        "text_ko": "おはぽんこつ라멘 대盛 한 그릇",
+        "url": "https://x.com/i/status/2101481021158068476"
       }
     ],
     "yuno": [
