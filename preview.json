@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T04:01:00Z",
+  "generated_at": "2026-09-20T11:13:47Z",
   "items": [
     {
       "actual_start": null,
@@ -290,6 +290,34 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-09-21T13:30:00Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-21T16:30:00Z",
+      "first_seen": "2026-09-20T11:13:47Z",
+      "host": null,
+      "id": "pv_2ddb7a53",
+      "info_at": "2026-09-20T11:13:47Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-20T11:13:47Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-09-21T13:30:00Z",
+      "source": "personal",
+      "state": "upcoming",
+      "state_since": "2026-09-20T11:13:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/duxW1ah76vs/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【Our Notes先行プレイ!】フルコンするまでギター練習!上手に演奏できるもん!【ゆめみた/夢限大みゅーたいぷ】 #半分人間 ",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=duxW1ah76vs",
+      "video_id": "duxW1ah76vs"
     }
   ]
 }
