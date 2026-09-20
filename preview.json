@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T12:33:00Z",
+  "generated_at": "2026-09-20T12:54:46Z",
   "items": [
     {
       "actual_start": "2026-09-20T11:59:44Z",
@@ -317,6 +317,34 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-09-20T13:00:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-20T16:00:00Z",
+      "first_seen": "2026-09-20T12:54:46Z",
+      "host": null,
+      "id": "pv_bdd6d413",
+      "info_at": "2026-09-20T12:54:46Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-20T12:54:46Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-09-20T13:00:00Z",
+      "source": "personal",
+      "state": "upcoming",
+      "state_since": "2026-09-20T12:54:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/_o3jX7LxtJ8/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】はなふちょうから、復帰！！！歌うぞおおおおおおおお！！！(禁断症状)【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=_o3jX7LxtJ8",
+      "video_id": "_o3jX7LxtJ8"
     }
   ]
 }
