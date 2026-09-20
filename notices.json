@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:17:50Z",
+  "generated_at": "2026-09-20T14:40:46Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -80,6 +80,32 @@
       "title_slug": "夢限大みゅーたいぷ5thsingleこれはぼくた",
       "tweet_url": "https://x.com/i/status/2101630789435981950",
       "url": "https://bushiroad-music.com/topics/22079/"
+    },
+    {
+      "anchor_a": "GP8Wuv1PAS0",
+      "anchor_b": "グローバルリリース事前特番",
+      "body_for_llm": "📢プレミア公開決定！ 海外版「グローバルリリース事前特番」を、 (月･祝) よりYouTube「バンドリちゃんねる☆」にてプレミア公開することが決定しました🎉 ぜひチェックしてくださいね✨ #バンドリ #アワーノーツ",
+      "body_raw": "📢プレミア公開決定！\n\n海外版「グローバルリリース事前特番」を、9月21日(月･祝)20:00よりYouTube「バンドリちゃんねる☆」にてプレミア公開することが決定しました🎉\n\nぜひチェックしてくださいね✨\n\nhttps://youtu.be/GP8Wuv1PAS0\n\n#バンドリ #アワーノーツ",
+      "category": "live",
+      "date": "2026-09-21",
+      "deadline": false,
+      "expires_at": "2026-09-21T15:00:00Z",
+      "first_seen": "2026-09-20T14:40:46Z",
+      "id": "2101682977407467767",
+      "last_updated": "2026-09-20T14:40:46Z",
+      "participants": null,
+      "seen_ids": [
+        "2101682977407467767"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "20:00",
+      "title": "プレミア公開決定！ 海外版「グローバルリリース事前特番」",
+      "title_ko": "프리미어 공개 결정! 해외판 \"글로벌 릴리스 사전 특집\"",
+      "title_raw": "海外版「グローバルリリース事前特番」を、9月21日(月･祝)20:00よりYouTube「バンドリちゃんねる☆」にてプレミア公開することが決定しました",
+      "title_slug": "海外版グローバルリリース事前特番を月祝よりyou",
+      "tweet_url": "https://x.com/i/status/2101682977407467767",
+      "url": "https://youtu.be/GP8Wuv1PAS0"
     },
     {
       "anchor_a": "yumemita-arale",
