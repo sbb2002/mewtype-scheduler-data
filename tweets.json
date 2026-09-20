@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:12:07Z",
+  "generated_at": "2026-09-20T14:32:24Z",
   "tweets": {
     "arale": [
       {
@@ -428,6 +428,18 @@
         "text": "このあと23:30からはいしん！\nみじかめをよてい",
         "text_ko": "이후 23:30부터 방송! 짧은 버전을 예정",
         "url": "https://x.com/i/status/2101675768824885388"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-09-21T14:32:24Z",
+        "handle": "nonoka_yumemita",
+        "id": "2101680869014663267",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-20T14:32:24Z",
+        "text": "しくよろですはじめます\n\n【弾き語り】リリイベありがとう🎶ちょっとだけ！【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts https://www.youtube.com/live/R8u6-bD13RY?si=E5uDQt83b_Vr-VMd",
+        "text_ko": "시쿠요로데스 시작합니다\n\n【반주와 노래】리리이베 고마워🎶 조금만!【꿈꾸다/무겐다이 뮤타입】 #반반인간 #shorts https://www.youtube.com/live/R8u6-bD13RY?si=E5uDQt83b_Vr-VMd",
+        "url": "https://x.com/i/status/2101680869014663267"
       }
     ],
     "ritsu": [
