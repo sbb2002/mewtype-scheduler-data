@@ -2,3 +2,5 @@
 {"detail": "announced→watching", "flow": "preview", "item_id": "pv_40dca19b", "result": "ok", "title": null, "ts": "2026-09-20T22:00:00Z", "video_id": null, "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T22:09:01Z", "via": "ingest", "who": "miyako"}
 {"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-20T22:10:01Z", "who": ""}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T22:40:00Z", "who": "iXxaTewQF7E"}
+{"detail": "live→end", "flow": "preview", "item_id": "pv_376423ca", "result": "ok", "title": "【朝活】雨の日おうちでなにする座談会【夢限大みゅーたいぷ/藤都子】 #shorts #縦型配信 #vtuber", "ts": "2026-09-20T22:40:00Z", "video_id": "iXxaTewQF7E", "who": "miyako"}
