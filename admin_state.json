@@ -9,11 +9,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "URL 확정 예고 miyako (MNocXlK5P8s)",
-    "at": "2026-09-19T14:33:59Z",
+    "action": "URL 확정 예고 miyako (gpxPajeDyO0)",
+    "at": "2026-09-20T01:29:53Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "84cb02fb7a9b63ca0a3782c7ad1e5e2f5c6a3b94",
+    "new_sha": "716c6f33874d5d1e7629d2803405f51f9f672993",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -80,7 +80,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-19T14:10:00Z",
+      "generated_at": "2026-09-19T14:40:00Z",
       "items": [
         {
           "actual_start": null,
@@ -96,7 +96,7 @@
           "info_at": "2026-09-18T14:01:41Z",
           "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-09-19T14:10:00Z",
+          "last_updated": "2026-09-19T14:40:00Z",
           "membership": false,
           "scheduled_start": "2026-09-20T12:00:00Z",
           "source": "personal",
@@ -128,7 +128,7 @@
           "info_at": "2026-09-17T08:03:04Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-09-19T14:10:00Z",
+          "last_updated": "2026-09-19T14:40:00Z",
           "membership": false,
           "scheduled_start": "2026-09-25T10:30:00Z",
           "source": "x-relay",
@@ -155,7 +155,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-09-19T14:10:00Z",
+          "last_updated": "2026-09-19T14:40:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -168,33 +168,6 @@
           "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
           "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
           "video_id": "h31Mi6AS7a0"
-        },
-        {
-          "actual_start": "2026-09-19T12:31:29Z",
-          "api_start_seen": "2026-09-19T12:30:00Z",
-          "assumed_live": false,
-          "channel_key": "miyako",
-          "collab_with": [],
-          "concurrent_viewers": 851,
-          "expires_at": "2026-09-19T15:30:00Z",
-          "first_seen": "2026-09-16T11:37:30Z",
-          "host": null,
-          "id": "pv_afb223db",
-          "info_at": "2026-09-19T09:16:25Z",
-          "info_source": "personal",
-          "kind": "unknown",
-          "last_updated": "2026-09-19T14:10:00Z",
-          "membership": false,
-          "scheduled_start": "2026-09-19T12:30:00Z",
-          "source": "personal",
-          "state": "end",
-          "state_since": "2026-09-19T14:10:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/MNocXlK5P8s/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "🎂生誕配信🎂＃藤都子生誕祭2026 みやこは16歳♪【ゆめみた/藤都子】",
-          "title_ko": "🎂생일 방송🎂 #藤都子생일축제2026 미야코는 16살♪【ゆめみた/藤都子】",
-          "url": "https://www.youtube.com/watch?v=MNocXlK5P8s",
-          "video_id": "MNocXlK5P8s"
         }
       ]
     }
