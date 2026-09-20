@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T08:25:40Z",
+  "generated_at": "2026-09-20T09:28:51Z",
   "tweets": {
     "arale": [
       {
@@ -491,6 +491,18 @@
         "text": "下書き供養",
         "text_ko": "초안供養",
         "url": "https://x.com/i/status/2101588047104253987"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-21T09:28:51Z",
+        "handle": "yuno_yumemita",
+        "id": "2101602970899279886",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-20T09:28:51Z",
+        "text": "バナナのナス バナナス",
+        "text_ko": "바나나의 나스 바나나스",
+        "url": "https://x.com/i/status/2101602970899279886"
       }
     ]
   }
