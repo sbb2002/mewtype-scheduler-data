@@ -92,3 +92,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T15:40:00Z", "who": "wPWZblyvzDc"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T15:50:00Z", "who": "R8u6-bD13RY"}
 {"detail": "end→none", "flow": "preview", "item_id": "pv_8cd1a904", "result": "ok", "title": "YUNO's+ 限定配信", "ts": "2026-09-20T15:50:00Z", "video_id": "wPWZblyvzDc", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-20T15:51:05Z", "via": "ingest", "who": "miyako"}
