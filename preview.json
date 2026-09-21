@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-21T04:34:41Z",
+  "generated_at": "2026-09-21T04:40:02Z",
   "items": [
     {
       "actual_start": null,
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-21T04:34:41Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-21T12:00:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/Fd47-ZE1GVs/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【#ぷりはとDay1】💖ユノ＆律こらぼ💙アイドル歌枠💙【峰月律/千石ユノ】",
-      "title_ko": null,
+      "title_ko": "【#프리하토Day1】💖유노＆리츠 콜라보💙아이돌 노래 방송💙【미네츠키 리츠/센고쿠 유노】",
       "url": "https://www.youtube.com/watch?v=Fd47-ZE1GVs",
       "video_id": "Fd47-ZE1GVs"
     },
