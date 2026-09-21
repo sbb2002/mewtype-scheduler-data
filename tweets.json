@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:33:39Z",
+  "generated_at": "2026-09-21T13:56:59Z",
   "tweets": {
     "arale": [
       {
@@ -324,6 +324,20 @@
         "text": "配信はじめます🕊🐔",
         "text_ko": "스트리밍 시작합니다🕊🐔",
         "url": "https://x.com/i/status/2102005992674525650"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-22T13:56:59Z",
+        "handle": "ritsu_yumemita",
+        "id": "2102032106574741908",
+        "media": [
+          "https://pbs.twimg.com/media/HSvq29EbsAANkbv.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-21T13:56:59Z",
+        "text": "また明日ね＾＾",
+        "text_ko": "또 내일 보자＾＾",
+        "url": "https://x.com/i/status/2102032106574741908"
       }
     ],
     "yuno": [
