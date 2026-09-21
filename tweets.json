@@ -80,26 +80,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-09-21T13:49:59Z",
-        "handle": "miyako_yumemita",
-        "id": "2101670189217792178",
-        "media": [
-          "https://pbs.twimg.com/media/HSqg3SxbMAAYZUx.jpg"
-        ],
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HSnhtRLaIAAtcFW.jpg"
-          ],
-          "text": "💜配信よてい💜\n本日9/20（日）21:30〜雑談💭\n※帰宅時間によりスタート遅れる可能性ｱﾘ🦆💦\n\n🔗 https://www.youtube.com/live/gpxPajeDyO0?si=7xcjZSISBape7y0X\n\n昨日は生誕ありゃとうございました❣️\n喋りきらなかったことなど\nまた〜りしゃべしゃべDAY2🐶ﾂｰ♪\n#みるみやこ",
-          "text_ko": "💜방송 일정💜\n오늘 9/20(일) 21:30~ 잡담💭\n※ 귀가 시간에 따라 시작이 늦어질 가능성🦆💦\n\n🔗 https://www.youtube.com/live/gpxPajeDyO0?si=7xcjZSISBape7y0X\n\n어제는 생일 축하해 주셔서 감사합니다❣️\n다 못한 이야기들\n또~ 말해 말해 DAY2🐶ツ♪ \n#みるみやこ"
-        },
-        "received_at": "2026-09-20T13:49:59Z",
-        "text": "配信ありゃとうございました♪\n冒頭がURL限定公開配信になっててｺﾞﾒﾝﾈ🦆💦\n\n＃藤都子16歳 グッズにもなっている\n描き下ろしイラストについてしゃべしゃべ💭\nみやここだわりのイラスト、じっくり観てくれよな♪\n＃みるみやこ",
-        "text_ko": "배송해 주셔서 감사합니다♪\n시작 부분이 URL 한정 공개 배송이라서 죄송합니다🦆💦\n\n#藤都子16歳 굿즈에도 나오는\n새로 그린 일러스트에 대해 수다수다💭\n미야코가 고집한 일러스트, 천천히 감상해 주세요♪\n#みるみやこ",
-        "url": "https://x.com/i/status/2101670189217792178"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-09-21T15:51:05Z",
         "handle": "miyako_yumemita",
         "id": "2101700661905961461",
@@ -267,32 +247,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-09-21T13:50:42Z",
-        "handle": "ritsu_yumemita",
-        "id": "2101670381530845651",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-20T13:50:42Z",
-        "text": "#アワーノーツ 先行プレイ配信ありがとうございました！\nガチャ神引きすぎて大興奮いたしました。\n自分がガチャで引けるのも嬉しすぎる。\nそして当たり前ですが、峰月律が喋ると、自分の声だ！と感動しました。\n演出、ストーリー、演奏、全てが楽しすぎるのでリリース日が本当に本当に楽しみです！！",
-        "text_ko": "#아워노트 선행 플레이 방송 감사합니다!\n가챠 신이 너무 많이 뽑혀서 대흥분했습니다.\n제가 가챠에서 뽑을 수 있다는 것 자체가 너무 기쁩니다.\n그리고 당연히, 미네츠키 리츠가 말하면 “내 목소리다!” 하고 감동했습니다.\n연출, 스토리, 연주, 모든 것이 너무 즐거워서 출시일이 정말 정말 기대됩니다!!",
-        "url": "https://x.com/i/status/2101670381530845651"
-      },
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-09-21T13:56:45Z",
-        "handle": "ritsu_yumemita",
-        "id": "2101671900573479157",
-        "media": [
-          "https://pbs.twimg.com/amplify_video_thumb/2101671877836189696/img/-QON3581wcIf4Eeo.jpg"
-        ],
-        "quote": null,
-        "received_at": "2026-09-20T13:56:45Z",
-        "text": "#TGS2026\nで撮影可能みたいな事が出来たのも見てください\nゆめみたのライブ見れて嬉しい、行きたかったんだ、”いた”んだ、そこに\nアワーノーツ、ありがとう",
-        "text_ko": "#TGS2026\n촬영이 가능한 것 같은 일을 할 수 있게 된 것도 보여 주세요\n꿈꾸던 라이브를 볼 수 있어서 기뻐, 가고 싶었어, “있었어” 그곳에\n우리 노트, 고마워",
-        "url": "https://x.com/i/status/2101671900573479157"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-09-22T04:34:41Z",
