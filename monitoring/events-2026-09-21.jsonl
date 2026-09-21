@@ -57,3 +57,5 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T14:10:00Z", "who": "NUeaGMXbUIE"}
 {"detail": "end→none", "flow": "preview", "item_id": "pv_f3abd0a7", "result": "ok", "title": "【#ぷりはとDay1】💖ユノ＆律こらぼ💙アイドル歌枠💙【峰月律/千石ユノ】", "ts": "2026-09-21T14:10:00Z", "video_id": "Fd47-ZE1GVs", "who": "ritsu"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T15:01:08Z", "via": "ingest", "who": ""}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T15:10:00Z", "who": "NUeaGMXbUIE"}
+{"detail": "live→end", "flow": "preview", "item_id": "pv_2ddb7a53", "result": "ok", "title": "【Our Notes先行プレイ!】フルコンするまでギター練習!上手に演奏できるもん!【ゆめみた/夢限大みゅーたいぷ】 #半分人間 ", "ts": "2026-09-21T15:10:00Z", "video_id": "duxW1ah76vs", "who": "nonoka"}
