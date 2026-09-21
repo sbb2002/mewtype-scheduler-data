@@ -40,3 +40,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T12:06:35Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T12:06:35Z", "via": "ingest", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T12:44:28Z", "via": "ingest", "who": "arale"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T13:05:00Z", "via": "ingest", "who": ""}
