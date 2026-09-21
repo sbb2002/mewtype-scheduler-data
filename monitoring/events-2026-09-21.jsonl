@@ -33,3 +33,5 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T11:23:14Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T11:42:52Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T11:46:20Z", "via": "ingest", "who": ""}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T11:57:00Z", "who": "Fd47-ZE1GVs"}
+{"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_f3abd0a7", "result": "ok", "title": "【#ぷりはとDay1】💖ユノ＆律こらぼ💙アイドル歌枠💙【峰月律/千石ユノ】", "ts": "2026-09-21T11:57:00Z", "video_id": "Fd47-ZE1GVs", "who": "ritsu"}
