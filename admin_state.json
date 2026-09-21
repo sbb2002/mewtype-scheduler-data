@@ -9,11 +9,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 added (CM放映中)",
-    "at": "2026-09-21T08:02:02Z",
+    "action": "소식 updated (「RESONEXT」)",
+    "at": "2026-09-21T09:30:48Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "2c7a4b7a399454afae533bd4bd49cf610b657237",
+    "new_sha": "ad592b84a635c7a84b1833c6d4b7a073f285963e",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-09-21T08:02:02Z",
@@ -174,6 +174,32 @@
           "title_raw": "【#TGS2026 9月21日(月･祝)中止のお知らせ】",
           "title_slug": "月祝中止のお知らせ",
           "tweet_url": "https://x.com/i/status/2101205574121828712",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": null,
+          "body_for_llm": "📢CM放映中！ 秋葉原オノデンMXビジョンと、新宿東南口パセラボビジョンにて #アワーノーツ のCMを放映中です📺 📅放映期間 (月･祝) 日(水･祝) お近くにお越しの際はぜひご覧ください✨ ※店舗へのお問合せはご遠慮ください。 #バンドリ",
+          "body_raw": "📢CM放映中！\n\n秋葉原オノデンMXビジョンと、新宿東南口パセラボビジョンにて #アワーノーツ のCMを放映中です📺\n\n📅放映期間\n9月21日(月･祝)〜9月23日(水･祝)\n\nお近くにお越しの際はぜひご覧ください✨\n※店舗へのお問合せはご遠慮ください。\n#バンドリ",
+          "category": "etc",
+          "date": "2026-09-21",
+          "deadline": false,
+          "expires_at": "2026-09-21T15:00:00Z",
+          "first_seen": "2026-09-21T08:02:02Z",
+          "id": "2101944527380758931",
+          "last_updated": "2026-09-21T08:02:02Z",
+          "participants": null,
+          "seen_ids": [
+            "2101944527380758931"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "秋葉原オノデンMXビジョンと新宿東南口パセラボビジョンで#アワーノーツCM放映中",
+          "title_ko": "아키하바라 오노덴 MX 비전과 신주쿠 동남구 파세라보 비전에서 #아워노츠 CM 방영 중",
+          "title_raw": "CM放映中",
+          "title_slug": "cm放映中",
+          "tweet_url": "https://x.com/i/status/2101944527380758931",
           "url": null
         },
         {
