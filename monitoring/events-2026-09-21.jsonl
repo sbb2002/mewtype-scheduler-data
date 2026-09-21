@@ -37,3 +37,4 @@
 {"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_f3abd0a7", "result": "ok", "title": "【#ぷりはとDay1】💖ユノ＆律こらぼ💙アイドル歌枠💙【峰月律/千石ユノ】", "ts": "2026-09-21T11:57:00Z", "video_id": "Fd47-ZE1GVs", "who": "ritsu"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T12:06:00Z", "who": "Fd47-ZE1GVs"}
 {"detail": "watching→live", "flow": "preview", "item_id": "pv_f3abd0a7", "result": "ok", "title": "【#ぷりはとDay1】💖ユノ＆律こらぼ💙アイドル歌枠💙【峰月律/千石ユノ】", "ts": "2026-09-21T12:06:00Z", "video_id": "Fd47-ZE1GVs", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T12:06:35Z", "via": "ingest", "who": "ritsu"}
