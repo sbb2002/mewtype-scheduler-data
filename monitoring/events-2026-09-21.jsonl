@@ -48,3 +48,5 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T13:25:34Z", "via": "ingest", "who": ""}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T13:27:00Z", "who": "duxW1ah76vs"}
 {"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_2ddb7a53", "result": "ok", "title": "【Our Notes先行プレイ!】フルコンするまでギター練習!上手に演奏できるもん!【ゆめみた/夢限大みゅーたいぷ】 #半分人間 ", "ts": "2026-09-21T13:27:00Z", "video_id": "duxW1ah76vs", "who": "nonoka"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T13:33:00Z", "who": "duxW1ah76vs"}
+{"detail": "watching→live", "flow": "preview", "item_id": "pv_2ddb7a53", "result": "ok", "title": "【Our Notes先行プレイ!】フルコンするまでギター練習!上手に演奏できるもん!【ゆめみた/夢限大みゅーたいぷ】 #半分人間 ", "ts": "2026-09-21T13:33:00Z", "video_id": "duxW1ah76vs", "who": "nonoka"}
