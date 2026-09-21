@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T23:10:00Z",
+  "generated_at": "2026-09-21T14:10:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -838,6 +838,34 @@
       "title_ko": "【아침활동】 비 오는 날 집에서 뭐 할까 토론회【무겐다이 뮤타입/藤都子】 #shorts #세로형방송 #vtuber",
       "url": "https://www.youtube.com/watch?v=iXxaTewQF7E",
       "video_id": "iXxaTewQF7E"
+    },
+    {
+      "actual_start": "2026-09-21T12:03:34Z",
+      "api_start_seen": "2026-09-21T12:00:00Z",
+      "archived_at": "2026-09-21T14:10:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 1187,
+      "expires_at": "2026-09-21T15:00:00Z",
+      "first_seen": "2026-09-21T04:34:41Z",
+      "host": null,
+      "id": "pv_f3abd0a7",
+      "info_at": "2026-09-21T04:34:41Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-21T14:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-21T12:00:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-21T14:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fd47-ZE1GVs/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【#ぷりはとDay1】💖ユノ＆律こらぼ💙アイドル歌枠💙【峰月律/千石ユノ】",
+      "title_ko": "【#프리하토Day1】💖유노＆리츠 콜라보💙아이돌 노래 방송💙【미네츠키 리츠/센고쿠 유노】",
+      "url": "https://www.youtube.com/watch?v=Fd47-ZE1GVs",
+      "video_id": "Fd47-ZE1GVs"
     }
   ]
 }
