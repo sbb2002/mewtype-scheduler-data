@@ -9,14 +9,14 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 added (チケット一般発売中)",
-    "at": "2026-09-21T10:06:20Z",
+    "action": "소식 added (明日10:00開始の夢限大みゅーたいぷ 千石 ユノさんの配信)",
+    "at": "2026-09-21T10:06:30Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "661edcfa3d8b5005a6bc1688e387e0e47602625e",
+    "new_sha": "7b53f0e4346e5f396ffe1e2fe196a533caadbf51",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-21T09:30:48Z",
+      "generated_at": "2026-09-21T10:06:20Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -71,6 +71,32 @@
           "title_slug": "夢限大みゅーたいぷ5thsingleこれはぼくた",
           "tweet_url": "https://x.com/i/status/2101630789435981950",
           "url": "https://bushiroad-music.com/topics/22079/"
+        },
+        {
+          "anchor_a": "13th-live-day2",
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "＼チケット一般発売中📢／ 🛸#バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」🛸 🎫ご購入はこちら ※先着順・上限数に達し次第終了 ぜひチェックしてくださいね✨ #バンドリ",
+          "body_raw": "＼チケット一般発売中📢／\n\n🛸#バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」🛸\n\n🎫ご購入はこちら\nhttps://eplus.jp/13th-live-day2/\n※先着順・上限数に達し次第終了\n\nぜひチェックしてくださいね✨\n\n#バンドリ",
+          "category": "release",
+          "date": "2026-09-21",
+          "deadline": false,
+          "expires_at": "2026-09-21T15:00:00Z",
+          "first_seen": "2026-09-21T10:06:20Z",
+          "id": "2101974729875660935",
+          "last_updated": "2026-09-21T10:06:20Z",
+          "participants": null,
+          "seen_ids": [
+            "2101974729875660935"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": "02:00",
+          "title": "チケット一般発売中 📢 #バンドリ 13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」",
+          "title_ko": "티켓 일반 판매 중 📢 #뱅드림 13th 라이브 DAY 무겐다이 뮤타입 「DIMENSIONAL OVERLAP」",
+          "title_raw": "チケット一般発売中",
+          "title_slug": "チケット一般発売中",
+          "tweet_url": "https://x.com/i/status/2101974729875660935",
+          "url": "https://eplus.jp/13th-live-day2/"
         },
         {
           "anchor_a": "GP8Wuv1PAS0",
