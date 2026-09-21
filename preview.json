@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-20T23:10:00Z",
+  "generated_at": "2026-09-21T04:34:41Z",
   "items": [
     {
       "actual_start": null,
@@ -151,6 +151,34 @@
       "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
       "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
       "video_id": "h31Mi6AS7a0"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-09-21T12:00:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-21T15:00:00Z",
+      "first_seen": "2026-09-21T04:34:41Z",
+      "host": null,
+      "id": "pv_f3abd0a7",
+      "info_at": "2026-09-21T04:34:41Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-21T04:34:41Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-09-21T12:00:00Z",
+      "source": "personal",
+      "state": "upcoming",
+      "state_since": "2026-09-21T04:34:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/Fd47-ZE1GVs/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【#ぷりはとDay1】💖ユノ＆律こらぼ💙アイドル歌枠💙【峰月律/千石ユノ】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=Fd47-ZE1GVs",
+      "video_id": "Fd47-ZE1GVs"
     }
   ]
 }
