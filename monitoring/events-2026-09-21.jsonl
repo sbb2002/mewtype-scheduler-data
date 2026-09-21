@@ -25,3 +25,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T10:06:20Z", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T10:06:22Z", "via": "ingest", "who": "yuno"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-21T10:06:20Z", "via": "ingest", "who": ""}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-21T10:06:30Z", "via": "ingest", "who": ""}
