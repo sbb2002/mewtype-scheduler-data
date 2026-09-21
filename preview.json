@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-21T16:00:00Z",
+  "generated_at": "2026-09-21T16:20:00Z",
   "items": [
     {
       "actual_start": null,
@@ -84,7 +84,7 @@
       "info_at": "2026-09-17T08:03:04Z",
       "info_source": "x-relay",
       "kind": "collab",
-      "last_updated": "2026-09-21T16:00:00Z",
+      "last_updated": "2026-09-21T16:20:00Z",
       "membership": false,
       "scheduled_start": "2026-09-25T10:30:00Z",
       "source": "x-relay",
@@ -111,7 +111,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-21T16:00:00Z",
+      "last_updated": "2026-09-21T16:20:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -152,33 +152,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-09-21T13:07:53Z",
-      "api_start_seen": "2026-09-21T13:07:36Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": 1303,
-      "expires_at": "2026-09-21T16:07:36Z",
-      "first_seen": "2026-09-21T13:14:28Z",
-      "host": null,
-      "id": "pv_c55903f4",
-      "info_at": "2026-09-21T13:14:28Z",
-      "info_source": "personal",
-      "kind": null,
-      "last_updated": "2026-09-21T16:00:00Z",
-      "membership": false,
-      "scheduled_start": "2026-09-21T13:07:36Z",
-      "source": "personal",
-      "state": "end",
-      "state_since": "2026-09-21T15:50:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/NUeaGMXbUIE/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【 🟡歌枠 】ひさびさ縦!? 歌をお届け～！  #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": "【 🟡노래 방송 】오랜만에 세로!? 노래를 전해드려요～! #Shorts #Vtuber 【 仲町아라레 / 무겐다이 뮤타입 】",
-      "url": "https://www.youtube.com/watch?v=NUeaGMXbUIE",
-      "video_id": "NUeaGMXbUIE"
     }
   ]
 }
