@@ -4,18 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-09-21T12:34:35Z",
-        "handle": "arale_yumemita",
-        "id": "2101651193491837171",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-20T12:34:35Z",
-        "text": "今日は…歌……ッッ！！ｩｵｵｵｯ",
-        "text_ko": "오늘은… 노래……!!ｩｵｵｵｯ",
-        "url": "https://x.com/i/status/2101651193491837171"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-09-21T12:54:46Z",
         "handle": "arale_yumemita",
         "id": "2101656300828721291",
@@ -78,24 +66,6 @@
       }
     ],
     "miyako": [
-      {
-        "channel_key": "miyako",
-        "expires_at": "2026-09-21T12:28:31Z",
-        "handle": "miyako_yumemita",
-        "id": "2101649692782363133",
-        "media": [],
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HSnhtRLaIAAtcFW.jpg"
-          ],
-          "text": "💜配信よてい💜\n本日9/20（日）21:30〜雑談💭\n※帰宅時間によりスタート遅れる可能性ｱﾘ🦆💦\n\n🔗 https://www.youtube.com/live/gpxPajeDyO0?si=7xcjZSISBape7y0X\n\n昨日は生誕ありゃとうございました❣️\n喋りきらなかったことなど\nまた〜りしゃべしゃべDAY2🐶ﾂｰ♪\n#みるみやこ",
-          "text_ko": "💜방송 일정💜\n오늘 9/20(일) 21:30~ 잡담💭\n※ 귀가 시간에 따라 시작이 늦어질 가능성🦆💦\n\n🔗 https://www.youtube.com/live/gpxPajeDyO0?si=7xcjZSISBape7y0X\n\n어제는 생일 축하해 주셔서 감사합니다❣️\n다 못한 이야기들\n또~ 말해 말해 DAY2🐶ツ♪ \n#みるみやこ"
-        },
-        "received_at": "2026-09-20T12:28:31Z",
-        "text": "このあと21:30から配信はじまる✨\n\nきょうはﾏｯﾏが買ってきてくれていた\nけ〜きをたべたべしながら\n＃藤都子16歳 キービジュなど\n描きおろしイラストの制作ぽ話などしちゃお❣",
-        "text_ko": "이후 21시 30분부터 방송이 시작됩니다✨\n\n오늘은 마마가 사다 준\n케키를 먹으면서\n#藤都子16歳 키비주 등\n그림을 새로 그린 일러스트 제작 이야기 등을 할게요❣",
-        "url": "https://x.com/i/status/2101649692782363133"
-      },
       {
         "channel_key": "miyako",
         "expires_at": "2026-09-21T13:49:59Z",
