@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:05:00Z",
+  "generated_at": "2026-09-21T13:14:28Z",
   "tweets": {
     "arale": [
       {
@@ -61,6 +61,20 @@
         "text": "ひさびさに縦型歌枠しよっかな♪\nこのあとすぐ！",
         "text_ko": "오랜만에 세로형 노래 틀 해볼까♪\n이후 바로!",
         "url": "https://x.com/i/status/2102019761689493709"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-22T13:14:28Z",
+        "handle": "arale_yumemita",
+        "id": "2102023061558251901",
+        "media": [
+          "https://pbs.twimg.com/media/HSviXk7bkAAMnUK.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-21T13:14:28Z",
+        "text": "歌わぃ！はじまったよ！\nひさびさたて！#イ中田丁なう\n\nhttps://youtube.com/live/NUeaGMXbUIE",
+        "text_ko": "노래해! 시작했어!\n오랜만에 타테! #이중다이치 지금\n\nhttps://youtube.com/live/NUeaGMXbUIE",
+        "url": "https://x.com/i/status/2102023061558251901"
       }
     ],
     "miyako": [
