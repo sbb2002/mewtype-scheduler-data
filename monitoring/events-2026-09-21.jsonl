@@ -8,3 +8,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-20T23:10:00Z", "who": "iXxaTewQF7E"}
 {"detail": "end→none", "flow": "preview", "item_id": "pv_376423ca", "result": "ok", "title": "【朝活】雨の日おうちでなにする座談会【夢限大みゅーたいぷ/藤都子】 #shorts #縦型配信 #vtuber", "ts": "2026-09-20T23:10:00Z", "video_id": "iXxaTewQF7E", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T02:42:57Z", "via": "ingest", "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T02:42:59Z", "via": "ingest", "who": "arale"}
