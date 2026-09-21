@@ -69,3 +69,5 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T16:00:00Z", "who": "NUeaGMXbUIE"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T16:07:31Z", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-21T16:11:42Z", "via": "ingest", "who": "nonoka"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-21T16:20:00Z", "who": "NUeaGMXbUIE"}
+{"detail": "end→none", "flow": "preview", "item_id": "pv_c55903f4", "result": "ok", "title": "【 🟡歌枠 】ひさびさ縦!? 歌をお届け～！  #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-09-21T16:20:00Z", "video_id": "NUeaGMXbUIE", "who": "arale"}
