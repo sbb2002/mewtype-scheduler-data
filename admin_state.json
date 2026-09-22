@@ -42,11 +42,11 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "본인 예고 미야나가 노노카 (すみませんみなさん！本日こちらの配信なしで、今日おやすみです！\n\n運営さんに元々)",
-    "at": "2026-09-22T09:19:40Z",
+    "action": "/del nonoka#2",
+    "at": "2026-09-22T10:35:29Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "be374042692d08b74d0d0e9cf90a746aea37fd0b",
+    "new_sha": "e7ba7e335432371a333b182831e9c868d65b8ebd",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -113,7 +113,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-22T03:10:01Z",
+      "generated_at": "2026-09-22T09:19:40Z",
       "items": [
         {
           "actual_start": null,
@@ -201,6 +201,34 @@
           "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
           "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
           "video_id": "h31Mi6AS7a0"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "nonoka",
+          "collab_with": [],
+          "concurrent_viewers": null,
+          "expires_at": "2026-09-22T17:00:00Z",
+          "first_seen": "2026-09-22T09:19:40Z",
+          "host": null,
+          "id": "pv_f22a190e",
+          "info_at": "2026-09-22T09:14:27Z",
+          "info_source": "personal",
+          "kind": "unknown",
+          "last_updated": "2026-09-22T09:19:40Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-09-22T14:00:00Z",
+          "source": "personal",
+          "state": "announced",
+          "state_since": "2026-09-22T09:19:40Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": "https://www.youtube.com/@nonoka_yumemita",
+          "video_id": null
         }
       ]
     }
