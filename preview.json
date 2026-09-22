@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-22T03:00:13Z",
+  "generated_at": "2026-09-22T03:10:01Z",
   "items": [
     {
       "actual_start": null,
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-22T03:00:13Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-23T12:30:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/-daJHsE0FTo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【＃アワーノーツ】リリース直前！登場バンド本人が先行プレイしちゃうぞの会♪【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【＃아워노트】발매 직전! 등장 밴드 본인이 먼저 플레이해버리는 회♪【유메미타/후지츠코】",
       "url": "https://www.youtube.com/watch?v=-daJHsE0FTo",
       "video_id": "-daJHsE0FTo"
     },
