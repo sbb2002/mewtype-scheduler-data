@@ -50,3 +50,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T13:06:00Z", "who": "nC4Bkg96ujM"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_561c413a", "result": "ok", "title": "【 #ぷりはとDay2 】お食べ。【 #ゆめみた / #バンドリ 】", "to_state": "live", "ts": "2026-09-22T13:06:00Z", "video_id": "nC4Bkg96ujM", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T13:32:47Z", "via": "ingest", "who": "arale"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T13:40:00Z", "who": "nC4Bkg96ujM"}
