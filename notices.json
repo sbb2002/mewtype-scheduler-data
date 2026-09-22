@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:00:24Z",
+  "generated_at": "2026-09-22T12:09:36Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -106,6 +106,32 @@
       "title_raw": "明日21:30開始の夢限大みゅーたいぷ 藤 都子さんの配信では、#アワーノーツ の正式リリース版を先行プレイしていただきます ぜひご覧ください",
       "title_slug": "明日開始の夢限大みゅーたいぷ藤都子さんの配信では",
       "tweet_url": "https://x.com/i/status/2102231769395466563",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "wearesneakerages第12回関東甲信越大会",
+      "body_for_llm": "(水)の「we are SNEAKER AGES 第12回 関東甲信越大会」会場では、#アワーノーツ 正式リリース版の先行プレイが可能です🎮 会場にお越しの学生の皆さま、ぜひ遊びに来てくださいね✨ ※大会関係者・来場者向けの試遊会となるため、一般の方はご来場いただけません #スニーカーエイジ",
+      "body_raw": "9月23日(水)の「we are SNEAKER AGES 第12回 関東甲信越大会」会場では、#アワーノーツ 正式リリース版の先行プレイが可能です🎮\n\n会場にお越しの学生の皆さま、ぜひ遊びに来てくださいね✨\n\n※大会関係者・来場者向けの試遊会となるため、一般の方はご来場いただけません\n#スニーカーエイジ",
+      "category": "release",
+      "date": "2026-09-23",
+      "deadline": false,
+      "expires_at": "2026-09-23T15:00:00Z",
+      "first_seen": "2026-09-22T12:09:36Z",
+      "id": "2102368670605512866",
+      "last_updated": "2026-09-22T12:09:36Z",
+      "participants": null,
+      "seen_ids": [
+        "2102368670605512866"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "we are SNEAKER AGES 第12回 関東甲信越大会で #アワーノーツ 正式リリース版 先行プレイ開催",
+      "title_ko": "we are SNEAKER AGES 제12회 관동·카시넨 대회에서 #アワーノーツ 정식 출시 버전 사전 플레이 진행",
+      "title_raw": "9月23日(水)の「we are SNEAKER AGES 第12回 関東甲信越大会」会場では、#アワーノーツ 正式リリース版の先行プレイが可能です",
+      "title_slug": "水のwearesneakerages第12回関東",
+      "tweet_url": "https://x.com/i/status/2102368670605512866",
       "url": null
     },
     {
