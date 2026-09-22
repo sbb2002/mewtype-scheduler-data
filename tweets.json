@@ -4,36 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-09-22T02:42:57Z",
-        "handle": "arale_yumemita",
-        "id": "2101863249918734410",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-21T02:42:57Z",
-        "text": "おはよう……あめ……^- ·̫ -^",
-        "text_ko": "좋은 아침……비……^- ·̫ -^",
-        "url": "https://x.com/i/status/2101863249918734410"
-      },
-      {
-        "channel_key": "arale",
-        "expires_at": "2026-09-22T02:42:59Z",
-        "handle": "arale_yumemita",
-        "id": "2101863524406608257",
-        "media": [],
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HSeLZwkbsAAEhGu.jpg"
-          ],
-          "text": "📢#アワーノーツ 正式リリースまで後3日！\n\n夢限大みゅーたいぷのカウントダウンイラストを公開🛸\n\n▼事前登録はこちらから\nhttps://bang-dream-on.bushimo.jp/pre-register/\n\n#バンドリ",
-          "text_ko": "📢#아워노트스 정식 릴리스까지 3일 남았습니다!\n\n무겐다이 뮤타입의 카운트다운 일러스트를 공개🛸\n\n▼사전 등록은 여기에서\nhttps://bang-dream-on.bushimo.jp/pre-register/\n\n#뱅드림"
-        },
-        "received_at": "2026-09-21T02:42:59Z",
-        "text": "ぼく、モテ期きた……？！\n\n(あと3日…！楽しみ！！)",
-        "text_ko": "나, 인기 절정이 온 걸까……?!\n\n(あと3日…！楽しみ！！)",
-        "url": "https://x.com/i/status/2101863524406608257"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-09-22T12:44:28Z",
         "handle": "arale_yumemita",
         "id": "2102015188744679698",
