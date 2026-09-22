@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-22T00:40:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-22T01:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/mn4Jjd7KdXY/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #아워노트 】뱅드림! 신작 리듬 게임을 선행 플레이!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=mn4Jjd7KdXY",
       "video_id": "mn4Jjd7KdXY"
     },
