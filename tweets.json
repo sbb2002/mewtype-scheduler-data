@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:11:42Z",
+  "generated_at": "2026-09-22T00:58:24Z",
   "tweets": {
     "arale": [
       {
@@ -340,6 +340,24 @@
         "text": "律とコラボ配信です✌\nよろしくね✌",
         "text_ko": "법과 콜라보 방송입니다✌\n잘 부탁해요✌",
         "url": "https://x.com/i/status/2102006566404903094"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-23T00:58:24Z",
+        "handle": "yuno_yumemita",
+        "id": "2102200301344510346",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HSu25SBbsAAKy0H.jpg"
+          ],
+          "text": "〈配信のおしらせ〉\n9/22 10:00～ #アワーノーツ 先行プレイ配信\n\n正式リリース前に先行プレイします！\n⬇️非常に可愛いユノちゃん",
+          "text_ko": "〈배송 안내〉\n9/22 10:00～ #아워노트 선행 플레이 배송\n\n정식 출시 전에 선행 플레이합니다!\n⬇️매우 귀여운 유노짱"
+        },
+        "received_at": "2026-09-22T00:58:24Z",
+        "text": "おはよー\nこのあとは #アワーノーツ 配信！\n\nがちありえないこと起きたので話聞いてもらっていいですか？\nhttps://youtube.com/live/mn4Jjd7KdXY?feature=share\n#バンドリ",
+        "text_ko": "좋은 아침~\n이후는 #アワーノーツ 방송!\n\n진짜 말도 안 되는 일이 일어나서 얘기 들어줄 수 있을까요?\nhttps://youtube.com/live/mn4Jjd7KdXY?feature=share\n#뱅드림",
+        "url": "https://x.com/i/status/2102200301344510346"
       }
     ]
   }
