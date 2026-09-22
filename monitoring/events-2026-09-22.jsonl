@@ -1,1 +1,3 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T23:30:08Z", "via": "ingest", "who": ""}
+{"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-22T00:40:01Z", "who": ""}
+{"detail": "None→upcoming", "flow": "preview", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-22T00:40:01Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
