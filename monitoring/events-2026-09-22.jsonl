@@ -40,3 +40,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T11:35:37Z", "via": "ingest", "who": "ritsu"}
 {"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-22T11:40:01Z", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T12:09:37Z", "via": "ingest", "who": ""}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-22T12:09:36Z", "via": "ingest", "who": ""}
