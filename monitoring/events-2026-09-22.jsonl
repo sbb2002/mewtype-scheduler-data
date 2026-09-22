@@ -53,3 +53,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T13:40:00Z", "who": "nC4Bkg96ujM"}
 {"candidates": 91, "detail": "candidates=91 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-22T13:40:04Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T14:03:47Z", "via": "ingest", "who": "arale"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T14:10:00Z", "who": "nC4Bkg96ujM"}
