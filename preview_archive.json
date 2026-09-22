@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T02:40:00Z",
+  "generated_at": "2026-09-22T12:30:01Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -950,6 +950,35 @@
       "title_ko": "【 #아워노트 】뱅드림! 신작 리듬 게임을 선행 플레이!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=mn4Jjd7KdXY",
       "video_id": "mn4Jjd7KdXY"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "archived_at": "2026-09-22T12:30:01Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-22T04:00:00Z",
+      "first_seen": "2026-09-22T12:25:45Z",
+      "host": null,
+      "id": "pv_a02b853e",
+      "info_at": "2026-09-22T12:25:45Z",
+      "info_source": "x-relay",
+      "kind": "game",
+      "last_updated": "2026-09-22T12:25:45Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-09-22T01:00:00Z",
+      "source": "x-relay",
+      "state": "announced",
+      "state_since": "2026-09-22T12:25:45Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     }
   ]
 }
