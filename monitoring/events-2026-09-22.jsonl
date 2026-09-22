@@ -61,3 +61,5 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_575d12a0", "result": "ok", "title": "【🟡歌枠】アコギで届ける、ふりーすたいるすやすやばらーど【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-09-22T14:33:00Z", "video_id": "nBxx_fp0Hzg", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T14:36:01Z", "via": "ingest", "who": "arale"}
 {"candidates": 92, "detail": "candidates=92 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-22T14:40:02Z", "who": ""}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T14:45:00Z", "who": "nC4Bkg96ujM"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_561c413a", "result": "ok", "title": "【 #ぷりはとDay2 】お食べ。【 #ゆめみた / #バンドリ 】", "to_state": "end", "ts": "2026-09-22T14:45:00Z", "video_id": "nC4Bkg96ujM", "who": "yuno"}
