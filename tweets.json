@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:58:24Z",
+  "generated_at": "2026-09-22T03:00:13Z",
   "tweets": {
     "arale": [
       {
@@ -91,6 +91,20 @@
         "text": "ぽ〜いも\nぽ〜ぽぽ\n#ぬいみやこ",
         "text_ko": "포~이모\n포~포포\n#ぬ이미야코",
         "url": "https://x.com/i/status/2101974898554077412"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-09-23T03:00:13Z",
+        "handle": "miyako_yumemita",
+        "id": "2102231419615322442",
+        "media": [
+          "https://pbs.twimg.com/media/HSyCne6a8AAlpOJ.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-22T03:00:13Z",
+        "text": "💜配信よてい💜\n9/23(水)21:30〜 配信\n\n9/24リリース❣#アワーノーツ\n先行プレイ配信✨\n🔗https://youtube.com/live/-daJHsE0FTo?feature=share",
+        "text_ko": "💜방송 일정💜\n9/23(수) 21:30~ 방송\n\n9/24 출시❣#아워노트\n선공 플레이 방송✨\n🔗https://youtube.com/live/-daJHsE0FTo?feature=share",
+        "url": "https://x.com/i/status/2102231419615322442"
       }
     ],
     "nonoka": [
