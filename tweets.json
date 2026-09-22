@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T14:36:01Z",
+  "generated_at": "2026-09-22T14:50:13Z",
   "tweets": {
     "arale": [
       {
@@ -188,6 +188,20 @@
         "text": "肉、食べます\nユノちゃんちに来ました",
         "text_ko": "고기, 먹어요\nユノちゃんち에 왔어요",
         "url": "https://x.com/i/status/2102361160913952873"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-23T14:50:13Z",
+        "handle": "ritsu_yumemita",
+        "id": "2102408459052593160",
+        "media": [
+          "https://pbs.twimg.com/media/HS1BWY_aEAE9Eg3.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-22T14:50:13Z",
+        "text": "ユノさん、唐揚げを作ってくださりありがとうございます",
+        "text_ko": "유노さん, 튀김을 만들어 주셔서 감사합니다",
+        "url": "https://x.com/i/status/2102408459052593160"
       }
     ],
     "yuno": [
