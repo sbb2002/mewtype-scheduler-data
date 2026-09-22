@@ -38,3 +38,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T11:04:04Z", "via": "ingest", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T11:35:07Z", "via": "ingest", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T11:35:37Z", "via": "ingest", "who": "ritsu"}
+{"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-22T11:40:01Z", "who": ""}
