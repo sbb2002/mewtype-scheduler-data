@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:20:00Z",
+  "generated_at": "2026-09-22T02:40:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -922,6 +922,34 @@
       "title_ko": "【 🟡노래 방송 】오랜만에 세로!? 노래를 전해드려요～! #Shorts #Vtuber 【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=NUeaGMXbUIE",
       "video_id": "NUeaGMXbUIE"
+    },
+    {
+      "actual_start": "2026-09-22T01:00:24Z",
+      "api_start_seen": "2026-09-22T01:00:00Z",
+      "archived_at": "2026-09-22T02:40:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 570,
+      "expires_at": "2026-09-22T04:00:00Z",
+      "first_seen": "2026-09-22T00:40:01Z",
+      "host": null,
+      "id": "pv_a0b8b5cb",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-09-22T02:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-22T01:00:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-22T02:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/mn4Jjd7KdXY/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #아워노트 】뱅드림! 신작 리듬 게임을 선행 플레이!【 #센고쿠 유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=mn4Jjd7KdXY",
+      "video_id": "mn4Jjd7KdXY"
     }
   ]
 }
