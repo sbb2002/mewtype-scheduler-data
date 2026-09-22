@@ -30,3 +30,4 @@
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-22T06:45:03Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T06:45:03Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T07:15:28Z", "via": "ingest", "who": "arale"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T09:01:31Z", "via": "ingest", "who": ""}
