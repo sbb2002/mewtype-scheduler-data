@@ -18,3 +18,4 @@
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-22T03:01:29Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T03:01:29Z", "via": "ingest", "who": ""}
 {"candidates": 32, "detail": "candidates=32 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T03:10:01Z", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T04:00:41Z", "via": "ingest", "who": ""}
