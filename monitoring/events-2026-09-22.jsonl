@@ -65,3 +65,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_561c413a", "result": "ok", "title": "【 #ぷりはとDay2 】お食べ。【 #ゆめみた / #バンドリ 】", "to_state": "end", "ts": "2026-09-22T14:45:00Z", "video_id": "nC4Bkg96ujM", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T14:50:13Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T15:00:09Z", "via": "ingest", "who": ""}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-22T15:00:10Z", "via": "ingest", "who": ""}
