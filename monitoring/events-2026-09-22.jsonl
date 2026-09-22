@@ -15,3 +15,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T02:40:00Z", "who": "mn4Jjd7KdXY"}
 {"detail": "end→none", "flow": "preview", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-22T02:40:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T03:00:13Z", "via": "ingest", "who": "miyako"}
+{"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-22T03:01:29Z", "via": "ingest", "who": ""}
