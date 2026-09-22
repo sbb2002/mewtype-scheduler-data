@@ -98,18 +98,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-09-22T13:33:39Z",
-        "handle": "nonoka_yumemita",
-        "id": "2102028475691618811",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-21T13:33:39Z",
-        "text": "はいしんはじめます🎶\nたのしみさね🎶\n\n【Our Notes先行プレイ!】フルコンするまでギター練習!上手に演奏できるもん!【ゆめみた/夢限大みゅーたいぷ】 #半分人間  https://www.youtube.com/live/duxW1ah76vs?si=JPD1H5pgSiJdc9Fj",
-        "text_ko": "전신 시작합니다🎶\n즐거워요🎶\n\n【Our Notes 선행 플레이!】풀콘까지 기타 연습! 잘 연주할 수 있어요!【ゆめみた/무겐다이 뮤타입】 #반반인간 https://www.youtube.com/live/duxW1ah76vs?si=JPD1H5pgSiJdc9Fj",
-        "url": "https://x.com/i/status/2102028475691618811"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-09-22T15:23:08Z",
         "handle": "nonoka_yumemita",
         "id": "2102056024236810705",
@@ -171,20 +159,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-09-22T13:56:59Z",
-        "handle": "ritsu_yumemita",
-        "id": "2102032106574741908",
-        "media": [
-          "https://pbs.twimg.com/media/HSvq29EbsAANkbv.jpg"
-        ],
-        "quote": null,
-        "received_at": "2026-09-21T13:56:59Z",
-        "text": "また明日ね＾＾",
-        "text_ko": "또 내일 보자＾＾",
-        "url": "https://x.com/i/status/2102032106574741908"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-09-23T11:35:37Z",
