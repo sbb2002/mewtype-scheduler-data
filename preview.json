@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-22T14:03:47Z",
+  "generated_at": "2026-09-22T14:10:06Z",
   "items": [
     {
       "actual_start": "2026-09-22T13:04:30Z",
@@ -110,7 +110,6 @@
       "kind": null,
       "last_updated": "2026-09-22T14:03:47Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-21T10:30:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -118,7 +117,7 @@
       "thumbnail": "https://i.ytimg.com/vi/gFgKqrWMdKQ/maxresdefault.jpg",
       "time_tbd": false,
       "title": "BanG Dream! Our Notes | Global Launch Preview Special Program Recap",
-      "title_ko": null,
+      "title_ko": "BanG Dream! Our Notes | 글로벌 런치 프리뷰 스페셜 프로그램 요약",
       "url": "https://www.youtube.com/watch?v=gFgKqrWMdKQ",
       "video_id": "gFgKqrWMdKQ"
     },
