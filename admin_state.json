@@ -40,7 +40,12 @@
   "pending_notice_edit": null,
   "pending_op": null,
   "pending_undo": null,
-  "suppress": [],
+  "suppress": [
+    {
+      "until": "2026-09-22T22:35:29Z",
+      "url": "https://www.youtube.com/@nonoka_yumemita"
+    }
+  ],
   "undo": {
     "action": "/del nonoka#2",
     "at": "2026-09-22T10:35:29Z",
