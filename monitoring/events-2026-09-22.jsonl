@@ -45,3 +45,5 @@
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-22T12:30:01Z", "who": ""}
 {"assumed_live": false, "detail": "announced→watching", "flow": "preview", "from_state": "announced", "item_id": "pv_aa7159a4", "result": "ok", "title": null, "to_state": "watching", "ts": "2026-09-22T12:30:01Z", "video_id": null, "who": "nonoka"}
 {"assumed_live": false, "detail": "announced→none", "flow": "preview", "from_state": "announced", "item_id": "pv_a02b853e", "result": "ok", "title": null, "to_state": "none", "ts": "2026-09-22T12:30:01Z", "video_id": null, "who": "yuno"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T12:57:00Z", "who": "nC4Bkg96ujM"}
+{"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_561c413a", "result": "ok", "title": "【 #ぷりはとDay2 】お食べ。【 #ゆめみた / #バンドリ 】", "to_state": "watching", "ts": "2026-09-22T12:57:00Z", "video_id": "nC4Bkg96ujM", "who": "yuno"}
