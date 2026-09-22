@@ -9,14 +9,14 @@
   "pending_undo": null,
   "suppress": [],
   "undo": {
-    "action": "소식 updated (明日21:30開始の夢限大みゅーたいぷ 藤 都子さんの配信で)",
-    "at": "2026-09-22T03:01:29Z",
+    "action": "소식 updated (CM放映中)",
+    "at": "2026-09-22T06:30:03Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "fecf205ef5564fbc21a81157f53b19d801c7f271",
+    "new_sha": "0d104a42268a7e421fb71d7b904299815fa12205",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-22T02:00:32Z",
+      "generated_at": "2026-09-22T03:01:29Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -101,27 +101,28 @@
         {
           "anchor_a": null,
           "anchor_b": "話しtarinai！キズナラジオ特別編〜bangdream!ournotesリリ",
-          "body_for_llm": "ニッポン放送にて、 (火) より 「話しTARINAI！キズナラジオ 特別編〜BanG Dream! Our Notes リリース直前SP〜」の放送が決定🎉 ぜひお楽しみに✨ #アワーノーツ #バンドリキズナラジオ",
-          "body_raw": "ニッポン放送にて、9月22日(火)14:00より\n「話しTARINAI！キズナラジオ 特別編〜BanG Dream! Our Notes リリース直前SP〜」の放送が決定🎉\n\nぜひお楽しみに✨\n\n#アワーノーツ #バンドリキズナラジオ",
+          "body_for_llm": "明日 開始の夢限大みゅーたいぷ 藤 都子さんの配信では、#アワーノーツ の正式リリース版を先行プレイしていただきます✨ぜひご覧ください！ #バンドリ",
+          "body_raw": "明日21:30開始の夢限大みゅーたいぷ 藤 都子さんの配信では、#アワーノーツ の正式リリース版を先行プレイしていただきます✨ぜひご覧ください！\n\n#バンドリ",
           "category": "release",
           "date": "2026-09-22",
           "deadline": false,
           "expires_at": "2026-09-22T15:00:00Z",
           "first_seen": "2026-09-15T10:05:03Z",
           "id": "2099801649460175101",
-          "last_updated": "2026-09-15T10:05:03Z",
+          "last_updated": "2026-09-22T03:01:29Z",
           "participants": null,
           "seen_ids": [
-            "2099801649460175101"
+            "2099801649460175101",
+            "2102231769395466563"
           ],
           "site": "x",
           "src_handle": "@BDP_yumemita",
-          "time": "14:00",
-          "title": "話しTARINAI！キズナラジオ 特別編〜BanG Dream! Our Notes リリース直前SP〜",
+          "time": "21:30",
+          "title": "明日21:30開始の夢限大みゅーたいぷ 藤 都子さんの配信では、#アワーノーツ の正式リリース版を先行プレイしていただきます ぜひご覧ください",
           "title_ko": "말하기TARINAI! 키즈나라디오 특별편〜BanG Dream! Our Notes 출시 직전 SP〜",
-          "title_raw": "「話しTARINAI！キズナラジオ 特別編〜BanG Dream! Our Notes リリース直前SP〜」の放送が決定",
-          "title_slug": "話しtarinaiキズナラジオ特別編bangdr",
-          "tweet_url": "https://x.com/i/status/2099801649460175101",
+          "title_raw": "明日21:30開始の夢限大みゅーたいぷ 藤 都子さんの配信では、#アワーノーツ の正式リリース版を先行プレイしていただきます ぜひご覧ください",
+          "title_slug": "明日開始の夢限大みゅーたいぷ藤都子さんの配信では",
+          "tweet_url": "https://x.com/i/status/2102231769395466563",
           "url": null
         },
         {
