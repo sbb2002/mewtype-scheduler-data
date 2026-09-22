@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-22T02:25:00Z",
+  "generated_at": "2026-09-22T02:40:00Z",
   "items": [
     {
       "actual_start": null,
@@ -84,7 +84,7 @@
       "info_at": "2026-09-17T08:03:04Z",
       "info_source": "x-relay",
       "kind": "collab",
-      "last_updated": "2026-09-22T02:25:00Z",
+      "last_updated": "2026-09-22T02:40:00Z",
       "membership": false,
       "scheduled_start": "2026-09-25T10:30:00Z",
       "source": "x-relay",
@@ -111,7 +111,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-22T02:25:00Z",
+      "last_updated": "2026-09-22T02:40:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -124,33 +124,6 @@
       "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
       "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
       "video_id": "h31Mi6AS7a0"
-    },
-    {
-      "actual_start": "2026-09-22T01:00:24Z",
-      "api_start_seen": "2026-09-22T01:00:00Z",
-      "assumed_live": false,
-      "channel_key": "yuno",
-      "collab_with": null,
-      "concurrent_viewers": 570,
-      "expires_at": "2026-09-22T04:00:00Z",
-      "first_seen": "2026-09-22T00:40:01Z",
-      "host": null,
-      "id": "pv_a0b8b5cb",
-      "info_at": null,
-      "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-09-22T02:25:00Z",
-      "membership": false,
-      "scheduled_start": "2026-09-22T01:00:00Z",
-      "source": "api",
-      "state": "end",
-      "state_since": "2026-09-22T02:10:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/mn4Jjd7KdXY/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】",
-      "title_ko": "【 #아워노트 】뱅드림! 신작 리듬 게임을 선행 플레이!【 #센고쿠 유노 / #뱅드림 】",
-      "url": "https://www.youtube.com/watch?v=mn4Jjd7KdXY",
-      "video_id": "mn4Jjd7KdXY"
     }
   ]
 }
