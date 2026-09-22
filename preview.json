@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-22T11:35:07Z",
+  "generated_at": "2026-09-22T11:40:01Z",
   "items": [
     {
       "actual_start": null,
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-22T11:35:07Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-22T13:00:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/nC4Bkg96ujM/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #ぷりはとDay2 】お食べ。【 #ゆめみた / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #ぷ리하토Day2 】식사。【 #ゆめみた / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=nC4Bkg96ujM",
       "video_id": "nC4Bkg96ujM"
     },
