@@ -14,11 +14,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (nBxx_fp0Hzg)",
-    "at": "2026-09-22T13:32:47Z",
+    "action": "URL 확정 예고 arale (gFgKqrWMdKQ)",
+    "at": "2026-09-22T14:03:47Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f9e583f280e237aad9e516941e79886a320c9217",
+    "new_sha": "c50b67404062aa32c3aac88a38d06b9d23ada696",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -85,7 +85,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-22T13:06:00Z",
+      "generated_at": "2026-09-22T13:40:04Z",
       "items": [
         {
           "actual_start": "2026-09-22T13:04:30Z",
@@ -95,7 +95,7 @@
           "collab_with": [
             "ritsu"
           ],
-          "concurrent_viewers": 729,
+          "concurrent_viewers": 1582,
           "expires_at": "2026-09-22T16:00:00Z",
           "first_seen": "2026-09-22T11:35:07Z",
           "host": null,
@@ -103,7 +103,7 @@
           "info_at": "2026-09-22T11:35:07Z",
           "info_source": "personal",
           "kind": "collab",
-          "last_updated": "2026-09-22T13:06:00Z",
+          "last_updated": "2026-09-22T13:40:00Z",
           "membership": false,
           "scheduled_start": "2026-09-22T13:00:00Z",
           "source": "personal",
@@ -115,6 +115,33 @@
           "title_ko": "【 #ぷ리하토Day2 】식사。【 #ゆめみた / #뱅드림 】",
           "url": "https://www.youtube.com/watch?v=nC4Bkg96ujM",
           "video_id": "nC4Bkg96ujM"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": "2026-09-22T14:30:00Z",
+          "assumed_live": false,
+          "channel_key": "arale",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-09-22T17:30:00Z",
+          "first_seen": "2026-09-22T13:32:47Z",
+          "host": null,
+          "id": "pv_575d12a0",
+          "info_at": "2026-09-22T13:32:47Z",
+          "info_source": "personal",
+          "kind": null,
+          "last_updated": "2026-09-22T13:40:00Z",
+          "membership": false,
+          "scheduled_start": "2026-09-22T14:30:00Z",
+          "source": "personal",
+          "state": "upcoming",
+          "state_since": "2026-09-22T13:32:47Z",
+          "thumbnail": "https://i.ytimg.com/vi/nBxx_fp0Hzg/maxresdefault_live.jpg",
+          "time_tbd": false,
+          "title": "【🟡歌枠】【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "title_ko": "【🟡노래 방송】【 仲町아라레 / 무겐다이 뮤타입 】",
+          "url": "https://www.youtube.com/watch?v=nBxx_fp0Hzg",
+          "video_id": "nBxx_fp0Hzg"
         },
         {
           "actual_start": null,
@@ -130,7 +157,7 @@
           "info_at": "2026-09-22T03:00:13Z",
           "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-09-22T13:06:00Z",
+          "last_updated": "2026-09-22T13:40:00Z",
           "membership": false,
           "scheduled_start": "2026-09-23T12:30:00Z",
           "source": "personal",
@@ -162,7 +189,7 @@
           "info_at": "2026-09-17T08:03:04Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-09-22T13:06:00Z",
+          "last_updated": "2026-09-22T13:40:00Z",
           "membership": false,
           "scheduled_start": "2026-09-25T10:30:00Z",
           "source": "x-relay",
@@ -189,7 +216,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-09-22T13:06:00Z",
+          "last_updated": "2026-09-22T13:40:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -202,34 +229,6 @@
           "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
           "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
           "video_id": "h31Mi6AS7a0"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": null,
-          "assumed_live": false,
-          "channel_key": "arale",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2026-09-22T17:30:00Z",
-          "first_seen": "2026-09-22T12:25:45Z",
-          "host": null,
-          "id": "pv_3f71cb4e",
-          "info_at": "2026-09-22T12:25:45Z",
-          "info_source": "x-relay",
-          "kind": "unknown",
-          "last_updated": "2026-09-22T12:25:45Z",
-          "membership": false,
-          "needs_tl": false,
-          "scheduled_start": "2026-09-22T14:30:00Z",
-          "source": "x-relay",
-          "state": "announced",
-          "state_since": "2026-09-22T12:25:45Z",
-          "thumbnail": null,
-          "time_tbd": false,
-          "title": null,
-          "title_ko": null,
-          "url": null,
-          "video_id": null
         }
       ]
     }
