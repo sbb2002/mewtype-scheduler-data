@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:04:04Z",
+  "generated_at": "2026-09-22T11:35:07Z",
   "tweets": {
     "arale": [
       {
@@ -250,6 +250,20 @@
         "text": "おはよー\nこのあとは #アワーノーツ 配信！\n\nがちありえないこと起きたので話聞いてもらっていいですか？\nhttps://youtube.com/live/mn4Jjd7KdXY?feature=share\n#バンドリ",
         "text_ko": "좋은 아침~\n이후는 #アワーノーツ 방송!\n\n진짜 말도 안 되는 일이 일어나서 얘기 들어줄 수 있을까요?\nhttps://youtube.com/live/mn4Jjd7KdXY?feature=share\n#뱅드림",
         "url": "https://x.com/i/status/2102200301344510346"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-23T11:35:07Z",
+        "handle": "yuno_yumemita",
+        "id": "2102361021067436370",
+        "media": [
+          "https://pbs.twimg.com/media/HS0WNKIbkAAXQUH.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-22T11:35:07Z",
+        "text": "〈配信のおしらせ〉\n9/22 22:00〜 #ぷりはとDay2\n\n肉を食べます\n\nhttps://www.youtube.com/live/nC4Bkg96ujM?si=pQtD-6Hi7swtyQe-",
+        "text_ko": "〈방송 안내〉\n9/22 22:00〜 #프리하와Day2\n\n고기를 먹습니다\n\nhttps://www.youtube.com/live/nC4Bkg96ujM?si=pQtD-6Hi7swtyQe-",
+        "url": "https://x.com/i/status/2102361021067436370"
       }
     ]
   }
