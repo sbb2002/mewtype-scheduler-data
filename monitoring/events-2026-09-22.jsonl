@@ -1,19 +1,19 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-21T23:30:08Z", "via": "ingest", "who": ""}
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-22T00:40:01Z", "who": ""}
-{"detail": "None→upcoming", "flow": "preview", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-22T00:40:01Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
+{"detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-09-22T00:40:01Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T00:57:00Z", "who": "mn4Jjd7KdXY"}
-{"detail": "upcoming→watching", "flow": "preview", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-22T00:57:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
+{"detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-09-22T00:57:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T00:58:24Z", "via": "ingest", "who": "yuno"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T01:03:00Z", "who": "mn4Jjd7KdXY"}
-{"detail": "watching→live", "flow": "preview", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-22T01:03:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
+{"detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-09-22T01:03:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-22T02:00:32Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T02:00:32Z", "via": "ingest", "who": ""}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T02:10:00Z", "who": "mn4Jjd7KdXY"}
-{"detail": "live→end", "flow": "preview", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-22T02:10:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
+{"detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-09-22T02:10:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T02:12:20Z", "via": "ingest", "who": ""}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T02:25:00Z", "who": "mn4Jjd7KdXY"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-22T02:40:00Z", "who": "mn4Jjd7KdXY"}
-{"detail": "end→none", "flow": "preview", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "ts": "2026-09-22T02:40:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
+{"detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_a0b8b5cb", "result": "ok", "title": "【 #アワーノーツ 】バンドリ！新作リズムゲームを先行プレイ！【 #千石ユノ / #バンドリ 】", "to_state": "none", "ts": "2026-09-22T02:40:00Z", "video_id": "mn4Jjd7KdXY", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-22T03:00:13Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-22T03:01:29Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-22T03:01:29Z", "via": "ingest", "who": ""}
