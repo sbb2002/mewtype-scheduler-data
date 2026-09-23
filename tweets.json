@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:37:33Z",
+  "generated_at": "2026-09-23T12:39:24Z",
   "tweets": {
     "arale": [
       {
@@ -97,6 +97,24 @@
         "text": "本日0時にデジタルリリースされた\n「オリオンをなぞる」\nカバー映像も公開されましたぞ🌟\n\nなんてきらきらなんでしょう…✨\nたくさん聴いてくださいね♪",
         "text_ko": "오늘 0시에 디지털 릴리스된\n‘오리온을 따라가다’\n커버 영상도 공개되었습니다🌟\n\n정말 반짝반짝하네요…✨\n많이 들어 주세요♪",
         "url": "https://x.com/i/status/2102724030860325083"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-09-24T12:39:24Z",
+        "handle": "miyako_yumemita",
+        "id": "2102737523810480544",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HSyCne6a8AAlpOJ.jpg"
+          ],
+          "text": "💜配信よてい💜\n9/23(水)21:30~ 配信\n\n9/24リリース❣#アワーノーツ\n先行プレイ配信✨\n🔗https://youtube.com/live/-daJHsE0FTo?feature=share",
+          "text_ko": "💜방송 일정💜\n9/23(수) 21:30~ 방송\n\n9/24 출시❣#아워노트\n선공 플레이 방송✨\n🔗https://youtube.com/live/-daJHsE0FTo?feature=share"
+        },
+        "received_at": "2026-09-23T12:39:24Z",
+        "text": "#アワーノーツ 先行プレイ配信🎮\nはじまる❣️",
+        "text_ko": "#아워노트 선행 플레이 방송🎮\n시작한다❣️",
+        "url": "https://x.com/i/status/2102737523810480544"
       }
     ],
     "ritsu": [
