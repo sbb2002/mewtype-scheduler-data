@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:40:50Z",
+  "generated_at": "2026-09-23T13:02:47Z",
   "tweets": {
     "arale": [
       {
@@ -133,6 +133,28 @@
         "text": "#アワーノーツ 先行プレイ配信🎮\nはじまる❣️",
         "text_ko": "#아워노트 선행 플레이 방송🎮\n시작한다❣️",
         "url": "https://x.com/i/status/2102737523810480544"
+      }
+    ],
+    "nonoka": [
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-09-24T13:02:47Z",
+        "handle": "nonoka_yumemita",
+        "id": "2102743925794684958",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HS3vfKLagAAmsvT.jpg",
+            "https://pbs.twimg.com/media/HS3vgrbboAA6m3X.jpg",
+            "https://pbs.twimg.com/media/HS3vh3SakAAOp8l.jpg"
+          ],
+          "text": "／\n🛸夢限大みゅーたいぷ\n9/23(水・祝)の配信スケジュール🌟\n＼\n\n🎮21:30～ 藤都子\nhttps://www.youtube.com/watch?v=-daJHsE0FTo\n\n✨23:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n☀明日朝6:30～ 仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ #ゆめみた",
+          "text_ko": "/\n🛸무겐다이 뮤타입\n9/23(수·공휴일) 방송 일정🌟\n\\\n\n🎮21:30~ 토도코\nhttps://www.youtube.com/watch?v=-daJHsE0FTo\n\n✨23:00~ 미야나가 노노카\nhttps://www.youtube.com/@nonoka_yumemita\n\n☀내일 아침 6:30~ 나카마치 아라레\nhttps://www.youtube.com/@arale_yumemita\n\n※시간은 사전 예고 없이 변경될 수 있습니다.\n#뱅드림 #ゆめみた"
+        },
+        "received_at": "2026-09-23T13:02:47Z",
+        "text": "23:00に、ゆーちゅーぶにて、あいませう🎶",
+        "text_ko": "23:00에, 유튜브에서, 아이마세우🎶",
+        "url": "https://x.com/i/status/2102743925794684958"
       }
     ],
     "ritsu": [
