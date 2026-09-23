@@ -63,23 +63,25 @@
       ]
     }
   },
-  "generated_at": "2026-09-23T12:39:24Z",
+  "generated_at": "2026-09-23T13:02:47Z",
   "items": [
     {
       "actual_start": "2026-09-23T12:30:37Z",
       "api_start_seen": "2026-09-23T12:30:00Z",
       "assumed_live": false,
       "channel_key": "miyako",
-      "collab_with": null,
-      "concurrent_viewers": 1181,
+      "collab_with": [
+        "nonoka"
+      ],
+      "concurrent_viewers": 1527,
       "expires_at": "2026-09-23T15:30:00Z",
       "first_seen": "2026-09-22T03:00:13Z",
       "host": null,
       "id": "pv_5496aebd",
       "info_at": "2026-09-22T03:00:13Z",
       "info_source": "personal",
-      "kind": "game",
-      "last_updated": "2026-09-23T12:39:24Z",
+      "kind": "collab",
+      "last_updated": "2026-09-23T13:02:47Z",
       "membership": false,
       "scheduled_start": "2026-09-23T12:30:00Z",
       "source": "personal",
