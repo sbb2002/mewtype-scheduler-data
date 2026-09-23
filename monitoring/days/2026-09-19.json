@@ -1,0 +1,783 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-09-19",
+  "downRanges": [],
+  "eventCount": 64,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: skip",
+      "t": "10:27",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "10:27",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "12:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "12:44",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "14:25",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "14:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "16:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "18:07",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "21:06",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "22:43",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "22:47",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "17:42",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "【全編無料生配信】TVアニメ「バンドリ！ ゆめ∞みた」放送記念フリーライブ「新宿着陸計画」DAY2【アーカイブ無し】"
+    },
+    {
+      "member": "yuno",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "from": "21:27",
+          "s": null,
+          "to": "21:33"
+        },
+        {
+          "from": "21:33",
+          "s": null,
+          "to": "23:10"
+        },
+        {
+          "from": "23:10",
+          "s": null,
+          "to": "23:40"
+        },
+        {
+          "from": "23:40",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "🎂生誕配信🎂＃藤都子生誕祭2026 みやこは16歳♪【ゆめみた/藤都子】"
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "t": "09:28",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "10:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "10:27",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "10:27",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:44",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "13:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "14:25",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "14:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "16:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "17:11",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "18:07",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 1건",
+      "t": "18:07",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "18:07",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:06",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:10",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 1건",
+      "t": "21:34",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "22:40",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "22:43",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "22:47",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "23:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-09-23T06:25:13Z",
+  "ticks": [
+    {
+      "d": "candidates=91 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "17:30"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "17:42"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:27"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:33"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:10"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:40"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "10:06",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "15:22",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "18:07",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "18:19",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "18:19",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "18:19",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "18:19",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "18:26",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:31",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:33",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:35",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:45",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:47",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:48",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:50",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "00:48",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "09:28",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "10:02",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "10:06",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: skip / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "10:27",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "10:27",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "12:03",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "12:03",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "12:44",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "13:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "14:25",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "14:30",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "15:22",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "15:30",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "16:04",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "17:11",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "18:07",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "18:07",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: added · 파싱 1건",
+      "derived": true,
+      "src": "x",
+      "t": "18:07",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "18:07",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "18:19",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "18:19",
+      "tone": "ok",
+      "who": "yuno"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "18:26",
+      "tone": "ok",
+      "who": "ritsu"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "19:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "21:06",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "21:10",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "21:31",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "공식 스케줄 · mode: added · 파싱 1건",
+      "derived": true,
+      "src": "x",
+      "t": "21:34",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "22:40",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "22:43",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "22:47",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "23:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:33",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:35",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:39",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:45",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:47",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:48",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:50",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "00:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "00:48",
+      "tone": "ok",
+      "who": "nonoka"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 3,
+    "preview": 5,
+    "production": 5,
+    "total": 10
+  }
+}
