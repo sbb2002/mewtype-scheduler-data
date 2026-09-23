@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:25:00Z",
+  "generated_at": "2026-09-23T19:35:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1065,6 +1065,36 @@
       "title_ko": "【弾き語리】실버위크 최종 파티! 라고 말하지 않는 편이 좋을까(-_-;)【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=Y28oPgYZuZo",
       "video_id": "Y28oPgYZuZo"
+    },
+    {
+      "actual_start": "2026-09-23T12:30:37Z",
+      "api_start_seen": "2026-09-23T12:30:00Z",
+      "archived_at": "2026-09-23T19:35:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": [
+        "nonoka"
+      ],
+      "concurrent_viewers": 1527,
+      "expires_at": "2026-09-23T15:30:00Z",
+      "first_seen": "2026-09-22T03:00:13Z",
+      "host": null,
+      "id": "pv_5496aebd",
+      "info_at": "2026-09-22T03:00:13Z",
+      "info_source": "personal",
+      "kind": "collab",
+      "last_updated": "2026-09-23T13:02:47Z",
+      "membership": false,
+      "scheduled_start": "2026-09-23T12:30:00Z",
+      "source": "personal",
+      "state": "live",
+      "state_since": "2026-09-23T12:33:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/-daJHsE0FTo/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【＃アワーノーツ】リリース直前！登場バンド本人が先行プレイしちゃうぞの会♪【ゆめみた/藤都子】",
+      "title_ko": "【＃아워노트】발매 직전! 등장 밴드 본인이 먼저 플레이해버리는 회♪【유메미타/후지츠코】",
+      "url": "https://www.youtube.com/watch?v=-daJHsE0FTo",
+      "video_id": "-daJHsE0FTo"
     }
   ]
 }
