@@ -1,5 +1,5 @@
 {
-  "backfill_complete": false,
+  "backfill_complete": true,
   "days": {
     "2026-09-09": {
       "backfill_only": true,
@@ -36,6 +36,22 @@
     "2026-09-17": {
       "events": 330,
       "triggers": 174
+    },
+    "2026-09-18": {
+      "events": 339,
+      "triggers": 183
+    },
+    "2026-09-19": {
+      "events": 64,
+      "triggers": 46
+    },
+    "2026-09-20": {
+      "events": 102,
+      "triggers": 77
+    },
+    "2026-09-21": {
+      "events": 73,
+      "triggers": 55
     },
     "2026-09-22": {
       "events": 77,
