@@ -90,3 +90,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T14:30:54Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T14:30:49Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T14:31:06Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T14:49:44Z", "via": "ingest", "who": "miyako"}
