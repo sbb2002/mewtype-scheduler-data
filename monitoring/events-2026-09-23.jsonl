@@ -100,3 +100,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_b7f079e4", "result": "ok", "title": "【弾き語り】シルバーウィークさいしゅうび！とか言わないほうがいいか(-_-;)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "end", "ts": "2026-09-23T16:55:00Z", "video_id": "Y28oPgYZuZo", "who": "nonoka"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-23T17:00:00Z", "who": "-daJHsE0FTo"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T17:02:37Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T17:02:50Z", "who": "宮永ののか🐰🩹"}
