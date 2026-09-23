@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-23T14:11:48Z",
+  "generated_at": "2026-09-23T16:55:00Z",
   "items": [
     {
       "actual_start": "2026-09-23T12:30:37Z",
@@ -95,33 +95,6 @@
       "video_id": "-daJHsE0FTo"
     },
     {
-      "actual_start": "2026-09-23T14:05:24Z",
-      "api_start_seen": "2026-09-23T14:05:04Z",
-      "assumed_live": false,
-      "channel_key": "nonoka",
-      "collab_with": null,
-      "concurrent_viewers": 469,
-      "expires_at": "2026-09-23T17:05:04Z",
-      "first_seen": "2026-09-23T14:10:02Z",
-      "host": null,
-      "id": "pv_b7f079e4",
-      "info_at": null,
-      "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-09-23T14:11:48Z",
-      "membership": false,
-      "scheduled_start": "2026-09-23T14:05:04Z",
-      "source": "api",
-      "state": "live",
-      "state_since": "2026-09-23T14:10:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/Y28oPgYZuZo/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【弾き語り】シルバーウィークさいしゅうび！とか言わないほうがいいか(-_-;)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-      "title_ko": "【弾き語리】실버위크 최종 파티! 라고 말하지 않는 편이 좋을까(-_-;)【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
-      "url": "https://www.youtube.com/watch?v=Y28oPgYZuZo",
-      "video_id": "Y28oPgYZuZo"
-    },
-    {
       "actual_start": null,
       "api_start_seen": "2026-09-25T10:30:00Z",
       "assumed_live": false,
@@ -140,7 +113,7 @@
       "info_at": "2026-09-17T08:03:04Z",
       "info_source": "x-relay",
       "kind": "collab",
-      "last_updated": "2026-09-23T14:10:02Z",
+      "last_updated": "2026-09-23T16:55:00Z",
       "membership": false,
       "scheduled_start": "2026-09-25T10:30:00Z",
       "source": "x-relay",
@@ -167,7 +140,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-23T14:10:02Z",
+      "last_updated": "2026-09-23T16:55:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -208,6 +181,33 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_start": "2026-09-23T14:05:24Z",
+      "api_start_seen": "2026-09-23T14:05:04Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 469,
+      "expires_at": "2026-09-23T17:05:04Z",
+      "first_seen": "2026-09-23T14:10:02Z",
+      "host": null,
+      "id": "pv_b7f079e4",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-09-23T16:55:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-23T14:05:04Z",
+      "source": "api",
+      "state": "end",
+      "state_since": "2026-09-23T16:55:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y28oPgYZuZo/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【弾き語り】シルバーウィークさいしゅうび！とか言わないほうがいいか(-_-;)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+      "title_ko": "【弾き語리】실버위크 최종 파티! 라고 말하지 않는 편이 좋을까(-_-;)【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
+      "url": "https://www.youtube.com/watch?v=Y28oPgYZuZo",
+      "video_id": "Y28oPgYZuZo"
     }
   ]
 }
