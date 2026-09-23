@@ -1,0 +1,198 @@
+{
+  "backfillOnly": true,
+  "cmd": [],
+  "date": "2026-09-11",
+  "downRanges": [],
+  "eventCount": 22,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "[백필] 本日生配信！アニメゆめみた 同時視聴 #13",
+      "t": "13:05",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] BanG Dream! 13th LIVE 先行通販開始",
+      "t": "13:58",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] BanG Dream! 10周年ライブ Blu-ray 特典デザイン先行公開",
+      "t": "17:18",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 5thシングル「これはぼくたちの生存のあらすじ」試聴動画公開",
+      "t": "19:01",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 夢限大みゅーたいぷ 5th Single リリース記念インターネットサイン会",
+      "t": "19:45",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] TVアニメ「バンドリ！ ゆめ∞みた」 同時視聴配信 #13 開始",
+      "t": "22:30",
+      "tone": "ok",
+      "via": null
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "yuno",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [],
+  "snapshotAt": "2026-09-23T06:24:21Z",
+  "ticks": [],
+  "tweet": [
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "10:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "yuno",
+      "t": "10:24",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "16:23",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "17:24",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "17:38",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "17:40",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "17:42",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "17:44",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "17:47",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "21:17",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "22:57",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "22:57",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "00:24",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "00:32",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "00:33",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "00:42",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [],
+  "vercelDeploys": {
+    "error": 67,
+    "preview": 67,
+    "production": 7,
+    "total": 74
+  }
+}
