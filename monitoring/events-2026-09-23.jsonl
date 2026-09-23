@@ -31,3 +31,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T10:17:04Z", "who": "バンドリ！アワーノーツ - 事前登録受付中"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-23T10:30:02Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T10:30:10Z", "who": "バンドリ！アワーノーツ - 事前登録受付中"}
+{"detail": "mode: added · 파싱 3건", "flow": "relay", "result": "ok", "ts": "2026-09-23T10:30:02Z", "via": "ingest", "who": ""}
