@@ -1,0 +1,2455 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-09-17",
+  "downRanges": [],
+  "eventCount": 330,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: added",
+      "t": "12:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "17:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "17:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "22:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "23:06",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "23:43",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "17:10",
+          "s": null,
+          "to": "03:52"
+        },
+        {
+          "from": "03:52",
+          "s": null,
+          "to": "03:52"
+        },
+        {
+          "from": "03:52",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "🌟ライブ開催🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026年12月24日(木)　@大手町三井ホール"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "23:00",
+          "s": null,
+          "to": "23:27"
+        },
+        {
+          "from": "23:27",
+          "s": null,
+          "to": "23:31"
+        },
+        {
+          "from": "23:31",
+          "s": null,
+          "to": "00:19"
+        },
+        {
+          "from": "00:19",
+          "s": null,
+          "to": "00:49"
+        },
+        {
+          "from": "00:49",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "【 #ヴァンガード 】#ごみぎゃ デッキ開封！ぶっちぎるぞ！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "from": "22:01",
+          "s": null,
+          "to": "22:31"
+        },
+        {
+          "from": "22:31",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "【弾き語り】またーり【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts"
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "from": "23:05",
+          "s": null,
+          "to": "01:00"
+        },
+        {
+          "from": "01:00",
+          "s": null,
+          "to": "01:00"
+        },
+        {
+          "from": "01:00",
+          "s": null,
+          "to": "01:01"
+        },
+        {
+          "from": "01:01",
+          "s": null,
+          "to": "01:02"
+        },
+        {
+          "from": "01:02",
+          "s": null,
+          "to": "01:03"
+        },
+        {
+          "from": "01:03",
+          "s": null,
+          "to": "01:04"
+        },
+        {
+          "from": "01:04",
+          "s": null,
+          "to": "01:05"
+        },
+        {
+          "from": "01:05",
+          "s": null,
+          "to": "01:06"
+        },
+        {
+          "from": "01:06",
+          "s": null,
+          "to": "01:07"
+        },
+        {
+          "from": "01:07",
+          "s": null,
+          "to": "01:08"
+        },
+        {
+          "from": "01:08",
+          "s": null,
+          "to": "01:09"
+        },
+        {
+          "from": "01:09",
+          "s": null,
+          "to": "01:10"
+        },
+        {
+          "from": "01:10",
+          "s": null,
+          "to": "01:10"
+        },
+        {
+          "from": "01:10",
+          "s": null,
+          "to": "01:11"
+        },
+        {
+          "from": "01:11",
+          "s": null,
+          "to": "01:12"
+        },
+        {
+          "from": "01:12",
+          "s": null,
+          "to": "01:13"
+        },
+        {
+          "from": "01:13",
+          "s": null,
+          "to": "01:14"
+        },
+        {
+          "from": "01:14",
+          "s": null,
+          "to": "01:15"
+        },
+        {
+          "from": "01:15",
+          "s": null,
+          "to": "01:16"
+        },
+        {
+          "from": "01:16",
+          "s": null,
+          "to": "01:17"
+        },
+        {
+          "from": "01:17",
+          "s": null,
+          "to": "01:18"
+        },
+        {
+          "from": "01:18",
+          "s": null,
+          "to": "01:19"
+        },
+        {
+          "from": "01:19",
+          "s": null,
+          "to": "01:20"
+        },
+        {
+          "from": "01:20",
+          "s": null,
+          "to": "01:20"
+        },
+        {
+          "from": "01:20",
+          "s": null,
+          "to": "01:21"
+        },
+        {
+          "from": "01:21",
+          "s": null,
+          "to": "01:22"
+        },
+        {
+          "from": "01:22",
+          "s": null,
+          "to": "01:23"
+        },
+        {
+          "from": "01:23",
+          "s": null,
+          "to": "01:24"
+        },
+        {
+          "from": "01:24",
+          "s": null,
+          "to": "01:25"
+        },
+        {
+          "from": "01:25",
+          "s": null,
+          "to": "01:26"
+        },
+        {
+          "from": "01:26",
+          "s": null,
+          "to": "01:27"
+        },
+        {
+          "from": "01:27",
+          "s": null,
+          "to": "01:28"
+        },
+        {
+          "from": "01:28",
+          "s": null,
+          "to": "01:29"
+        },
+        {
+          "from": "01:29",
+          "s": null,
+          "to": "01:30"
+        },
+        {
+          "from": "01:30",
+          "s": null,
+          "to": "01:30"
+        },
+        {
+          "from": "01:30",
+          "s": null,
+          "to": "01:31"
+        },
+        {
+          "from": "01:31",
+          "s": null,
+          "to": "01:32"
+        },
+        {
+          "from": "01:32",
+          "s": null,
+          "to": "01:33"
+        },
+        {
+          "from": "01:33",
+          "s": null,
+          "to": "01:34"
+        },
+        {
+          "from": "01:34",
+          "s": null,
+          "to": "01:35"
+        },
+        {
+          "from": "01:35",
+          "s": null,
+          "to": "01:36"
+        },
+        {
+          "from": "01:36",
+          "s": null,
+          "to": "01:37"
+        },
+        {
+          "from": "01:37",
+          "s": null,
+          "to": "01:38"
+        },
+        {
+          "from": "01:38",
+          "s": null,
+          "to": "01:39"
+        },
+        {
+          "from": "01:39",
+          "s": null,
+          "to": "01:40"
+        },
+        {
+          "from": "01:40",
+          "s": null,
+          "to": "01:40"
+        },
+        {
+          "from": "01:40",
+          "s": null,
+          "to": "01:41"
+        },
+        {
+          "from": "01:41",
+          "s": null,
+          "to": "01:42"
+        },
+        {
+          "from": "01:42",
+          "s": null,
+          "to": "01:43"
+        },
+        {
+          "from": "01:43",
+          "s": null,
+          "to": "01:44"
+        },
+        {
+          "from": "01:44",
+          "s": null,
+          "to": "01:45"
+        },
+        {
+          "from": "01:45",
+          "s": null,
+          "to": "01:46"
+        },
+        {
+          "from": "01:46",
+          "s": null,
+          "to": "01:47"
+        },
+        {
+          "from": "01:47",
+          "s": null,
+          "to": "01:48"
+        },
+        {
+          "from": "01:48",
+          "s": null,
+          "to": "01:49"
+        },
+        {
+          "from": "01:49",
+          "s": null,
+          "to": "01:50"
+        },
+        {
+          "from": "01:50",
+          "s": null,
+          "to": "01:50"
+        },
+        {
+          "from": "01:50",
+          "s": null,
+          "to": "01:51"
+        },
+        {
+          "from": "01:51",
+          "s": null,
+          "to": "01:52"
+        },
+        {
+          "from": "01:52",
+          "s": null,
+          "to": "01:53"
+        },
+        {
+          "from": "01:53",
+          "s": null,
+          "to": "01:54"
+        },
+        {
+          "from": "01:54",
+          "s": null,
+          "to": "01:55"
+        },
+        {
+          "from": "01:55",
+          "s": null,
+          "to": "01:56"
+        },
+        {
+          "from": "01:56",
+          "s": null,
+          "to": "01:57"
+        },
+        {
+          "from": "01:57",
+          "s": null,
+          "to": "01:58"
+        },
+        {
+          "from": "01:58",
+          "s": null,
+          "to": "01:59"
+        },
+        {
+          "from": "01:59",
+          "s": null,
+          "to": "02:00"
+        },
+        {
+          "from": "02:00",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "from": "22:57",
+          "s": null,
+          "to": "01:00"
+        },
+        {
+          "from": "01:00",
+          "s": null,
+          "to": "01:00"
+        },
+        {
+          "from": "01:00",
+          "s": null,
+          "to": "01:01"
+        },
+        {
+          "from": "01:01",
+          "s": null,
+          "to": "01:02"
+        },
+        {
+          "from": "01:02",
+          "s": null,
+          "to": "01:03"
+        },
+        {
+          "from": "01:03",
+          "s": null,
+          "to": "01:04"
+        },
+        {
+          "from": "01:04",
+          "s": null,
+          "to": "01:05"
+        },
+        {
+          "from": "01:05",
+          "s": null,
+          "to": "01:06"
+        },
+        {
+          "from": "01:06",
+          "s": null,
+          "to": "01:07"
+        },
+        {
+          "from": "01:07",
+          "s": null,
+          "to": "01:08"
+        },
+        {
+          "from": "01:08",
+          "s": null,
+          "to": "01:09"
+        },
+        {
+          "from": "01:09",
+          "s": null,
+          "to": "01:10"
+        },
+        {
+          "from": "01:10",
+          "s": null,
+          "to": "01:10"
+        },
+        {
+          "from": "01:10",
+          "s": null,
+          "to": "01:11"
+        },
+        {
+          "from": "01:11",
+          "s": null,
+          "to": "01:12"
+        },
+        {
+          "from": "01:12",
+          "s": null,
+          "to": "01:13"
+        },
+        {
+          "from": "01:13",
+          "s": null,
+          "to": "01:14"
+        },
+        {
+          "from": "01:14",
+          "s": null,
+          "to": "01:15"
+        },
+        {
+          "from": "01:15",
+          "s": null,
+          "to": "01:16"
+        },
+        {
+          "from": "01:16",
+          "s": null,
+          "to": "01:17"
+        },
+        {
+          "from": "01:17",
+          "s": null,
+          "to": "01:18"
+        },
+        {
+          "from": "01:18",
+          "s": null,
+          "to": "01:19"
+        },
+        {
+          "from": "01:19",
+          "s": null,
+          "to": "01:20"
+        },
+        {
+          "from": "01:20",
+          "s": null,
+          "to": "01:20"
+        },
+        {
+          "from": "01:20",
+          "s": null,
+          "to": "01:21"
+        },
+        {
+          "from": "01:21",
+          "s": null,
+          "to": "01:22"
+        },
+        {
+          "from": "01:22",
+          "s": null,
+          "to": "01:23"
+        },
+        {
+          "from": "01:23",
+          "s": null,
+          "to": "01:24"
+        },
+        {
+          "from": "01:24",
+          "s": null,
+          "to": "01:25"
+        },
+        {
+          "from": "01:25",
+          "s": null,
+          "to": "01:26"
+        },
+        {
+          "from": "01:26",
+          "s": null,
+          "to": "01:27"
+        },
+        {
+          "from": "01:27",
+          "s": null,
+          "to": "01:28"
+        },
+        {
+          "from": "01:28",
+          "s": null,
+          "to": "01:29"
+        },
+        {
+          "from": "01:29",
+          "s": null,
+          "to": "01:30"
+        },
+        {
+          "from": "01:30",
+          "s": null,
+          "to": "01:30"
+        },
+        {
+          "from": "01:30",
+          "s": null,
+          "to": "01:31"
+        },
+        {
+          "from": "01:31",
+          "s": null,
+          "to": "01:32"
+        },
+        {
+          "from": "01:32",
+          "s": null,
+          "to": "01:33"
+        },
+        {
+          "from": "01:33",
+          "s": null,
+          "to": "01:34"
+        },
+        {
+          "from": "01:34",
+          "s": null,
+          "to": "01:35"
+        },
+        {
+          "from": "01:35",
+          "s": null,
+          "to": "01:36"
+        },
+        {
+          "from": "01:36",
+          "s": null,
+          "to": "01:37"
+        },
+        {
+          "from": "01:37",
+          "s": null,
+          "to": "01:38"
+        },
+        {
+          "from": "01:38",
+          "s": null,
+          "to": "01:39"
+        },
+        {
+          "from": "01:39",
+          "s": null,
+          "to": "01:40"
+        },
+        {
+          "from": "01:40",
+          "s": null,
+          "to": "01:40"
+        },
+        {
+          "from": "01:40",
+          "s": null,
+          "to": "01:41"
+        },
+        {
+          "from": "01:41",
+          "s": null,
+          "to": "01:42"
+        },
+        {
+          "from": "01:42",
+          "s": null,
+          "to": "01:43"
+        },
+        {
+          "from": "01:43",
+          "s": null,
+          "to": "01:44"
+        },
+        {
+          "from": "01:44",
+          "s": null,
+          "to": "01:45"
+        },
+        {
+          "from": "01:45",
+          "s": null,
+          "to": "01:46"
+        },
+        {
+          "from": "01:46",
+          "s": null,
+          "to": "01:47"
+        },
+        {
+          "from": "01:47",
+          "s": null,
+          "to": "01:48"
+        },
+        {
+          "from": "01:48",
+          "s": null,
+          "to": "01:49"
+        },
+        {
+          "from": "01:49",
+          "s": null,
+          "to": "01:50"
+        },
+        {
+          "from": "01:50",
+          "s": null,
+          "to": "01:50"
+        },
+        {
+          "from": "01:50",
+          "s": null,
+          "to": "01:51"
+        },
+        {
+          "from": "01:51",
+          "s": null,
+          "to": "01:52"
+        },
+        {
+          "from": "01:52",
+          "s": null,
+          "to": "01:53"
+        },
+        {
+          "from": "01:53",
+          "s": null,
+          "to": "01:54"
+        },
+        {
+          "from": "01:54",
+          "s": null,
+          "to": "01:55"
+        },
+        {
+          "from": "01:55",
+          "s": null,
+          "to": "01:56"
+        },
+        {
+          "from": "01:56",
+          "s": null,
+          "to": "01:57"
+        },
+        {
+          "from": "01:57",
+          "s": null,
+          "to": "01:58"
+        },
+        {
+          "from": "01:58",
+          "s": null,
+          "to": "01:59"
+        },
+        {
+          "from": "01:59",
+          "s": null,
+          "to": "02:00"
+        },
+        {
+          "from": "02:00",
+          "s": null,
+          "to": "03:52"
+        },
+        {
+          "from": "03:52",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "🎂生誕配信🎂＃藤都子生誕祭2026 みやこは16歳♪【ゆめみた/藤都子】"
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "t": "10:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "13:11",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:31",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "17:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "17:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "17:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "17:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 1건",
+      "t": "17:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "18:10",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:17",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:17",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "22:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "23:06",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "23:43",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "00:01",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-09-23T06:24:21Z",
+  "ticks": [
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "baseline",
+      "ok": true,
+      "quota": 3,
+      "t": "06:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "06:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "06:10"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "06:20"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "06:30"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "06:40"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "06:50"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "07:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "07:10"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "07:20"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "07:30"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "07:40"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "07:50"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "08:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "08:10"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "08:20"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "08:30"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "08:40"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "08:50"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "09:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "09:10"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "09:20"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "09:30"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "09:40"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "09:50"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:00"
+    },
+    {
+      "d": "candidates=75 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:10"
+    },
+    {
+      "d": "candidates=46 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "10:20"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:30"
+    },
+    {
+      "d": "candidates=61 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:40"
+    },
+    {
+      "d": "candidates=75 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:50"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "11:00"
+    },
+    {
+      "d": "candidates=46 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "11:10"
+    },
+    {
+      "d": "candidates=61 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "11:20"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "11:30"
+    },
+    {
+      "d": "candidates=32 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "11:40"
+    },
+    {
+      "d": "candidates=17 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "11:50"
+    },
+    {
+      "d": "candidates=16 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "12:00"
+    },
+    {
+      "d": "candidates=16 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "12:00"
+    },
+    {
+      "d": "candidates=17 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "12:10"
+    },
+    {
+      "d": "candidates=16 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "12:20"
+    },
+    {
+      "d": "candidates=16 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "12:30"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "12:40"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "12:50"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "13:00"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "13:10"
+    },
+    {
+      "d": "candidates=16 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "13:20"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "13:30"
+    },
+    {
+      "d": "candidates=16 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "13:40"
+    },
+    {
+      "d": "candidates=16 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "13:50"
+    },
+    {
+      "d": "candidates=17 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "14:00"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "14:10"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "14:20"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "14:30"
+    },
+    {
+      "d": "candidates=45 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "14:40"
+    },
+    {
+      "d": "candidates=31 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "14:50"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "15:00"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "15:10"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "15:20"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "17:10"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:14"
+    },
+    {
+      "d": "candidates=91 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:20"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:35"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:01"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:31"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:57"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "23:00"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:05"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:27"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:31"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:19"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:38"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:49"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:00"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:00"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:01"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:02"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:03"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:04"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:05"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:06"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:07"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:08"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:09"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:10"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:10"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:11"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:12"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:13"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:14"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:15"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:16"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:17"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:18"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:19"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:20"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:20"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:21"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:22"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:23"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:24"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:25"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:26"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:27"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:28"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:29"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:30"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:30"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:31"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:32"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:33"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:34"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:35"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:36"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:37"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:38"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:39"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:40"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:40"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:41"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:42"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:43"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:44"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:45"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:46"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:47"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:48"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:49"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:50"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:50"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:51"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:52"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:53"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:54"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:55"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:56"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:57"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:58"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:59"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "02:00"
+    },
+    {
+      "d": "candidates=1 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "03:52"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "15:29",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "20:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "20:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "20:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "20:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:34",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:34",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:34",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:34",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "22:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "22:15",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "23:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "23:18",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "23:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:52",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "10:01",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "12:01",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "13:11",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "15:29",
+      "tone": "ok",
+      "who": "ritsu"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "15:31",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "17:02",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "17:02",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "17:02",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "17:02",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: added · 파싱 1건",
+      "derived": true,
+      "src": "x",
+      "t": "17:03",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "18:10",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "19:02",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "19:03",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "20:12",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "20:12",
+      "tone": "ok",
+      "who": "nonoka"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "20:12",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "20:13",
+      "tone": "ok",
+      "who": "ritsu"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "20:13",
+      "tone": "ok",
+      "who": "nonoka"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "21:17",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "21:17",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "21:34",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "21:34",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "22:02",
+      "tone": "ok",
+      "who": "nonoka"
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "22:02",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "22:15",
+      "tone": "ok",
+      "who": "nonoka"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:04",
+      "tone": "ok",
+      "who": "ritsu"
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "23:06",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:18",
+      "tone": "ok",
+      "who": "yuno"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:39",
+      "tone": "ok",
+      "who": "ritsu"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:39",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "23:43",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:52",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "00:01",
+      "tone": "ok",
+      "who": ""
+    }
+  ],
+  "vercelDeploys": {
+    "error": 1,
+    "preview": 1,
+    "production": 2,
+    "total": 3
+  }
+}
