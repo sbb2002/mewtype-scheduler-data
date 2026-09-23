@@ -1,0 +1,437 @@
+{
+  "backfillOnly": true,
+  "cmd": [],
+  "date": "2026-09-10",
+  "downRanges": [],
+  "eventCount": 58,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "[백필] グッズと一緒に盛り上げよう♪ pic.x.com/BmkG63EzwW",
+      "t": "11:53",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] TVアニメ「バンドリ！ ゆめ∞みた」最終回放送に向けて",
+      "t": "12:49",
+      "tone": "degraded",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ！ ゆめ∞みた 最終話放送記念リポストキャンペーン",
+      "t": "15:07",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 『バンドリ！ ゆめ∞みた』が雑誌掲載！対談特集",
+      "t": "16:11",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 集え！#ゆめみた筋トレ部 〜輝け！上腕二頭筋〜",
+      "t": "16:19",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] NAKAMACHI ARALE LIVE 2026 「RESONEXT」",
+      "t": "16:22",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 仲町あられ バースデーグッズ2026 発売開始",
+      "t": "16:23",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] BanG Dream! 13th LIVE グッズ情報公開",
+      "t": "17:12",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] TVアニメ『バンドリ！ ゆめ∞みた』が雑誌掲載！インタビューとポスター紹介",
+      "t": "17:17",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ！TV LIVE 2026 #331 夢限大みゅーたいぷ 5名出演",
+      "t": "18:00",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ！ ゆめ∞みたがニュータイプ10月号に掲載",
+      "t": "18:52",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」チケット一般発売開始",
+      "t": "21:18",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 『バンドリ！ ゆめ∞みた』最終回放送開始のお知らせ",
+      "t": "21:38",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ！TV LIVE 2026 生配信のお知らせ",
+      "t": "22:49",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ開催決定",
+      "t": "00:00",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ13thライブ DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」チケット販売開始",
+      "t": "00:00",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] アニメ女心研究所特別放送決定！",
+      "t": "00:00",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ！ ゆめ∞みた Blu-ray 下巻 ジャケット公開",
+      "t": "00:00",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] バンドリ！ ゆめ∞みた Blu-ray発売と15秒CM公開",
+      "t": "00:00",
+      "tone": "ok",
+      "via": null
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "yuno",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [],
+  "snapshotAt": "2026-09-23T06:24:21Z",
+  "ticks": [],
+  "tweet": [
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "07:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "11:40",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "11:42",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "11:43",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "11:53",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "yuno",
+      "t": "12:27",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "13:08",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "13:14",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "13:43",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "13:45",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "15:24",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "18:07",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "19:16",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "19:20",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "yuno",
+      "t": "20:06",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "21:38",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "21:38",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "21:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "22:49",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "23:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "23:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "yuno",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "00:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "yuno",
+      "t": "00:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "00:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "00:11",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "00:22",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "00:24",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "00:29",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "00:51",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "00:52",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "01:00",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [],
+  "vercelDeploys": {
+    "error": 66,
+    "preview": 66,
+    "production": 8,
+    "total": 74
+  }
+}
