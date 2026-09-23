@@ -1,0 +1,74 @@
+{
+  "backfillOnly": true,
+  "cmd": [],
+  "date": "2026-09-09",
+  "downRanges": [],
+  "eventCount": 4,
+  "hasLog": true,
+  "notice": [],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "yuno",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "from": "23:34",
+          "s": "live",
+          "to": "02:17"
+        },
+        {
+          "from": "02:17",
+          "s": "none",
+          "to": "02:20"
+        }
+      ],
+      "title": "【弾き語り】アニメ最終回直前！ざつだんギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts"
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [],
+  "snapshotAt": "2026-09-23T06:24:21Z",
+  "ticks": [],
+  "tweet": [
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "00:53",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "01:49",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [],
+  "vercelDeploys": {
+    "error": 71,
+    "preview": 78,
+    "production": 4,
+    "total": 82
+  }
+}
