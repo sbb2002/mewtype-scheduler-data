@@ -1,0 +1,1942 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-09-15",
+  "downRanges": [],
+  "eventCount": 223,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: updated",
+      "t": "19:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "19:05",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "21:23",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "22:33",
+          "s": null,
+          "to": "00:01"
+        },
+        {
+          "from": "00:01",
+          "s": null,
+          "to": "00:31"
+        },
+        {
+          "from": "00:31",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "【🟡#アワーノーツ 】バンドリ！Vo.が先行プレイ配信！✨️ライブにストーリーに…ﾍﾍﾍﾍ【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "member": "yuno",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "from": "22:57",
+          "s": null,
+          "to": "23:36"
+        },
+        {
+          "from": "23:36",
+          "s": null,
+          "to": "00:54"
+        },
+        {
+          "from": "00:54",
+          "s": null,
+          "to": "01:24"
+        },
+        {
+          "from": "01:24",
+          "s": null,
+          "to": "30:00"
+        }
+      ],
+      "title": "【#歌枠 】私はアニソンしか歌わなーーーーーい！！！！【峰月律/ゆめみた】"
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "t": "18:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:05",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 2건",
+      "t": "20:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:54",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:23",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "00:01",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-09-23T06:24:21Z",
+  "ticks": [
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "18:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "21:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:33"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:43"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:53"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:57"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:00"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:03"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:03"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:06"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:06"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:07"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:09"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:09"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:10"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:10"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:12"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:12"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:13"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:13"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:15"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:15"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:16"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:16"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:18"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:18"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:19"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:19"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:21"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:21"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:22"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:22"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:24"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:24"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:25"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:25"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:27"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:27"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:28"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:28"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:30"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:30"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:31"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:31"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:33"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:33"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:34"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:34"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:36"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:36"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:37"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:37"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:39"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:40"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:42"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:43"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:45"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:46"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:46"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:47"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:48"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:49"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:49"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:50"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:50"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:51"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:52"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:52"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:53"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:53"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:54"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:55"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:55"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:56"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:56"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:57"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:57"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:58"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:58"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:59"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:59"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:00"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "00:00"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:00"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:01"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:01"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:02"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:02"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:03"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:03"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:04"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:05"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:06"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:06"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:07"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:07"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:08"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:08"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:09"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:09"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:10"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:10"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:11"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:11"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:12"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:12"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:13"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:13"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:14"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:14"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:15"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:15"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:16"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:16"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:17"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:17"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:18"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:18"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:19"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:19"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:20"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:20"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:21"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:21"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:22"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:22"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:23"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:23"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:24"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:24"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:25"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:25"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:26"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:26"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:27"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:27"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:28"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:28"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:29"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:29"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:30"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:30"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:31"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:31"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:32"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:32"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:33"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:33"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:34"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:34"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:35"
+    },
+    {
+      "d": "candidates=3 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:35"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:36"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:37"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:38"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:39"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:40"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:41"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:42"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:43"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:44"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:45"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:46"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:47"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:48"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:49"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:50"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:51"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:52"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:53"
+    },
+    {
+      "d": "candidates=2 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:54"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:55"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:56"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:59"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:00"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:01"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:04"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:05"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:06"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:09"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:10"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:11"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:14"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:15"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:16"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:19"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:20"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:21"
+    },
+    {
+      "d": "candidates=2 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:24"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:25"
+    },
+    {
+      "d": "candidates=2 preview_changed=False",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:26"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "03:00"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "17:41",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: rolled",
+      "member": "arale",
+      "t": "19:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: rolled",
+      "member": "arale",
+      "t": "19:40",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: rolled",
+      "member": "arale",
+      "t": "19:52",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: error (exception)",
+      "member": "yuno",
+      "t": "22:15",
+      "tone": "err",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: rolled",
+      "member": "arale",
+      "t": "22:15",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "22:15",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "23:36",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: rolled",
+      "member": "arale",
+      "t": "00:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "00:08",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "00:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added, needs_tl=true",
+      "member": "miyako",
+      "t": "00:14",
+      "tone": "degraded",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "17:41",
+      "tone": "ok",
+      "who": "ritsu"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "18:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "19:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "19:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "19:05",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: rolled",
+      "derived": true,
+      "src": "x",
+      "t": "19:39",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "개인 트윗 · mode: rolled",
+      "derived": true,
+      "src": "x",
+      "t": "19:40",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "개인 트윗 · mode: rolled",
+      "derived": true,
+      "src": "x",
+      "t": "19:52",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "20:01",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: added · 파싱 2건",
+      "derived": true,
+      "src": "x",
+      "t": "20:01",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "20:54",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "21:23",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: error (exception)",
+      "derived": true,
+      "src": "x",
+      "t": "22:15",
+      "tone": "err",
+      "who": "yuno"
+    },
+    {
+      "d": "개인 트윗 · mode: rolled",
+      "derived": true,
+      "src": "x",
+      "t": "22:15",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "23:36",
+      "tone": "ok",
+      "who": "ritsu"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "00:01",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · mode: rolled",
+      "derived": true,
+      "src": "x",
+      "t": "00:04",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "00:08",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "00:12",
+      "tone": "ok",
+      "who": "miyako"
+    },
+    {
+      "d": "개인 트윗 · mode: added, needs_tl=true",
+      "derived": true,
+      "src": "x",
+      "t": "00:14",
+      "tone": "ok",
+      "who": "miyako"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 1,
+    "preview": 4,
+    "production": 9,
+    "total": 13
+  }
+}
