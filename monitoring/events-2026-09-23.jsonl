@@ -67,3 +67,4 @@
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-23T12:31:57Z", "who": "【＃アワーノーツ】リリース直前！登場バンド本人が先行プレイしちゃうぞの会♪【ゆめみた/藤都子】"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-23T12:33:00Z", "who": "-daJHsE0FTo"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_5496aebd", "result": "ok", "title": "【＃アワーノーツ】リリース直前！登場バンド本人が先行プレイしちゃうぞの会♪【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-09-23T12:33:00Z", "video_id": "-daJHsE0FTo", "who": "miyako"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T12:39:24Z", "via": "ingest", "who": "miyako"}
