@@ -78,3 +78,5 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-23T14:00:00Z", "who": "-daJHsE0FTo"}
 {"assumed_live": false, "detail": "announced→watching", "flow": "preview", "from_state": "announced", "item_id": "pv_9eddb1f6", "result": "ok", "title": null, "to_state": "watching", "ts": "2026-09-23T14:00:00Z", "video_id": null, "who": "nonoka"}
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-23T14:06:00Z", "who": "【弾き語り】シルバーウィークさいしゅうび！とか言わないほうがいいか(-_-;)【ゆめみた/夢限大みゅーたいぷ】 #半分人"}
+{"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-23T14:10:02Z", "who": ""}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_b7f079e4", "result": "ok", "title": "【弾き語り】シルバーウィークさいしゅうび！とか言わないほうがいいか(-_-;)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "live", "ts": "2026-09-23T14:10:02Z", "video_id": "Y28oPgYZuZo", "who": "nonoka"}
