@@ -1,0 +1,262 @@
+{
+  "backfillOnly": true,
+  "cmd": [],
+  "date": "2026-09-13",
+  "downRanges": [],
+  "eventCount": 32,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "[백필] アワーノーツ リリース日決定特番 生配信開始",
+      "t": "18:37",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] アワーノーツ正式リリース決定！",
+      "t": "21:14",
+      "tone": "ok",
+      "via": null
+    },
+    {
+      "d": "[백필] 楽曲情報：夢限大みゅーたいぷ デジタルリリース決定",
+      "t": "21:34",
+      "tone": "ok",
+      "via": null
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "yuno",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "from": "20:55",
+          "s": "live",
+          "to": "23:09"
+        },
+        {
+          "from": "23:09",
+          "s": "none",
+          "to": "23:12"
+        }
+      ],
+      "title": "アワーノーツ リリース日決定特番"
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "from": "22:36",
+          "s": "live",
+          "to": "01:01"
+        },
+        {
+          "from": "01:01",
+          "s": "none",
+          "to": "01:04"
+        }
+      ],
+      "title": "【#歌枠 】私は歌を歌いつくすーーーーーーーー！！！！！【峰月律/ゆめみた】"
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "from": "20:00",
+          "s": "live",
+          "to": "21:40"
+        },
+        {
+          "from": "21:40",
+          "s": "none",
+          "to": "21:43"
+        }
+      ],
+      "title": "【＃アニメゆめみた】最終回ありゃとう❣全13話振り返りませう🦆【ゆめみた/藤都子】"
+    }
+  ],
+  "relay": [],
+  "snapshotAt": "2026-09-23T06:24:21Z",
+  "ticks": [],
+  "tweet": [
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "11:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "11:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "yuno",
+      "t": "11:19",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "11:33",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "11:47",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "14:20",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "14:23",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "14:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "14:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "16:16",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "16:26",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "18:58",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "nonoka",
+      "t": "19:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "20:10",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "20:50",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "21:10",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "arale",
+      "t": "22:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "22:38",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "22:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "22:44",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "22:48",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "miyako",
+      "t": "23:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "[백필] mode: backfill(tweet_archive)",
+      "member": "ritsu",
+      "t": "00:47",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [],
+  "vercelDeploys": {
+    "error": 67,
+    "preview": 67,
+    "production": 8,
+    "total": 75
+  }
+}
