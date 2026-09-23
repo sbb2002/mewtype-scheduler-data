@@ -1,0 +1,45 @@
+{
+  "backfill_complete": false,
+  "days": {
+    "2026-09-09": {
+      "backfill_only": true,
+      "events": 4
+    },
+    "2026-09-10": {
+      "backfill_only": true,
+      "events": 58
+    },
+    "2026-09-11": {
+      "backfill_only": true,
+      "events": 22
+    },
+    "2026-09-12": {
+      "backfill_only": true,
+      "events": 35
+    },
+    "2026-09-13": {
+      "backfill_only": true,
+      "events": 32
+    },
+    "2026-09-14": {
+      "backfill_only": true,
+      "events": 14
+    },
+    "2026-09-15": {
+      "events": 223,
+      "triggers": 212
+    },
+    "2026-09-16": {
+      "events": 520,
+      "triggers": 497
+    },
+    "2026-09-17": {
+      "events": 330,
+      "triggers": 174
+    },
+    "2026-09-22": {
+      "events": 77,
+      "triggers": 52
+    }
+  }
+}
