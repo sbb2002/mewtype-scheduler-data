@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:45:14Z",
+  "generated_at": "2026-09-23T11:30:07Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -106,6 +106,32 @@
       "title_slug": "各音楽配信サービスにてデジタルリリース",
       "tweet_url": "https://x.com/i/status/2102412612734742758",
       "url": "https://bmu.lnk.to/yumemita_OrionWoNazorutw"
+    },
+    {
+      "anchor_a": "yonayona",
+      "anchor_b": "鷲崎健のヨルナイト×ヨルナイト",
+      "body_for_llm": "＼📻このあとラジオ出演📻／ 「鷲崎健のヨルナイト×ヨルナイト」 夢限大みゅーたいぷ より、 峰月律と千石ユノが出演🎉 ⏰: (水) 〜 📺: 放送をおたのしみに🎧‼ #ヨルナイト #ゆめみた",
+      "body_raw": "＼📻このあとラジオ出演📻／\n\n「鷲崎健のヨルナイト×ヨルナイト」\n\n夢限大みゅーたいぷ より、\n峰月律と千石ユノが出演🎉\n\n⏰:9月23日(水) 21時〜\n📺:https://ch.nicovideo.jp/yonayona\n\n放送をおたのしみに🎧‼\n\n#ヨルナイト #ゆめみた",
+      "category": "etc",
+      "date": "2026-09-23",
+      "deadline": false,
+      "expires_at": "2026-09-23T15:00:00Z",
+      "first_seen": "2026-09-23T11:30:07Z",
+      "id": "2102722145780744546",
+      "last_updated": "2026-09-23T11:30:07Z",
+      "participants": null,
+      "seen_ids": [
+        "2102722145780744546"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:00",
+      "title": "鷲崎健のヨルナイト×ヨルナイト ラジオ出演！峰月律と千石ユノが登場",
+      "title_ko": "와시자키 켄의 요루나이트×요루나이트 라디오 출연! 미네츠키 리츠와 센고쿠 유노가 등장",
+      "title_raw": "「鷲崎健のヨルナイト×ヨルナイト」",
+      "title_slug": "鷲崎健のヨルナイトヨルナイト",
+      "tweet_url": "https://x.com/i/status/2102722145780744546",
+      "url": "https://ch.nicovideo.jp/yonayona"
     },
     {
       "anchor_a": null,
