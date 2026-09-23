@@ -77,3 +77,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T13:03:05Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-23T14:00:00Z", "who": "-daJHsE0FTo"}
 {"assumed_live": false, "detail": "announced→watching", "flow": "preview", "from_state": "announced", "item_id": "pv_9eddb1f6", "result": "ok", "title": null, "to_state": "watching", "ts": "2026-09-23T14:00:00Z", "video_id": null, "who": "nonoka"}
+{"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-23T14:06:00Z", "who": "【弾き語り】シルバーウィークさいしゅうび！とか言わないほうがいいか(-_-;)【ゆめみた/夢限大みゅーたいぷ】 #半分人"}
