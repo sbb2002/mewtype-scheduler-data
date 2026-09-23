@@ -14,3 +14,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T23:17:43Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T23:18:33Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T23:18:52Z", "who": "仲町あられ"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-23T23:20:00Z", "who": "AqijQmQwAtA"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_df07373f", "result": "ok", "title": "【🟡朝活】今日はスッキリ朝だ🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-09-23T23:20:00Z", "video_id": "AqijQmQwAtA", "who": "arale"}
