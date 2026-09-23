@@ -7,3 +7,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T22:04:45Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T22:04:38Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-23T22:04:55Z", "who": "仲町あられ"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-23T22:46:44Z", "via": "ingest", "who": ""}
