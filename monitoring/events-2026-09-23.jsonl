@@ -81,3 +81,4 @@
 {"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-23T14:10:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_b7f079e4", "result": "ok", "title": "【弾き語り】シルバーウィークさいしゅうび！とか言わないほうがいいか(-_-;)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "live", "ts": "2026-09-23T14:10:02Z", "video_id": "Y28oPgYZuZo", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T14:11:46Z", "via": "ingest", "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-23T14:11:47Z", "via": "ingest", "who": "arale"}
