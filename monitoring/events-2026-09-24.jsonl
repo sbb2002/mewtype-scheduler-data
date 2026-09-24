@@ -72,3 +72,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T10:50:30Z", "who": "峰月律"}
 {"detail": "mode: error (/write 호출 실패)", "flow": "tweet", "result": "err", "ts": "2026-09-24T10:50:10Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T10:50:34Z", "who": "藤都子"}
+{"detail": "mode: error (exception)", "flow": "tweet", "result": "err", "ts": "2026-09-24T10:50:31Z", "via": "ingest", "who": "ritsu"}
