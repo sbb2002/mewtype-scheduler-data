@@ -44,3 +44,4 @@
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T09:06:41Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-24T09:10:02Z", "who": ""}
 {"assumed_live": false, "detail": "announced→watching", "flow": "preview", "from_state": "announced", "item_id": "pv_5005b9d8", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！", "to_state": "watching", "ts": "2026-09-24T09:10:02Z", "video_id": "dTqZ7duxoHY", "who": "arale"}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-24T09:26:51Z", "via": "ingest", "who": ""}
