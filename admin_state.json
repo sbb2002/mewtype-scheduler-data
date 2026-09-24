@@ -14,11 +14,11 @@
     }
   ],
   "undo": {
-    "action": "소식 added (【緊急メンテナンス実施のお知らせ】)",
-    "at": "2026-09-24T18:40:20Z",
+    "action": "소식 updated (【緊急メンテナンス終了のお知らせ】)",
+    "at": "2026-09-24T20:30:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "13d4aadcae91e2c2243dbeb2ab41184c032c926a",
+    "new_sha": "799d5947b282632df45f4c071a0cc54c6839bfc9",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-09-24T18:40:20Z",
@@ -102,6 +102,32 @@
           "title_slug": "resonext",
           "tweet_url": "https://x.com/i/status/2101967170498371755",
           "url": "https://eplus.jp/yumemita-arale/"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": null,
+          "body_for_llm": "【緊急メンテナンス実施のお知らせ】 アクセス負荷軽減のため、緊急メンテナンスを実施いたします。メンテナンスは 〜 を予定しております。 ご迷惑をおかけしておりますこと、深くお詫び申し上げます。 #バンドリ #アワーノーツ",
+          "body_raw": "【緊急メンテナンス実施のお知らせ】\nアクセス負荷軽減のため、緊急メンテナンスを実施いたします。メンテナンスは3:45〜5:00を予定しております。\n\nご迷惑をおかけしておりますこと、深くお詫び申し上げます。\n\n#バンドリ #アワーノーツ",
+          "category": "etc",
+          "date": "2026-09-25",
+          "deadline": false,
+          "expires_at": "2026-09-25T15:00:00Z",
+          "first_seen": "2026-09-24T18:40:20Z",
+          "id": "2103191643960787131",
+          "last_updated": "2026-09-24T18:40:20Z",
+          "participants": null,
+          "seen_ids": [
+            "2103191643960787131"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "03:45",
+          "title": "緊急メンテナンス実施のお知らせ",
+          "title_ko": "긴급 유지보수 실시 안내",
+          "title_raw": "【緊急メンテナンス実施のお知らせ】",
+          "title_slug": "緊急メンテナンス実施のお知らせ",
+          "tweet_url": "https://x.com/i/status/2103191643960787131",
+          "url": null
         },
         {
           "anchor_a": "jfF5q",
