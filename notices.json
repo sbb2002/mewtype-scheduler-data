@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:00:08Z",
+  "generated_at": "2026-09-24T09:06:24Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -401,6 +401,32 @@
       "title_slug": "夢限大みゅーたいぷ5thsingleこれはぼくた",
       "tweet_url": "https://x.com/i/status/2100105528081080748",
       "url": null
+    },
+    {
+      "anchor_a": "dTqZ7duxoHY",
+      "anchor_b": null,
+      "body_for_llm": "＼🎊全体生配信決定🎊／ 📅 (木) 〜 🛸#ゆめみた 東京公演 FINAL ライブ映像 同時視聴生配信！🛸 📺配信URL 6月に開催された単独公演の ライブ映像をメンバーと同時視聴🎸✨ #バンドリ",
+      "body_raw": "＼🎊全体生配信決定🎊／\n\n📅10月1日(木) 20:00〜\n\n🛸#ゆめみた 東京公演 FINAL \nライブ映像 同時視聴生配信！🛸\n\n📺配信URL\nhttps://youtube.com/live/dTqZ7duxoHY\n\n6月に開催された単独公演の\nライブ映像をメンバーと同時視聴🎸✨\n\n#バンドリ",
+      "category": "live",
+      "date": "2026-10-01",
+      "deadline": false,
+      "expires_at": "2026-10-01T15:00:00Z",
+      "first_seen": "2026-09-24T09:06:24Z",
+      "id": "2103046802341548366",
+      "last_updated": "2026-09-24T09:06:24Z",
+      "participants": null,
+      "seen_ids": [
+        "2103046802341548366"
+      ],
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "20:00",
+      "title": "全体生配信決定！ゆめみた東京公演 FINAL ライブ映像 同時視聴 #バンドリ",
+      "title_ko": "전체 생방송 결정! 유메미타 도쿄 공연 FINAL 라이브 영상 동시 시청 #뱅드림",
+      "title_raw": "ゆめみた 東京公演 FINAL ライブ映像 同時視聴生配信",
+      "title_slug": "ゆめみた東京公演finalライブ映像同時視聴生配",
+      "tweet_url": "https://x.com/i/status/2103046802341548366",
+      "url": "https://youtube.com/live/dTqZ7duxoHY"
     },
     {
       "anchor_a": null,
