@@ -36,11 +36,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-09-24T10:50:10Z",
+    "action": "/edit preview pv_5005b9d8",
+    "at": "2026-09-24T11:12:36Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "fb30d5c68e5e1e2a3044b6a5d5b5be077a703efe",
+    "new_sha": "5f22b4ee2c0e3604936c33d1a35d4f52c092eac0",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -107,7 +107,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-24T09:42:23Z",
+      "generated_at": "2026-09-24T11:10:01Z",
       "items": [
         {
           "actual_start": null,
@@ -128,12 +128,12 @@
           "info_at": "2026-09-24T09:06:24Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-09-24T09:40:02Z",
+          "last_updated": "2026-09-24T11:10:01Z",
           "membership": false,
           "scheduled_start": "2026-09-24T09:06:24Z",
           "source": "x-relay",
-          "state": "watching",
-          "state_since": "2026-09-24T09:10:02Z",
+          "state": "upcoming",
+          "state_since": "2026-09-24T11:10:01Z",
           "thumbnail": "https://i.ytimg.com/vi/dTqZ7duxoHY/maxresdefault_live.jpg",
           "time_tbd": false,
           "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！",
@@ -154,8 +154,8 @@
           "id": "pv_93cde065",
           "info_at": "2026-09-24T09:31:02Z",
           "info_source": "personal",
-          "kind": null,
-          "last_updated": "2026-09-24T09:42:23Z",
+          "kind": "talk",
+          "last_updated": "2026-09-24T11:10:01Z",
           "membership": false,
           "scheduled_start": "2026-09-24T14:30:00Z",
           "source": "api",
@@ -187,7 +187,7 @@
           "info_at": "2026-09-17T08:03:04Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-09-24T09:40:02Z",
+          "last_updated": "2026-09-24T11:10:01Z",
           "membership": false,
           "scheduled_start": "2026-09-25T10:30:00Z",
           "source": "x-relay",
@@ -214,7 +214,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-09-24T09:40:02Z",
+          "last_updated": "2026-09-24T11:10:01Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
