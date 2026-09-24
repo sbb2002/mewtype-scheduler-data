@@ -53,3 +53,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T09:42:15Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T09:42:06Z", "via": "ingest", "who": "yuno"}
 {"detail": "mode: error (/write 호출 실패)", "flow": "tweet", "result": "err", "ts": "2026-09-24T09:42:06Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T09:42:21Z", "who": "藤都子"}
