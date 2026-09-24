@@ -164,3 +164,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-24T14:33:00Z", "who": "uMXF4V3r2so"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_93cde065", "result": "ok", "title": "【月に一度の】ユノの生存報告 #51 【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-09-24T14:33:00Z", "video_id": "uMXF4V3r2so", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T14:33:03Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T14:33:18Z", "who": "仲町あられ"}
