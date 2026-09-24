@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-24T09:42:23Z",
+  "generated_at": "2026-09-24T10:50:10Z",
   "items": [
     {
       "actual_start": null,
@@ -110,8 +110,8 @@
       "id": "pv_93cde065",
       "info_at": "2026-09-24T09:31:02Z",
       "info_source": "personal",
-      "kind": null,
-      "last_updated": "2026-09-24T09:42:23Z",
+      "kind": "talk",
+      "last_updated": "2026-09-24T10:50:10Z",
       "membership": false,
       "scheduled_start": "2026-09-24T14:30:00Z",
       "source": "api",
