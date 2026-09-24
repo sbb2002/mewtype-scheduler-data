@@ -40,3 +40,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T07:01:58Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T07:02:09Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-24T09:06:24Z", "via": "ingest", "who": ""}
+{"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-09-24T09:06:24Z", "via": "ingest", "who": ""}
