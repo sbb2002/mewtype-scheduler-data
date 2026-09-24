@@ -154,3 +154,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T13:52:43Z", "who": "千石ユノ"}
 {"detail": "유튜브 tunein → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-24T14:01:09Z", "who": "【月に一度の】ユノの生存報告 #51 【 #千石ユノ / #バンドリ 】"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T14:05:27Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T14:05:36Z", "who": "藤都子"}
