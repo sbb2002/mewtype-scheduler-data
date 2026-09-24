@@ -174,3 +174,4 @@
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_93cde065", "result": "ok", "title": "【月に一度の】ユノの生存報告 #51 【 #千石ユノ / #バンドリ 】", "to_state": "none", "ts": "2026-09-24T15:50:00Z", "video_id": "uMXF4V3r2so", "who": "yuno"}
 {"detail": "/ingest --retroactive", "flow": "cmd", "reply": "✓ 보관된 유실 원문이 없습니다.", "result": "ok", "ts": "2026-09-24T18:02:39Z", "who": "/ingest"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-24T18:40:20Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-24T18:40:20Z", "via": "ingest", "who": ""}
