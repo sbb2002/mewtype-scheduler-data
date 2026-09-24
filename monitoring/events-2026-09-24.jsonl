@@ -49,3 +49,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T09:27:05Z", "who": "バンドリ！アワーノーツ - 事前登録受付中"}
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-24T09:40:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_93cde065", "result": "ok", "title": "【月に一度の】ユノの生存報告 #51 【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-09-24T09:40:02Z", "video_id": "uMXF4V3r2so", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T09:42:06Z", "via": "ingest", "who": "yuno"}
