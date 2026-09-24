@@ -14,11 +14,11 @@
     }
   ],
   "undo": {
-    "action": "소식 added (リリース記念！5日連続楽曲追加キャンペーン)",
-    "at": "2026-09-24T13:05:04Z",
+    "action": "소식 added (『過去を喰らう』)",
+    "at": "2026-09-24T13:23:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "7878d9c75150641ce62d9ccc968bb0a0c0ef6792",
+    "new_sha": "751b088c1299f91d3df4d8a669621b12b649e3ca",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-09-24T13:05:04Z",
@@ -102,6 +102,32 @@
           "title_slug": "resonext",
           "tweet_url": "https://x.com/i/status/2101967170498371755",
           "url": "https://eplus.jp/yumemita-arale/"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "楽曲ショップ",
+          "body_for_llm": "明日 より開催！ リリース記念！5日連続楽曲追加キャンペーン🎶 追加するカバー楽曲はこちら✨ カバー楽曲は「楽曲ショップ」で「楽曲チケット×10」と交換できます💿ぜひお楽しみに！ #アワーノーツ #バンドリTVLIVE",
+          "body_raw": "明日15:00より開催！\nリリース記念！5日連続楽曲追加キャンペーン🎶\n\n追加するカバー楽曲はこちら✨\n\nカバー楽曲は「楽曲ショップ」で「楽曲チケット×10」と交換できます💿ぜひお楽しみに！\n\n#アワーノーツ #バンドリTVLIVE",
+          "category": "release",
+          "date": "2026-09-24",
+          "deadline": false,
+          "expires_at": "2026-09-24T15:00:00Z",
+          "first_seen": "2026-09-24T13:05:04Z",
+          "id": "2103108102270926918",
+          "last_updated": "2026-09-24T13:05:04Z",
+          "participants": null,
+          "seen_ids": [
+            "2103108102270926918"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "15:00",
+          "title": "リリース記念！5日連続楽曲追加キャンペーン開催",
+          "title_ko": "출시 기념! 5일 연속 곡 추가 캠페인 개최",
+          "title_raw": "リリース記念！5日連続楽曲追加キャンペーン",
+          "title_slug": "リリース記念5日連続楽曲追加キャンペーン",
+          "tweet_url": "https://x.com/i/status/2103108102270926918",
+          "url": null
         },
         {
           "anchor_a": null,
