@@ -14,11 +14,11 @@
     }
   ],
   "undo": {
-    "action": "본인 예고 센고쿠 유노 (〈配信のおしらせ〉 \n9/24 23:30～ 生存報告)",
-    "at": "2026-09-24T09:42:23Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-09-24T10:50:10Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "41ca7799fe2ef6ba01538ff5aa71ab487489415e",
+    "new_sha": "fb30d5c68e5e1e2a3044b6a5d5b5be077a703efe",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -85,7 +85,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-24T09:42:06Z",
+      "generated_at": "2026-09-24T09:42:23Z",
       "items": [
         {
           "actual_start": null,
@@ -130,10 +130,10 @@
           "first_seen": "2026-09-24T09:40:02Z",
           "host": null,
           "id": "pv_93cde065",
-          "info_at": null,
-          "info_source": "api",
+          "info_at": "2026-09-24T09:31:02Z",
+          "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-09-24T09:42:06Z",
+          "last_updated": "2026-09-24T09:42:23Z",
           "membership": false,
           "scheduled_start": "2026-09-24T14:30:00Z",
           "source": "api",
