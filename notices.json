@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:23:06Z",
+  "generated_at": "2026-09-24T13:23:14Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -401,6 +401,32 @@
       "title_slug": "cm放映中",
       "tweet_url": "https://x.com/i/status/2102627855679324264",
       "url": "https://bang-dream-on.bushimo.jp/pre-register/"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "アイの奔流atoz",
+      "body_for_llm": "#アワーノーツ 初回イベント情報✨ (月) よりチャレンジライブイベント「アイの奔流 AtoZ」の開催が決定🎧 夢限大みゅーたいぷ初のイベントガチャ「ワタシが主役のサイバーナイトガチャ」には「千石 ユノ」「宮永 ののか」がSSRメンバーとして登場！ #バンドリTVLIVE",
+      "body_raw": "#アワーノーツ 初回イベント情報✨\n\n9月28日(月)15:00よりチャレンジライブイベント「アイの奔流 AtoZ」の開催が決定🎧\n\n夢限大みゅーたいぷ初のイベントガチャ「ワタシが主役のサイバーナイトガチャ」には「千石 ユノ」「宮永 ののか」がSSRメンバーとして登場！\n\n#バンドリTVLIVE",
+      "category": "etc",
+      "date": "2026-09-28",
+      "deadline": false,
+      "expires_at": "2026-09-28T15:00:00Z",
+      "first_seen": "2026-09-24T13:23:14Z",
+      "id": "2103109383559500117",
+      "last_updated": "2026-09-24T13:23:14Z",
+      "participants": null,
+      "seen_ids": [
+        "2103109383559500117"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": "15:00",
+      "title": "アイの奔流 AtoZ開催決定と初ガチャ「ワタシが主役のサイバーナイトガチャ」登場",
+      "title_ko": "아이의 급류 AtoZ 개최 확정 및 첫 가챠 \"와타시가 주인공의 사이버 나이트 가챠\" 등장",
+      "title_raw": "9月28日(月)15:00よりチャレンジライブイベント「アイの奔流 AtoZ」の開催が決定🎧",
+      "title_slug": "月よりチャレンジライブイベントアイの奔流atoz",
+      "tweet_url": "https://x.com/i/status/2103109383559500117",
+      "url": null
     },
     {
       "anchor_a": null,
