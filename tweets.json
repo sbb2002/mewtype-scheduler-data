@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:23:49Z",
+  "generated_at": "2026-09-24T13:24:14Z",
   "tweets": {
     "arale": [
       {
@@ -331,6 +331,26 @@
         "text": "あーっ🫵🫵🫵\n千石ユノさんだ🫵🫵🫵\n\n絶対引かなくちゃ🫵🫵🫵🫵🫵",
         "text_ko": "아—🫵🫵🫵  \n센코쿠 유노 씨다🫵🫵🫵  \n절대 뽑아야 해🫵🫵🫵🫵🫵",
         "url": "https://x.com/i/status/2103113165139800482"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-25T13:24:14Z",
+        "handle": "yuno_yumemita",
+        "id": "2103113269057847474",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HS-zGUNbIAAvbpp.jpg",
+            "https://pbs.twimg.com/media/HS-zHZzaMAA_Nx_.jpg",
+            "https://pbs.twimg.com/media/HS-zIuPa4AAcugs.jpg"
+          ],
+          "text": "#アワーノーツ 初回イベント情報✨\n\n9月28日(月)15:00よりチャレンジライブイベント「アイの奔流 AtoZ」の開催が決定🎧\n\n夢限大みゅーたいぷ初のイベントガチャ「ワタシが主役のサイバーナイトガチャ」には「千石 ユノ」「宮永 ののか」がSSRメンバーとして登場！\n\n#バンドリTVLIVE",
+          "text_ko": "#아워노트스 첫 번째 이벤트 정보✨\n\n9월 28일(월) 15:00부터 챌린지 라이브 이벤트 “아이의 폭류 AtoZ”가 개최됩니다🎧\n\n무겐다이 뮤타입 최초의 이벤트 가챠 “내가 주인공인 사이버 나이트 가챠”에 “센고쿠 유노”“미야나가 노노카”가 SSR 멤버로 등장합니다!\n\n#뱅드림 TVLIVE"
+        },
+        "received_at": "2026-09-24T13:24:14Z",
+        "text": "あーーーっ🫵🫵🫵🫵🫵\n千石ユノさんイベがくるぞ🫵🫵🫵🫵🫵\n\n絶対やらなくちゃ🫵🫵🫵🫵",
+        "text_ko": "아-🫵🫵🫵🫵🫵\n센고쿠 유노 씨 이벤트가 온다🫵🫵🫵🫵🫵\n\n절대 해야 해🫵🫵🫵🫵",
+        "url": "https://x.com/i/status/2103113269057847474"
       }
     ]
   }
