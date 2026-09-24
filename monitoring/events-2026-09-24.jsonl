@@ -90,3 +90,4 @@
 {"assumed_live": false, "detail": "announced→upcoming", "flow": "preview", "from_state": "announced", "item_id": "pv_5005b9d8", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！", "to_state": "upcoming", "ts": "2026-09-24T11:10:01Z", "video_id": "dTqZ7duxoHY", "who": "arale"}
 {"detail": "/edit preview arale 1", "flow": "cmd", "reply": "✏️ 어떤 유닛의 예고를 편집할까요? (유닛명 · 취소 aNoneTokyo)", "result": "err", "ts": "2026-09-24T11:10:35Z", "who": "/edit"}
 {"detail": "/edit", "flow": "cmd", "reply": "✏️ 어떤 유닛의 예고를 편집할까요? (유닛명 · 취소 aNoneTokyo)", "result": "ok", "ts": "2026-09-24T11:10:51Z", "who": "/edit"}
+{"detail": "arale", "flow": "cmd", "reply": "arale 의 몇 번 항목을 편집할까요? (번호 — /list arale 로 확인)", "result": "ok", "ts": "2026-09-24T11:11:06Z", "who": "(후속 입력)"}
