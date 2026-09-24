@@ -96,3 +96,4 @@
 {"detail": "(16자 — 내용은 기록 안 함)", "flow": "cmd", "reply": "나카마치 아라레 #1  pv_5005b9d8", "result": "ok", "ts": "2026-09-24T11:12:25Z", "who": "(후속 입력)"}
 {"detail": "done", "flow": "cmd", "reply": "✅ 처리 완료 [예고편집]apply_preview_edit", "result": "ok", "ts": "2026-09-24T11:12:36Z", "who": "(후속 입력)"}
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-24T11:20:02Z", "who": ""}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T11:29:40Z", "via": "ingest", "who": "arale"}
