@@ -94,3 +94,4 @@
 {"detail": "1", "flow": "cmd", "reply": "나카마치 아라레 #1  pv_5005b9d8", "result": "ok", "ts": "2026-09-24T11:11:13Z", "who": "(후속 입력)"}
 {"detail": "date", "flow": "cmd", "reply": "새 date 값을 보내세요 (YYYY-MM-DD HH:MM, KST).", "result": "ok", "ts": "2026-09-24T11:11:54Z", "who": "(후속 입력)"}
 {"detail": "(16자 — 내용은 기록 안 함)", "flow": "cmd", "reply": "나카마치 아라레 #1  pv_5005b9d8", "result": "ok", "ts": "2026-09-24T11:12:25Z", "who": "(후속 입력)"}
+{"detail": "done", "flow": "cmd", "reply": "✅ 처리 완료 [예고편집]apply_preview_edit", "result": "ok", "ts": "2026-09-24T11:12:36Z", "who": "(후속 입력)"}
