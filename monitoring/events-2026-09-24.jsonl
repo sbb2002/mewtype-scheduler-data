@@ -166,3 +166,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T14:33:03Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T14:33:18Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T14:44:58Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T14:45:08Z", "who": "宮永ののか🐰🩹"}
