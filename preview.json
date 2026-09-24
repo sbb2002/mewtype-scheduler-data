@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-24T11:10:01Z",
+  "generated_at": "2026-09-24T11:12:36Z",
   "items": [
     {
       "actual_start": null,
@@ -84,9 +84,9 @@
       "info_at": "2026-09-24T09:06:24Z",
       "info_source": "x-relay",
       "kind": "collab",
-      "last_updated": "2026-09-24T11:10:01Z",
+      "last_updated": "2026-09-24T11:12:36Z",
       "membership": false,
-      "scheduled_start": "2026-09-24T09:06:24Z",
+      "scheduled_start": "2026-10-01T11:00:00Z",
       "source": "x-relay",
       "state": "upcoming",
       "state_since": "2026-09-24T11:10:01Z",
