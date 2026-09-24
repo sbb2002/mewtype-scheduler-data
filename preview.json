@@ -63,8 +63,41 @@
       ]
     }
   },
-  "generated_at": "2026-09-24T09:06:24Z",
+  "generated_at": "2026-09-24T09:10:02Z",
   "items": [
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-10-01T11:00:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [
+        "yuno",
+        "nonoka",
+        "ritsu",
+        "miyako"
+      ],
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-24T12:06:24Z",
+      "first_seen": "2026-09-24T09:06:24Z",
+      "host": "group",
+      "id": "pv_5005b9d8",
+      "info_at": "2026-09-24T09:06:24Z",
+      "info_source": "x-relay",
+      "kind": "collab",
+      "last_updated": "2026-09-24T09:10:02Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-09-24T09:06:24Z",
+      "source": "x-relay",
+      "state": "watching",
+      "state_since": "2026-09-24T09:10:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/dTqZ7duxoHY/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=dTqZ7duxoHY",
+      "video_id": "dTqZ7duxoHY"
+    },
     {
       "actual_start": null,
       "api_start_seen": "2026-09-25T10:30:00Z",
@@ -84,7 +117,7 @@
       "info_at": "2026-09-17T08:03:04Z",
       "info_source": "x-relay",
       "kind": "collab",
-      "last_updated": "2026-09-23T23:50:00Z",
+      "last_updated": "2026-09-24T09:10:02Z",
       "membership": false,
       "scheduled_start": "2026-09-25T10:30:00Z",
       "source": "x-relay",
@@ -111,7 +144,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-23T23:50:00Z",
+      "last_updated": "2026-09-24T09:10:02Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -124,39 +157,6 @@
       "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
       "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
       "video_id": "h31Mi6AS7a0"
-    },
-    {
-      "actual_start": null,
-      "api_start_seen": null,
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": [
-        "yuno",
-        "nonoka",
-        "ritsu",
-        "miyako"
-      ],
-      "concurrent_viewers": null,
-      "expires_at": "2026-09-24T12:06:24Z",
-      "first_seen": "2026-09-24T09:06:24Z",
-      "host": "group",
-      "id": "pv_5005b9d8",
-      "info_at": "2026-09-24T09:06:24Z",
-      "info_source": "x-relay",
-      "kind": "collab",
-      "last_updated": "2026-09-24T09:06:24Z",
-      "membership": false,
-      "needs_tl": false,
-      "scheduled_start": "2026-09-24T09:06:24Z",
-      "source": "x-relay",
-      "state": "announced",
-      "state_since": "2026-09-24T09:06:24Z",
-      "thumbnail": null,
-      "time_tbd": false,
-      "title": null,
-      "title_ko": null,
-      "url": "https://youtube.com/live/dTqZ7duxoHY",
-      "video_id": "dTqZ7duxoHY"
     }
   ]
 }
