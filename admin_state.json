@@ -14,14 +14,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (『過去を喰らう』)",
-    "at": "2026-09-24T13:23:06Z",
+    "action": "소식 added (9月28日(月)15:00よりチャレンジライブイベント「アイ)",
+    "at": "2026-09-24T13:23:14Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "751b088c1299f91d3df4d8a669621b12b649e3ca",
+    "new_sha": "bfb492d18dae071091e9ba6b11dd039e52badca7",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-24T13:05:04Z",
+      "generated_at": "2026-09-24T13:23:06Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -578,6 +578,32 @@
           "title_slug": "bangdreamアトレ秋葉原popupstor",
           "tweet_url": "https://x.com/i/status/2100751660582891717",
           "url": "https://www.atre.co.jp/akihabara/news/7616/"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "過去を喰らう",
+          "body_for_llm": "(土)に追加予定のカバー楽曲を発表🎶 ぜひお楽しみに💫 『過去を喰らう』 歌:MyGO!!!!! #アワーノーツ #バンドリTVLIVE",
+          "body_raw": "10月3日(土)に追加予定のカバー楽曲を発表🎶\nぜひお楽しみに💫\n\n『過去を喰らう』\n歌:MyGO!!!!!\n\n#アワーノーツ #バンドリTVLIVE",
+          "category": "etc",
+          "date": "2026-10-03",
+          "deadline": false,
+          "expires_at": "2026-10-03T15:00:00Z",
+          "first_seen": "2026-09-24T13:23:06Z",
+          "id": "2103111712279089571",
+          "last_updated": "2026-09-24T13:23:06Z",
+          "participants": null,
+          "seen_ids": [
+            "2103111712279089571"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "土曜追加予定のカバー楽曲『過去を喰らう』発表",
+          "title_ko": "토요일 추가 예정 커버곡 『過去를 먹는다』 발표",
+          "title_raw": "『過去を喰らう』",
+          "title_slug": "過去を喰らう",
+          "tweet_url": "https://x.com/i/status/2103111712279089571",
+          "url": null
         },
         {
           "anchor_a": "shop_list",
