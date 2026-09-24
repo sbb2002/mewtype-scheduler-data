@@ -100,3 +100,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T11:29:50Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T11:39:06Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T11:39:19Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T12:02:01Z", "via": "ingest", "who": "ritsu"}
