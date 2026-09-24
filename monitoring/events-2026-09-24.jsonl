@@ -39,3 +39,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T06:15:24Z", "who": "バンドリ！アワーノーツ - 事前登録受付中"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T07:01:58Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T07:02:09Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-24T09:06:24Z", "via": "ingest", "who": ""}
