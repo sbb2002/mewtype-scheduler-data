@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T23:50:00Z",
+  "generated_at": "2026-09-24T15:50:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1123,6 +1123,34 @@
       "title_ko": "【🟡아침활동】 오늘은 상쾌한 아침이야🌟 #Shorts #Vtuber 【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=AqijQmQwAtA",
       "video_id": "AqijQmQwAtA"
+    },
+    {
+      "actual_start": "2026-09-24T14:31:18Z",
+      "api_start_seen": "2026-09-24T14:30:00Z",
+      "archived_at": "2026-09-24T15:50:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 507,
+      "expires_at": "2026-09-24T17:30:00Z",
+      "first_seen": "2026-09-24T09:40:02Z",
+      "host": null,
+      "id": "pv_93cde065",
+      "info_at": "2026-09-24T09:31:02Z",
+      "info_source": "personal",
+      "kind": "talk",
+      "last_updated": "2026-09-24T15:50:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-24T14:30:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-24T15:50:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/uMXF4V3r2so/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【月に一度の】ユノの生存報告 #51 【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【월에 한 번】 유노의 생존 보고 #51 【 #천석유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=uMXF4V3r2so",
+      "video_id": "uMXF4V3r2so"
     }
   ]
 }
