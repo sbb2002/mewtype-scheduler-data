@@ -178,3 +178,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T18:40:48Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-24T20:30:06Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-24T20:30:06Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T20:30:29Z", "who": "バンドリ！アワーノーツ"}
