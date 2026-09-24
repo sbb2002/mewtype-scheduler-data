@@ -275,6 +275,20 @@
         "text": "えー！(Twitter初心者)",
         "text_ko": "에~! (Twitter초보자)",
         "url": "https://x.com/i/status/2103054685263610231"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-25T09:42:06Z",
+        "handle": "yuno_yumemita",
+        "id": "2103055007339905338",
+        "media": [
+          "https://pbs.twimg.com/media/HS-NJbXa8AAjjrx.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-24T09:42:06Z",
+        "text": "〈配信のおしらせ〉\n9/24 23:30〜 生存報告\n\n告知ツイ、途中で送信されないでね\n恐らくアワーノーツで忙しいみんなの片耳を借ります\n\nhttps://youtube.com/live/uMXF4V3r2so?feature=share",
+        "text_ko": "〈배송 안내〉\n9/24 23:30〜 생존 보고\n\n공지 트윗, 중간에 전송되지 않게 해 주세요\n아마도 아워노트 때문에 바쁜 여러분의 한쪽 귀를 빌릴게요\n\nhttps://youtube.com/live/uMXF4V3r2so?feature=share",
+        "url": "https://x.com/i/status/2103055007339905338"
       }
     ]
   }
