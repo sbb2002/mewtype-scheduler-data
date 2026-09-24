@@ -86,3 +86,5 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-24T11:09:07Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T11:09:10Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "/list", "flow": "cmd", "reply": "나카마치 아라레 (arale)", "result": "ok", "ts": "2026-09-24T11:09:56Z", "who": "/list"}
+{"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-24T11:10:01Z", "who": ""}
+{"assumed_live": false, "detail": "announced→upcoming", "flow": "preview", "from_state": "announced", "item_id": "pv_5005b9d8", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！", "to_state": "upcoming", "ts": "2026-09-24T11:10:01Z", "video_id": "dTqZ7duxoHY", "who": "arale"}
