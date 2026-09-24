@@ -132,3 +132,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T13:23:43Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T13:23:49Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T13:24:03Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-24T13:24:14Z", "via": "ingest", "who": "yuno"}
