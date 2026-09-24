@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:32:24Z",
+  "generated_at": "2026-09-24T13:33:03Z",
   "tweets": {
     "arale": [
       {
@@ -273,6 +273,24 @@
         "text": "ひらひらの、スカート",
         "text_ko": "흩날리는 스커트",
         "url": "https://x.com/i/status/2103115321750241339"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-25T13:33:03Z",
+        "handle": "ritsu_yumemita",
+        "id": "2103115481989501299",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HS-0cWYakAAPzN1.jpg"
+          ],
+          "text": "チャレンジライブイベント「アイの奔流 AtoZ」で獲得できる報酬メンバーとスナップイラストを紹介✨\n\nSRメンバー、峰月 律のイラストはこちら🛸\n\n#アワーノーツ #バンドリTVLIVE",
+          "text_ko": "도전 라이브 이벤트 “아이의 폭류 AtoZ”에서 획득할 수 있는 보상 멤버와 스냅 일러스트를 소개✨\n\nSR 멤버, 峰月 律의 일러스트는 여기🛸\n\n#아워노트 #뱅드림 TVLIVE"
+        },
+        "received_at": "2026-09-24T13:33:03Z",
+        "text": "ひらひらの、スカート\nひらひらの、ズボン\nひらひら、ついてる　ひらひら",
+        "text_ko": "흩날리는 스커트  \n흩날리는 바지  \n흩날리는 것이 달려 있는 흩날림",
+        "url": "https://x.com/i/status/2103115481989501299"
       }
     ],
     "yuno": [
