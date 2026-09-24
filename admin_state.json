@@ -1,18 +1,30 @@
 {
-  "edit_lock": null,
+  "edit_lock": {
+    "id": "pv_5005b9d8",
+    "until": "2026-09-24T11:12:13Z"
+  },
   "pending_del": null,
   "pending_ingest": null,
   "pending_member": null,
   "pending_notice": null,
   "pending_notice_edit": null,
   "pending_op": {
-    "at": "2026-09-24T11:11:06Z",
+    "at": "2026-09-24T11:11:13Z",
     "cmd": "edit",
     "contents": "preview",
     "ctx": {
+      "id": "pv_5005b9d8",
+      "idx": 1,
+      "patch": {},
+      "pre": {
+        "date": "2026-09-24T09:06:24Z",
+        "state": "upcoming",
+        "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！",
+        "url": "https://www.youtube.com/watch?v=dTqZ7duxoHY"
+      },
       "unit": "arale"
     },
-    "step": "await_idx"
+    "step": "await_field"
   },
   "pending_undo": null,
   "suppress": [
