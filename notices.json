@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T09:26:51Z",
+  "generated_at": "2026-09-24T09:42:17Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -160,6 +160,32 @@
       "title_slug": "事前ダウンロードについて",
       "tweet_url": "https://x.com/i/status/2102352283875086751",
       "url": null
+    },
+    {
+      "anchor_a": "CvajtQ_yXf0",
+      "anchor_b": "#バンドリtvlive2026",
+      "body_for_llm": "📢本日 頃より生配信！ 「#バンドリTVLIVE 2026」#333 配信内では、アワーノーツ正式リリース後の様々な新情報を盛りだくさんでお届けいたします！ぜひご覧ください💫 ▼YouTube Live #アワーノーツ",
+      "body_raw": "📢本日21:33頃より生配信！\n「#バンドリTVLIVE 2026」#333\n\n配信内では、アワーノーツ正式リリース後の様々な新情報を盛りだくさんでお届けいたします！ぜひご覧ください💫\n\n▼YouTube Live\nhttps://youtube.com/live/CvajtQ_yXf0\n\n#アワーノーツ",
+      "category": "live",
+      "date": "2026-09-24",
+      "deadline": false,
+      "expires_at": "2026-09-24T15:00:00Z",
+      "first_seen": "2026-09-24T09:42:17Z",
+      "id": "2103054334368137359",
+      "last_updated": "2026-09-24T09:42:17Z",
+      "participants": null,
+      "seen_ids": [
+        "2103054334368137359"
+      ],
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:33",
+      "title": "本日生配信！「#バンドリ TVLIVE 2026」",
+      "title_ko": "오늘 생방송! 「#뱅드림 TVLIVE 2026」",
+      "title_raw": "「バンドリTVLIVE 2026」",
+      "title_slug": "バンドリtvlive2026",
+      "tweet_url": "https://x.com/i/status/2103054334368137359",
+      "url": "https://youtube.com/live/CvajtQ_yXf0"
     },
     {
       "anchor_a": null,
