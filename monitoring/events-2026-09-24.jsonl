@@ -107,3 +107,4 @@
 {"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-24T12:20:27Z", "who": "バンドリ！TV LIVE 2026 #333"}
 {"detail": "유튜브 reminder → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-24T12:33:17Z", "who": "원조! 뱅드림짱 51화 | 샛별"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-24T12:49:04Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T12:49:06Z", "who": "バンドリ！アワーノーツ"}
