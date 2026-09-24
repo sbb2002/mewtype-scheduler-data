@@ -70,3 +70,4 @@
 {"detail": "mode: error · /write 실패(ingest_queue_drain): HTTP 429 Rate exceeded.", "flow": "relay", "result": "err", "ts": "2026-09-24T10:50:26Z", "via": "ingest", "who": ""}
 {"detail": "처리 실패 · /write 실패(ingest_queue_drain): HTTP 429 Rate exceeded.", "flow": "upstream", "result": "err", "source": "x", "ts": "2026-09-24T10:50:29Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-24T10:50:30Z", "who": "峰月律"}
+{"detail": "mode: error (/write 호출 실패)", "flow": "tweet", "result": "err", "ts": "2026-09-24T10:50:10Z", "via": "ingest", "who": "miyako"}
