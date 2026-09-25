@@ -183,3 +183,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_140de117", "result": "ok", "title": "【🟡備忘録】Zepp Shinjuku ~ 新宿着陸計画DAY2 ありがとうございました𖤐【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-09-25T13:36:00Z", "video_id": "VBGenMFr-2w", "who": "arale"}
 {"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-25T13:40:01Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_8ce12d27", "result": "ok", "title": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-09-25T13:40:01Z", "video_id": "HZjdED5Z8l8", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T13:50:57Z", "via": "ingest", "who": "miyako"}
