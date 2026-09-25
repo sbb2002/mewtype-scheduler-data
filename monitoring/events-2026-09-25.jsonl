@@ -153,3 +153,4 @@
 {"detail": "y", "flow": "cmd", "reply": "⚠️ 오류: /del 확인 처리 실패", "result": "err", "ts": "2026-09-25T12:05:40Z", "who": "(후속 입력)"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T12:05:39Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T12:05:56Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T12:07:53Z", "via": "ingest", "who": "yuno"}
