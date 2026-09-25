@@ -149,3 +149,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T11:42:09Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "/list", "flow": "cmd", "reply": "나카마치 아라레 (arale)", "result": "ok", "ts": "2026-09-25T12:04:21Z", "who": "/list"}
 {"detail": "/del preview arale 1", "flow": "cmd", "reply": "#1 나카마치 아라레의 2026/9/25 19:30~ (진행중) 방송예고를 내리시겠습니까?", "result": "ok", "ts": "2026-09-25T12:04:38Z", "who": "/del"}
+{"collab_with": ["yuno", "nonoka", "ritsu", "miyako"], "detail": "/del arale#1 · live→none", "flow": "preview", "from_state": "live", "id": "pv_f4f2157c", "result": "ok", "title": "【全編無料生配信】TVアニメ「バンドリ！ ゆめ∞みた」放送記念フリーライブ「新宿着陸計画」DAY2【アーカイブ無し】", "to_state": "none", "ts": "2026-09-25T12:05:40Z", "video_id": "DWMQTpDQ1fc", "who": "arale"}
