@@ -66,22 +66,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-09-25T09:42:06Z",
-        "handle": "miyako_yumemita",
-        "id": "2103056797938614463",
-        "media": [],
-        "quote": {
-          "media": [],
-          "text": "📢本日21:33頃より生配信！\n「#バンドリTVLIVE 2026」#333\n\n配信内では、アワーノーツ正式リリース後の様々な新情報を盛りだくさんでお届けいたします！ぜひご覧ください💫\n\n▼YouTube Live\nhttps://youtube.com/live/CvajtQ_yXf0\n\n#アワーノーツ",
-          "text_ko": "📢오늘 21:33경부터 생방송!\n「#뱅드림 TVLIVE 2026」#333\n\n방송에서는 아워노트 정식 출시 이후의 다양한 새로운 정보를 가득 전달합니다! 꼭 시청해 주세요💫\n\n▼YouTube Live\nhttps://youtube.com/live/CvajtQ_yXf0\n\n#아워노트"
-        },
-        "received_at": "2026-09-24T09:42:06Z",
-        "text": "#アワーノーツ\nとうとう本日20:00りり〜す✨\nわくわくですな❣️\nバンドリTVも見逃せぬ❣️📺📱🦆💨\n\nはやくごはんをたべてぽふろにはいってすべて済ませなければ❗️🐶💨💨",
-        "text_ko": "#アワーノーツ\n드디어 오늘 20:00에 릴리~스✨\n두근두근이네요❣️\n뱅드림 TV도 놓칠 수 없어요❣️📺📱🦆💨\n\n빨리 밥을 먹고 포프로에 들어가서 모두 마쳐야 해요❗️🐶💨💨",
-        "url": "https://x.com/i/status/2103056797938614463"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-09-25T11:39:06Z",
         "handle": "miyako_yumemita",
         "id": "2103086812021580237",
@@ -362,44 +346,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-09-25T09:42:06Z",
-        "handle": "yuno_yumemita",
-        "id": "2103054685263610231",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-24T09:42:06Z",
-        "text": "えー！(Twitter初心者)",
-        "text_ko": "에~! (Twitter초보자)",
-        "url": "https://x.com/i/status/2103054685263610231"
-      },
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-09-25T09:42:06Z",
-        "handle": "yuno_yumemita",
-        "id": "2103055007339905338",
-        "media": [
-          "https://pbs.twimg.com/media/HS-NJbXa8AAjjrx.jpg"
-        ],
-        "quote": null,
-        "received_at": "2026-09-24T09:42:06Z",
-        "text": "〈配信のおしらせ〉\n9/24 23:30〜 生存報告\n\n告知ツイ、途中で送信されないでね\n恐らくアワーノーツで忙しいみんなの片耳を借ります\n\nhttps://youtube.com/live/uMXF4V3r2so?feature=share",
-        "text_ko": "〈배송 안내〉\n9/24 23:30〜 생존 보고\n\n공지 트윗, 중간에 전송되지 않게 해 주세요\n아마도 아워노트 때문에 바쁜 여러분의 한쪽 귀를 빌릴게요\n\nhttps://youtube.com/live/uMXF4V3r2so?feature=share",
-        "url": "https://x.com/i/status/2103055007339905338"
-      },
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-09-25T09:42:23Z",
-        "handle": "yuno_yumemita",
-        "id": "2103054593450250501",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-24T09:42:23Z",
-        "text": "〈配信のおしらせ〉\n9/24 23:30〜 生存報告",
-        "text_ko": "〈배포 안내〉\n9/24 23:30〜 생존 보고",
-        "url": "https://x.com/i/status/2103054593450250501"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-09-25T13:23:49Z",
