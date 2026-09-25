@@ -14,14 +14,14 @@
     }
   ],
   "undo": {
-    "action": "소식 updated (このあと生配信開始)",
-    "at": "2026-09-25T10:00:05Z",
+    "action": "소식 added (「バンドリTVLIVE 2026」)",
+    "at": "2026-09-25T10:00:12Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "9d8e445ad5fa476cef6aa34ed1a3a57b01b001f3",
+    "new_sha": "0384420bd7bffcecacc22e5fcfb6061de3400952",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-25T09:11:06Z",
+      "generated_at": "2026-09-25T10:00:05Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -131,33 +131,34 @@
           "url": null
         },
         {
-          "anchor_a": "Notice",
+          "anchor_a": "DWMQTpDQ1fc",
           "anchor_b": "新宿着陸計画",
-          "body_for_llm": "＼📢まもなく開場／ #アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2🌎 ⏰開場: 予定 お早めのご整列をお願いします🌟 お荷物は可能な限り、コインロッカー等にお預けください🧳 ▼公演注意事項 #ゆめみたフリーライブ_DAY2",
-          "body_raw": "＼📢まもなく開場／\n\n#アニメゆめみた 放送記念フリーライブ\n「新宿着陸計画」DAY2🌎\n\n⏰開場:18:30予定\n\nお早めのご整列をお願いします🌟\n\nお荷物は可能な限り、コインロッカー等にお預けください🧳\n\n▼公演注意事項\nhttps://bang-dream.com/yumemita_2026free_day2/#Notice\n\n#ゆめみたフリーライブ_DAY2",
-          "category": "etc",
+          "body_for_llm": "＼🛸このあと生配信開始❗／ #アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2 🌎 ⏰ 頃〜 YouTube「バンドリちゃんねる☆」にて全編無料配信📹 🔗 アーカイブはございません⚠ #ゆめみたフリーライブ_DAY2 をつけて コメントもお待ちしています🌟",
+          "body_raw": "＼🛸このあと生配信開始❗／\n\n#アニメゆめみた 放送記念フリーライブ\n「新宿着陸計画」DAY2 🌎\n\n⏰19:30頃〜\nYouTube「バンドリちゃんねる☆」にて全編無料配信📹\n\n🔗https://youtube.com/live/DWMQTpDQ1fc\n\nアーカイブはございません⚠\n\n#ゆめみたフリーライブ_DAY2 をつけて\nコメントもお待ちしています🌟",
+          "category": "live",
           "date": "2026-09-25",
           "deadline": false,
           "expires_at": "2026-09-25T15:00:00Z",
           "first_seen": "2026-09-25T01:01:40Z",
           "id": "2103288384160493785",
-          "last_updated": "2026-09-25T09:01:01Z",
+          "last_updated": "2026-09-25T10:00:05Z",
           "participants": null,
           "seen_ids": [
             "2103288384160493785",
             "2103289130352287886",
             "2103375212180050284",
-            "2103409422626136551"
+            "2103409422626136551",
+            "2103424278423273905"
           ],
-          "site": "web",
+          "site": "youtube",
           "src_handle": "@BDP_yumemita",
-          "time": "18:30",
-          "title": "「新宿着陸計画」DAY2🌎",
+          "time": "19:30",
+          "title": "このあと生配信開始",
           "title_ko": "애니메이션 유메미타 방송 기념 프리라이브 ‘신주쿠 착륙 계획’ DAY2",
-          "title_raw": "「新宿着陸計画」DAY2🌎",
-          "title_slug": "新宿着陸計画day2",
-          "tweet_url": "https://x.com/i/status/2103409422626136551",
-          "url": "https://bang-dream.com/yumemita_2026free_day2/#Notice"
+          "title_raw": "このあと生配信開始",
+          "title_slug": "このあと生配信開始",
+          "tweet_url": "https://x.com/i/status/2103424278423273905",
+          "url": "https://youtube.com/live/DWMQTpDQ1fc"
         },
         {
           "anchor_a": "jfF5q",
