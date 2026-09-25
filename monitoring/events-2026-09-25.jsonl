@@ -44,3 +44,4 @@
 {"detail": "/ingest", "flow": "cmd", "reply": "📝 /ingest 대기 중 (3분)", "result": "ok", "ts": "2026-09-25T05:35:50Z", "who": "/ingest"}
 {"detail": "(185자 — 내용은 기록 안 함)", "flow": "cmd", "reply": "🛸 X 스케줄 반영 (2건)", "result": "ok", "ts": "2026-09-25T05:36:01Z", "who": "(후속 입력)"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T05:36:58Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T05:39:56Z", "via": "ingest", "who": "miyako"}
