@@ -174,3 +174,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T13:01:07Z", "who": "仲町あられ"}
 {"detail": "유튜브 tunein → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-25T13:02:24Z", "who": "【🟡備忘録】Zepp Shinjuku ~ 新宿着陸計画DAY2 ありがとうございました𖤐【 仲町あられ / 夢限大みゅ"}
 {"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-25T13:10:02Z", "who": ""}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-25T13:27:00Z", "who": "VBGenMFr-2w"}
+{"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_140de117", "result": "ok", "title": "【🟡備忘録】Zepp Shinjuku ~ 新宿着陸計画DAY2 ありがとうございました𖤐【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-09-25T13:27:00Z", "video_id": "VBGenMFr-2w", "who": "arale"}
