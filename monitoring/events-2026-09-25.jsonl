@@ -187,3 +187,5 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T13:51:14Z", "who": "藤都子"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-25T13:57:00Z", "who": "HZjdED5Z8l8"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_8ce12d27", "result": "ok", "title": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-09-25T13:57:00Z", "video_id": "HZjdED5Z8l8", "who": "yuno"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-25T14:03:00Z", "who": "HZjdED5Z8l8"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_8ce12d27", "result": "ok", "title": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-09-25T14:03:00Z", "video_id": "HZjdED5Z8l8", "who": "yuno"}
