@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:50:39Z",
+  "generated_at": "2026-09-25T08:16:04Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -350,6 +350,32 @@
       "title_slug": "次回配信は月20時より",
       "tweet_url": "https://x.com/i/status/2103369636406546876",
       "url": "https://www.youtube.com/watch?v=vC2vsOWD4q8"
+    },
+    {
+      "anchor_a": "yumemita-oursurvival-pre",
+      "anchor_b": "これはぼくたちの生存のあらすじ",
+      "body_for_llm": "＼サブスク事前予約キャンペーン開始📢／ 🛸#ゆめみた 5th Single 「これはぼくたちの生存のあらすじ」🛸 📌Apple Music [Pre-add] 📌Spotify [Pre-save] していただいた方に オリジナル「スマホ壁紙」をプレゼント🎁✨ ⏰受付期間 (火) 🔗 #バンドリ",
+      "body_raw": "＼サブスク事前予約キャンペーン開始📢／\n\n🛸#ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」🛸\n\n📌Apple Music [Pre-add]\n📌Spotify [Pre-save] していただいた方に\nオリジナル「スマホ壁紙」をプレゼント🎁✨\n\n⏰受付期間\n〜9/29(火) 20:00\n\n🔗https://link.fans/yumemita-oursurvival-pre\n\n#バンドリ",
+      "category": "release",
+      "date": "2026-09-29",
+      "deadline": true,
+      "expires_at": "2026-09-29T15:00:00Z",
+      "first_seen": "2026-09-25T08:16:04Z",
+      "id": "2103398104217305355",
+      "last_updated": "2026-09-25T08:16:04Z",
+      "participants": null,
+      "seen_ids": [
+        "2103398104217305355"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "20:00",
+      "title": "サブスク事前予約キャンペーン開始！オリジナル壁紙プレゼント @バンドリ",
+      "title_ko": "구독 사전 예약 캠페인 시작! 오리지널 배경화면 증정 @뱅드림",
+      "title_raw": "サブスク事前予約キャンペーン開始",
+      "title_slug": "サブスク事前予約キャンペーン開始",
+      "tweet_url": "https://x.com/i/status/2103398104217305355",
+      "url": "https://link.fans/yumemita-oursurvival-pre"
     },
     {
       "anchor_a": null,
