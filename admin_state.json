@@ -14,11 +14,11 @@
     }
   ],
   "undo": {
-    "action": "/ingest ／\n🛸夢限大みゅーたいぷ\n9/25(金)の配信スケジュール🌟\n＼\n\n💭22:30",
-    "at": "2026-09-25T05:36:01Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-09-25T06:03:35Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "3d92014b8f0d22332745b3d5ebfcdb4606d57f5b",
+    "new_sha": "5fcf5358d3721153decc9abb3d6741e30c95368a",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -85,7 +85,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-25T03:37:44Z",
+      "generated_at": "2026-09-25T05:36:01Z",
       "items": [
         {
           "actual_start": null,
@@ -106,7 +106,7 @@
           "info_at": "2026-09-17T08:03:04Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-09-25T03:37:44Z",
+          "last_updated": "2026-09-25T05:36:01Z",
           "membership": false,
           "scheduled_start": "2026-09-25T10:30:00Z",
           "source": "x-relay",
@@ -187,19 +187,19 @@
           "collab_with": null,
           "concurrent_viewers": null,
           "expires_at": "2026-09-25T17:00:00Z",
-          "first_seen": "2026-09-25T03:37:44Z",
+          "first_seen": "2026-09-25T05:36:01Z",
           "host": null,
-          "id": "pv_e1e30ee3",
-          "info_at": "2026-09-25T03:37:44Z",
+          "id": "pv_a6a040f4",
+          "info_at": "2026-09-25T05:36:01Z",
           "info_source": "x-relay",
           "kind": "talk",
-          "last_updated": "2026-09-25T03:37:44Z",
+          "last_updated": "2026-09-25T05:36:01Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-09-25T14:00:00Z",
           "source": "x-relay",
           "state": "announced",
-          "state_since": "2026-09-25T03:37:44Z",
+          "state_since": "2026-09-25T05:36:01Z",
           "thumbnail": null,
           "time_tbd": false,
           "title": null,
