@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:51:16Z",
+  "generated_at": "2026-09-25T09:11:06Z",
   "tweets": {
     "arale": [
       {
@@ -309,6 +309,18 @@
         "text": "今日は、\n#ゆめみたフリーライブ_DAY2 ！\nよろしくお願いします（｡･ω･｡）✨️✨️",
         "text_ko": "오늘은,\n#ゆめみたフリーライブ_DAY2 !\n잘 부탁드립니다（｡･ω･｡）✨️✨️",
         "url": "https://x.com/i/status/2103356994841391323"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-09-26T09:11:06Z",
+        "handle": "ritsu_yumemita",
+        "id": "2103410734277460185",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-25T09:11:06Z",
+        "text": "ライブ前にお弁当3個と唐揚げ食べました",
+        "text_ko": "라이브 전에 도시락 3개와 튀김을 먹었습니다",
+        "url": "https://x.com/i/status/2103410734277460185"
       }
     ],
     "yuno": [
