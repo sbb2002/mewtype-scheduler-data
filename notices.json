@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:30:06Z",
+  "generated_at": "2026-09-25T01:01:40Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -107,6 +107,32 @@
       "title_slug": "緊急メンテナンス終了のお知らせ",
       "tweet_url": "https://x.com/i/status/2103202884611604821",
       "url": null
+    },
+    {
+      "anchor_a": "DWMQTpDQ1fc",
+      "anchor_b": "新宿着陸計画",
+      "body_for_llm": "＼フリーライブ、本日開催‼／ #アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2🌎 🗓開場 ／開演 📡無料生配信はこちら アーカイブはございませんのでお見逃しなく❗ #ゆめみたフリーライブ_DAY2",
+      "body_raw": "＼フリーライブ、本日開催‼／\n\n#アニメゆめみた 放送記念フリーライブ\n「新宿着陸計画」DAY2🌎\n\n🗓開場18:30／開演19:30\n\n📡無料生配信はこちら\nhttps://youtube.com/live/DWMQTpDQ1fc\n\nアーカイブはございませんのでお見逃しなく❗\n\n#ゆめみたフリーライブ_DAY2",
+      "category": "live",
+      "date": "2026-09-25",
+      "deadline": false,
+      "expires_at": "2026-09-25T15:00:00Z",
+      "first_seen": "2026-09-25T01:01:40Z",
+      "id": "2103288384160493785",
+      "last_updated": "2026-09-25T01:01:40Z",
+      "participants": null,
+      "seen_ids": [
+        "2103288384160493785"
+      ],
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "18:30",
+      "title": "アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2",
+      "title_ko": "애니메이션 유메미타 방송 기념 프리라이브 ‘신주쿠 착륙 계획’ DAY2",
+      "title_raw": "📡無料生配信はこちら",
+      "title_slug": "無料生配信はこちら",
+      "tweet_url": "https://x.com/i/status/2103288384160493785",
+      "url": "https://youtube.com/live/DWMQTpDQ1fc"
     },
     {
       "anchor_a": "jfF5q",
