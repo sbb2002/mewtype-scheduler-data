@@ -54,3 +54,4 @@
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T06:03:42Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-25T06:30:24Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-25T06:30:25Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T06:30:24Z", "via": "ingest", "who": ""}
