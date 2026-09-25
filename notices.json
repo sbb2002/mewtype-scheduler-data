@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:30:24Z",
+  "generated_at": "2026-09-25T06:30:25Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -323,6 +323,32 @@
       "title_slug": "月よりチャレンジライブイベントアイの奔流atoz",
       "tweet_url": "https://x.com/i/status/2103109383559500117",
       "url": null
+    },
+    {
+      "anchor_a": "vC2vsOWD4q8",
+      "anchor_b": null,
+      "body_for_llm": "RT @wstcg: 📺配信情報📺 📚レッツ！ヴァイスシュヴァルツ!!📚 次回配信は (月)2⃣0⃣時より!! 🕗お見逃しなく‼ 💫最新カード情報と重大発表が…！？ 🔽配信はこちらから！ #WS",
+      "body_raw": "RT @wstcg: 📺配信情報📺\n📚レッツ！ヴァイスシュヴァルツ!!📚\n次回配信は9月28日(月)2⃣0⃣時より!!\n\n🕗お見逃しなく‼\n💫最新カード情報と重大発表が…！？\n\n🔽配信はこちらから！\nhttps://www.youtube.com/watch?v=vC2vsOWD4q8\n#WS https://t…",
+      "category": "etc",
+      "date": "2026-09-28",
+      "deadline": false,
+      "expires_at": "2026-09-28T15:00:00Z",
+      "first_seen": "2026-09-25T06:30:25Z",
+      "id": "2103369636406546876",
+      "last_updated": "2026-09-25T06:30:25Z",
+      "participants": null,
+      "seen_ids": [
+        "2103369636406546876"
+      ],
+      "site": "youtube",
+      "src_handle": "RT @wstcg",
+      "time": null,
+      "title": "配信情報：次回は月曜20時！最新カード情報と重大発表",
+      "title_ko": "방송 안내: 다음 방송은 월요일 20시! 최신 카드 정보와 중대한 발표",
+      "title_raw": "次回配信は9月28日(月)2⃣0⃣時より",
+      "title_slug": "次回配信は月20時より",
+      "tweet_url": "https://x.com/i/status/2103369636406546876",
+      "url": "https://www.youtube.com/watch?v=vC2vsOWD4q8"
     },
     {
       "anchor_a": null,
