@@ -14,14 +14,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (緊急メンテナンス実施のお詫びとして、全てのお客さまに「スター)",
-    "at": "2026-09-25T09:11:06Z",
+    "action": "소식 updated (このあと生配信開始)",
+    "at": "2026-09-25T10:00:05Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "c4271af19da75cbd5979ad4c417c56c862af1314",
+    "new_sha": "9d8e445ad5fa476cef6aa34ed1a3a57b01b001f3",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-25T09:03:52Z",
+      "generated_at": "2026-09-25T09:11:06Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -606,6 +606,32 @@
           "title_slug": "bangdreamアトレ秋葉原popupstor",
           "tweet_url": "https://x.com/i/status/2100751660582891717",
           "url": "https://www.atre.co.jp/akihabara/news/7616/"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "スター×100",
+          "body_for_llm": "【お詫び配布のお知らせ】 緊急メンテナンス実施のお詫びとして、全てのお客さまに「スター×100」を配布いたしました。 (金) までにログインし、プレゼントボックスよりお受け取りください。 お客さまにご迷惑をおかけいたしましたこと、お詫び申し上げます。 #バンドリ #アワーノーツ",
+          "body_raw": "【お詫び配布のお知らせ】\n緊急メンテナンス実施のお詫びとして、全てのお客さまに「スター×100」を配布いたしました。\n10月2日(金)23:59までにログインし、プレゼントボックスよりお受け取りください。\n\nお客さまにご迷惑をおかけいたしましたこと、お詫び申し上げます。\n#バンドリ #アワーノーツ",
+          "category": "etc",
+          "date": "2026-10-02",
+          "deadline": false,
+          "expires_at": "2026-10-02T15:00:00Z",
+          "first_seen": "2026-09-25T09:11:06Z",
+          "id": "2103410230688432235",
+          "last_updated": "2026-09-25T09:11:06Z",
+          "participants": null,
+          "seen_ids": [
+            "2103410230688432235"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "23:59",
+          "title": "緊急メンテナンスお詫び配布のお知らせ",
+          "title_ko": "긴급 점검 사과 배포 안내",
+          "title_raw": "緊急メンテナンス実施のお詫びとして、全てのお客さまに「スター×100」を配布いたしました",
+          "title_slug": "緊急メンテナンス実施のお詫びとして全てのお客さま",
+          "tweet_url": "https://x.com/i/status/2103410230688432235",
+          "url": null
         },
         {
           "anchor_a": null,
