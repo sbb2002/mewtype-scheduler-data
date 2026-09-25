@@ -82,3 +82,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T09:03:52Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T09:04:04Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T09:11:06Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T09:11:18Z", "who": "峰月律"}
