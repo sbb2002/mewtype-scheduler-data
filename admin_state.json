@@ -14,14 +14,14 @@
     }
   ],
   "undo": {
-    "action": "소식 updated (「新宿着陸計画」DAY2🌎)",
-    "at": "2026-09-25T09:01:01Z",
+    "action": "소식 added (「リリース記念！MyGO!!!!!ピックアップガチャ」「リリ)",
+    "at": "2026-09-25T09:03:52Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "518d1ecab31763ea2011e243cd65c69deb702658",
+    "new_sha": "1e2478bc97b194f538c30ca663dce89b00222a9d",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-25T08:16:04Z",
+      "generated_at": "2026-09-25T09:01:01Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -131,32 +131,33 @@
           "url": null
         },
         {
-          "anchor_a": "DWMQTpDQ1fc",
-          "anchor_b": "バンドリ！ゆめ∞みた",
-          "body_for_llm": "【#アニメゆめみた 一挙配信中📢】 ABEMAにてTVアニメ「バンドリ！ ゆめ∞みた」が全話無料❣ ライブ前の振り返りに、ぜひご覧ください🛸 📢このあと 〜 TVアニメ「バンドリ！ ゆめ∞みた」 放送記念フリーライブ「新宿着陸計画」DAY2👇 #バンドリ",
-          "body_raw": "【#アニメゆめみた 一挙配信中📢】\n\nABEMAにてTVアニメ「バンドリ！ ゆめ∞みた」が全話無料❣\nライブ前の振り返りに、ぜひご覧ください🛸\n\n📢このあと19:30〜\nTVアニメ「バンドリ！ ゆめ∞みた」\n放送記念フリーライブ「新宿着陸計画」DAY2👇\nhttps://www.youtube.com/watch?v=DWMQTpDQ1fc\n\n#バンドリ",
+          "anchor_a": "Notice",
+          "anchor_b": "新宿着陸計画",
+          "body_for_llm": "＼📢まもなく開場／ #アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2🌎 ⏰開場: 予定 お早めのご整列をお願いします🌟 お荷物は可能な限り、コインロッカー等にお預けください🧳 ▼公演注意事項 #ゆめみたフリーライブ_DAY2",
+          "body_raw": "＼📢まもなく開場／\n\n#アニメゆめみた 放送記念フリーライブ\n「新宿着陸計画」DAY2🌎\n\n⏰開場:18:30予定\n\nお早めのご整列をお願いします🌟\n\nお荷物は可能な限り、コインロッカー等にお預けください🧳\n\n▼公演注意事項\nhttps://bang-dream.com/yumemita_2026free_day2/#Notice\n\n#ゆめみたフリーライブ_DAY2",
           "category": "etc",
           "date": "2026-09-25",
           "deadline": false,
           "expires_at": "2026-09-25T15:00:00Z",
           "first_seen": "2026-09-25T01:01:40Z",
           "id": "2103288384160493785",
-          "last_updated": "2026-09-25T06:50:39Z",
+          "last_updated": "2026-09-25T09:01:01Z",
           "participants": null,
           "seen_ids": [
             "2103288384160493785",
             "2103289130352287886",
-            "2103375212180050284"
+            "2103375212180050284",
+            "2103409422626136551"
           ],
-          "site": "youtube",
+          "site": "web",
           "src_handle": "@BDP_yumemita",
-          "time": "19:30",
-          "title": "ABEMAにてTVアニメ「バンドリ！ ゆめ∞みた」が全話無料",
+          "time": "18:30",
+          "title": "「新宿着陸計画」DAY2🌎",
           "title_ko": "애니메이션 유메미타 방송 기념 프리라이브 ‘신주쿠 착륙 계획’ DAY2",
-          "title_raw": "ABEMAにてTVアニメ「バンドリ！ ゆめ∞みた」が全話無料",
-          "title_slug": "abemaにてtvアニメバンドリゆめみたが全話無",
-          "tweet_url": "https://x.com/i/status/2103375212180050284",
-          "url": "https://www.youtube.com/watch?v=DWMQTpDQ1fc"
+          "title_raw": "「新宿着陸計画」DAY2🌎",
+          "title_slug": "新宿着陸計画day2",
+          "tweet_url": "https://x.com/i/status/2103409422626136551",
+          "url": "https://bang-dream.com/yumemita_2026free_day2/#Notice"
         },
         {
           "anchor_a": "jfF5q",
