@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-25T12:05:40Z",
+  "generated_at": "2026-09-25T12:07:53Z",
   "items": [
     {
       "actual_start": null,
@@ -164,10 +164,10 @@
       "first_seen": "2026-09-25T05:36:01Z",
       "host": null,
       "id": "pv_a6a040f4",
-      "info_at": "2026-09-25T05:36:01Z",
-      "info_source": "x-relay",
+      "info_at": "2026-09-25T12:07:50Z",
+      "info_source": "personal",
       "kind": "talk",
-      "last_updated": "2026-09-25T05:36:01Z",
+      "last_updated": "2026-09-25T12:07:53Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-09-25T14:00:00Z",
