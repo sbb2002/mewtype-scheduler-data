@@ -208,3 +208,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T16:28:25Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T16:28:44Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T16:35:09Z", "who": "宮永ののか🐰🩹"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T16:35:25Z", "who": "宮永ののか🐰🩹"}
