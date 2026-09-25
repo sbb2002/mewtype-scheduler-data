@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-25T12:07:53Z",
+  "generated_at": "2026-09-25T13:00:42Z",
   "items": [
     {
       "actual_start": null,
@@ -180,6 +180,34 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-09-25T13:30:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-25T16:30:00Z",
+      "first_seen": "2026-09-25T13:00:42Z",
+      "host": null,
+      "id": "pv_140de117",
+      "info_at": "2026-09-25T13:00:42Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-25T13:00:42Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-09-25T13:30:00Z",
+      "source": "personal",
+      "state": "upcoming",
+      "state_since": "2026-09-25T13:00:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/VBGenMFr-2w/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡備忘録】Zepp Shinjuku ~ 新宿着陸計画DAY2 ありがとうございました𖤐【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=VBGenMFr-2w",
+      "video_id": "VBGenMFr-2w"
     }
   ]
 }
