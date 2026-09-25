@@ -99,3 +99,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T09:55:24Z", "who": "仲町あられ"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-25T10:00:05Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-25T10:00:12Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T10:00:12Z", "via": "ingest", "who": ""}
