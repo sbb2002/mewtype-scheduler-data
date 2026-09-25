@@ -36,3 +36,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T03:06:53Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-09-25T03:37:44Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 2건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T03:37:50Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T04:15:22Z", "via": "ingest", "who": ""}
