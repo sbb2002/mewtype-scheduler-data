@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:41:42Z",
+  "generated_at": "2026-09-25T12:37:04Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -432,30 +432,31 @@
       "url": null
     },
     {
-      "anchor_a": "4210",
+      "anchor_a": "brmm-11060",
       "anchor_b": "これはぼくたちの生存のあらすじ",
-      "body_for_llm": "＼5th Singleリリース❗／ (水)リリース 夢限大みゅーたいぷ 5th Single 「これはぼくたちの生存のあらすじ」🛸 TVアニメ「バンドリ！ ゆめ∞みた」の オープニング・エンディングテーマを収録🎶 詳細はこちら🗒 #バンドリ #ゆめみた",
-      "body_raw": "＼5th Singleリリース❗／\n\n9/30(水)リリース\n夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」🛸\n\nTVアニメ「バンドリ！ ゆめ∞みた」の\nオープニング・エンディングテーマを収録🎶\n\n詳細はこちら🗒\nhttps://bang-dream.com/discographies/4210/\n\n#バンドリ #ゆめみた",
+      "body_for_llm": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2 本日はありがとうございました！ ▼最新シングル「これはぼくたちの生存のあらすじ」は 発売",
+      "body_raw": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2\n\n本日はありがとうございました！\n\n▼最新シングル「これはぼくたちの生存のあらすじ」は9月30日発売\nhttps://bushiroad-music.com/musics/brmm-11060",
       "category": "release",
       "date": "2026-09-30",
       "deadline": false,
       "expires_at": "2026-09-30T15:00:00Z",
       "first_seen": "2026-09-11T10:01:15Z",
       "id": "2098351126504718514",
-      "last_updated": "2026-09-25T11:39:59Z",
+      "last_updated": "2026-09-25T12:37:04Z",
       "seen_ids": [
         "2098351126504718514",
-        "2103449421338005929"
+        "2103449421338005929",
+        "2103463784916627782"
       ],
-      "site": "web",
-      "src_handle": "@BDP_yumemita",
+      "site": "store",
+      "src_handle": "RT @BUSHIM_ongaku",
       "time": null,
-      "title": "5th Singleリリース",
+      "title": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2",
       "title_ko": "5번째 싱글 \"これはぼくたちの生存のあらすじ\" 청취 영상 공개",
-      "title_raw": "5th Singleリリース",
-      "title_slug": "5thsingleリリース",
-      "tweet_url": "https://x.com/i/status/2103449421338005929",
-      "url": "https://bang-dream.com/discographies/4210/"
+      "title_raw": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2",
+      "title_slug": "rtbushimongaku",
+      "tweet_url": "https://x.com/i/status/2103463784916627782",
+      "url": "https://bushiroad-music.com/musics/brmm-11060"
     },
     {
       "anchor_a": null,
