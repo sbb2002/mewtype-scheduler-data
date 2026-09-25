@@ -163,3 +163,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T12:37:07Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T12:37:16Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T12:37:04Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T12:37:20Z", "who": "夢限大みゅーたいぷ"}
