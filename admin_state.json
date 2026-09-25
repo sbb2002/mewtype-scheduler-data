@@ -51,11 +51,11 @@
     }
   ],
   "undo": {
-    "action": "/del arale#1",
-    "at": "2026-09-25T12:05:40Z",
+    "action": "본인 예고 센고쿠 유노 (〈配信のおしらせ〉\n9/25 23:00～ #ゆめみたフリーライブ_DAY2 振)",
+    "at": "2026-09-25T12:07:53Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "2a2a02ed333ccd6472ad9a3962354d5ab424c613",
+    "new_sha": "0fbf15fbb964fe123bda5e44153f7a2d2d7d810d",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -122,40 +122,8 @@
           ]
         }
       },
-      "generated_at": "2026-09-25T10:27:00Z",
+      "generated_at": "2026-09-25T12:05:40Z",
       "items": [
-        {
-          "actual_start": "2026-09-25T10:20:10Z",
-          "api_start_seen": "2026-09-25T10:30:00Z",
-          "assumed_live": false,
-          "channel_key": "arale",
-          "collab_with": [
-            "yuno",
-            "nonoka",
-            "ritsu",
-            "miyako"
-          ],
-          "concurrent_viewers": 2105,
-          "expires_at": "2026-09-17T11:03:04Z",
-          "first_seen": "2026-09-17T08:03:04Z",
-          "host": "group",
-          "id": "pv_f4f2157c",
-          "info_at": "2026-09-17T08:03:04Z",
-          "info_source": "x-relay",
-          "kind": "collab",
-          "last_updated": "2026-09-25T10:27:00Z",
-          "membership": false,
-          "scheduled_start": "2026-09-25T10:30:00Z",
-          "source": "x-relay",
-          "state": "live",
-          "state_since": "2026-09-25T10:27:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/DWMQTpDQ1fc/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "【全編無料生配信】TVアニメ「バンドリ！ ゆめ∞みた」放送記念フリーライブ「新宿着陸計画」DAY2【アーカイブ無し】",
-          "title_ko": "【전편 무료 생중계】TV 애니메이션 「뱅드림! 꿈∞미타」 방송 기념 프리 라이브 「신주쿠 착륙 계획」 DAY2【아카이브 없음】",
-          "url": "https://www.youtube.com/watch?v=DWMQTpDQ1fc",
-          "video_id": "DWMQTpDQ1fc"
-        },
         {
           "actual_start": null,
           "api_start_seen": "2026-10-01T11:00:00Z",
