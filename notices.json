@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:00:05Z",
+  "generated_at": "2026-09-25T10:00:12Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -534,6 +534,32 @@
       "title_slug": "ゆめみた東京公演finalライブ映像同時視聴生配",
       "tweet_url": "https://x.com/i/status/2103046802341548366",
       "url": "https://youtube.com/live/dTqZ7duxoHY"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "#バンドリtvlive2026",
+      "body_for_llm": "📢 (木) 頃より配信！ 「#バンドリTVLIVE 2026」#334 咲川 ひなのさんの追加出演が決定🎉 配信では #アワーノーツ のストーリー特集も💫ぜひご覧ください✨",
+      "body_raw": "📢10月1日(木)22:03頃より配信！\n「#バンドリTVLIVE 2026」#334\n\n咲川 ひなのさんの追加出演が決定🎉\n\n配信では #アワーノーツ のストーリー特集も💫ぜひご覧ください✨",
+      "category": "etc",
+      "date": "2026-10-01",
+      "deadline": false,
+      "expires_at": "2026-10-01T15:00:00Z",
+      "first_seen": "2026-09-25T10:00:12Z",
+      "id": "2103424274824343842",
+      "last_updated": "2026-09-25T10:00:12Z",
+      "participants": null,
+      "seen_ids": [
+        "2103424274824343842"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": "22:03",
+      "title": "「#バンドリ TVLIVE 2026」#334 咲川 ひなのさんの追加出演が決定",
+      "title_ko": "「#뱅드림 TVLIVE 2026」#334 사카가 히나노님의 추가 출연이 결정",
+      "title_raw": "「バンドリTVLIVE 2026」",
+      "title_slug": "バンドリtvlive2026",
+      "tweet_url": "https://x.com/i/status/2103424274824343842",
+      "url": null
     },
     {
       "anchor_a": null,
