@@ -179,3 +179,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T13:33:46Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T13:33:59Z", "who": "峰月律"}
 {"detail": "유튜브 reminder → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-25T13:34:59Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-25T13:36:00Z", "who": "VBGenMFr-2w"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_140de117", "result": "ok", "title": "【🟡備忘録】Zepp Shinjuku ~ 新宿着陸計画DAY2 ありがとうございました𖤐【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-09-25T13:36:00Z", "video_id": "VBGenMFr-2w", "who": "arale"}
