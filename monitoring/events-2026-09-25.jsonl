@@ -152,3 +152,4 @@
 {"collab_with": ["yuno", "nonoka", "ritsu", "miyako"], "detail": "/del arale#1 · live→none", "flow": "preview", "from_state": "live", "id": "pv_f4f2157c", "result": "ok", "title": "【全編無料生配信】TVアニメ「バンドリ！ ゆめ∞みた」放送記念フリーライブ「新宿着陸計画」DAY2【アーカイブ無し】", "to_state": "none", "ts": "2026-09-25T12:05:40Z", "video_id": "DWMQTpDQ1fc", "who": "arale"}
 {"detail": "y", "flow": "cmd", "reply": "⚠️ 오류: /del 확인 처리 실패", "result": "err", "ts": "2026-09-25T12:05:40Z", "who": "(후속 입력)"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T12:05:39Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T12:05:56Z", "who": "千石ユノ"}
