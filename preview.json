@@ -108,7 +108,6 @@
       "kind": null,
       "last_updated": "2026-09-25T13:40:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-25T14:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -116,7 +115,7 @@
       "thumbnail": "https://i.ytimg.com/vi/HZjdED5Z8l8/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【회고】신주쿠 착륙 성공! #꿈꾸던프리라이브_DAY2 회고 방송!【 #센고쿠유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=HZjdED5Z8l8",
       "video_id": "HZjdED5Z8l8"
     },
