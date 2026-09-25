@@ -47,3 +47,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T05:39:56Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T05:40:14Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T05:51:16Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T05:51:29Z", "who": "千石ユノ"}
