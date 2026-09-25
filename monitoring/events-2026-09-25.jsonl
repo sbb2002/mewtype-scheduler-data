@@ -198,3 +198,6 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_8ce12d27", "result": "ok", "title": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-09-25T15:15:00Z", "video_id": "HZjdED5Z8l8", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T15:43:02Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T15:43:10Z", "who": "仲町あられ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-25T15:45:00Z", "who": "HZjdED5Z8l8"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_140de117", "result": "ok", "title": "【🟡備忘録】Zepp Shinjuku ~ 新宿着陸計画DAY2 ありがとうございました𖤐【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-09-25T15:45:00Z", "video_id": "VBGenMFr-2w", "who": "arale"}
+{"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_8ce12d27", "result": "ok", "title": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】", "to_state": "none", "ts": "2026-09-25T15:45:00Z", "video_id": "HZjdED5Z8l8", "who": "yuno"}
