@@ -6,3 +6,4 @@
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-25T01:01:40Z", "via": "ingest", "who": ""}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-09-25T01:01:40Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T01:02:04Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T01:13:59Z", "via": "ingest", "who": ""}
