@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:01:40Z",
+  "generated_at": "2026-09-25T01:14:00Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -109,30 +109,31 @@
       "url": null
     },
     {
-      "anchor_a": "DWMQTpDQ1fc",
+      "anchor_a": "6POkTnKlB3",
       "anchor_b": "新宿着陸計画",
-      "body_for_llm": "＼フリーライブ、本日開催‼／ #アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2🌎 🗓開場 ／開演 📡無料生配信はこちら アーカイブはございませんのでお見逃しなく❗ #ゆめみたフリーライブ_DAY2",
-      "body_raw": "＼フリーライブ、本日開催‼／\n\n#アニメゆめみた 放送記念フリーライブ\n「新宿着陸計画」DAY2🌎\n\n🗓開場18:30／開演19:30\n\n📡無料生配信はこちら\nhttps://youtube.com/live/DWMQTpDQ1fc\n\nアーカイブはございませんのでお見逃しなく❗\n\n#ゆめみたフリーライブ_DAY2",
-      "category": "live",
+      "body_for_llm": "＼アニメイト企画情報🎁／ #アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2🌎 アニメイト新宿で本日購入したレシートを ライブ会場に持っていくとステッカーをプレゼント🌟 ・アニメイト店頭引換用スタンプ押印受付 ⏰ 〜 ・現地引換 ⏰ 〜 ／ 〜 🔗 #ゆめみたフリーライブ_DAY2",
+      "body_raw": "＼アニメイト企画情報🎁／\n\n#アニメゆめみた 放送記念フリーライブ\n「新宿着陸計画」DAY2🌎\n\nアニメイト新宿で本日購入したレシートを\nライブ会場に持っていくとステッカーをプレゼント🌟\n\n・アニメイト店頭引換用スタンプ押印受付\n⏰11:00〜19:00\n\n・現地引換\n⏰15:00〜18:00／18:30〜19:30\n\n🔗https://t.co/6POkTnKlB3\n\n#ゆめみたフリーライブ_DAY2",
+      "category": "etc",
       "date": "2026-09-25",
       "deadline": false,
       "expires_at": "2026-09-25T15:00:00Z",
       "first_seen": "2026-09-25T01:01:40Z",
       "id": "2103288384160493785",
-      "last_updated": "2026-09-25T01:01:40Z",
+      "last_updated": "2026-09-25T01:14:00Z",
       "participants": null,
       "seen_ids": [
-        "2103288384160493785"
+        "2103288384160493785",
+        "2103289130352287886"
       ],
-      "site": "youtube",
+      "site": "web",
       "src_handle": "@BDP_yumemita",
-      "time": "18:30",
-      "title": "アニメゆめみた 放送記念フリーライブ 「新宿着陸計画」DAY2",
+      "time": "11:00",
+      "title": "「新宿着陸計画」DAY2🌎",
       "title_ko": "애니메이션 유메미타 방송 기념 프리라이브 ‘신주쿠 착륙 계획’ DAY2",
-      "title_raw": "📡無料生配信はこちら",
-      "title_slug": "無料生配信はこちら",
-      "tweet_url": "https://x.com/i/status/2103288384160493785",
-      "url": "https://youtube.com/live/DWMQTpDQ1fc"
+      "title_raw": "「新宿着陸計画」DAY2🌎",
+      "title_slug": "新宿着陸計画day2",
+      "tweet_url": "https://x.com/i/status/2103289130352287886",
+      "url": "https://t.co/6POkTnKlB3"
     },
     {
       "anchor_a": "jfF5q",
