@@ -154,3 +154,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T12:05:39Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T12:05:56Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-25T12:07:53Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T12:08:16Z", "who": "千石ユノ"}
