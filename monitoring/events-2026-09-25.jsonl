@@ -191,3 +191,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_8ce12d27", "result": "ok", "title": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-09-25T14:03:00Z", "video_id": "HZjdED5Z8l8", "who": "yuno"}
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-25T14:04:09Z", "who": "【振り返り】新宿着陸成功！ #ゆめみたフリーライブ_DAY2 振り返り配信！【 #千石ユノ / #バンドリ 】"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-25T14:40:30Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-25T14:40:33Z", "who": "夢限大みゅーたいぷ"}
