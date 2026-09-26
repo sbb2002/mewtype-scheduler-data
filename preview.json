@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-26T13:30:00Z",
+  "generated_at": "2026-09-26T13:33:47Z",
   "items": [
     {
       "actual_start": "2026-09-26T12:03:19Z",
@@ -319,6 +319,34 @@
       "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
       "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
       "video_id": "h31Mi6AS7a0"
+    },
+    {
+      "actual_start": "2026-09-26T13:32:57Z",
+      "api_start_seen": "2026-09-26T13:32:38Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 33,
+      "expires_at": "2026-09-26T16:32:38Z",
+      "first_seen": "2026-09-26T13:33:47Z",
+      "host": null,
+      "id": "pv_59922ee4",
+      "info_at": "2026-09-26T13:33:47Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-26T13:33:47Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-09-26T13:32:38Z",
+      "source": "personal",
+      "state": "live",
+      "state_since": "2026-09-26T13:33:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/IkeMIZRzeuQ/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【弾き語り】新宿着陸計画ありがとう！振り返り＆おしゃべり(ギター付き)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=IkeMIZRzeuQ",
+      "video_id": "IkeMIZRzeuQ"
     }
   ]
 }
