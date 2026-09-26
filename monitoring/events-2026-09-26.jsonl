@@ -136,3 +136,5 @@
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-26T15:00:00Z", "who": "i87UaIdNt54"}
 {"candidates": 91, "detail": "candidates=91 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-26T15:00:06Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_fc992bfc", "result": "ok", "title": "【同時視聴】カードファイト!! ヴァンガード Divinez 幻真星戦編を一気見！ 【 #千石ユノ / #バンドリ  】", "to_state": "upcoming", "ts": "2026-09-26T15:00:06Z", "video_id": "4Hc83OeMmbQ", "who": "yuno"}
+{"candidates": 9, "detail": "candidates=9 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-26T15:15:00Z", "who": "i87UaIdNt54"}
+{"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_6c4aac9f", "result": "ok", "title": "【 #APEX 】参加型！やっとできるエペ！【 #千石ユノ / #バンドリ 】", "to_state": "none", "ts": "2026-09-26T15:15:00Z", "video_id": "RXJjMNA3ik8", "who": "yuno"}
