@@ -110,3 +110,4 @@
 {"assumed_live": false, "detail": "announced→watching", "flow": "preview", "from_state": "announced", "item_id": "pv_9ca8f362", "result": "ok", "title": null, "to_state": "watching", "ts": "2026-09-26T13:30:00Z", "video_id": null, "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T13:33:47Z", "via": "ingest", "who": "nonoka"}
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-26T13:34:02Z", "who": "【弾き語り】新宿着陸計画ありがとう！振り返り＆おしゃべり(ギター付き)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #s"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T13:34:03Z", "who": "宮永ののか🐰🩹"}
