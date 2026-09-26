@@ -93,3 +93,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T12:33:21Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T12:33:38Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-26T12:45:19Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-26T12:45:19Z", "via": "ingest", "who": ""}
