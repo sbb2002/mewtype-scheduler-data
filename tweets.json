@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:50:09Z",
+  "generated_at": "2026-09-26T10:50:41Z",
   "tweets": {
     "arale": [
       {
@@ -248,6 +248,26 @@
         "text": "あと4日❣️\n✋🐶ﾖﾝ‼︎",
         "text_ko": "4일 남았어요❣️ ✋🐶ヨン‼︎",
         "url": "https://x.com/i/status/2103796918807855564"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-09-27T10:50:41Z",
+        "handle": "miyako_yumemita",
+        "id": "2103799402628522108",
+        "media": [
+          "https://pbs.twimg.com/media/HTIyZznagAActEt.jpg"
+        ],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HS-Dk_-a0AA2Jp4.jpg"
+          ],
+          "text": "＼コミックス本日発売🎉／\n\n💪マジカルフィジカル☆くるる💪\n\n藤都子が描く漫画 #マジるる の\nコミックスが本日発売🎊\n\n🔗ご購入はこちら\nhttps://shogakukan.co.jp/books/09873631\n\nご購入いただくと抽選でサイン色紙がもらえるキャンペーンも👀✨\n\n#バンドリ",
+          "text_ko": "＼코믹스 오늘 발매🎉／\n\n💪매지컬 피지컬☆쿠루루💪\n\n후지츠코가 그린 만화 #마지루루 의\n코믹스가 오늘 발매🎊\n\n🔗구매는 여기서\nhttps://shogakukan.co.jp/books/09873631\n\n구매하시면 추첨을 통해 사인 색지가 제공되는 캠페인도👀✨\n\n#뱅드림"
+        },
+        "received_at": "2026-09-26T10:50:41Z",
+        "text": "実物を手に喜ぶ作者本人の図♪\n#マジるる",
+        "text_ko": "실물을 손에 넣고 기뻐하는 작가本人의 그림♪ #マジるる",
+        "url": "https://x.com/i/status/2103799402628522108"
       }
     ],
     "nonoka": [
