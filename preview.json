@@ -63,14 +63,16 @@
       ]
     }
   },
-  "generated_at": "2026-09-26T10:31:14Z",
+  "generated_at": "2026-09-26T10:40:49Z",
   "items": [
     {
       "actual_start": null,
       "api_start_seen": "2026-09-26T12:30:00Z",
       "assumed_live": false,
       "channel_key": "miyako",
-      "collab_with": null,
+      "collab_with": [
+        "nonoka"
+      ],
       "concurrent_viewers": null,
       "expires_at": "2026-09-26T15:30:00Z",
       "first_seen": "2026-09-26T01:50:01Z",
@@ -78,8 +80,8 @@
       "id": "pv_f2808f1f",
       "info_at": null,
       "info_source": "api",
-      "kind": "talk",
-      "last_updated": "2026-09-26T10:31:14Z",
+      "kind": "collab",
+      "last_updated": "2026-09-26T10:40:49Z",
       "membership": false,
       "scheduled_start": "2026-09-26T12:30:00Z",
       "source": "api",
