@@ -51,14 +51,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (【Android版のVer.1.0.3アップデートについて】)",
-    "at": "2026-09-26T12:45:19Z",
+    "action": "소식 added (プレゼントボックスの一括受取時における処理の高速化および通信)",
+    "at": "2026-09-26T12:47:21Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "4c41b75e722a3e75474ba125eb879acf7178bab9",
+    "new_sha": "144db5087b2c6c46b3c2eeb3a77ffe3714793bc9",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-26T12:00:04Z",
+      "generated_at": "2026-09-26T12:45:19Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -301,6 +301,32 @@
           "title_raw": "9月28日(月)15:00よりチャレンジライブイベント「アイの奔流 AtoZ」の開催が決定🎧",
           "title_slug": "月よりチャレンジライブイベントアイの奔流atoz",
           "tweet_url": "https://x.com/i/status/2103109383559500117",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "ver.1.0.3",
+          "body_for_llm": "【Android版のVer.1.0.3アップデートについて】 マッチングにおける不具合修正のため、Google PlayにてAndroid版「Ver.1.0.3」をこのあと 頃より公開いたします。 なお、 (月) 頃にiOS版・Android版共に強制アップデートを実施いたします。実施以降は必ずアップデートが必要となりますので、通信環境のよい場所にて、アップデートをお願いいたします。 ※Google PlayにVer.1.0.3が反映されない場合は、時間をおいて再度お試しください。 #バンドリ #アワーノーツ",
+          "body_raw": "【Android版のVer.1.0.3アップデートについて】\nマッチングにおける不具合修正のため、Google PlayにてAndroid版「Ver.1.0.3」をこのあと22:00頃より公開いたします。\n\nなお、9月28日(月)13:00頃にiOS版・Android版共に強制アップデートを実施いたします。実施以降は必ずアップデートが必要となりますので、通信環境のよい場所にて、アップデートをお願いいたします。\n\n※Google PlayにVer.1.0.3が反映されない場合は、時間をおいて再度お試しください。\n#バンドリ #アワーノーツ",
+          "category": "etc",
+          "date": "2026-09-28",
+          "deadline": false,
+          "expires_at": "2026-09-28T15:00:00Z",
+          "first_seen": "2026-09-26T12:45:19Z",
+          "id": "2103828233653518733",
+          "last_updated": "2026-09-26T12:45:19Z",
+          "participants": null,
+          "seen_ids": [
+            "2103828233653518733"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "22:00",
+          "title": "Android版 Ver.1.0.3 アップデートのお知らせ",
+          "title_ko": "Android 버전 1.0.3 업데이트 안내",
+          "title_raw": "【Android版のVer.1.0.3アップデートについて】",
+          "title_slug": "android版のver103アップデートについ",
+          "tweet_url": "https://x.com/i/status/2103828233653518733",
           "url": null
         },
         {
