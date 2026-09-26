@@ -42,3 +42,4 @@
 {"detail": "mode: added · 파싱 5건", "flow": "relay", "result": "ok", "ts": "2026-09-26T10:31:14Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 5건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T10:31:21Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T10:40:49Z", "via": "ingest", "who": "miyako"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T10:40:49Z", "via": "ingest", "who": "nonoka"}
