@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:59:10Z",
+  "generated_at": "2026-09-26T06:59:45Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -607,6 +607,32 @@
       "title_slug": "cm放映中",
       "tweet_url": "https://x.com/i/status/2101529285609583024",
       "url": "https://misemedia.jp/shop_list"
+    },
+    {
+      "anchor_a": "kind=0002&store=0018",
+      "anchor_b": "トーク＆お渡し会",
+      "body_for_llm": "RT @yodobashi_akiba: ◥◣当選番号発表🎉✨◢◤ （日）開催！ 夢限大みゅーたいぷ（@BDP_yumemita） 「トーク＆お渡し会」の当選番号を発表いたします✨ 👇当選番号はこちら 当選されたお客…",
+      "body_raw": "RT @yodobashi_akiba: ◥◣当選番号発表🎉✨◢◤\n\n10/4（日）開催！\n夢限大みゅーたいぷ（@BDP_yumemita）\n「トーク＆お渡し会」の当選番号を発表いたします✨\n\n👇当選番号はこちら\nhttps://www.yodobashi.com/ec/news/2000100255/?kind=0002&store=0018\n\n当選されたお客…",
+      "category": "etc",
+      "date": "2026-10-04",
+      "deadline": false,
+      "expires_at": "2026-10-04T15:00:00Z",
+      "first_seen": "2026-09-26T06:59:45Z",
+      "id": "2103739498677121420",
+      "last_updated": "2026-09-26T06:59:45Z",
+      "participants": null,
+      "seen_ids": [
+        "2103739498677121420"
+      ],
+      "site": "store",
+      "src_handle": "RT @yodobashi_akiba",
+      "time": null,
+      "title": "トーク＆お渡し会 当選番号発表",
+      "title_ko": "토크 & 전달회 당첨 번호 발표",
+      "title_raw": "「トーク＆お渡し会」の当選番号を発表いたします",
+      "title_slug": "トークお渡し会の当選番号を発表いたします",
+      "tweet_url": "https://x.com/i/status/2103739498677121420",
+      "url": "https://www.yodobashi.com/ec/news/2000100255/?kind=0002&store=0018"
     },
     {
       "anchor_a": ":〜:text=%E2%96%A0BanG%20Dream!%20%E3%82%",
