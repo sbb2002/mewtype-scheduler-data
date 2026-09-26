@@ -6,3 +6,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T02:12:38Z", "who": "藤都子"}
 {"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-26T02:50:01Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_f6380ec0", "result": "ok", "title": "💜メン限 雑談💜君たちはあかすりを知っているか？みやこの部屋#12 【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-09-26T02:50:01Z", "video_id": "dyFV7dsHQc8", "who": "miyako"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-26T03:04:35Z", "via": "ingest", "who": ""}
