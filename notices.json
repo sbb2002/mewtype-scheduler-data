@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:53:03Z",
+  "generated_at": "2026-09-26T12:00:04Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -295,6 +295,32 @@
       "title_slug": "サブスク事前予約キャンペーン開始",
       "tweet_url": "https://x.com/i/status/2103398104217305355",
       "url": "https://link.fans/yumemita-oursurvival-pre"
+    },
+    {
+      "anchor_a": "dRUOZpog1Dk",
+      "anchor_b": null,
+      "body_for_llm": "＼🎊全体生配信決定🎊／ 📅 (火) 〜 🛸#ゆめみた 全員集合！ バンドリ！アワーノーツ リリース記念生配信🛸 📺配信URL 配信内ではメンバー5名で 撃奏ライブをプレイ🎶✨ #アワーノーツ",
+      "body_raw": "＼🎊全体生配信決定🎊／\n\n📅9月29日(火) 22:00〜\n\n🛸#ゆめみた 全員集合！\nバンドリ！アワーノーツ リリース記念生配信🛸\n\n📺配信URL\nhttps://youtube.com/live/dRUOZpog1Dk\n\n配信内ではメンバー5名で\n撃奏ライブをプレイ🎶✨\n\n#アワーノーツ",
+      "category": "live",
+      "date": "2026-09-29",
+      "deadline": false,
+      "expires_at": "2026-09-29T15:00:00Z",
+      "first_seen": "2026-09-26T12:00:04Z",
+      "id": "2103816861024690360",
+      "last_updated": "2026-09-26T12:00:04Z",
+      "participants": null,
+      "seen_ids": [
+        "2103816861024690360"
+      ],
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "22:00",
+      "title": "全体生配信決定！バンドリ アワーノーツ リリース記念ライブ",
+      "title_ko": "전체 생방송 결정! 뱅드림 아워노트스 출시 기념 라이브",
+      "title_raw": "ゆめみた 全員集合！ バンドリ！アワーノーツ リリース記念生配信",
+      "title_slug": "ゆめみた全員集合バンドリアワーノーツリリース記念",
+      "tweet_url": "https://x.com/i/status/2103816861024690360",
+      "url": "https://youtube.com/live/dRUOZpog1Dk"
     },
     {
       "anchor_a": null,
