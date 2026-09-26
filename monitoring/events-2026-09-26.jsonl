@@ -84,3 +84,4 @@
 {"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-26T12:10:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_cdf8a92a", "result": "ok", "title": "【バンドリ！】ゆめみた全員集合！バンドリ！アワーノーツリリース記念生配信！🛸", "to_state": "upcoming", "ts": "2026-09-26T12:10:02Z", "video_id": "dRUOZpog1Dk", "who": "arale"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T12:10:09Z", "who": "宮永ののか🐰🩹"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T12:26:02Z", "who": "宮永ののか🐰🩹"}
