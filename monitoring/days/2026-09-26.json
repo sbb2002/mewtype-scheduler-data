@@ -1,0 +1,1134 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-09-26",
+  "downRanges": [],
+  "eventCount": 155,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: updated",
+      "t": "14:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "15:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "20:53",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "21:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "21:45",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "21:47",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "s": "upcoming",
+          "to": "20:57"
+        },
+        {
+          "from": "20:57",
+          "s": "watching",
+          "to": "21:06"
+        },
+        {
+          "from": "21:06",
+          "s": "live",
+          "to": "21:10"
+        },
+        {
+          "from": "21:10",
+          "s": "upcoming",
+          "to": "23:50"
+        },
+        {
+          "from": "23:50",
+          "s": "end",
+          "to": "00:20"
+        },
+        {
+          "from": "00:20",
+          "s": "none",
+          "to": "00:23"
+        }
+      ],
+      "title": "【🟡歌枠】じゆ〜うにうたう！✨️【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "s": "announced",
+          "to": "22:00"
+        },
+        {
+          "from": "22:00",
+          "s": "watching",
+          "to": "22:20"
+        },
+        {
+          "from": "22:20",
+          "s": "live",
+          "to": "23:45"
+        },
+        {
+          "from": "23:45",
+          "s": "end",
+          "to": "00:00"
+        },
+        {
+          "from": "00:00",
+          "s": "upcoming",
+          "to": "00:15"
+        },
+        {
+          "from": "00:15",
+          "s": "none",
+          "to": "00:18"
+        }
+      ],
+      "title": "【 #APEX 】参加型！やっとできるエペ！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "s": "announced",
+          "to": "22:30"
+        },
+        {
+          "from": "22:30",
+          "s": "watching",
+          "to": "02:10"
+        },
+        {
+          "from": "02:10",
+          "s": "end",
+          "to": "02:40"
+        },
+        {
+          "from": "02:40",
+          "s": "none",
+          "to": "02:43"
+        }
+      ],
+      "title": "【弾き騙り】新宿着陸計画ありがとう！振り返り＆おしゃべり(ギター付き)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts"
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "s": "upcoming",
+          "to": "23:27"
+        },
+        {
+          "from": "23:27",
+          "s": "watching",
+          "to": "23:33"
+        },
+        {
+          "from": "23:33",
+          "s": "live",
+          "to": "01:10"
+        },
+        {
+          "from": "01:10",
+          "s": "end",
+          "to": "01:40"
+        },
+        {
+          "from": "01:40",
+          "s": "none",
+          "to": "01:40"
+        },
+        {
+          "from": "01:40",
+          "s": "upcoming",
+          "to": "30:00"
+        }
+      ],
+      "title": "【#アニメゆめみた】ゆめみた楽曲を歌います！！！！！！！【峰月律/夢限大みゅーたいぷ】"
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "from": "10:50",
+          "s": "upcoming",
+          "to": "11:50"
+        },
+        {
+          "from": "11:50",
+          "s": "upcoming",
+          "to": "21:27"
+        },
+        {
+          "from": "21:27",
+          "s": "watching",
+          "to": "21:33"
+        },
+        {
+          "from": "21:33",
+          "s": "live",
+          "to": "22:50"
+        },
+        {
+          "from": "22:50",
+          "s": "end",
+          "to": "23:20"
+        },
+        {
+          "from": "23:20",
+          "s": "none",
+          "to": "23:23"
+        }
+      ],
+      "title": "【振り返り】フリーライブ新宿着陸計画DAY2＆マジるるコミックス発売✨ｶﾝｼｬ！【ゆめみた/藤都子】"
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "t": "10:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "14:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "18:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:24",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 5건",
+      "t": "19:31",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:29",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:53",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 1건",
+      "t": "21:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:45",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:47",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "02:57",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-09-26T21:10:06Z",
+  "ticks": [
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:50"
+    },
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "11:50"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:57"
+    },
+    {
+      "d": "candidates=91 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "21:00"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:06"
+    },
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "21:10"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:27"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:33"
+    },
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:00"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:15"
+    },
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:20"
+    },
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:30"
+    },
+    {
+      "d": "candidates=9 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:35"
+    },
+    {
+      "d": "candidates=90 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:40"
+    },
+    {
+      "d": "candidates=9 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:50"
+    },
+    {
+      "d": "candidates=9 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:20"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:27"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:33"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:45"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:50"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:00"
+    },
+    {
+      "d": "candidates=91 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "00:00"
+    },
+    {
+      "d": "candidates=9 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:15"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:20"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:10"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:40"
+    },
+    {
+      "d": "candidates=90 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:40"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "02:10"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "02:20"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "02:40"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "11:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "12:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "13:17",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "13:20",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "13:24",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "13:27",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "14:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "14:55",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "15:49",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:40",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "19:40",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "19:50",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:50",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "20:23",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "20:28",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "20:53",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "20:58",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "21:08",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:33",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "22:10",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "22:33",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:11",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:11",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "23:47",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "10:00",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 스케줄 · mode: none",
+      "derived": true,
+      "src": "x",
+      "t": "10:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "11:12",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:04",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "12:04",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "13:17",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "13:20",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "13:24",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "13:27",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "14:13",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "14:55",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "14:59",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "15:00",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "15:02",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "15:49",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "15:59",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "15:59",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "18:04",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "19:24",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 5건",
+      "src": "x",
+      "t": "19:31",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:41",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "19:41",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "19:50",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:50",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:01",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:03",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "20:12",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "20:23",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "20:28",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:29",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "20:34",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:53",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "20:53",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "20:58",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "유튜브 tunein → 즉시 확인 예약",
+      "src": "yt",
+      "t": "21:00",
+      "tone": "ok",
+      "who": "【振り返り】フリーライブ新宿着陸計画DAY2＆マジるるコミックス発売✨ｶﾝｼｬ！【ゆめみた/藤都子】"
+    },
+    {
+      "d": "공식 스케줄 · 예고 1건",
+      "src": "x",
+      "t": "21:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "유튜브 sub_start → 즉시 확인 예약",
+      "src": "yt",
+      "t": "21:04",
+      "tone": "ok",
+      "who": "【🟡歌枠】じゆ〜うにうたう！✨️【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "21:08",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "21:10",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "21:26",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "유튜브 sub_start → 즉시 확인 예약",
+      "src": "yt",
+      "t": "21:33",
+      "tone": "ok",
+      "who": "【振り返り】フリーライブ新宿着陸計画DAY2＆マジるるコミックス発売✨ｶﾝｼｬ！【ゆめみた/藤都子】"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "21:33",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "21:45",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "21:47",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "유튜브 sub_start → 즉시 확인 예약",
+      "src": "yt",
+      "t": "22:06",
+      "tone": "ok",
+      "who": "【 #APEX 】参加型！やっとできるエペ！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "22:10",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "유튜브 sub_start → 즉시 확인 예약",
+      "src": "yt",
+      "t": "22:34",
+      "tone": "ok",
+      "who": "【弾き語り】新宿着陸計画ありがとう！振り返り＆おしゃべり(ギター付き)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #s"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "22:34",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "유튜브 tunein → 즉시 확인 예약",
+      "src": "yt",
+      "t": "23:02",
+      "tone": "ok",
+      "who": "【雑談】最近のあれこれ久しぶりにおはなそ～です！【峰月律/ゆめみた】"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "23:12",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "23:12",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "유튜브 sub_start → 즉시 확인 예약",
+      "src": "yt",
+      "t": "23:34",
+      "tone": "ok",
+      "who": "【雑談】最近のあれこれ久しぶりにおはなそ～です！【峰月律/ゆめみた】"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "23:47",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "02:57",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 0,
+    "production": 0,
+    "total": 0
+  }
+}
