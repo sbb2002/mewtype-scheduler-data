@@ -135,7 +135,6 @@
       "kind": null,
       "last_updated": "2026-09-26T13:20:03Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-26T13:00:00Z",
       "source": "api",
       "state": "live",
@@ -143,7 +142,7 @@
       "thumbnail": "https://i.ytimg.com/vi/RXJjMNA3ik8/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #APEX 】参加型！やっとできるエペ！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #APEX 】참여형! 드디어 할 수 있는 에페!【 #천석유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=RXJjMNA3ik8",
       "video_id": "RXJjMNA3ik8"
     },
@@ -163,7 +162,6 @@
       "kind": null,
       "last_updated": "2026-09-26T13:20:03Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-26T14:30:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -171,7 +169,7 @@
       "thumbnail": "https://i.ytimg.com/vi/nd2V3PclkwQ/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【雑談】最近のあれこれ久しぶりにおはなそ～です！【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【잡담】최근의 여러 가지, 오랜만에 おはなそ～입니다!【峰月律/ゆめみた】",
       "url": "https://www.youtube.com/watch?v=nd2V3PclkwQ",
       "video_id": "nd2V3PclkwQ"
     },
