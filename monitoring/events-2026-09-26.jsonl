@@ -97,3 +97,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T12:45:32Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-26T12:47:21Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-26T12:47:21Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T12:47:51Z", "who": "バンドリ！アワーノーツ"}
