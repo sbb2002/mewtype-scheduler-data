@@ -48,3 +48,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T10:50:09Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T10:50:21Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T10:50:41Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T10:50:56Z", "who": "藤都子"}
