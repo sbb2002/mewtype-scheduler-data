@@ -91,3 +91,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_f2808f1f", "result": "ok", "title": "【振り返り】フリーライブ新宿着陸計画DAY2＆マジるるコミックス発売✨ｶﾝｼｬ！【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-09-26T12:33:00Z", "video_id": "1EPPMSflLp0", "who": "miyako"}
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-26T12:33:21Z", "who": "【振り返り】フリーライブ新宿着陸計画DAY2＆マジるるコミックス発売✨ｶﾝｼｬ！【ゆめみた/藤都子】"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T12:33:21Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T12:33:38Z", "who": "藤都子"}
