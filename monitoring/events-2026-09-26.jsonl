@@ -102,3 +102,4 @@
 {"assumed_live": false, "detail": "announced→watching", "flow": "preview", "from_state": "announced", "item_id": "pv_8287c5ca", "result": "ok", "title": null, "to_state": "watching", "ts": "2026-09-26T13:00:00Z", "video_id": null, "who": "yuno"}
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-26T13:06:10Z", "who": "【 #APEX 】参加型！やっとできるエペ！【 #千石ユノ / #バンドリ 】"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T13:10:28Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T13:10:45Z", "who": "峰月律"}
