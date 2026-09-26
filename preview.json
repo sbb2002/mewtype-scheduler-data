@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-26T12:06:00Z",
+  "generated_at": "2026-09-26T12:08:03Z",
   "items": [
     {
       "actual_start": "2026-09-26T12:03:19Z",
@@ -76,7 +76,7 @@
         "ritsu",
         "miyako"
       ],
-      "concurrent_viewers": 403,
+      "concurrent_viewers": 598,
       "expires_at": "2026-09-26T15:00:00Z",
       "first_seen": "2026-09-26T11:53:03Z",
       "host": null,
@@ -84,7 +84,7 @@
       "info_at": "2026-09-26T11:53:03Z",
       "info_source": "personal",
       "kind": "collab",
-      "last_updated": "2026-09-26T12:06:00Z",
+      "last_updated": "2026-09-26T12:08:03Z",
       "membership": false,
       "scheduled_start": "2026-09-26T12:00:00Z",
       "source": "personal",
