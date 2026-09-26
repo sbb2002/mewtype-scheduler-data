@@ -104,3 +104,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T13:10:28Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T13:10:45Z", "who": "峰月律"}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-26T13:15:00Z", "who": "i87UaIdNt54"}
+{"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-26T13:20:03Z", "who": ""}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_6c4aac9f", "result": "ok", "title": "【 #APEX 】参加型！やっとできるエペ！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-09-26T13:20:03Z", "video_id": "RXJjMNA3ik8", "who": "yuno"}
