@@ -131,3 +131,5 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_6c4aac9f", "result": "ok", "title": "【 #APEX 】参加型！やっとできるエペ！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-09-26T14:45:00Z", "video_id": "RXJjMNA3ik8", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T14:47:07Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T14:47:22Z", "who": "峰月律"}
+{"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-26T14:50:00Z", "who": "IkeMIZRzeuQ"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_d490ab6f", "result": "ok", "title": "【🟡歌枠】じゆ〜うにうたう！✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-09-26T14:50:00Z", "video_id": "i87UaIdNt54", "who": "arale"}
