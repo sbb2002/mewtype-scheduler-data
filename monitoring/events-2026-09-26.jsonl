@@ -43,3 +43,4 @@
 {"detail": "공식 스케줄 · 예고 5건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T10:31:21Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T10:40:49Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-26T10:40:49Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-26T10:41:02Z", "who": "藤都子"}
