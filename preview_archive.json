@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T15:15:00Z",
+  "generated_at": "2026-09-26T15:20:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1263,6 +1263,34 @@
       "title_ko": "【 #APEX 】참여형! 드디어 할 수 있는 에페!【 #천석유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=RXJjMNA3ik8",
       "video_id": "RXJjMNA3ik8"
+    },
+    {
+      "actual_start": "2026-09-26T12:03:19Z",
+      "api_start_seen": "2026-09-26T12:00:00Z",
+      "archived_at": "2026-09-26T15:20:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 949,
+      "expires_at": "2026-09-26T15:00:00Z",
+      "first_seen": "2026-09-26T11:53:03Z",
+      "host": null,
+      "id": "pv_d490ab6f",
+      "info_at": "2026-09-26T11:53:03Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-26T15:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-26T12:00:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-26T15:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/i87UaIdNt54/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】じゆ〜うにうたう！✨️【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡노래 시간】자유롭게 노래해!✨️【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=i87UaIdNt54",
+      "video_id": "i87UaIdNt54"
     }
   ]
 }
