@@ -35,3 +35,4 @@
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_f95d45eb", "result": "ok", "title": "# 8【魔法少女ノ魔女裁判】第四回魔女裁判！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "none", "ts": "2026-09-27T05:25:00Z", "video_id": "-xMz0CgnHGM", "who": "nonoka"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-27T05:33:08Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T05:33:11Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T06:00:01Z", "who": "藤都子"}
