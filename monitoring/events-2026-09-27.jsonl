@@ -28,3 +28,4 @@
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-27T04:55:00Z", "who": "-xMz0CgnHGM"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f95d45eb", "result": "ok", "title": "# 8【魔法少女ノ魔女裁判】第四回魔女裁判！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "end", "ts": "2026-09-27T04:55:00Z", "video_id": "-xMz0CgnHGM", "who": "nonoka"}
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_fc992bfc", "result": "ok", "title": "【同時視聴】カードファイト!! ヴァンガード Divinez 幻真星戦編を一気見！ 【 #千石ユノ / #バンドリ  】", "to_state": "none", "ts": "2026-09-27T04:55:00Z", "video_id": "4Hc83OeMmbQ", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-27T05:02:16Z", "via": "ingest", "who": "nonoka"}
