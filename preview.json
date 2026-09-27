@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-27T12:00:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-27T12:00:00Z",
       "source": "api",
       "state": "live",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/QF9XmAjHGDc/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡歌枠】日夜！あられSINGING(？)✨️【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡노래 방송】일야! 아라레 SINGING(？)✨️【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=QF9XmAjHGDc",
       "video_id": "QF9XmAjHGDc"
     },
