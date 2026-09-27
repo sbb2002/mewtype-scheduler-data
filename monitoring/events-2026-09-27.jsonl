@@ -54,3 +54,5 @@
 {"detail": "유튜브 tunein → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-27T13:30:11Z", "who": "【#アニメゆめみた】ゆめみた楽曲を歌います！！！！！！！【峰月律/夢限大みゅーたいぷ】"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-27T13:55:00Z", "who": "dyFV7dsHQc8"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f6380ec0", "result": "ok", "title": "💜メン限 雑談💜君たちはあかすりを知っているか？みやこの部屋#12 【ゆめみた/藤都子】", "to_state": "end", "ts": "2026-09-27T13:55:00Z", "video_id": "dyFV7dsHQc8", "who": "miyako"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-27T13:57:00Z", "who": "kcFpd45-h3k"}
+{"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_ff2a755a", "result": "ok", "title": "【#アニメゆめみた】ゆめみた楽曲を歌います！！！！！！！【峰月律/夢限大みゅーたいぷ】", "to_state": "watching", "ts": "2026-09-27T13:57:00Z", "video_id": "kcFpd45-h3k", "who": "ritsu"}
