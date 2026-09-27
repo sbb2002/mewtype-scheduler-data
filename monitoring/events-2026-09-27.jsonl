@@ -52,3 +52,5 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-27T12:33:00Z", "who": "dyFV7dsHQc8"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_f6380ec0", "result": "ok", "title": "💜メン限 雑談💜君たちはあかすりを知っているか？みやこの部屋#12 【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-09-27T12:33:00Z", "video_id": "dyFV7dsHQc8", "who": "miyako"}
 {"detail": "유튜브 tunein → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-27T13:30:11Z", "who": "【#アニメゆめみた】ゆめみた楽曲を歌います！！！！！！！【峰月律/夢限大みゅーたいぷ】"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-27T13:55:00Z", "who": "dyFV7dsHQc8"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f6380ec0", "result": "ok", "title": "💜メン限 雑談💜君たちはあかすりを知っているか？みやこの部屋#12 【ゆめみた/藤都子】", "to_state": "end", "ts": "2026-09-27T13:55:00Z", "video_id": "dyFV7dsHQc8", "who": "miyako"}
