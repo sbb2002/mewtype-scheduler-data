@@ -5,3 +5,4 @@
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-27T00:30:54Z", "who": "【同時視聴】カードファイト!! ヴァンガード Divinez 幻真星戦編を一気見！ 【 #千石ユノ / #バンドリ 】"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T00:51:25Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-27T02:07:26Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T02:07:38Z", "who": "藤都子"}
