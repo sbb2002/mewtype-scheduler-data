@@ -30,3 +30,4 @@
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_fc992bfc", "result": "ok", "title": "【同時視聴】カードファイト!! ヴァンガード Divinez 幻真星戦編を一気見！ 【 #千石ユノ / #バンドリ  】", "to_state": "none", "ts": "2026-09-27T04:55:00Z", "video_id": "4Hc83OeMmbQ", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-27T05:02:16Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T05:02:28Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-27T05:05:00Z", "who": "-xMz0CgnHGM"}
