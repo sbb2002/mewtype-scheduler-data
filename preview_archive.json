@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:25:00Z",
+  "generated_at": "2026-09-27T14:25:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1403,6 +1403,34 @@
       "title_ko": "# 8【마법소녀 노 마녀 재판】제4회 마녀 재판! 귀여운 마법소녀 게임을 즐겨보자【미야나가 노노카】【유메미타/무겐다이 뮤타입】#마노사바 실황 #마노사바 스포일러",
       "url": "https://www.youtube.com/watch?v=-xMz0CgnHGM",
       "video_id": "-xMz0CgnHGM"
+    },
+    {
+      "actual_start": "2026-09-27T12:30:34Z",
+      "api_start_seen": "2026-09-27T12:30:00Z",
+      "archived_at": "2026-09-27T14:25:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 182,
+      "expires_at": "2026-09-27T15:30:00Z",
+      "first_seen": "2026-09-26T02:50:01Z",
+      "host": null,
+      "id": "pv_f6380ec0",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-09-27T14:25:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-27T12:30:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-27T14:25:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/dyFV7dsHQc8/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "💜メン限 雑談💜君たちはあかすりを知っているか？みやこの部屋#12 【ゆめみた/藤都子】",
+      "title_ko": "💜멤버 제한 잡담💜너희는 아카스리를 알고 있니? 미야코의 방#12 【유메미타/후지토코】",
+      "url": "https://www.youtube.com/watch?v=dyFV7dsHQc8",
+      "video_id": "dyFV7dsHQc8"
     }
   ]
 }
