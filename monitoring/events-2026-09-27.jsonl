@@ -8,3 +8,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T02:07:38Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-27T02:07:26Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T02:07:44Z", "who": "宮永ののか🐰🩹"}
+{"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-27T02:13:35Z", "who": "# 8【魔法少女ノ魔女裁判】第四回魔女裁判！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】"}
