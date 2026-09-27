@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:25:00Z",
+  "generated_at": "2026-09-27T14:40:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1431,6 +1431,34 @@
       "title_ko": "💜멤버 제한 잡담💜너희는 아카스리를 알고 있니? 미야코의 방#12 【유메미타/후지토코】",
       "url": "https://www.youtube.com/watch?v=dyFV7dsHQc8",
       "video_id": "dyFV7dsHQc8"
+    },
+    {
+      "actual_start": "2026-09-27T11:59:59Z",
+      "api_start_seen": "2026-09-27T12:00:00Z",
+      "archived_at": "2026-09-27T14:40:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 1434,
+      "expires_at": "2026-09-27T15:00:00Z",
+      "first_seen": "2026-09-27T12:00:01Z",
+      "host": null,
+      "id": "pv_fba6e4dc",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-09-27T14:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-27T12:00:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-27T14:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/QF9XmAjHGDc/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】日夜！あられSINGING(？)✨️【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡노래 방송】일야! 아라레 SINGING(？)✨️【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=QF9XmAjHGDc",
+      "video_id": "QF9XmAjHGDc"
     }
   ]
 }
