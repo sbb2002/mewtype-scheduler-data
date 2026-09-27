@@ -42,3 +42,5 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T06:04:00Z", "who": "藤都子"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-27T06:15:36Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-27T06:15:39Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 90, "detail": "candidates=90 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-27T12:00:01Z", "who": ""}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_fba6e4dc", "result": "ok", "title": "【🟡歌枠】日夜！あられSINGING(？)✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-09-27T12:00:01Z", "video_id": "QF9XmAjHGDc", "who": "arale"}
