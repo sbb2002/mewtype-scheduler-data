@@ -33,3 +33,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-28T13:59:38Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-28T14:00:50Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-28T14:01:07Z", "who": "仲町あられ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-28T14:35:00Z", "who": "PJtx5k-Djuk"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_729d19d4", "result": "ok", "title": "【 #バイオ7 】不慮の事故でバイオハザードをすることになってしまった千石ユノさん【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-09-28T14:35:00Z", "video_id": "PJtx5k-Djuk", "who": "yuno"}
