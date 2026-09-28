@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T23:10:00Z",
+  "generated_at": "2026-09-28T15:05:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1515,6 +1515,34 @@
       "title_ko": "【아침활동】 따뜻한 스프를 마시는 거예요☕【무겐다이 뮤타입/藤都子】 #shorts #세로형방송 #vtuber",
       "url": "https://www.youtube.com/watch?v=GGdReFiZRGA",
       "video_id": "GGdReFiZRGA"
+    },
+    {
+      "actual_start": "2026-09-28T13:05:10Z",
+      "api_start_seen": "2026-09-28T13:00:00Z",
+      "archived_at": "2026-09-28T15:05:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 291,
+      "expires_at": "2026-09-28T16:00:00Z",
+      "first_seen": "2026-09-28T13:00:01Z",
+      "host": null,
+      "id": "pv_729d19d4",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-09-28T15:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-28T13:00:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-28T15:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/PJtx5k-Djuk/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【 #バイオ7 】不慮の事故でバイオハザードをすることになってしまった千石ユノさん【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #バイオ7 】불의 사고로 바이오하자드를 하게 된 千石ユノ 씨【 #千石ユノ / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=PJtx5k-Djuk",
+      "video_id": "PJtx5k-Djuk"
     }
   ]
 }
