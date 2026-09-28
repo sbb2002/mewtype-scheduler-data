@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:00:50Z",
+  "generated_at": "2026-09-28T14:35:11Z",
   "tweets": {
     "arale": [
       {
@@ -102,6 +102,18 @@
         "text": "落書きしたし、サインもかきました✌️\nWSよろしくお願いします！",
         "text_ko": "낙서도 하고, 사인도 그렸어요✌️\nWS 잘 부탁드립니다!",
         "url": "https://x.com/i/status/2104548461756682245"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-29T14:35:11Z",
+        "handle": "yuno_yumemita",
+        "id": "2104580666155581547",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-28T14:35:11Z",
+        "text": "おい、バイオ7だいぶ怖いしグロいしキモいぞ\nたすけてくれ",
+        "text_ko": "야, 바이오7은 꽤 무섭고 끔찍하고 징그럽다. 도와줘.",
+        "url": "https://x.com/i/status/2104580666155581547"
       }
     ]
   }
