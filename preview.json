@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-28T13:00:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-28T13:00:00Z",
       "source": "api",
       "state": "watching",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/PJtx5k-Djuk/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #バイオ7 】不慮の事故でバイオハザードをすることになってしまった千石ユノさん【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #バイオ7 】불의 사고로 바이오하자드를 하게 된 千石ユノ 씨【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=PJtx5k-Djuk",
       "video_id": "PJtx5k-Djuk"
     },
