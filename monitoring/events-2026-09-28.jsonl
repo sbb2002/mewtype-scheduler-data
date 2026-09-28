@@ -37,3 +37,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_729d19d4", "result": "ok", "title": "【 #バイオ7 】不慮の事故でバイオハザードをすることになってしまった千石ユノさん【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-09-28T14:35:00Z", "video_id": "PJtx5k-Djuk", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-28T14:35:11Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-28T14:35:20Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-28T15:03:40Z", "via": "ingest", "who": "arale"}
