@@ -44,3 +44,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-28T15:22:56Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-28T15:23:24Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-28T15:26:02Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-28T15:26:02Z", "via": "ingest", "who": ""}
