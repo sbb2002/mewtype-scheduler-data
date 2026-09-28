@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:26:26Z",
+  "generated_at": "2026-09-28T12:27:10Z",
   "tweets": {
     "miyako": [
       {
@@ -42,6 +42,26 @@
         "text": "千石ユノさんがこっちみてる！！！\n多分あたしのこと好きなんだと思う！！！！！！！",
         "text_ko": "천석 유노 씨가 나를 보고 있어!!! 아마 나를 좋아하는 것 같아!!!!!!!!!",
         "url": "https://x.com/i/status/2104548273570910401"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-29T12:27:10Z",
+        "handle": "yuno_yumemita",
+        "id": "2104548461756682245",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HTTKGf5aUAAzsXM.jpg",
+            "https://pbs.twimg.com/media/HTTKGhUacAA2iVc.jpg",
+            "https://pbs.twimg.com/media/HTTKGgGasAAuNES.jpg"
+          ],
+          "text": "🛸描き下ろしイラスト公開🛸\n\n#WS ブースターパック\n「BanG Dream! [夢限大みゅーたいぷ]」\n\n「千石ユノ」の描き下ろしイラストを大公開！\n\n#ゆめみた #バンドリ",
+          "text_ko": "🛸신규 일러스트 공개🛸\n\n#WS 부스터 팩\n「BanG Dream! [무겐다이 뮤타입]」\n\n「千石ユノ」의 신규 일러스트를 대공개!\n\n#ゆめみた #뱅드림"
+        },
+        "received_at": "2026-09-28T12:27:10Z",
+        "text": "落書きしたし、サインもかきました✌️\nWSよろしくお願いします！",
+        "text_ko": "낙서도 하고, 사인도 그렸어요✌️\nWS 잘 부탁드립니다!",
+        "url": "https://x.com/i/status/2104548461756682245"
       }
     ]
   }
