@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-28T12:27:10Z",
+  "generated_at": "2026-09-28T13:59:29Z",
   "tweets": {
+    "arale": [
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-29T13:59:29Z",
+        "handle": "arale_yumemita",
+        "id": "2104571682954641774",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HTTJLx1a0AAV4aZ.jpg",
+            "https://pbs.twimg.com/media/HTTJLxlaEAAcnTP.jpg",
+            "https://pbs.twimg.com/media/HTTJLxzboAENEx2.jpg"
+          ],
+          "text": "🛸描き下ろしイラスト公開🛸\n\n#WS ブースターパック\n「BanG Dream! [夢限大みゅーたいぷ]」\n\n「仲町あられ」の描き下ろしイラストを大公開！\n\n#ゆめみた #バンドリ",
+          "text_ko": "🛸신규 일러스트 공개🛸\n\n#WS 부스터 팩\n「BanG Dream! [무겐다이 뮤타입]」\n\n「仲町あられ」의 신규 일러스트를 대공개!\n\n#ゆめみた #뱅드림"
+        },
+        "received_at": "2026-09-28T13:59:29Z",
+        "text": "レッツ！ヴァイスシュヴァルツ!!\nありがとうございました！✨️\n\nゆめみたブースターパック、仲町あられ集、めちゃ…可愛い……！！！！！✨️\n#WS",
+        "text_ko": "레츠! 바이츠슈바르츠!!\n감사합니다!✨️\n\n꿈꾸던 부스터 팩, 나카마치 아라레 컬렉션, 정말… 귀여워……!!!!✨️\n#WS",
+        "url": "https://x.com/i/status/2104571682954641774"
+      }
+    ],
     "miyako": [
       {
         "channel_key": "miyako",
