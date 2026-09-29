@@ -58,3 +58,5 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T11:00:23Z", "who": "バンドリ！アワーノーツ"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-29T11:29:52Z", "who": "ZZMwYj6PM9o"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_2602679a", "result": "ok", "title": "🖤YUNO's free chat🩷", "to_state": "upcoming", "ts": "2026-09-29T11:29:52Z", "video_id": "ZZMwYj6PM9o", "who": "yuno"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-29T11:29:57Z", "who": "3tQbs-OKrys"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_770d82c6", "result": "ok", "title": "🌟誕生日グッズ2026🌟9/15〆完全受注生産 発売中！【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-09-29T11:29:57Z", "video_id": "3tQbs-OKrys", "who": "arale"}
