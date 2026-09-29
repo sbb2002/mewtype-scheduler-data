@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-29T14:10:00Z",
+  "generated_at": "2026-09-29T14:14:15Z",
   "items": [
     {
       "actual_start": null,
@@ -252,7 +252,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": "collab",
-      "last_updated": "2026-09-29T14:10:00Z",
+      "last_updated": "2026-09-29T14:14:15Z",
       "membership": false,
       "scheduled_start": "2026-09-29T13:00:00Z",
       "source": "api",
