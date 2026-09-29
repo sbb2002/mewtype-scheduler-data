@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:46:21Z",
+  "generated_at": "2026-09-29T09:00:10Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -862,27 +862,28 @@
     {
       "anchor_a": "2362",
       "anchor_b": "バンドリ！ゆめ∞みた",
-      "body_for_llm": "＼ #アニメゆめみた Blu-ray発売❗／ 🛸TVアニメ「バンドリ！ ゆめ∞みた」 Blu-ray 上巻・下巻🛸 (水) 発売✨ 藤都子描き下ろし収納BOXがもらえる キャンペーンも開催🎊 詳細はこちら #バンドリ",
-      "body_raw": "＼ #アニメゆめみた Blu-ray発売❗／\n\n🛸TVアニメ「バンドリ！ ゆめ∞みた」\n　Blu-ray 上巻・下巻🛸\n\n12月16日(水) 発売✨\n\n藤都子描き下ろし収納BOXがもらえる\nキャンペーンも開催🎊\n\n詳細はこちら\nhttps://bang-dream.com/news/2362/\n\n#バンドリ",
+      "body_for_llm": "＼特典デザイン公開📢／ (水)発売 🛸TVアニメ「バンドリ！ ゆめ∞みた」 Blu-ray 上下巻🛸 法人別特典画像を公開🎉 💿詳細はこちら 同時購入キャンペーンも開催中✨ #バンドリ #ゆめみた",
+      "body_raw": "＼特典デザイン公開📢／\n\n12/16(水)発売\n🛸TVアニメ「バンドリ！ ゆめ∞みた」\n　Blu-ray 上下巻🛸\n\n法人別特典画像を公開🎉\n\n💿詳細はこちら\nhttps://bang-dream.com/news/2362/\n\n同時購入キャンペーンも開催中✨\n\n#バンドリ #ゆめみた",
       "category": "release",
       "date": "2026-12-16",
       "deadline": false,
       "expires_at": "2026-12-16T15:00:00Z",
       "first_seen": "2026-09-10T15:00:59Z",
       "id": "2098059265680515490",
-      "last_updated": "2026-09-25T11:41:42Z",
+      "last_updated": "2026-09-29T09:00:10Z",
       "seen_ids": [
         "2098059265680515490",
-        "2103449856023093558"
+        "2103449856023093558",
+        "2104858735046799538"
       ],
       "site": "web",
       "src_handle": "@BDP_yumemita",
       "time": null,
-      "title": "アニメゆめみた Blu-ray発売",
+      "title": "12/16(水)発売",
       "title_ko": "뱅드림! 유메∞미타 Blu-ray 발매 및 15초 CM 공개",
-      "title_raw": "アニメゆめみた Blu-ray発売",
-      "title_slug": "アニメゆめみたbluray発売",
-      "tweet_url": "https://x.com/i/status/2103449856023093558",
+      "title_raw": "12/16(水)発売",
+      "title_slug": "水発売",
+      "tweet_url": "https://x.com/i/status/2104858735046799538",
       "url": "https://bang-dream.com/news/2362/"
     },
     {
