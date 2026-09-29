@@ -94,3 +94,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T14:03:48Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: recap", "flow": "notice", "result": "ok", "ts": "2026-09-29T14:03:43Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-29T14:03:44Z", "via": "ingest", "who": ""}
+{"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-29T14:03:44Z", "via": "ingest", "who": ""}
