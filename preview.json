@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-29T14:14:15Z",
+  "generated_at": "2026-09-29T14:14:24Z",
   "items": [
     {
       "actual_start": null,
@@ -264,6 +264,34 @@
       "title_ko": "【뱅드림!】꿈을 꾼 모두 모여라! 뱅드림! 우리 노트 릴리즈 기념 생방송! 🛸",
       "url": "https://www.youtube.com/watch?v=dRUOZpog1Dk",
       "video_id": "dRUOZpog1Dk"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-11T15:00:00Z",
+      "first_seen": "2026-09-29T14:14:24Z",
+      "host": null,
+      "id": "pv_45bf18ca",
+      "info_at": "2026-09-29T14:12:34Z",
+      "info_source": "personal",
+      "kind": "game",
+      "last_updated": "2026-09-29T14:14:24Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-11T00:00:00Z",
+      "source": "personal",
+      "state": "announced",
+      "state_since": "2026-09-29T14:14:24Z",
+      "thumbnail": null,
+      "time_tbd": true,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@miyako_yumemita",
+      "video_id": null
     }
   ]
 }
