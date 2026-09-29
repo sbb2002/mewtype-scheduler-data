@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:03:44Z",
+  "generated_at": "2026-09-29T14:14:15Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -662,27 +662,28 @@
     },
     {
       "anchor_a": null,
-      "anchor_b": "dimensionaloverlap",
-      "body_for_llm": "＼発売開始📢／ (日)開催 🛸#バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」🛸 at 東京ガーデンシアター チケット一般発売を開始しました💡 🎫ご購入はこちら eplus.jp/13th-live-day2/ ※先着順・上限数に達し次第終了 お見逃しなく✨ #バンド",
-      "body_raw": "＼発売開始📢／\n\n10/11(日)開催\n🛸#バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」🛸\nat 東京ガーデンシアター\n\nチケット一般発売を開始しました💡\n\n🎫ご購入はこちら\neplus.jp/13th-live-day2/\n※先着順・上限数に達し次第終了\n\nお見逃しなく✨\n\n#バンド",
-      "category": "release",
+      "anchor_b": "夢ノ結唱mewアルファー版",
+      "body_for_llm": "RT @yumenokessho: 🎉「夢ノ結唱 MEW アルファー版」体験会実施！ 🏟 イベント:BanG Dream! 13th☆LIVE DAY2 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 ⏰ 2026年 (日) 〜 …",
+      "body_raw": "RT @yumenokessho: 🎉「夢ノ結唱 MEW アルファー版」体験会実施！\n\n🏟 イベント:BanG Dream! 13th☆LIVE DAY2 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\n⏰ 2026年10月11日(日) 13:30〜16:30…",
+      "category": "etc",
       "date": "2026-10-11",
       "deadline": false,
       "expires_at": "2026-10-11T15:00:00Z",
       "first_seen": "2026-09-10T12:18:02Z",
       "id": "2098018660086657040",
-      "last_updated": "2026-09-10T12:18:02Z",
+      "last_updated": "2026-09-29T14:14:15Z",
       "seen_ids": [
-        "2098018660086657040"
+        "2098018660086657040",
+        "2104935720586756460"
       ],
       "site": "x",
-      "src_handle": "@BDP_yumemita",
-      "time": "02:00",
-      "title": "バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」チケット一般発売開始",
+      "src_handle": "RT @yumenokessho",
+      "time": "13:30",
+      "title": "RT @yumenokessho: 「夢ノ結唱 MEW アルファー版」体験会実施",
       "title_ko": "뱅드림 13th 라이브 DAY 무겐다이 뮤타입 “DIMENSIONAL OVERLAP” 티켓 일반 판매 시작",
-      "title_raw": "チケット一般発売を開始しました💡",
-      "title_slug": "チケット一般発売を開始しました",
-      "tweet_url": "https://x.com/i/status/2098018660086657040",
+      "title_raw": "RT @yumenokessho: 「夢ノ結唱 MEW アルファー版」体験会実施",
+      "title_slug": "rtyumenokessho夢ノ結唱mewアルフ",
+      "tweet_url": "https://x.com/i/status/2104935720586756460",
       "url": null
     },
     {
