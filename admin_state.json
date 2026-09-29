@@ -51,14 +51,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (【緊急メンテナンス実施のお知らせ】)",
-    "at": "2026-09-29T10:30:50Z",
+    "action": "소식 updated (「スター履歴」機能の追加)",
+    "at": "2026-09-29T10:32:04Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "403933d3cf1af564021fd84f0749e2bd99269f89",
+    "new_sha": "36f3427f94d58aeffafb7af4f526dc4ece1d2469",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-29T09:00:10Z",
+      "generated_at": "2026-09-29T10:30:50Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -166,6 +166,32 @@
           "title_slug": "サブスク事前予約キャンペーン開始",
           "tweet_url": "https://x.com/i/status/2103398104217305355",
           "url": "https://link.fans/yumemita-oursurvival-pre"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": null,
+          "body_for_llm": "【緊急メンテナンス実施のお知らせ】 アップデートに伴う対応のため、このあと より緊急メンテナンスを実施いたします。 ▼メンテナンス予定期間 (火) 〜 ※実施期間は予告なく変更する場合がございます。詳細はお知らせをご確認ください。 #バンドリ #アワーノーツ",
+          "body_raw": "【緊急メンテナンス実施のお知らせ】\nアップデートに伴う対応のため、このあと20:30より緊急メンテナンスを実施いたします。\n\n▼メンテナンス予定期間\n9月29日(火)20:30〜22:29\n\n※実施期間は予告なく変更する場合がございます。詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+          "category": "etc",
+          "date": "2026-09-29",
+          "deadline": false,
+          "expires_at": "2026-09-29T15:00:00Z",
+          "first_seen": "2026-09-29T10:30:50Z",
+          "id": "2104881560369651809",
+          "last_updated": "2026-09-29T10:30:50Z",
+          "participants": null,
+          "seen_ids": [
+            "2104881560369651809"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "20:30",
+          "title": "緊急メンテナンス実施のお知らせ",
+          "title_ko": "긴급 유지보수 실시 안내",
+          "title_raw": "【緊急メンテナンス実施のお知らせ】",
+          "title_slug": "緊急メンテナンス実施のお知らせ",
+          "tweet_url": "https://x.com/i/status/2104881560369651809",
+          "url": null
         },
         {
           "anchor_a": "dRUOZpog1Dk",
