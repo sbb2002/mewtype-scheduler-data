@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-29T11:29:57Z",
+  "generated_at": "2026-09-29T11:30:01Z",
   "items": [
     {
       "actual_start": null,
@@ -227,7 +227,6 @@
       "kind": null,
       "last_updated": "2026-09-29T11:29:57Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2027-08-16T14:59:00Z",
       "source": "api",
       "state": "upcoming",
@@ -235,7 +234,7 @@
       "thumbnail": "https://i.ytimg.com/vi/3tQbs-OKrys/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "🌟誕生日グッズ2026🌟9/15〆完全受注生産 発売中！【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "🌟생일 굿즈 2026🌟9/15 마감 완전 주문 생산 판매 중!【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=3tQbs-OKrys",
       "video_id": "3tQbs-OKrys"
     },
@@ -255,7 +254,6 @@
       "kind": null,
       "last_updated": "2026-09-29T11:29:57Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -263,7 +261,7 @@
       "thumbnail": "https://i.ytimg.com/vi/ZZMwYj6PM9o/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "🖤YUNO's free chat🩷",
-      "title_ko": null,
+      "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
     }
