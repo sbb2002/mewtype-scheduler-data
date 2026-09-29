@@ -115,3 +115,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T14:14:46Z", "who": "峰月律"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T14:14:47Z", "who": "藤都子"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-29T14:14:15Z", "via": "ingest", "who": ""}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T14:14:54Z", "who": "藤都子"}
