@@ -71,3 +71,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T12:32:24Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-29T12:32:52Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T12:33:11Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-29T12:50:38Z", "via": "ingest", "who": ""}
