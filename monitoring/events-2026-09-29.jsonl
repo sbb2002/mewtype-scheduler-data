@@ -27,3 +27,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T04:57:30Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-29T05:26:43Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T05:26:57Z", "who": "千石ユノ"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-29T06:01:36Z", "via": "ingest", "who": ""}
