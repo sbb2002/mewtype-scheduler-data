@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-29T14:14:24Z",
+  "generated_at": "2026-09-29T14:40:00Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-29T14:10:00Z",
+      "last_updated": "2026-09-29T14:40:00Z",
       "membership": false,
       "scheduled_start": "2026-09-30T13:30:00Z",
       "source": "api",
@@ -106,7 +106,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-29T14:10:00Z",
+      "last_updated": "2026-09-29T14:40:00Z",
       "membership": false,
       "scheduled_start": "2026-09-30T14:00:00Z",
       "source": "api",
@@ -138,7 +138,7 @@
       "info_at": "2026-09-24T09:06:24Z",
       "info_source": "x-relay",
       "kind": "collab",
-      "last_updated": "2026-09-29T14:10:00Z",
+      "last_updated": "2026-09-29T14:40:00Z",
       "membership": false,
       "scheduled_start": "2026-10-01T11:00:00Z",
       "source": "x-relay",
@@ -165,7 +165,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-29T14:10:00Z",
+      "last_updated": "2026-09-29T14:40:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -193,7 +193,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-29T14:10:00Z",
+      "last_updated": "2026-09-29T14:40:00Z",
       "membership": false,
       "scheduled_start": "2027-08-16T14:59:00Z",
       "source": "api",
@@ -220,7 +220,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-09-29T14:10:00Z",
+      "last_updated": "2026-09-29T14:40:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -260,38 +260,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-09-29T12:58:58Z",
-      "api_start_seen": "2026-09-29T13:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": [
-        "yuno",
-        "nonoka",
-        "ritsu",
-        "miyako"
-      ],
-      "concurrent_viewers": 550,
-      "expires_at": "2026-09-29T16:00:00Z",
-      "first_seen": "2026-09-26T12:10:02Z",
-      "host": "group",
-      "id": "pv_cdf8a92a",
-      "info_at": null,
-      "info_source": "api",
-      "kind": "collab",
-      "last_updated": "2026-09-29T14:14:15Z",
-      "membership": false,
-      "scheduled_start": "2026-09-29T13:00:00Z",
-      "source": "api",
-      "state": "end",
-      "state_since": "2026-09-29T14:10:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/dRUOZpog1Dk/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【バンドリ！】ゆめみた全員集合！バンドリ！アワーノーツリリース記念生配信！🛸",
-      "title_ko": "【뱅드림!】꿈을 꾼 모두 모여라! 뱅드림! 우리 노트 릴리즈 기념 생방송! 🛸",
-      "url": "https://www.youtube.com/watch?v=dRUOZpog1Dk",
-      "video_id": "dRUOZpog1Dk"
     }
   ]
 }
