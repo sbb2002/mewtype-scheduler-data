@@ -81,3 +81,5 @@
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-29T12:57:00Z", "who": "dRUOZpog1Dk"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_cdf8a92a", "result": "ok", "title": "【バンドリ！】ゆめみた全員集合！バンドリ！アワーノーツリリース記念生配信！🛸", "to_state": "watching", "ts": "2026-09-29T12:57:00Z", "video_id": "dRUOZpog1Dk", "who": "arale"}
 {"detail": "유튜브 reminder → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-29T12:59:49Z", "who": "夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-29T13:00:00Z", "who": "dRUOZpog1Dk"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_cdf8a92a", "result": "ok", "title": "【バンドリ！】ゆめみた全員集合！バンドリ！アワーノーツリリース記念生配信！🛸", "to_state": "live", "ts": "2026-09-29T13:00:00Z", "video_id": "dRUOZpog1Dk", "who": "arale"}
