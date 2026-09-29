@@ -63,3 +63,4 @@
 {"candidates": 92, "detail": "candidates=92 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-29T11:30:01Z", "who": ""}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T11:39:19Z", "who": "峰月律"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-29T12:00:11Z", "via": "ingest", "who": ""}
+{"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-09-29T12:00:11Z", "via": "ingest", "who": ""}
