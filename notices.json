@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:00:11Z",
+  "generated_at": "2026-09-29T12:51:03Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -610,26 +610,27 @@
     {
       "anchor_a": null,
       "anchor_b": null,
-      "body_for_llm": "@bang_dream_info: ＼グッズ情報公開📢／ (土)〜12(月･祝) ⭐BanG Dream! 13th☆LIVE⭐ at 東京ガーデンシアター グッズ・通販情報を公開🎉 新商品を事前にゲットできるチャンスをお見逃しなく！ 詳細は各公演ページをチェック👇 bang-dream.com/13th-live/ #バンドリ13thライブ #ポピパ #ゆめみた #RAS pic.x.com/voTyS9O10p",
-      "body_raw": "@bang_dream_info: ＼グッズ情報公開📢／\n\n10/10(土)〜12(月･祝)\n⭐BanG Dream! 13th☆LIVE⭐\nat 東京ガーデンシアター\n\nグッズ・通販情報を公開🎉\n新商品を事前にゲットできるチャンスをお見逃しなく！\n\n詳細は各公演ページをチェック👇\nbang-dream.com/13th-live/\n\n#バンドリ13thライブ\n#ポピパ #ゆめみた #RAS pic.x.com/voTyS9O10p",
-      "category": "release",
+      "body_for_llm": "RT @PalworldOCG: 📢 #パルワールドカードゲーム【お知らせ】 ⭐BanG Dream! 13th☆LIVE 出展決定⭐ 2026年 (土) 日（月・祝） BanG Dream! 13th☆LIVE にて 『パルワールド オフィシャルカード…",
+      "body_raw": "RT @PalworldOCG: 📢 #パルワールドカードゲーム【お知らせ】\n\n⭐BanG Dream! 13th☆LIVE 出展決定⭐ \n2026年10月10日(土)〜10月12日（月・祝）\nBanG Dream! 13th☆LIVE にて\n『パルワールド オフィシャルカード…",
+      "category": "etc",
       "date": "2026-10-10",
       "deadline": false,
       "expires_at": "2026-10-10T15:00:00Z",
       "first_seen": "2026-09-10T08:12:27Z",
       "id": "2097960024417124657",
-      "last_updated": "2026-09-10T08:12:27Z",
+      "last_updated": "2026-09-29T12:51:03Z",
       "seen_ids": [
-        "2097960024417124657"
+        "2097960024417124657",
+        "2104916862987571431"
       ],
       "site": "x",
-      "src_handle": "RT @bang_dream_info",
+      "src_handle": "RT @PalworldOCG",
       "time": null,
-      "title": "BanG Dream! 13th LIVE グッズ情報公開",
+      "title": "『パルワールド オフィシャルカード…",
       "title_ko": "BanG Dream! 13th LIVE 굿즈 정보 공개",
-      "title_raw": "@bang_dream_info: ＼グッズ情報公開",
-      "title_slug": "bangdreaminfoグッズ情報公開",
-      "tweet_url": "https://x.com/i/status/2097960024417124657",
+      "title_raw": "『パルワールド オフィシャルカード…",
+      "title_slug": "パルワールドオフィシャルカード",
+      "tweet_url": "https://x.com/i/status/2104916862987571431",
       "url": null
     },
     {
