@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:53:46Z",
+  "generated_at": "2026-09-29T12:18:35Z",
   "tweets": {
     "arale": [
       {
@@ -288,6 +288,25 @@
         "text": "今日22時から！\n全体配信あります！よろしくお願いします！",
         "text_ko": "오늘 22시부터!\n전체 방송이 있습니다! 잘 부탁드립니다!",
         "url": "https://x.com/i/status/2104802866519212195"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-09-30T12:18:35Z",
+        "handle": "yuno_yumemita",
+        "id": "2104908681305641356",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HTRrK2uagAAZXs8.jpg",
+            "https://pbs.twimg.com/media/HTRrLr7aYAAu5jX.jpg"
+          ],
+          "text": "【発表会情報】\n＼　 総合MC公開！！　 ／\n🍁ブシロードTCG戦略発表会2026 秋🍁\n\n🎤総合MC：\n🛸峰月 律（夢限大みゅーたいぷ）\n🛸千石 ユノ（夢限大みゅーたいぷ）\n📺配信待機所：https://youtube.com/live/iIrzY2DEiZ8\n🔗ホームページも公開されました！\nhttps://adm.bushiroad.com/presentation2026autumn\n\n続報をお待ちください📣",
+          "text_ko": "【발표회 정보】\n＼　 종합 MC 공개!!　 ／\n🍁부시로드 TCG 전략 발표회 2026 가을🍁\n\n🎤종합 MC：\n🛸미네츠키 리츠（무겐다이 뮤타입）\n🛸센고쿠 유노（무겐다이 뮤타입）\n📺스트리밍 대기실：https://youtube.com/live/iIrzY2DEiZ8\n🔗홈페이지도 공개되었습니다!\nhttps://adm.bushiroad.com/presentation2026autumn\n\n추가 소식을 기다려 주세요📣"
+        },
+        "received_at": "2026-09-29T12:18:35Z",
+        "text": "ブシロードTCG戦略発表会2026 秋\n総合MCを務めさせていただきます！\n\n夏に引き続き2度目！\n任せていただきありがとうございます…！\nよろしくお願いします！！！",
+        "text_ko": "부시로드 TCG 전략 발표회 2026 가을\n총괄 MC를 맡게 되었습니다!\n\n여름에 이어 두 번째!\n맡겨 주셔서 감사합니다…!\n잘 부탁드립니다!!!",
+        "url": "https://x.com/i/status/2104908681305641356"
       }
     ]
   }
