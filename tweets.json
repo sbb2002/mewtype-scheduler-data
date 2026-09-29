@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T12:32:52Z",
+  "generated_at": "2026-09-29T12:51:28Z",
   "tweets": {
     "arale": [
       {
@@ -97,6 +97,24 @@
         "text": "どやがお☝️✨",
         "text_ko": "어때요☝️✨",
         "url": "https://x.com/i/status/2104865166173282460"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-30T12:51:28Z",
+        "handle": "arale_yumemita",
+        "id": "2104916963210502632",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HTYFU5UawAEEsM8.jpg"
+          ],
+          "text": "＼生配信まであと1️⃣時間／\n\n⏰このあと22:00～\n\n🛸#ゆめみた 全員集合！\nバンドリ！アワーノーツ リリース記念生配信🛸\n\n🔗https://www.youtube.com/watch?v=dRUOZpog1Dk\n\nフリーライブ DAY2の振り返りも\nお見逃しなく✨\n\n#バンドリ",
+          "text_ko": "생방송까지 1️⃣시간 남았습니다\n\n⏰이후 22:00부터～\n\n🛸#ゆめみた 전원 집합!\n뱅드림! 아워노트스 출시 기념 생방송🛸\n\n🔗https://www.youtube.com/watch?v=dRUOZpog1Dk\n\n프리 라이브 DAY2 회고도\n놓치지 마세요✨\n\n#뱅드림"
+        },
+        "received_at": "2026-09-29T12:51:28Z",
+        "text": "本日！あと10分後から！\nゆめみた全体配信！ #ゆめみた交信中\nはじまります！✨️",
+        "text_ko": "오늘! 10분 후부터!\n유메미타 전체 방송! #유메미타교신중\n시작됩니다! ✨️",
+        "url": "https://x.com/i/status/2104916963210502632"
       }
     ],
     "miyako": [
