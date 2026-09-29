@@ -108,3 +108,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_cdf8a92a", "result": "ok", "title": "【バンドリ！】ゆめみた全員集合！バンドリ！アワーノーツリリース記念生配信！🛸", "to_state": "end", "ts": "2026-09-29T14:10:00Z", "video_id": "dRUOZpog1Dk", "who": "arale"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-09-29T14:14:15Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T14:14:21Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-29T14:14:15Z", "via": "ingest", "who": "nonoka"}
