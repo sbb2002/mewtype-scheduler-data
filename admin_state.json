@@ -55,10 +55,10 @@
     "at": "2026-09-29T03:02:54Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f09ce0f90121d9adcd7a35c5b3050914a089234f",
+    "new_sha": "6472df4bf5551a34730ad0653aa4db445619fcdd",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-29T00:05:16Z",
+      "generated_at": "2026-09-29T03:02:54Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -217,6 +217,32 @@
           "title_raw": "全国9都市にて #アワーノーツ のラッピングトラックが走行中🚚",
           "title_slug": "全国9都市にてのラッピングトラックが走行中",
           "tweet_url": "https://x.com/i/status/2103371423125496022",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "鳴らす",
+          "body_for_llm": "RT @millsage_ofc: 【ご案内】 (水)リリース millsage 1st Single「鳴らす」 初回生産分限定封入特典【BanG Dream! Our Notes「特典ステッカー交換チケット」シリアルコード】は、明日 (水) より使…",
+          "body_raw": "RT @millsage_ofc: 【ご案内】\n\n9/30(水)リリース\nmillsage 1st Single「鳴らす」\n\n初回生産分限定封入特典【BanG Dream! Our Notes「特典ステッカー交換チケット」シリアルコード】は、明日9/30(水) 15:00より使…",
+          "category": "release",
+          "date": "2026-09-30",
+          "deadline": false,
+          "expires_at": "2026-09-30T15:00:00Z",
+          "first_seen": "2026-09-29T03:02:54Z",
+          "id": "2104768529988018572",
+          "last_updated": "2026-09-29T03:02:54Z",
+          "participants": null,
+          "seen_ids": [
+            "2104768529988018572"
+          ],
+          "site": "x",
+          "src_handle": "RT @millsage_ofc",
+          "time": "15:00",
+          "title": "【ご案内】水曜リリース millsage 1st Single「鳴らす」 初回限定特典",
+          "title_ko": "【안내】수요일 발매 millsage 1st 싱글「鳴らす」 초회 한정 특전",
+          "title_raw": "9/30(水)リリース",
+          "title_slug": "水リリース",
+          "tweet_url": "https://x.com/i/status/2104768529988018572",
           "url": null
         },
         {
