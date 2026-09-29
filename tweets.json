@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T03:59:42Z",
+  "generated_at": "2026-09-29T04:43:34Z",
   "tweets": {
     "arale": [
       {
@@ -51,6 +51,18 @@
         "text": "ぴゃー。",
         "text_ko": "피야~",
         "url": "https://x.com/i/status/2104587834778943522"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-09-30T04:43:34Z",
+        "handle": "arale_yumemita",
+        "id": "2104793221222281640",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-29T04:43:34Z",
+        "text": "おはようございます☀️ﾊｻﾞｽｯ\n\n今日の朝ごはんはフルーツづくしだった！\n🥝🍌🍐",
+        "text_ko": "좋은 아침입니다☀️ﾊｻﾞｽｯ\n\n오늘 아침 식사는 과일이 가득했어요!\n🥝🍌🍐",
+        "url": "https://x.com/i/status/2104793221222281640"
       }
     ],
     "miyako": [
