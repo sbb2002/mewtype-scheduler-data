@@ -64,3 +64,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T11:39:19Z", "who": "峰月律"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-29T12:00:11Z", "via": "ingest", "who": ""}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-09-29T12:00:11Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T12:00:31Z", "who": "夢限大みゅーたいぷ"}
