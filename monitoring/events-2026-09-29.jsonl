@@ -126,3 +126,4 @@
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_cdf8a92a", "result": "ok", "title": "【バンドリ！】ゆめみた全員集合！バンドリ！アワーノーツリリース記念生配信！🛸", "to_state": "none", "ts": "2026-09-29T14:40:00Z", "video_id": "dRUOZpog1Dk", "who": "arale"}
 {"detail": "/status", "flow": "cmd", "reply": "📖 /status 필드 (v3)", "result": "ok", "ts": "2026-09-29T15:01:24Z", "who": "/status"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-29T16:00:41Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-29T16:00:41Z", "via": "ingest", "who": ""}
