@@ -51,11 +51,11 @@
     }
   ],
   "undo": {
-    "action": "소식 added (9/30(水)リリース)",
+    "action": "소식 updated (9/30(水)リリース)",
     "at": "2026-09-29T03:02:54Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "6472df4bf5551a34730ad0653aa4db445619fcdd",
+    "new_sha": "4faea08c16bcd02da08f83dac7a5bce1c754fbbf",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-09-29T03:02:54Z",
@@ -348,6 +348,32 @@
           "title_raw": "RT @MegamiMAGAZINE: 【メガミマガジン11月号、9月30日（水）発売】",
           "title_slug": "rtmegamimagazineメガミマガジン1",
           "tweet_url": "https://x.com/i/status/2104724019916447807",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "ピースフル・ピーシーズ！",
+          "body_for_llm": "RT @DumbRock_ofc: 【ご案内】 (水)リリース 一家Dumb Rock! 1st Single 「ピースフル・ピーシーズ！」 初回生産分限定封入特典【BanG Dream! Our Notes「特典ステッカー交換チケット」シリアルコード】は、明日9/…",
+          "body_raw": "RT @DumbRock_ofc: 【ご案内】\n\n9/30(水)リリース\n一家Dumb Rock! 1st Single\n「ピースフル・ピーシーズ！」\n\n初回生産分限定封入特典【BanG Dream! Our Notes「特典ステッカー交換チケット」シリアルコード】は、明日9/…",
+          "category": "release",
+          "date": "2026-09-30",
+          "deadline": false,
+          "expires_at": "2026-09-30T15:00:00Z",
+          "first_seen": "2026-09-29T03:02:54Z",
+          "id": "2104768687207297073",
+          "last_updated": "2026-09-29T03:02:54Z",
+          "participants": null,
+          "seen_ids": [
+            "2104768687207297073"
+          ],
+          "site": "x",
+          "src_handle": "RT @DumbRock_ofc",
+          "time": null,
+          "title": "【ご案内】「ピースフル・ピーシーズ！」リリースのお知らせ",
+          "title_ko": "【안내】 \"피스풀 피시즈!\" 출시 안내",
+          "title_raw": "9/30(水)リリース",
+          "title_slug": "水リリース",
+          "tweet_url": "https://x.com/i/status/2104768687207297073",
           "url": null
         },
         {
