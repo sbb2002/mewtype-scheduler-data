@@ -111,3 +111,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-29T14:14:15Z", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-29T14:14:15Z", "via": "ingest", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-29T14:14:24Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-29T14:14:44Z", "who": "宮永ののか🐰🩹"}
