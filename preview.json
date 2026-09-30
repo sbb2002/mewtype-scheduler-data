@@ -63,35 +63,8 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T02:30:02Z",
+  "generated_at": "2026-09-30T04:12:48Z",
   "items": [
-    {
-      "actual_start": null,
-      "api_start_seen": "2026-09-30T13:30:00Z",
-      "assumed_live": false,
-      "channel_key": "ritsu",
-      "collab_with": null,
-      "concurrent_viewers": null,
-      "expires_at": "2026-09-30T16:30:00Z",
-      "first_seen": "2026-09-30T02:30:02Z",
-      "host": null,
-      "id": "pv_c5038dac",
-      "info_at": null,
-      "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-09-30T02:30:02Z",
-      "membership": false,
-      "scheduled_start": "2026-09-30T13:30:00Z",
-      "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-09-30T02:30:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/2nznMoF9BF0/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【メン限】りっちゃんズ集会🌸9月",
-      "title_ko": "【メン限】리쨩즈 모임🌸9월",
-      "url": "https://www.youtube.com/watch?v=2nznMoF9BF0",
-      "video_id": "2nznMoF9BF0"
-    },
     {
       "actual_start": null,
       "api_start_seen": "2026-09-30T14:00:00Z",
