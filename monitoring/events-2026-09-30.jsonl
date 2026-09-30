@@ -149,3 +149,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_5341b0b6", "result": "ok", "title": "【 #アワーノーツ 】初SSR！千石ユノさん引くぞ！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-09-30T13:10:00Z", "video_id": "1EYr6jzxHXY", "who": "yuno"}
 {"detail": "mode: yt-member-live upgraded", "flow": "relay", "result": "ok", "ts": "2026-09-30T13:26:25Z", "via": "ingest", "who": "yuno"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_2dfee7a8", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "live", "ts": "2026-09-30T13:26:25Z", "video_id": "gVvwM66gmlo", "who": "yuno"}
+{"detail": "회원 방송 시작 · yuno (upgraded)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-30T13:26:37Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: YUNO's+ 限定配信"}
