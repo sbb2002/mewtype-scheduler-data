@@ -61,3 +61,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T05:48:59Z", "who": "仲町あられ"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T05:49:04Z", "who": "仲町あられ"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T05:50:01Z", "who": ""}
+{"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-09-30T06:03:27Z", "via": "ingest", "who": ""}
