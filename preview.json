@@ -167,7 +167,6 @@
       "kind": null,
       "last_updated": "2026-09-30T16:20:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-05T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -175,7 +174,7 @@
       "thumbnail": "https://i.ytimg.com/vi/jURR8qAZIM0/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【8번 출구】 간사이 사투리 제한 8번 출구를 진행【峰月律/ゆめ미타】",
       "url": "https://www.youtube.com/watch?v=jURR8qAZIM0",
       "video_id": "jURR8qAZIM0"
     },
