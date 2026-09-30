@@ -164,3 +164,5 @@
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_3db3c40b", "result": "ok", "title": "【でかいぬしゅうかい】さむくなってきたよね# 24【宮永ののか/夢限大みゅーたいぷ】", "to_state": "none", "ts": "2026-09-30T14:00:00Z", "video_id": "KmfeeLN_BkI", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T14:14:03Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T14:14:12Z", "who": "仲町あられ"}
+{"candidates": 93, "detail": "candidates=93 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-30T14:30:00Z", "who": ""}
+{"assumed_live": false, "detail": "announced→watching", "flow": "preview", "from_state": "announced", "item_id": "pv_c493a2b0", "result": "ok", "title": null, "to_state": "watching", "ts": "2026-09-30T14:30:00Z", "video_id": null, "who": "arale"}
