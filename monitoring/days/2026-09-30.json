@@ -1,0 +1,1434 @@
+{
+  "backfillOnly": false,
+  "cmd": [
+    {
+      "cmd": "/edit",
+      "d": "/edit preview upcoming→none",
+      "derived": true,
+      "reply": "",
+      "t": "11:10",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/list",
+      "d": "/list",
+      "reply": "나카마치 아라레 (arale)",
+      "t": "13:11",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/del",
+      "d": "/del ritsu 1",
+      "reply": "#1 미네츠키 리츠의 2026/9/30 22:30~ 방송예고를 내리시겠습니까?",
+      "t": "13:12",
+      "tone": "ok"
+    },
+    {
+      "cmd": "(후속 입력)",
+      "d": "terminate",
+      "reply": "🗑 /del ritsu#1 반영됨. /undo 로 되돌릴 수 있습니다.",
+      "t": "13:12",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/list",
+      "d": "/list",
+      "reply": "나카마치 아라레 (arale)",
+      "t": "13:12",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/del",
+      "d": "/del ritsu 1",
+      "reply": "#1 미네츠키 리츠의 2026/9/30 23:00~ 방송예고를 내리시겠습니까?",
+      "t": "13:13",
+      "tone": "ok"
+    },
+    {
+      "cmd": "(후속 입력)",
+      "d": "terminate",
+      "reply": "🗑 /del ritsu#1 반영됨. /undo 로 되돌릴 수 있습니다.",
+      "t": "13:13",
+      "tone": "ok"
+    }
+  ],
+  "date": "2026-09-30",
+  "downRanges": [],
+  "eventCount": 203,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: updated",
+      "t": "10:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "12:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "12:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "12:22",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "12:35",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: recap",
+      "t": "13:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "13:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "13:15",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "13:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "15:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "18:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "19:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "t": "20:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "22:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "t": "22:06",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "13:20",
+          "s": "upcoming",
+          "to": "23:30"
+        },
+        {
+          "from": "23:30",
+          "s": "watching",
+          "to": "23:52"
+        },
+        {
+          "from": "23:52",
+          "s": "watching",
+          "to": "23:57"
+        },
+        {
+          "from": "23:57",
+          "s": "live",
+          "to": "01:15"
+        },
+        {
+          "from": "01:15",
+          "s": "end",
+          "to": "01:45"
+        },
+        {
+          "from": "01:45",
+          "s": "none",
+          "to": "01:48"
+        }
+      ],
+      "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "18:20",
+          "s": "upcoming",
+          "to": "20:27"
+        },
+        {
+          "from": "20:27",
+          "s": "watching",
+          "to": "20:33"
+        },
+        {
+          "from": "20:33",
+          "s": "live",
+          "to": "22:00"
+        },
+        {
+          "from": "22:00",
+          "s": "watching",
+          "to": "22:10"
+        },
+        {
+          "from": "22:10",
+          "s": "end",
+          "to": "22:26"
+        },
+        {
+          "from": "22:26",
+          "s": "live",
+          "to": "22:40"
+        },
+        {
+          "from": "22:40",
+          "s": "none",
+          "to": "23:35"
+        },
+        {
+          "from": "23:35",
+          "s": "end",
+          "to": "00:05"
+        },
+        {
+          "from": "00:05",
+          "s": "none",
+          "to": "00:08"
+        }
+      ],
+      "title": "YUNO's+ 限定配信"
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "s": "announced",
+          "to": "20:00"
+        },
+        {
+          "from": "20:00",
+          "s": "watching",
+          "to": "20:50"
+        },
+        {
+          "from": "20:50",
+          "s": "upcoming",
+          "to": "22:30"
+        },
+        {
+          "from": "22:30",
+          "s": "end",
+          "to": "23:00"
+        },
+        {
+          "from": "23:00",
+          "s": "none",
+          "to": "23:03"
+        }
+      ],
+      "title": "【でかいぬしゅうかい】さむくなってきたよね# 24【宮永ののか/夢限大みゅーたいぷ】"
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "s": "upcoming",
+          "to": "11:10"
+        },
+        {
+          "from": "11:10",
+          "s": "none",
+          "to": "11:30"
+        },
+        {
+          "from": "11:30",
+          "s": "upcoming",
+          "to": "13:12"
+        },
+        {
+          "from": "13:12",
+          "s": "none",
+          "to": "13:13"
+        },
+        {
+          "from": "13:13",
+          "s": "none",
+          "to": "01:20"
+        },
+        {
+          "from": "01:20",
+          "s": "upcoming",
+          "to": "30:00"
+        }
+      ],
+      "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】"
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "from": "10:40",
+          "s": "upcoming",
+          "to": "30:00"
+        }
+      ],
+      "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "t": "10:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:22",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "12:35",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "13:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "13:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "13:15",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "13:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "14:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "15:52",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 6건",
+      "t": "17:34",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "18:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "18:02",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "18:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:01",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:05",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "19:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: yt-member-live updated",
+      "t": "20:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:05",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 1건",
+      "t": "20:30",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "20:38",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "21:00",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "22:04",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "22:06",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: yt-member-live upgraded",
+      "t": "22:26",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "00:07",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "00:08",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "t": "01:22",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-09-30T21:10:06Z",
+  "ticks": [
+    {
+      "d": "candidates=92 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:40"
+    },
+    {
+      "d": "candidates=63 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "11:30"
+    },
+    {
+      "d": "candidates=19 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "13:20"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "14:50"
+    },
+    {
+      "d": "candidates=34 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "16:00"
+    },
+    {
+      "d": "candidates=92 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "16:50"
+    },
+    {
+      "d": "candidates=92 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "17:40"
+    },
+    {
+      "d": "candidates=92 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "18:20"
+    },
+    {
+      "d": "candidates=92 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:00"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:10"
+    },
+    {
+      "d": "candidates=93 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:10"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:27"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:33"
+    },
+    {
+      "d": "candidates=93 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:50"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:00"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:10"
+    },
+    {
+      "d": "candidates=10 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:27"
+    },
+    {
+      "d": "candidates=9 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:30"
+    },
+    {
+      "d": "candidates=94 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:30"
+    },
+    {
+      "d": "candidates=9 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:40"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:00"
+    },
+    {
+      "d": "candidates=93 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "23:30"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:35"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:45"
+    },
+    {
+      "d": "candidates=93 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "23:50"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:52"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:57"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:05"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:15"
+    },
+    {
+      "d": "candidates=92 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:20"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:45"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "11:10",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "12:22",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "12:55",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "14:31",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "14:48",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "14:48",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "14:48",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "16:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "16:12",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "16:42",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "18:22",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "18:28",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "18:39",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:41",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:45",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "19:57",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:03",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:36",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "21:34",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "22:35",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "22:49",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:14",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:43",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:46",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:59",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "01:10",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "01:13",
+      "tone": "ok",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "01:21",
+      "tone": "ok",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "10:03",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "10:04",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "11:10",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "11:34",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:02",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:02",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:03",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:23",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "12:23",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:36",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "12:56",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "13:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "13:00",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "13:15",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "13:30",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "14:01",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "14:31",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "14:48",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "14:48",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "14:49",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "15:03",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "15:30",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "15:52",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "16:12",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "16:12",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "16:42",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 6건",
+      "src": "x",
+      "t": "17:34",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "18:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "18:02",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "18:13",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "18:22",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "18:28",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "18:39",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "19:01",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "19:05",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "19:30",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:41",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:45",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:53",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "19:57",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "유튜브 tunein → 즉시 확인 예약",
+      "src": "yt",
+      "t": "20:00",
+      "tone": "ok",
+      "who": "【 #アワーノーツ 】初SSR！千石ユノさん引くぞ！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "20:03",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "회원 방송 시작 · nonoka (updated)",
+      "src": "yt",
+      "t": "20:05",
+      "tone": "ok",
+      "who": "宮永ののか -Miyanaga Nonoka- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【でかいぬしゅうかい】"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:05",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 1건",
+      "src": "x",
+      "t": "20:30",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "유튜브 reminder → 즉시 확인 예약",
+      "src": "yt",
+      "t": "20:33",
+      "tone": "ok",
+      "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "20:36",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:38",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "21:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "21:34",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "22:04",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "22:06",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "회원 방송 시작 · yuno (upgraded)",
+      "src": "yt",
+      "t": "22:26",
+      "tone": "ok",
+      "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: YUNO's+ 限定配信"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "22:35",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "22:50",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:14",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:43",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "23:46",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "유튜브 reminder → 즉시 확인 예약",
+      "src": "yt",
+      "t": "23:56",
+      "tone": "ok",
+      "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:59",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "00:07",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "00:08",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "01:11",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "01:13",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "01:21",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "01:22",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 0,
+    "production": 0,
+    "total": 0
+  }
+}
