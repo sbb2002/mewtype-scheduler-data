@@ -191,3 +191,5 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T16:11:04Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T16:13:22Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T16:13:30Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T16:15:00Z", "who": "NtfInDoarHs"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_52605b3b", "result": "ok", "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-09-30T16:15:00Z", "video_id": "NtfInDoarHs", "who": "arale"}
