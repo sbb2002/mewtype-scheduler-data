@@ -68,3 +68,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T06:30:37Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T06:52:21Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T06:52:24Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 34, "detail": "candidates=34 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T07:00:02Z", "who": ""}
