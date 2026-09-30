@@ -190,3 +190,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T16:10:54Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T16:11:04Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T16:13:22Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T16:13:30Z", "who": "宮永ののか🐰🩹"}
