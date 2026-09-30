@@ -26,11 +26,11 @@
     }
   ],
   "undo": {
-    "action": "본인 예고 센고쿠 유노 (〈配信のおしらせ〉\n9/30 20:30～ #バンドリ #アワーノーツ \n\n今日)",
-    "at": "2026-09-30T07:42:20Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-09-30T08:34:35Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f0c9388ac71e768e42b89f9eb6adc4edc591ab14",
+    "new_sha": "093660b1f30ab9847a350fb7a772610941624b09",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -97,7 +97,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-30T07:00:02Z",
+      "generated_at": "2026-09-30T07:42:20Z",
       "items": [
         {
           "actual_start": null,
@@ -239,6 +239,34 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "yuno",
+          "collab_with": [],
+          "concurrent_viewers": null,
+          "expires_at": "2026-09-30T14:30:00Z",
+          "first_seen": "2026-09-30T07:42:20Z",
+          "host": null,
+          "id": "pv_b64bec63",
+          "info_at": "2026-09-30T07:32:31Z",
+          "info_source": "personal",
+          "kind": "unknown",
+          "last_updated": "2026-09-30T07:42:20Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-09-30T11:30:00Z",
+          "source": "personal",
+          "state": "announced",
+          "state_since": "2026-09-30T07:42:20Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": "https://www.youtube.com/@yuno_yumemita",
+          "video_id": null
         },
         {
           "actual_start": null,
