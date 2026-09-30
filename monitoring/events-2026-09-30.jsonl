@@ -171,3 +171,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T14:43:03Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T14:43:23Z", "who": "仲町あられ"}
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T14:45:00Z", "who": "gVvwM66gmlo"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T14:46:20Z", "via": "ingest", "who": "miyako"}
