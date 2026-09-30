@@ -113,3 +113,4 @@
 {"detail": "유튜브 tunein → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-30T11:00:13Z", "who": "【 #アワーノーツ 】初SSR！千石ユノさん引くぞ！【 #千石ユノ / #バンドリ 】"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T11:03:12Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T11:03:26Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: yt-member-live updated", "flow": "relay", "result": "ok", "ts": "2026-09-30T11:04:49Z", "via": "ingest", "who": "nonoka"}
