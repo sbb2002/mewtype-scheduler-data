@@ -26,14 +26,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (10/1 18:00〜プレミア公開)",
-    "at": "2026-09-30T11:36:14Z",
+    "action": "소식 added (スターの表示不具合や通信障害などの、一連の不具合のお詫びとし)",
+    "at": "2026-09-30T13:04:14Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f499f2814031edd0b31d0ca0989bee7e5ba2072f",
+    "new_sha": "678d462b7b89d9464f8787cd0ad2eab438420d30",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-09-30T11:30:07Z",
+      "generated_at": "2026-09-30T11:36:14Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -358,6 +358,32 @@
           "title_slug": "水リリース",
           "tweet_url": "https://x.com/i/status/2104768687207297073",
           "url": null
+        },
+        {
+          "anchor_a": "si=zLM9iSk-ziTE7xXH",
+          "anchor_b": null,
+          "body_for_llm": "【告知】 〜プレミア公開 動画を投稿します🎶 今回は、ののちゃんクイズ‼ みなさんは、回答できるかな⁉😍 このエピソード夢？現実？クイズ【宮永ののか】#ゆめみた",
+          "body_raw": "【告知】\n\n10/1 18:00〜プレミア公開\n\n動画を投稿します🎶\n今回は、ののちゃんクイズ‼\nみなさんは、回答できるかな⁉😍\n\nこのエピソード夢？現実？クイズ【宮永ののか】#ゆめみた https://youtu.be/zh6vG0isdAE?si=zLM9iSk-ziTE7xXH",
+          "category": "live",
+          "date": "2026-10-01",
+          "deadline": false,
+          "expires_at": "2026-10-01T15:00:00Z",
+          "first_seen": "2026-09-30T11:36:14Z",
+          "id": "2105260421691437160",
+          "last_updated": "2026-09-30T11:36:14Z",
+          "participants": null,
+          "seen_ids": [
+            "2105260421691437160"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": "18:00",
+          "title": "プレミア公開 動画を投稿します〜ののちゃんクイズ",
+          "title_ko": "프리미어 공개 영상 게시합니다~노노짱 퀴즈",
+          "title_raw": "10/1 18:00〜プレミア公開",
+          "title_slug": "プレミア公開",
+          "tweet_url": "https://x.com/i/status/2105260421691437160",
+          "url": "https://youtu.be/zh6vG0isdAE?si=zLM9iSk-ziTE7xXH"
         },
         {
           "anchor_a": "dTqZ7duxoHY",
