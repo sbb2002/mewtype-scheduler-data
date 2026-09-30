@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:00:00Z",
+  "generated_at": "2026-09-30T15:05:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1660,6 +1660,34 @@
       "title_ko": "【でかいぬしゅうかい】추워지기 시작했지 않나요# 24【宮永ののか/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=KmfeeLN_BkI",
       "video_id": "KmfeeLN_BkI"
+    },
+    {
+      "actual_start": "2026-09-30T13:26:19Z",
+      "api_start_seen": "2026-09-30T13:25:00Z",
+      "archived_at": "2026-09-30T15:05:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-30T18:00:00Z",
+      "first_seen": "2026-09-30T08:34:35Z",
+      "host": null,
+      "id": "pv_2dfee7a8",
+      "info_at": "2026-09-30T08:34:35Z",
+      "info_source": "yt-notif",
+      "kind": "unknown",
+      "last_updated": "2026-09-30T15:05:00Z",
+      "membership": true,
+      "scheduled_start": "2026-09-30T13:25:00Z",
+      "source": "x-relay",
+      "state": "none",
+      "state_since": "2026-09-30T15:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/gVvwM66gmlo/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "YUNO's+ 限定配信",
+      "title_ko": "YUNO's+ 한정 배포",
+      "url": "https://www.youtube.com/watch?v=gVvwM66gmlo",
+      "video_id": "gVvwM66gmlo"
     }
   ]
 }
