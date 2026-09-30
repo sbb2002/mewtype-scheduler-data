@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:55:58Z",
+  "generated_at": "2026-09-30T05:31:00Z",
   "tweets": {
     "arale": [
       {
@@ -65,6 +65,18 @@
         "text": "本日！あと10分後から！\nゆめみた全体配信！ #ゆめみた交信中\nはじまります！✨️",
         "text_ko": "오늘! 10분 후부터!\n유메미타 전체 방송! #유메미타교신중\n시작됩니다! ✨️",
         "url": "https://x.com/i/status/2104916963210502632"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-01T05:31:00Z",
+        "handle": "arale_yumemita",
+        "id": "2105168132637851816",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-30T05:31:00Z",
+        "text": "人生初の、口内炎パッチ。\n\nさ、最高だ……！",
+        "text_ko": "인생 처음으로, 구내염 패치.\n\n자, 최고다……!",
+        "url": "https://x.com/i/status/2105168132637851816"
       }
     ],
     "miyako": [
