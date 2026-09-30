@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T13:30:00Z",
+  "generated_at": "2026-09-30T13:30:17Z",
   "items": [
     {
       "actual_start": "2026-09-30T13:26:19Z",
@@ -81,7 +81,6 @@
       "kind": "unknown",
       "last_updated": "2026-09-30T13:30:00Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-09-30T13:25:00Z",
       "source": "x-relay",
       "state": "live",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/gVvwM66gmlo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "YUNO's+ 限定配信",
-      "title_ko": null,
+      "title_ko": "YUNO's+ 한정 배포",
       "url": "https://www.youtube.com/watch?v=gVvwM66gmlo",
       "video_id": "gVvwM66gmlo"
     },
