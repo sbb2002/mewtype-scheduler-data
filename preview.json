@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T11:10:00Z",
+  "generated_at": "2026-09-30T11:10:05Z",
   "items": [
     {
       "actual_start": "2026-09-30T11:01:08Z",
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-30T11:10:00Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-09-30T11:00:00Z",
       "source": "personal",
       "state": "live",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/KmfeeLN_BkI/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【でかいぬしゅうかい】さむくなってきたよね# 24【宮永ののか/夢限大みゅーたいぷ】",
-      "title_ko": null,
+      "title_ko": "【でかいぬしゅうかい】추워지기 시작했지 않나요# 24【宮永ののか/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=KmfeeLN_BkI",
       "video_id": "KmfeeLN_BkI"
     },
