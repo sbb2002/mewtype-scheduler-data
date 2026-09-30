@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-30T09:20:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-30T11:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/1EYr6jzxHXY/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #アワーノーツ 】初SSR！千石ユノさん引くぞ！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #アワーノーツ 】초 SSR! 센고쿠 유노 씨 뽑는다!【 #센고쿠유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=1EYr6jzxHXY",
       "video_id": "1EYr6jzxHXY"
     },
