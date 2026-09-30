@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T14:45:00Z",
+  "generated_at": "2026-09-30T14:50:03Z",
   "items": [
     {
       "actual_start": null,
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-09-30T14:45:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-09-30T14:55:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/NtfInDoarHs/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡祝리릴리즈】얘기해줄게! 5thSG『이것은 우리들의 생존 개요』【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=NtfInDoarHs",
       "video_id": "NtfInDoarHs"
     },
