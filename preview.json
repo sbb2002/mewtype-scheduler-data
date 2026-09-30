@@ -135,7 +135,6 @@
       "kind": null,
       "last_updated": "2026-09-30T11:50:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-01T09:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -143,7 +142,7 @@
       "thumbnail": "https://i.ytimg.com/vi/zh6vG0isdAE/maxresdefault.jpg",
       "time_tbd": false,
       "title": "このエピソード夢？現実？クイズ【宮永ののか】#ゆめみた",
-      "title_ko": null,
+      "title_ko": "이 에피소드 꿈? 현실? 퀴즈【宮永ののか】#ゆめみた",
       "url": "https://www.youtube.com/watch?v=zh6vG0isdAE",
       "video_id": "zh6vG0isdAE"
     },
