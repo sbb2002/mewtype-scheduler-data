@@ -29,3 +29,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T03:55:58Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T03:56:07Z", "who": "峰月律"}
 {"detail": "mode: recap", "flow": "notice", "result": "ok", "ts": "2026-09-30T04:00:02Z", "via": "ingest", "who": ""}
+{"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-30T04:00:09Z", "via": "ingest", "who": ""}
