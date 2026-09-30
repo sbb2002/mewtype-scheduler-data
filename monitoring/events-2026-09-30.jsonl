@@ -129,3 +129,4 @@
 {"detail": "유튜브 reminder → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-30T11:33:15Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T11:36:14Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T11:36:33Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T11:38:06Z", "via": "ingest", "who": ""}
