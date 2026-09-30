@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T05:09:54Z",
+  "generated_at": "2026-09-30T05:48:35Z",
   "items": [
     {
       "actual_start": null,
@@ -232,6 +232,34 @@
       "title": null,
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
+      "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-30T15:00:00Z",
+      "first_seen": "2026-09-30T05:48:35Z",
+      "host": null,
+      "id": "pv_b333d420",
+      "info_at": "2026-09-30T05:36:51Z",
+      "info_source": "personal",
+      "kind": "unknown",
+      "last_updated": "2026-09-30T05:48:35Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-09-30T12:00:00Z",
+      "source": "personal",
+      "state": "announced",
+      "state_since": "2026-09-30T05:48:35Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@arale_yumemita",
       "video_id": null
     }
   ]
