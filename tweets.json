@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:14:03Z",
+  "generated_at": "2026-09-30T14:43:03Z",
   "tweets": {
     "arale": [
       {
@@ -107,6 +107,20 @@
         "text": "ごめんなさい！遅くなってます…💦\n走って帰るので、リリース記念日である0時前には始めたいです…！！よろしくお願いします…🙏",
         "text_ko": "죄송합니다! 늦어지고 있어요…💦\n뛰어서 돌아갈 테니, 릴리스 기념일인 0시 전에 시작하고 싶어요…!! 잘 부탁드립니다…🙏",
         "url": "https://x.com/i/status/2105300117284933788"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-01T14:43:03Z",
+        "handle": "arale_yumemita",
+        "id": "2105307419387805799",
+        "media": [
+          "https://pbs.twimg.com/media/HTeN74pbUAAFidJ.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-09-30T14:43:03Z",
+        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 9/30(水) 23:55〜┊#イ中田丁なう\n\n┊ 祝リリース ┊((間に合え))\n\n🔗 https://youtube.com/live/NtfInDoarHs",
+        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 9/30(수) 23:55〜┊#이중다정 나우\n\n┊ 축 출시 ┊((간에에)) \n\n🔗 https://youtube.com/live/NtfInDoarHs",
+        "url": "https://x.com/i/status/2105307419387805799"
       }
     ],
     "miyako": [
