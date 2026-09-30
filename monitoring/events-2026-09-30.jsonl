@@ -40,3 +40,4 @@
 {"detail": "terminate", "flow": "cmd", "reply": "🗑 /del ritsu#1 반영됨. /undo 로 되돌릴 수 있습니다.", "result": "ok", "ts": "2026-09-30T04:12:48Z", "who": "(후속 입력)"}
 {"detail": "/list", "flow": "cmd", "reply": "나카마치 아라레 (arale)", "result": "ok", "ts": "2026-09-30T04:12:59Z", "who": "/list"}
 {"detail": "/del ritsu 1", "flow": "cmd", "reply": "#1 미네츠키 리츠의 2026/9/30 23:00~ 방송예고를 내리시겠습니까?", "result": "ok", "ts": "2026-09-30T04:13:20Z", "who": "/del"}
+{"collab_with": null, "detail": "/del ritsu#1 · upcoming→none", "flow": "preview", "from_state": "upcoming", "id": "pv_cfb1f6fb", "result": "ok", "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】", "to_state": "none", "ts": "2026-09-30T04:13:30Z", "video_id": "jURR8qAZIM0", "who": "ritsu"}
