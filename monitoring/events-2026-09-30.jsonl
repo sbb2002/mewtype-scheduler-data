@@ -185,3 +185,4 @@
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_2dfee7a8", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "none", "ts": "2026-09-30T15:05:00Z", "video_id": "gVvwM66gmlo", "who": "yuno"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T15:07:38Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T15:07:42Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T15:08:12Z", "via": "ingest", "who": ""}
