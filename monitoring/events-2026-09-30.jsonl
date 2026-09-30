@@ -155,3 +155,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_3db3c40b", "result": "ok", "title": "【でかいぬしゅうかい】さむくなってきたよね# 24【宮永ののか/夢限大みゅーたいぷ】", "to_state": "end", "ts": "2026-09-30T13:30:00Z", "video_id": "KmfeeLN_BkI", "who": "nonoka"}
 {"candidates": 94, "detail": "candidates=94 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-30T13:30:17Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T13:35:46Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T13:35:59Z", "who": "宮永ののか🐰🩹"}
