@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:10:19Z",
+  "generated_at": "2026-09-30T13:40:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1604,6 +1604,34 @@
       "title_ko": "【メン限】리쨩즈 모임🌸9월",
       "url": "https://www.youtube.com/watch?v=2nznMoF9BF0",
       "video_id": "2nznMoF9BF0"
+    },
+    {
+      "actual_start": "2026-09-30T11:32:36Z",
+      "api_start_seen": "2026-09-30T11:30:00Z",
+      "archived_at": "2026-09-30T13:40:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 2034,
+      "expires_at": "2026-09-30T14:30:00Z",
+      "first_seen": "2026-09-30T09:20:01Z",
+      "host": null,
+      "id": "pv_5341b0b6",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-09-30T13:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-30T11:30:00Z",
+      "source": "api",
+      "state": "none",
+      "state_since": "2026-09-30T13:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/1EYr6jzxHXY/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【 #アワーノーツ 】初SSR！千石ユノさん引くぞ！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #アワーノーツ 】초 SSR! 센고쿠 유노 씨 뽑는다!【 #센고쿠유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=1EYr6jzxHXY",
+      "video_id": "1EYr6jzxHXY"
     }
   ]
 }
