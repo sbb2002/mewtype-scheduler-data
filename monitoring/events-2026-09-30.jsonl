@@ -193,3 +193,5 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T16:13:30Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T16:15:00Z", "who": "NtfInDoarHs"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_52605b3b", "result": "ok", "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-09-30T16:15:00Z", "video_id": "NtfInDoarHs", "who": "arale"}
+{"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-30T16:20:02Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_b9be6327", "result": "ok", "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-09-30T16:20:02Z", "video_id": "jURR8qAZIM0", "who": "ritsu"}
