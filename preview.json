@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T13:10:00Z",
+  "generated_at": "2026-09-30T13:26:25Z",
   "items": [
     {
       "actual_start": "2026-09-30T11:01:08Z",
@@ -93,7 +93,7 @@
       "video_id": "KmfeeLN_BkI"
     },
     {
-      "actual_start": null,
+      "actual_start": "2026-09-30T13:26:25Z",
       "api_start_seen": null,
       "assumed_live": false,
       "channel_key": "yuno",
@@ -104,21 +104,21 @@
       "host": null,
       "id": "pv_2dfee7a8",
       "info_at": "2026-09-30T08:34:35Z",
-      "info_source": "x-relay",
+      "info_source": "yt-notif",
       "kind": "unknown",
-      "last_updated": "2026-09-30T13:00:00Z",
+      "last_updated": "2026-09-30T13:26:25Z",
       "membership": true,
-      "needs_tl": false,
+      "needs_tl": true,
       "scheduled_start": "2026-09-30T13:00:00Z",
       "source": "x-relay",
-      "state": "watching",
-      "state_since": "2026-09-30T13:00:00Z",
+      "state": "live",
+      "state_since": "2026-09-30T13:26:25Z",
       "thumbnail": null,
       "time_tbd": false,
-      "title": null,
+      "title": "YUNO's+ 限定配信",
       "title_ko": null,
-      "url": null,
-      "video_id": null
+      "url": "https://www.youtube.com/watch?v=gVvwM66gmlo",
+      "video_id": "gVvwM66gmlo"
     },
     {
       "actual_start": null,
