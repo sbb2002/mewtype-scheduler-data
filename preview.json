@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T14:35:00Z",
+  "generated_at": "2026-09-30T14:43:03Z",
   "items": [
     {
       "actual_start": null,
@@ -315,6 +315,34 @@
       "title_ko": "YUNO's+ 한정 배포",
       "url": "https://www.youtube.com/watch?v=gVvwM66gmlo",
       "video_id": "gVvwM66gmlo"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-09-30T14:55:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-09-30T17:55:00Z",
+      "first_seen": "2026-09-30T14:43:03Z",
+      "host": null,
+      "id": "pv_52605b3b",
+      "info_at": "2026-09-30T14:43:03Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-30T14:43:03Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-09-30T14:55:00Z",
+      "source": "personal",
+      "state": "upcoming",
+      "state_since": "2026-09-30T14:43:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/NtfInDoarHs/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=NtfInDoarHs",
+      "video_id": "NtfInDoarHs"
     }
   ]
 }
