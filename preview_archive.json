@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:05:00Z",
+  "generated_at": "2026-09-30T16:45:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1688,6 +1688,34 @@
       "title_ko": "YUNO's+ 한정 배포",
       "url": "https://www.youtube.com/watch?v=gVvwM66gmlo",
       "video_id": "gVvwM66gmlo"
+    },
+    {
+      "actual_start": "2026-09-30T14:56:20Z",
+      "api_start_seen": "2026-09-30T14:55:00Z",
+      "archived_at": "2026-09-30T16:45:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 778,
+      "expires_at": "2026-09-30T17:55:00Z",
+      "first_seen": "2026-09-30T14:43:03Z",
+      "host": null,
+      "id": "pv_52605b3b",
+      "info_at": "2026-09-30T14:43:03Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-09-30T16:45:00Z",
+      "membership": false,
+      "scheduled_start": "2026-09-30T14:55:00Z",
+      "source": "personal",
+      "state": "none",
+      "state_since": "2026-09-30T16:45:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/NtfInDoarHs/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡祝리릴리즈】얘기해줄게! 5thSG『이것은 우리들의 생존 개요』【 仲町아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=NtfInDoarHs",
+      "video_id": "NtfInDoarHs"
     }
   ]
 }
