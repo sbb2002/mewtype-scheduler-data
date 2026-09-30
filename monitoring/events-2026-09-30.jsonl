@@ -124,3 +124,5 @@
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-30T11:30:07Z", "via": "ingest", "who": ""}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-09-30T11:30:07Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T11:30:35Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T11:33:00Z", "who": "1EYr6jzxHXY"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_5341b0b6", "result": "ok", "title": "【 #アワーノーツ 】初SSR！千石ユノさん引くぞ！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-09-30T11:33:00Z", "video_id": "1EYr6jzxHXY", "who": "yuno"}
