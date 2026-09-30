@@ -63,40 +63,8 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T04:20:01Z",
+  "generated_at": "2026-09-30T05:09:54Z",
   "items": [
-    {
-      "actual_start": null,
-      "api_start_seen": "2026-09-30T12:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": [
-        "yuno",
-        "nonoka",
-        "ritsu",
-        "miyako"
-      ],
-      "concurrent_viewers": null,
-      "expires_at": "2026-09-30T15:00:00Z",
-      "first_seen": "2026-09-30T04:20:01Z",
-      "host": "group",
-      "id": "pv_d2197df2",
-      "info_at": null,
-      "info_source": "api",
-      "kind": "collab",
-      "last_updated": "2026-09-30T04:20:01Z",
-      "membership": false,
-      "scheduled_start": "2026-09-30T12:00:00Z",
-      "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-09-30T04:20:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/ojgoIwE1fL0/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」リリース記念ムービー",
-      "title_ko": "무겐다이 뮤타입 5번째 싱글「これはぼくたちの生存のあらすじ」발매 기념 무비",
-      "url": "https://www.youtube.com/watch?v=ojgoIwE1fL0",
-      "video_id": "ojgoIwE1fL0"
-    },
     {
       "actual_start": null,
       "api_start_seen": "2026-10-01T11:00:00Z",
