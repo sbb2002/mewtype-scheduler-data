@@ -176,3 +176,4 @@
 {"candidates": 93, "detail": "candidates=93 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-30T14:50:03Z", "who": ""}
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T14:52:00Z", "who": "NtfInDoarHs"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_52605b3b", "result": "ok", "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-09-30T14:52:00Z", "video_id": "NtfInDoarHs", "who": "arale"}
+{"detail": "유튜브 reminder → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-30T14:56:33Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
