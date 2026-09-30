@@ -118,3 +118,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T11:05:06Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T11:05:12Z", "who": "バンドリ！アワーノーツ"}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T11:10:00Z", "who": "KmfeeLN_BkI"}
+{"candidates": 93, "detail": "candidates=93 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-09-30T11:10:05Z", "who": ""}
