@@ -169,3 +169,4 @@
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T14:35:00Z", "who": "gVvwM66gmlo"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_2dfee7a8", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "end", "ts": "2026-09-30T14:35:00Z", "video_id": "gVvwM66gmlo", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T14:43:03Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T14:43:23Z", "who": "仲町あられ"}
