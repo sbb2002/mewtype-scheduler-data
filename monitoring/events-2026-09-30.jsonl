@@ -181,3 +181,5 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_52605b3b", "result": "ok", "title": "【🟡祝リリース】お話するよ！5thSG『これはぼくたちの生存のあらすじ』【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-09-30T14:57:00Z", "video_id": "NtfInDoarHs", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-09-30T14:59:29Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T14:59:46Z", "who": "仲町あられ"}
+{"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-09-30T15:05:00Z", "who": "gVvwM66gmlo"}
+{"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_2dfee7a8", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "none", "ts": "2026-09-30T15:05:00Z", "video_id": "gVvwM66gmlo", "who": "yuno"}
