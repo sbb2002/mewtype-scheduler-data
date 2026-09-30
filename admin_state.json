@@ -26,11 +26,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 nonoka (KmfeeLN_BkI)",
-    "at": "2026-09-30T11:03:12Z",
+    "action": "회원 전용 라이브 nonoka (updated)",
+    "at": "2026-09-30T11:04:49Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "c7ddf208ccd164f8810b3438c97682160cc66f34",
+    "new_sha": "a3f4fe109673d51d807fbad1be07aba19c0269d0",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -97,7 +97,7 @@
           ]
         }
       },
-      "generated_at": "2026-09-30T11:00:00Z",
+      "generated_at": "2026-09-30T11:03:12Z",
       "items": [
         {
           "actual_start": null,
@@ -378,6 +378,34 @@
           "title_ko": null,
           "url": "https://www.youtube.com/@miyako_yumemita",
           "video_id": null
+        },
+        {
+          "actual_start": "2026-09-30T11:01:08Z",
+          "api_start_seen": "2026-09-30T11:00:00Z",
+          "assumed_live": false,
+          "channel_key": "nonoka",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-09-30T14:00:00Z",
+          "first_seen": "2026-09-30T11:03:12Z",
+          "host": null,
+          "id": "pv_3db3c40b",
+          "info_at": "2026-09-30T11:03:12Z",
+          "info_source": "personal",
+          "kind": null,
+          "last_updated": "2026-09-30T11:03:12Z",
+          "membership": false,
+          "needs_tl": true,
+          "scheduled_start": "2026-09-30T11:00:00Z",
+          "source": "personal",
+          "state": "live",
+          "state_since": "2026-09-30T11:03:12Z",
+          "thumbnail": "https://i.ytimg.com/vi/KmfeeLN_BkI/maxresdefault_live.jpg",
+          "time_tbd": false,
+          "title": "【でかいぬしゅうかい】さむくなってきたよね# 24【宮永ののか/夢限大みゅーたいぷ】",
+          "title_ko": null,
+          "url": "https://www.youtube.com/watch?v=KmfeeLN_BkI",
+          "video_id": "KmfeeLN_BkI"
         }
       ]
     }
