@@ -79,3 +79,4 @@
 {"detail": "mode: added · 파싱 6건", "flow": "relay", "result": "ok", "ts": "2026-09-30T08:34:35Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 6건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T08:34:42Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-09-30T08:40:01Z", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T09:00:07Z", "via": "ingest", "who": ""}
