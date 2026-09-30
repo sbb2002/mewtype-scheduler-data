@@ -44,3 +44,4 @@
 {"detail": "terminate", "flow": "cmd", "reply": "🗑 /del ritsu#1 반영됨. /undo 로 되돌릴 수 있습니다.", "result": "ok", "ts": "2026-09-30T04:13:30Z", "who": "(후속 입력)"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-09-30T04:15:02Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T04:15:02Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T04:15:15Z", "who": "バンドリ！アワーノーツ"}
