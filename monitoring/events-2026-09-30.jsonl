@@ -116,3 +116,4 @@
 {"detail": "mode: yt-member-live updated", "flow": "relay", "result": "ok", "ts": "2026-09-30T11:04:49Z", "via": "ingest", "who": "nonoka"}
 {"detail": "회원 방송 시작 · nonoka (updated)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-09-30T11:05:07Z", "who": "宮永ののか -Miyanaga Nonoka- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【でかいぬしゅうかい】"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-09-30T11:05:06Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-09-30T11:05:12Z", "who": "バンドリ！アワーノーツ"}
