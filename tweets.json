@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:10:54Z",
+  "generated_at": "2026-09-30T16:13:22Z",
   "tweets": {
     "arale": [
       {
@@ -290,6 +290,18 @@
         "text": "なつめ......すきさ........",
         "text_ko": "나츠메......좋아해........",
         "url": "https://x.com/i/status/2105329538431635541"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-01T16:13:22Z",
+        "handle": "nonoka_yumemita",
+        "id": "2105330164238618753",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-09-30T16:13:22Z",
+        "text": "蛍.....すきさ........",
+        "text_ko": "반딧불... 좋아해...",
+        "url": "https://x.com/i/status/2105330164238618753"
       }
     ],
     "ritsu": [
