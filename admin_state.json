@@ -26,11 +26,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-10-01T04:02:55Z",
+    "action": "본인 예고 미야나가 노노카 (／\n#アニメゆめみた🛸\nTOKYO MXほかにて週2回の再放送が決定🎉🎉\n＼)",
+    "at": "2026-10-01T07:04:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "d788fdc3e53f4e8f4e96a78fba3f63eba4fd4732",
+    "new_sha": "ffb15a24a6f191d7368a6052cad637b2da3eb657",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -97,7 +97,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-01T01:11:21Z",
+      "generated_at": "2026-10-01T04:02:55Z",
       "items": [
         {
           "actual_start": null,
@@ -145,7 +145,7 @@
           "info_at": "2026-09-24T09:06:24Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-09-30T16:45:00Z",
+          "last_updated": "2026-10-01T04:02:55Z",
           "membership": false,
           "scheduled_start": "2026-10-01T11:00:00Z",
           "source": "x-relay",
