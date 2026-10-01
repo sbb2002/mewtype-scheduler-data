@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:55:02Z",
+  "generated_at": "2026-10-01T10:59:01Z",
   "tweets": {
     "arale": [
       {
@@ -398,6 +398,24 @@
         "text": "🌟\n\n#ゆめみたラジオ 最終回でした！\nごらんいただけたかな？\n\nラジオ期間、ずっとたのしかったなあ....\nまたいつか、ラジオでお会いしましょう🌟",
         "text_ko": "🌟\n\n#ゆめみた라디오 마지막 회였습니다!\n보셨나요?\n\n라디오 기간 내내 정말 즐거웠어요....\n언젠가 라디오에서 다시 만나요🌟",
         "url": "https://x.com/i/status/2105589564526231927"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-02T10:59:01Z",
+        "handle": "nonoka_yumemita",
+        "id": "2105613437414096989",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HTg9sisbAAAEAxL.jpg"
+          ],
+          "text": "＼本日配信📢／\n\n⏰本日20:00～\n\n🛸#ゆめみた 東京公演 FINAL \nライブ映像 同時視聴生配信！🛸\n\n📺配信URL\nhttps://youtube.com/live/dTqZ7duxoHY\n\nゆめみた単独公演のライブ映像をお届け🎸✨\n\n#バンドリ",
+          "text_ko": "＼오늘 방송📢／\n\n⏰오늘 20:00～\n\n🛸#ゆめみた 도쿄 공연 FINAL \n라이브 영상 동시 시청 생방송!🛸\n\n📺방송 URL\nhttps://youtube.com/live/dTqZ7duxoHY\n\nゆめみた 단독 공연의 라이브 영상을 전합니다🎸✨\n\n#뱅드림"
+        },
+        "received_at": "2026-10-01T10:59:01Z",
+        "text": "もうすぐ20:00!!\n\nおたのしみに🎶",
+        "text_ko": "곧 20:00!! 기대해 주세요🎶",
+        "url": "https://x.com/i/status/2105613437414096989"
       }
     ],
     "ritsu": [
