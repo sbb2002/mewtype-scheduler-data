@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:58:45Z",
+  "generated_at": "2026-10-01T13:08:11Z",
   "tweets": {
     "arale": [
       {
@@ -447,6 +447,24 @@
         "text": "もうすぐ20:00!!\n\nおたのしみに🎶",
         "text_ko": "곧 20:00!! 기대해 주세요🎶",
         "url": "https://x.com/i/status/2105613437414096989"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-02T13:08:11Z",
+        "handle": "nonoka_yumemita",
+        "id": "2105643971037089924",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HTi7dpuaMAE9ztu.jpg"
+          ],
+          "text": "＼🌟ご視聴ありがとうございました🌟／\n\n🛸#ゆめみた 東京公演 FINAL \nライブ映像 同時視聴生配信！🛸\n\n10/11(日)に東京ガーデンシアターにて開催する\n 過去最大規模の単独ライブもお見逃しなく✨\n\n📺アーカイブはこちら\nhttps://youtube.com/live/dTqZ7duxoHY\n\n#ゆめみた交信中",
+          "text_ko": "＼🌟시청해 주셔서 감사합니다🌟／\n\n🛸#ゆめみた 도쿄 공연 FINAL\n라이브 영상 동시 시청 생중계!🛸\n\n10/11(일) 도쿄 가든 시어터에서 개최되는\n역대 최대 규모 단독 라이브도 놓치지 마세요✨\n\n📺아카이브는 여기\nhttps://youtube.com/live/dTqZ7duxoHY\n\n#ゆめみた교신중"
+        },
+        "received_at": "2026-10-01T13:08:11Z",
+        "text": "東京公演の同時視聴、たのしかった‼️😍\nバンドリ！13thライブに向けて、気持ちが🔥🔥🔥🔥🔥\n\nありがとうございました🎶",
+        "text_ko": "도쿄 공연을 동시에 시청했는데, 정말 즐거웠어요‼️😍\n뱅드림! 13번째 라이브를 앞두고, 마음이 🔥🔥🔥🔥🔥\n\n감사했습니다🎶",
+        "url": "https://x.com/i/status/2105643971037089924"
       }
     ],
     "ritsu": [
