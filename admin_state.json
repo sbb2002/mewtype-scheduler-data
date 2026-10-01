@@ -26,14 +26,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (アニメゆめみた🛸 TOKYO MXほかにて週2回の再放送が決)",
-    "at": "2026-10-01T01:49:04Z",
+    "action": "소식 updated (TVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SP)",
+    "at": "2026-10-01T03:26:08Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "ba2976df2a2820001937f5f539a65ba83edd8486",
+    "new_sha": "dc00563d24b895ada0658755aa7076e667d08de4",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-01T01:14:16Z",
+      "generated_at": "2026-10-01T01:49:04Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -194,6 +194,32 @@
           "title_raw": "「バンドリTVLIVE 2026」",
           "title_slug": "バンドリtvlive2026",
           "tweet_url": "https://x.com/i/status/2103424274824343842",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": null,
+          "body_for_llm": "／ #アニメゆめみた🛸 TOKYO MXほかにて週2回の再放送が決定🎉🎉 ＼ 📅 (木) より毎週木曜 TOKYO MXほかにて再放送がスタート🛸 さらに 📅 (月) より毎週月曜にも TOKYO MXにて再放送がスタート🛸🛸 なんと毎週木曜日＆月曜日、再放送が週2回！ #ゆめみた の世界にどっぷり浸かろう💫",
+          "body_raw": "／\n#アニメゆめみた🛸\nTOKYO MXほかにて週2回の再放送が決定🎉🎉\n＼\n\n📅10/1(木)23:00より毎週木曜\nTOKYO MXほかにて再放送がスタート🛸\n\nさらに\n📅10/5(月)19:00より毎週月曜にも\nTOKYO MXにて再放送がスタート🛸🛸\n\nなんと毎週木曜日＆月曜日、再放送が週2回！\n#ゆめみた の世界にどっぷり浸かろう💫",
+          "category": "etc",
+          "date": "2026-10-01",
+          "deadline": false,
+          "expires_at": "2026-10-01T15:00:00Z",
+          "first_seen": "2026-10-01T01:49:04Z",
+          "id": "2105474490021085201",
+          "last_updated": "2026-10-01T01:49:04Z",
+          "participants": null,
+          "seen_ids": [
+            "2105474490021085201"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "23:00",
+          "title": "アニメ『ゆめみた』がTOKYO MXで週2回再放送決定！",
+          "title_ko": "애니메이션 'ゆめみた'가 TOKYO MX에서 주 2회 재방송 결정!",
+          "title_raw": "アニメゆめみた🛸 TOKYO MXほかにて週2回の再放送が決定",
+          "title_slug": "アニメゆめみたtokyomxほかにて週2回の再放",
+          "tweet_url": "https://x.com/i/status/2105474490021085201",
           "url": null
         },
         {
