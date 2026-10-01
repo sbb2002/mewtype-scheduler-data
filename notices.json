@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:02:28Z",
+  "generated_at": "2026-10-01T08:17:22Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -551,6 +551,32 @@
       "title_raw": "『パルワールド オフィシャルカード…",
       "title_slug": "パルワールドオフィシャルカード",
       "tweet_url": "https://x.com/i/status/2104916862987571431",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": null,
+      "body_for_llm": "RT @bushi_creative: 📢 (土)秋葉原で開催┃入場無料 #ブシクリ10周年 イベント🏫 配布物情報‼ 夢限大みゅーたいぷ ゆめぬいの写真を使った #WS PRカードが登場✨ #ゆめみた のメンバーがぎゅっと集まったデザインが印象的👀 ぜひイベ…",
+      "body_raw": "RT @bushi_creative: 📢10/10(土)秋葉原で開催┃入場無料\n#ブシクリ10周年 イベント🏫\n  配布物情報‼\n\n夢限大みゅーたいぷ　ゆめぬいの写真を使った #WS PRカードが登場✨ \n#ゆめみた のメンバーがぎゅっと集まったデザインが印象的👀\n\nぜひイベ…",
+      "category": "etc",
+      "date": "2026-10-10",
+      "deadline": false,
+      "expires_at": "2026-10-10T15:00:00Z",
+      "first_seen": "2026-10-01T08:17:22Z",
+      "id": "2105572647342084478",
+      "last_updated": "2026-10-01T08:17:22Z",
+      "participants": null,
+      "seen_ids": [
+        "2105572647342084478"
+      ],
+      "site": "x",
+      "src_handle": "RT @bushi_creative",
+      "time": null,
+      "title": "秋葉原で開催　入場無料　ブシクリ10周年イベント配布物情報",
+      "title_ko": "아키하바라에서 개최, 입장 무료, 부시크리 10주년 이벤트 배포물 안내",
+      "title_raw": "RT @bushi_creative: 10/10(土)秋葉原で開催┃入場無料",
+      "title_slug": "rtbushicreative土秋葉原で開催入場",
+      "tweet_url": "https://x.com/i/status/2105572647342084478",
       "url": null
     },
     {
