@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T16:45:00Z",
+  "generated_at": "2026-10-01T01:11:21Z",
   "items": [
     {
       "actual_start": null,
@@ -271,18 +271,18 @@
       "first_seen": "2026-09-29T14:14:24Z",
       "host": null,
       "id": "pv_45bf18ca",
-      "info_at": "2026-09-29T14:12:34Z",
+      "info_at": "2026-10-01T01:11:16Z",
       "info_source": "personal",
       "kind": "game",
-      "last_updated": "2026-09-29T14:14:24Z",
+      "last_updated": "2026-10-01T01:11:21Z",
       "membership": false,
       "needs_tl": false,
-      "scheduled_start": "2026-10-11T00:00:00Z",
+      "scheduled_start": "2026-10-01T14:00:00Z",
       "source": "personal",
       "state": "announced",
       "state_since": "2026-09-29T14:14:24Z",
       "thumbnail": null,
-      "time_tbd": true,
+      "time_tbd": false,
       "title": null,
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
