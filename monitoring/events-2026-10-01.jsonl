@@ -119,3 +119,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T12:48:06Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T12:48:19Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T12:50:26Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T12:50:35Z", "who": "仲町あられ"}
