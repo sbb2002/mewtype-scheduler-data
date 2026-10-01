@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:50:26Z",
+  "generated_at": "2026-10-01T12:51:14Z",
   "tweets": {
     "arale": [
       {
@@ -295,6 +295,20 @@
         "text": "ことしも✨\n「アニメ・スタいしかわ 2026」\nゆめみた出演させていただきます♪\nと〜きんぐするぞ〜🐶💬",
         "text_ko": "올해도✨\n「애니·스타이시카와 2026」\n꿈꾸던 출연을 허락받았습니다♪\n자~킹 할 거야~🐶💬",
         "url": "https://x.com/i/status/2105640383879500183"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-10-02T12:51:14Z",
+        "handle": "miyako_yumemita",
+        "id": "2105641683140690090",
+        "media": [
+          "https://pbs.twimg.com/media/HTi98yqboAAjS5O.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-10-01T12:51:14Z",
+        "text": "かわいいおんなのこ\n＃アワーノーツ",
+        "text_ko": "귀여운 소녀\n#アワーノーツ",
+        "url": "https://x.com/i/status/2105641683140690090"
       }
     ],
     "nonoka": [
