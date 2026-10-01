@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:36:12Z",
+  "generated_at": "2026-10-01T08:49:45Z",
   "tweets": {
     "arale": [
       {
@@ -105,6 +105,20 @@
         "text": "ゆめみた出不精すぎるだろ……ｯｯ!!",
         "text_ko": "유메미는 너무 나가기 싫어……!!",
         "url": "https://x.com/i/status/2105535094798921869"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-02T08:49:45Z",
+        "handle": "arale_yumemita",
+        "id": "2105580908342599972",
+        "media": [
+          "https://pbs.twimg.com/media/HTiGrQcbIAApF9Z.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-10-01T08:49:45Z",
+        "text": "“夢(Virtual)と現実(Real)”\n\n現実ver.",
+        "text_ko": "“꿈(Virtual)과 현실(Real)”\n\n현실 버전.",
+        "url": "https://x.com/i/status/2105580908342599972"
       }
     ],
     "miyako": [
