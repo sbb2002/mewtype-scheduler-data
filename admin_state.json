@@ -26,14 +26,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (「アニメ・スタいしかわ 2026」)",
-    "at": "2026-10-01T08:02:28Z",
+    "action": "소식 added (RT @bushi_creative: 10/10(土)秋葉)",
+    "at": "2026-10-01T08:17:22Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "60967d34d0ed18e1953a680ac7d123a8a6d50844",
+    "new_sha": "0ab6e10e1dc6e4b187e30366e81bee706cf2e881",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-01T04:02:55Z",
+      "generated_at": "2026-10-01T08:02:28Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -793,6 +793,32 @@
           "title_slug": "集え輝け上腕二頭筋",
           "tweet_url": null,
           "url": "https://eplus.jp/yumemita_kinntorebu2026/"
+        },
+        {
+          "anchor_a": "event",
+          "anchor_b": "アニメ・スタいしかわ2026",
+          "body_for_llm": "＼🛸お知らせ📢／ (土)・29(日)開催 「アニメ・スタいしかわ 2026」 夢限大みゅーたいぷの出演が決定🎉 (日) より、 スペシャルトークショーを実施✨ 🔗お申込みはこちら #アニメスタいしかわ #バンドリ",
+          "body_raw": "＼🛸お知らせ📢／\n\n11/28(土)・29(日)開催\n「アニメ・スタいしかわ 2026」\n\n夢限大みゅーたいぷの出演が決定🎉\n\n11/29(日) 16:30より、\nスペシャルトークショーを実施✨\n\n🔗お申込みはこちら\nhttps://animest-ishikawa.com/event/\n\n#アニメスタいしかわ #バンドリ",
+          "category": "etc",
+          "date": "2026-11-28",
+          "deadline": false,
+          "expires_at": "2026-11-28T15:00:00Z",
+          "first_seen": "2026-10-01T08:02:28Z",
+          "id": "2105568407240544703",
+          "last_updated": "2026-10-01T08:02:28Z",
+          "participants": null,
+          "seen_ids": [
+            "2105568407240544703"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": "16:30",
+          "title": "アニメ・スタいしかわ 2026 夢限大みゅーたいぷ出演決定！スペシャルトークショー開催",
+          "title_ko": "애니메 스타이시카와 2026 무겐다이 뮤타입 출연 확정! 스페셜 토크쇼 개최",
+          "title_raw": "「アニメ・スタいしかわ 2026」",
+          "title_slug": "アニメ・スタいしかわ2026",
+          "tweet_url": "https://x.com/i/status/2105568407240544703",
+          "url": "https://animest-ishikawa.com/event/"
         },
         {
           "anchor_a": null,
