@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-01T13:08:11Z",
+  "generated_at": "2026-10-01T13:10:00Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-01T12:40:00Z",
+      "last_updated": "2026-10-01T13:10:00Z",
       "membership": false,
       "scheduled_start": "2026-10-03T06:00:00Z",
       "source": "api",
@@ -106,7 +106,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-01T12:40:00Z",
+      "last_updated": "2026-10-01T13:10:00Z",
       "membership": false,
       "scheduled_start": "2026-10-05T12:30:00Z",
       "source": "api",
@@ -133,7 +133,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-01T12:40:00Z",
+      "last_updated": "2026-10-01T13:10:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -161,7 +161,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-01T12:40:00Z",
+      "last_updated": "2026-10-01T13:10:00Z",
       "membership": false,
       "scheduled_start": "2027-08-16T14:59:00Z",
       "source": "api",
@@ -188,7 +188,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-01T12:40:00Z",
+      "last_updated": "2026-10-01T13:10:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -256,38 +256,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-10-01T10:58:59Z",
-      "api_start_seen": "2026-10-01T11:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": [
-        "yuno",
-        "nonoka",
-        "ritsu",
-        "miyako"
-      ],
-      "concurrent_viewers": 612,
-      "expires_at": "2026-09-24T12:06:24Z",
-      "first_seen": "2026-09-24T09:06:24Z",
-      "host": "group",
-      "id": "pv_5005b9d8",
-      "info_at": "2026-09-24T09:06:24Z",
-      "info_source": "x-relay",
-      "kind": "collab",
-      "last_updated": "2026-10-01T13:08:11Z",
-      "membership": false,
-      "scheduled_start": "2026-10-01T11:00:00Z",
-      "source": "x-relay",
-      "state": "end",
-      "state_since": "2026-10-01T12:40:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/dTqZ7duxoHY/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！",
-      "title_ko": "【뱅드림!】무겐다이 뮤타입 라이브 영상 동시 시청 생중계!",
-      "url": "https://www.youtube.com/watch?v=dTqZ7duxoHY",
-      "video_id": "dTqZ7duxoHY"
     }
   ]
 }
