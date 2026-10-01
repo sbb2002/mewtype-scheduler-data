@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:55:06Z",
+  "generated_at": "2026-10-01T10:00:09Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -137,21 +137,22 @@
     {
       "anchor_a": "dTqZ7duxoHY",
       "anchor_b": null,
-      "body_for_llm": "＼本日配信📢／ ⏰本日 〜 🛸#ゆめみた 東京公演 FINAL ライブ映像 同時視聴生配信！🛸 📺配信URL ゆめみた単独公演のライブ映像をお届け🎸✨ #バンドリ",
-      "body_raw": "＼本日配信📢／\n\n⏰本日20:00〜\n\n🛸#ゆめみた 東京公演 FINAL \nライブ映像 同時視聴生配信！🛸\n\n📺配信URL\nhttps://youtube.com/live/dTqZ7duxoHY\n\nゆめみた単独公演のライブ映像をお届け🎸✨\n\n#バンドリ",
+      "body_for_llm": "＼生配信まであと1⃣時間／ ⏰このあと 〜 🛸#ゆめみた 東京公演 FINAL ライブ映像 同時視聴生配信！🛸 📺配信URL 6月に開催された単独公演の ライブ映像をメンバーと同時視聴🎸✨ #ゆめみた交信中",
+      "body_raw": "＼生配信まであと1⃣時間／\n\n⏰このあと20:00〜\n\n🛸#ゆめみた 東京公演 FINAL \nライブ映像 同時視聴生配信！🛸\n\n📺配信URL\nhttps://youtube.com/live/dTqZ7duxoHY\n\n6月に開催された単独公演の\nライブ映像をメンバーと同時視聴🎸✨\n\n#ゆめみた交信中",
       "category": "live",
       "date": "2026-10-01",
       "deadline": false,
       "expires_at": "2026-10-01T15:00:00Z",
       "first_seen": "2026-09-24T09:06:24Z",
       "id": "2103046802341548366",
-      "last_updated": "2026-10-01T04:02:55Z",
+      "last_updated": "2026-10-01T10:00:09Z",
       "participants": null,
       "seen_ids": [
         "2103046802341548366",
         "2104931957478199385",
         "2105258863104790529",
-        "2105508002304491716"
+        "2105508002304491716",
+        "2105598608217157739"
       ],
       "site": "youtube",
       "src_handle": "@BDP_yumemita",
@@ -160,7 +161,7 @@
       "title_ko": "전체 생방송 결정! 유메미타 도쿄 공연 FINAL 라이브 영상 동시 시청 #뱅드림",
       "title_raw": "ゆめみた 東京公演 FINAL ライブ映像 同時視聴生配信",
       "title_slug": "ゆめみた東京公演finalライブ映像同時視聴生配",
-      "tweet_url": "https://x.com/i/status/2105508002304491716",
+      "tweet_url": "https://x.com/i/status/2105598608217157739",
       "url": "https://youtube.com/live/dTqZ7duxoHY"
     },
     {
