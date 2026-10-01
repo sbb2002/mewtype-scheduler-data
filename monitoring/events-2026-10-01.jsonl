@@ -20,3 +20,4 @@
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-01T04:02:55Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T04:03:31Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T05:39:43Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T05:39:57Z", "who": "仲町あられ"}
