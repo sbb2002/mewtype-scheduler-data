@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:40:00Z",
+  "generated_at": "2026-10-01T13:10:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1744,6 +1744,39 @@
       "title_ko": "이 에피소드 꿈? 현실? 퀴즈【宮永ののか】#ゆめみた",
       "url": "https://www.youtube.com/watch?v=zh6vG0isdAE",
       "video_id": "zh6vG0isdAE"
+    },
+    {
+      "actual_start": "2026-10-01T10:58:59Z",
+      "api_start_seen": "2026-10-01T11:00:00Z",
+      "archived_at": "2026-10-01T13:10:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [
+        "yuno",
+        "nonoka",
+        "ritsu",
+        "miyako"
+      ],
+      "concurrent_viewers": 612,
+      "expires_at": "2026-09-24T12:06:24Z",
+      "first_seen": "2026-09-24T09:06:24Z",
+      "host": "group",
+      "id": "pv_5005b9d8",
+      "info_at": "2026-09-24T09:06:24Z",
+      "info_source": "x-relay",
+      "kind": "collab",
+      "last_updated": "2026-10-01T13:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-01T11:00:00Z",
+      "source": "x-relay",
+      "state": "none",
+      "state_since": "2026-10-01T13:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/dTqZ7duxoHY/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！",
+      "title_ko": "【뱅드림!】무겐다이 뮤타입 라이브 영상 동시 시청 생중계!",
+      "url": "https://www.youtube.com/watch?v=dTqZ7duxoHY",
+      "video_id": "dTqZ7duxoHY"
     }
   ]
 }
