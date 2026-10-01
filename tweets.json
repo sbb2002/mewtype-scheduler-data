@@ -4,18 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-01T05:31:00Z",
-        "handle": "arale_yumemita",
-        "id": "2105168132637851816",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-30T05:31:00Z",
-        "text": "人生初の、口内炎パッチ。\n\nさ、最高だ……！",
-        "text_ko": "인생 처음으로, 구내염 패치.\n\n자, 최고다……!",
-        "url": "https://x.com/i/status/2105168132637851816"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-01T05:48:35Z",
         "handle": "arale_yumemita",
         "id": "2105168953874289087",
@@ -242,18 +230,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-10-01T03:22:45Z",
-        "handle": "nonoka_yumemita",
-        "id": "2105133708097589464",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-30T03:22:45Z",
-        "text": "20:00めんげん",
-        "text_ko": "20:00 면전",
-        "url": "https://x.com/i/status/2105133708097589464"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-10-01T10:57:07Z",
         "handle": "nonoka_yumemita",
         "id": "2105250576443515267",
@@ -331,37 +307,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-01T02:10:19Z",
-        "handle": "ritsu_yumemita",
-        "id": "2105115097702289787",
-        "media": [],
-        "quote": null,
-        "received_at": "2026-09-30T02:10:19Z",
-        "text": "今日の配信、諸事情によりお休みさせて頂きます…！\nスケジュールまた作ったら載せるね、ごめんね……！；；；",
-        "text_ko": "오늘 방송은 여러 사정으로 인해 쉬게 됩니다…!\n스케줄 다시 짜면 올릴게, 미안해……!；；；",
-        "url": "https://x.com/i/status/2105115097702289787"
-      },
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-01T03:55:58Z",
-        "handle": "ritsu_yumemita",
-        "id": "2105142837277000029",
-        "media": [],
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HTYj0F5aIAAVBYY.jpg",
-            "https://pbs.twimg.com/media/HTYj0F2bMAAAipF.jpg"
-          ],
-          "text": "【発表会情報】\n＼　 総合MC公開！！　 ／\n🍁ブシロードTCG戦略発表会2026 秋🍁\n\n🎤総合MC：\n🛸峰月 律（夢限大みゅーたいぷ）\n🛸千石 ユノ（夢限大みゅーたいぷ）\n📺配信待機所：https://youtube.com/live/iIrzY2DEiZ8\n🔗ホームページも公開されました！\nhttps://bushiroad.com/presentation2026autumn\n\n続報をお待ちください📣",
-          "text_ko": "【발표회 정보】\n＼　 종합 MC 공개!!　 ／\n🍁부시로드 TCG 전략 발표회 2026 가을🍁\n\n🎤종합 MC：\n🛸미네츠키 리츠(무겐다이 뮤타입)\n🛸센고쿠 유노(무겐다이 뮤타입)\n📺스트리밍 대기실：https://youtube.com/live/iIrzY2DEiZ8\n🔗홈페이지도 공개되었습니다!\nhttps://bushiroad.com/presentation2026autumn\n\n추가 소식을 기다려 주세요📣"
-        },
-        "received_at": "2026-09-30T03:55:58Z",
-        "text": "ブシロードTCG戦略発表会2026 秋\nにて、総合MCをさせて頂きます！\nよろしくお願いいたします！！！！\n楽しみな発表がたくさん……！！！！！！",
-        "text_ko": "부시로드 TCG 전략 발표회 2026 가을에서, 총괄 MC를 맡게 됩니다!  \n잘 부탁드립니다!!!!  \n기대되는 발표가 많이 있습니다……!!!!!!",
-        "url": "https://x.com/i/status/2105142837277000029"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-01T09:39:48Z",
