@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:00:06Z",
+  "generated_at": "2026-10-01T09:12:38Z",
   "tweets": {
     "arale": [
       {
@@ -346,6 +346,20 @@
         "text": "このあと18:00に動画投稿🎶\nプレミア公開もよろしくね🎶😆いっしょにみよう🎶",
         "text_ko": "이후 18:00에 영상 올릴게요🎶  \n프리미어 공개도 잘 부탁해요🎶😆 같이 보자🎶",
         "url": "https://x.com/i/status/2105576245438402571"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-02T09:12:38Z",
+        "handle": "nonoka_yumemita",
+        "id": "2105586667944100011",
+        "media": [
+          "https://pbs.twimg.com/card_img/2105259753068998656/uatiFP9S?format=jpg&name=800x419"
+        ],
+        "quote": null,
+        "received_at": "2026-10-01T09:12:38Z",
+        "text": "投稿しました🎶\nみんなは何問、クイズに正解できたかな❓😆\n\nこのエピソード夢？現実？クイズ【宮永ののか】#ゆめみた https://youtu.be/zh6vG0isdAE?si=l4-EI3tnx8UtsxvW",
+        "text_ko": "게시했습니다🎶\n여러분은 몇 문제를 맞혔나요❓😆\n\n이 에피소드 꿈? 현실? 퀴즈【宮永ののか】#ゆめみた https://youtu.be/zh6vG0isdAE?si=l4-EI3tnx8UtsxvW",
+        "url": "https://x.com/i/status/2105586667944100011"
       }
     ],
     "ritsu": [
