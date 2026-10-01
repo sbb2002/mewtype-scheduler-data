@@ -26,3 +26,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T05:51:44Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T05:52:07Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T05:51:44Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T05:52:14Z", "who": "仲町あられ"}
