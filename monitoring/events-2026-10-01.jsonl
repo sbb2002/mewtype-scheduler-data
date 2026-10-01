@@ -130,3 +130,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T13:08:45Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-01T13:10:00Z", "who": "dTqZ7duxoHY"}
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_5005b9d8", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！", "to_state": "none", "ts": "2026-10-01T13:10:00Z", "video_id": "dTqZ7duxoHY", "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T13:58:43Z", "via": "ingest", "who": "arale"}
