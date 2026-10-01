@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:49:04Z",
+  "generated_at": "2026-10-01T03:26:08Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -191,26 +191,27 @@
     {
       "anchor_a": null,
       "anchor_b": "バンドリ！ゆめ∞みた",
-      "body_for_llm": "@gokurakuyu_spa: (木)より TVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ #ばばんばばんばんばんドリーム 開催決定♨ 描き下ろしイラストを使用したグッズやメニュー販売の他、コラボ風呂や装飾など盛りだくさん✨ ▼くわしくはこちら👀 rakuspa.com/yumemita/ ＃バンドリ #アニメゆめみた pic.x.com/nr1I5jik82",
-      "body_raw": "@gokurakuyu_spa: 10/1(木)より\nTVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ\n#ばばんばばんばんばんドリーム 開催決定♨\n\n描き下ろしイラストを使用したグッズやメニュー販売の他、コラボ風呂や装飾など盛りだくさん✨\n\n▼くわしくはこちら👀\nrakuspa.com/yumemita/\n\n＃バンドリ　#アニメゆめみた pic.x.com/nr1I5jik82",
+      "body_for_llm": "RT @gokurakuyu_spa: (木)より TVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ #ばばんばばんばんばんドリーム 開催決定♨ 描き下ろしイラストを使用したグッズやメニュー販売の他、コラボ風呂や装飾など盛りだくさん✨ ▼くわし…",
+      "body_raw": "RT @gokurakuyu_spa: 10/1(木)より\nTVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ\n#ばばんばばんばんばんドリーム 開催決定♨\n\n描き下ろしイラストを使用したグッズやメニュー販売の他、コラボ風呂や装飾など盛りだくさん✨\n\n▼くわし…",
       "category": "release",
       "date": "2026-10-01",
       "deadline": false,
       "expires_at": "2026-10-01T15:00:00Z",
       "first_seen": "2026-09-10T15:00:00Z",
       "id": "2098050273273172111",
-      "last_updated": "2026-09-10T15:00:00Z",
+      "last_updated": "2026-10-01T03:26:08Z",
       "seen_ids": [
-        "2098050273273172111"
+        "2098050273273172111",
+        "2105499467940315144"
       ],
       "site": "x",
       "src_handle": "RT @gokurakuyu_spa",
       "time": null,
-      "title": "「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ開催決定",
+      "title": "TVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ",
       "title_ko": "뱅드림! 유메∞미타 × 극락탕 RAKU SPA 콜라보 개최 결정",
       "title_raw": "TVアニメ「バンドリ！ ゆめ∞みた」×極楽湯 RAKU SPAコラボ",
       "title_slug": "tvアニメバンドリゆめみた極楽湯rakuspaコ",
-      "tweet_url": "https://x.com/i/status/2098050273273172111",
+      "tweet_url": "https://x.com/i/status/2105499467940315144",
       "url": null
     },
     {
