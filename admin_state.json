@@ -27,10 +27,10 @@
   ],
   "undo": {
     "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-10-01T11:20:05Z",
+    "at": "2026-10-01T11:40:04Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "87b7a0cf52eb7f638d5338629b6808697eba5fdd",
+    "new_sha": "78663d68f28034b2f8280937820d06fee0a7ecca",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -97,7 +97,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-01T11:00:29Z",
+      "generated_at": "2026-10-01T11:20:05Z",
       "items": [
         {
           "actual_start": "2026-10-01T10:58:59Z",
@@ -118,7 +118,7 @@
           "info_at": "2026-09-24T09:06:24Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-10-01T11:00:29Z",
+          "last_updated": "2026-10-01T11:20:05Z",
           "membership": false,
           "scheduled_start": "2026-10-01T11:00:00Z",
           "source": "x-relay",
