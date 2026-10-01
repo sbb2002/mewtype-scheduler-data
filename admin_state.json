@@ -26,14 +26,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (コラボラベル缶発売記念)",
-    "at": "2026-10-01T09:55:06Z",
+    "action": "소식 updated (ゆめみた 東京公演 FINAL ライブ映像 同時視聴生配信)",
+    "at": "2026-10-01T10:00:09Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "4b12d00b3213ffdda750b616431ce28818817b63",
+    "new_sha": "8438527b5996009214a9dded01b34fdbe9a09656",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-01T08:17:22Z",
+      "generated_at": "2026-10-01T09:55:06Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -115,6 +115,32 @@
           "title_slug": "resonext",
           "tweet_url": "https://x.com/i/status/2101967170498371755",
           "url": "https://eplus.jp/yumemita-arale/"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "RT @TAGLIVELABEL: ／ BanG Dream! 13th☆LIVE DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 コラボラベル缶発売記念🛸 ＼ フォロー＆リポストキャンペーンを開催！ 夢限大みゅーたいぷコラボラベル缶コンプリートセ…",
+          "body_raw": "RT @TAGLIVELABEL: ／\nBanG   Dream! 13th☆LIVE\nDAY2:夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\nコラボラベル缶発売記念🛸\n＼\n\nフォロー＆リポストキャンペーンを開催！\n夢限大みゅーたいぷコラボラベル缶コンプリートセ…",
+          "category": "release",
+          "date": "2026-10-01",
+          "deadline": false,
+          "expires_at": "2026-10-01T15:00:00Z",
+          "first_seen": "2026-10-01T09:55:06Z",
+          "id": "2105597351952048496",
+          "last_updated": "2026-10-01T09:55:06Z",
+          "participants": null,
+          "seen_ids": [
+            "2105597351952048496"
+          ],
+          "site": "x",
+          "src_handle": "RT @TAGLIVELABEL",
+          "time": "02:00",
+          "title": "BanG Dream! 13th☆LIVE DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 コラボラベル缶発売記念キャンペーン開催！",
+          "title_ko": "BanG Dream! 13th☆LIVE DAY 무겐다이 뮤타입「DIMENSIONAL OVERLAP」 콜라보 라벨 캔 출시 기념 캠페인 진행！",
+          "title_raw": "コラボラベル缶発売記念",
+          "title_slug": "コラボラベル缶発売記念",
+          "tweet_url": "https://x.com/i/status/2105597351952048496",
+          "url": null
         },
         {
           "anchor_a": "si=zLM9iSk-ziTE7xXH",
