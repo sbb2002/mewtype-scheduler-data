@@ -126,3 +126,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T12:51:33Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T12:58:45Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T12:59:00Z", "who": "峰月律"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T13:08:11Z", "via": "ingest", "who": "nonoka"}
