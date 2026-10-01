@@ -26,11 +26,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-10-01T10:00:09Z",
+    "action": "URL 확정 예고 arale (dTqZ7duxoHY)",
+    "at": "2026-10-01T10:55:02Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "ac0f3e26c30101bcc7ccd030b52d31de72b173b8",
+    "new_sha": "36f312b69c45ca187f9bebd7bcea9be86d40f033",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -97,7 +97,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-01T09:40:00Z",
+      "generated_at": "2026-10-01T10:00:09Z",
       "items": [
         {
           "actual_start": null,
@@ -118,7 +118,7 @@
           "info_at": "2026-09-24T09:06:24Z",
           "info_source": "x-relay",
           "kind": "collab",
-          "last_updated": "2026-10-01T09:40:00Z",
+          "last_updated": "2026-10-01T10:00:09Z",
           "membership": false,
           "scheduled_start": "2026-10-01T11:00:00Z",
           "source": "x-relay",
