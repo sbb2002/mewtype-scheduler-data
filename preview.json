@@ -63,10 +63,10 @@
       ]
     }
   },
-  "generated_at": "2026-10-01T10:57:00Z",
+  "generated_at": "2026-10-01T10:59:01Z",
   "items": [
     {
-      "actual_start": null,
+      "actual_start": "2026-10-01T10:58:59Z",
       "api_start_seen": "2026-10-01T11:00:00Z",
       "assumed_live": false,
       "channel_key": "arale",
@@ -76,7 +76,7 @@
         "ritsu",
         "miyako"
       ],
-      "concurrent_viewers": null,
+      "concurrent_viewers": 612,
       "expires_at": "2026-09-24T12:06:24Z",
       "first_seen": "2026-09-24T09:06:24Z",
       "host": "group",
@@ -84,12 +84,12 @@
       "info_at": "2026-09-24T09:06:24Z",
       "info_source": "x-relay",
       "kind": "collab",
-      "last_updated": "2026-10-01T10:57:00Z",
+      "last_updated": "2026-10-01T10:59:01Z",
       "membership": false,
       "scheduled_start": "2026-10-01T11:00:00Z",
       "source": "x-relay",
-      "state": "watching",
-      "state_since": "2026-10-01T10:57:00Z",
+      "state": "live",
+      "state_since": "2026-10-01T10:59:01Z",
       "thumbnail": "https://i.ytimg.com/vi/dTqZ7duxoHY/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！",
