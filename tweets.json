@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T01:11:21Z",
+  "generated_at": "2026-10-01T05:39:43Z",
   "tweets": {
     "arale": [
       {
@@ -145,6 +145,20 @@
         "text": "配信ありがとう！\nいい湯だな……🛀✨️(お風呂ちゅ〜)",
         "text_ko": "방송 고마워!\n정말 좋은 물이네……🛀✨️(목욕 찌~)",
         "url": "https://x.com/i/status/2105332231531315262"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-02T05:39:43Z",
+        "handle": "arale_yumemita",
+        "id": "2105533072032846032",
+        "media": [
+          "https://pbs.twimg.com/media/HThbJUkaAAAHKEn.jpg"
+        ],
+        "quote": null,
+        "received_at": "2026-10-01T05:39:43Z",
+        "text": "おはようございます☀️ﾊｻﾞｽｯ\n\n#アワーノーツ …………230",
+        "text_ko": "좋은 아침입니다☀️ﾊｻﾞｽｯ\n\n#アワーノーツ …………230",
+        "url": "https://x.com/i/status/2105533072032846032"
       }
     ],
     "miyako": [
