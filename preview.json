@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-01T04:02:55Z",
+  "generated_at": "2026-10-01T07:04:06Z",
   "items": [
     {
       "actual_start": null,
@@ -286,6 +286,34 @@
       "title": null,
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
+      "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-01T17:00:00Z",
+      "first_seen": "2026-10-01T07:04:06Z",
+      "host": null,
+      "id": "pv_1c05bd87",
+      "info_at": "2026-10-01T07:04:01Z",
+      "info_source": "personal",
+      "kind": "unknown",
+      "last_updated": "2026-10-01T07:04:06Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-01T14:00:00Z",
+      "source": "personal",
+      "state": "announced",
+      "state_since": "2026-10-01T07:04:06Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@nonoka_yumemita",
       "video_id": null
     }
   ]
