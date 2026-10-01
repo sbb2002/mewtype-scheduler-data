@@ -55,3 +55,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T08:49:54Z", "who": "仲町あられ"}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-01T08:57:00Z", "who": "zh6vG0isdAE"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_272fdaa6", "result": "ok", "title": "このエピソード夢？現実？クイズ【宮永ののか】#ゆめみた", "to_state": "watching", "ts": "2026-10-01T08:57:00Z", "video_id": "zh6vG0isdAE", "who": "nonoka"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-01T09:00:03Z", "via": "ingest", "who": ""}
