@@ -100,3 +100,4 @@
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T11:00:36Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-01T11:20:05Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T11:20:23Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-01T11:40:04Z", "via": "ingest", "who": ""}
