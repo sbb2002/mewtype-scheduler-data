@@ -50,3 +50,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T08:36:12Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T08:36:20Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T08:36:12Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T08:36:36Z", "who": "宮永ののか🐰🩹"}
