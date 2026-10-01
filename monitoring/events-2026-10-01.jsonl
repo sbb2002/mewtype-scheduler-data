@@ -106,3 +106,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_5005b9d8", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ライブ映像 同時視聴生配信！", "to_state": "end", "ts": "2026-10-01T12:40:00Z", "video_id": "dTqZ7duxoHY", "who": "arale"}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-10-01T12:40:28Z", "via": "ingest", "who": ""}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-01T12:40:28Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T12:40:46Z", "who": "夢限大みゅーたいぷ"}
