@@ -44,3 +44,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-01T08:17:22Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-01T08:17:37Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "notice", "result": "ok", "ts": "2026-10-01T08:17:22Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-01T08:17:22Z", "via": "ingest", "who": ""}
