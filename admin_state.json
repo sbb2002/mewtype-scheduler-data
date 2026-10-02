@@ -26,14 +26,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (当日のグッズ販売情報を公開しました)",
+    "action": "소식 updated (グッズ販売情報を公開)",
     "at": "2026-10-02T08:08:21Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "14187c6cb29eda3c4407ef0562f564a44cf2e989",
+    "new_sha": "0f14a23af8dbcd6ad60aa0f1e9b6ce0f9a339522",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-02T03:00:20Z",
+      "generated_at": "2026-10-02T08:08:21Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -146,6 +146,32 @@
           "title_slug": "ゆめみた東京公演finalライブ映像同時視聴生配",
           "tweet_url": "https://x.com/i/status/2105638957698719884",
           "url": "https://youtube.com/live/dTqZ7duxoHY"
+        },
+        {
+          "anchor_a": "13th-live-day2",
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "＼ライブ情報／ 🛸#バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」🛸 ✨当日のグッズ販売情報を公開しました✨ また、チケットトレードの受付も決定💡 ▼詳細はこちら #バンドリ",
+          "body_raw": "＼ライブ情報／\n\n🛸#バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」🛸\n\n✨当日のグッズ販売情報を公開しました✨\n\nまた、チケットトレードの受付も決定💡\n\n▼詳細はこちら\nhttps://bang-dream.com/events/13th-live-day2/\n\n#バンドリ",
+          "category": "release",
+          "date": "2026-10-02",
+          "deadline": false,
+          "expires_at": "2026-10-02T15:00:00Z",
+          "first_seen": "2026-10-02T08:08:21Z",
+          "id": "2105932689073373638",
+          "last_updated": "2026-10-02T08:08:21Z",
+          "participants": null,
+          "seen_ids": [
+            "2105932689073373638"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": "02:00",
+          "title": "【ライブ情報】#バンドリ 13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」",
+          "title_ko": "【라이브 정보】#뱅드림 13th 라이브 DAY 무겐다이 뮤타입 「DIMENSIONAL OVERLAP」",
+          "title_raw": "当日のグッズ販売情報を公開しました",
+          "title_slug": "当日のグッズ販売情報を公開しました",
+          "tweet_url": "https://x.com/i/status/2105932689073373638",
+          "url": "https://bang-dream.com/events/13th-live-day2/"
         },
         {
           "anchor_a": null,
