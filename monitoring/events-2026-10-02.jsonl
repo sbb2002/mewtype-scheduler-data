@@ -30,3 +30,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-02T09:44:33Z", "who": "バンドリ！アワーノーツ"}
 {"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-02T09:50:02Z", "who": ""}
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-10-02T10:06:35Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-02T10:06:35Z", "via": "ingest", "who": ""}
