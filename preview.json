@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-02T13:20:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-02T13:00:00Z",
       "source": "api",
       "state": "live",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/6zfHh58QxL0/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #バイオ7 】強くなりたい強くなりたい何も失わないように【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #바이오7 】강해지고 싶어 강해지고 싶어 아무것도 잃지 않으려면【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=6zfHh58QxL0",
       "video_id": "6zfHh58QxL0"
     },
