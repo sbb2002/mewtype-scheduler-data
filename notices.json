@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:44:06Z",
+  "generated_at": "2026-10-02T10:06:35Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -844,27 +844,28 @@
     {
       "anchor_a": "nakamachiarale_live2026",
       "anchor_b": "resonext",
-      "body_for_llm": "＼チケット一般発売決定📢／ (木)開催 🎤NAKAMACHI ARALE LIVE 2026 「RESONEXT」🎤 ⏰受付期間 (土) 〜 ※先着順・上限数に達し次第終了 🔗詳細はこちら この機会をお見逃しなく✨ #バンドリ #ゆめみた",
-      "body_raw": "＼チケット一般発売決定📢／\n\n12/24(木)開催\n🎤NAKAMACHI ARALE LIVE 2026\n「RESONEXT」🎤\n\n⏰受付期間\n10/3(土) 12:00〜\n※先着順・上限数に達し次第終了\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/nakamachiarale_live2026/\n\nこの機会をお見逃しなく✨\n\n#バンドリ #ゆめみた",
+      "body_for_llm": "＼チケット一般発売 明日開始📢／ (木)開催 🎤NAKAMACHI ARALE LIVE 2026 「RESONEXT」🎤 ⏰受付期間 明日 (土) 〜 ※先着順・上限数に達し次第終了 🔗詳細はこちら この機会をお見逃しなく✨ #バンドリ #ゆめみた",
+      "body_raw": "＼チケット一般発売 明日開始📢／\n\n12/24(木)開催\n🎤NAKAMACHI ARALE LIVE 2026\n「RESONEXT」🎤\n\n⏰受付期間\n明日10/3(土) 12:00〜\n※先着順・上限数に達し次第終了\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/nakamachiarale_live2026/\n\nこの機会をお見逃しなく✨\n\n#バンドリ #ゆめみた",
       "category": "release",
       "date": "2026-12-24",
       "deadline": false,
       "expires_at": "2026-12-24T15:00:00Z",
       "first_seen": "2026-09-30T10:30:08Z",
       "id": "2105243763694244096",
-      "last_updated": "2026-09-30T10:30:08Z",
+      "last_updated": "2026-10-02T10:06:35Z",
       "participants": null,
       "seen_ids": [
-        "2105243763694244096"
+        "2105243763694244096",
+        "2105960991897080077"
       ],
       "site": "web",
       "src_handle": "@BDP_yumemita",
       "time": "12:00",
-      "title": "チケット一般発売決定！ NAKAMACHI ARALE LIVE 2026 「RESONEXT」",
+      "title": "チケット一般発売 明日開始",
       "title_ko": "티켓 일반 판매 결정! NAKAMACHI ARALE LIVE 2026 「RESONEXT」",
-      "title_raw": "チケット一般発売決定",
-      "title_slug": "チケット一般発売決定",
-      "tweet_url": "https://x.com/i/status/2105243763694244096",
+      "title_raw": "チケット一般発売 明日開始",
+      "title_slug": "チケット一般発売明日開始",
+      "tweet_url": "https://x.com/i/status/2105960991897080077",
       "url": "https://bang-dream.com/events/nakamachiarale_live2026/"
     },
     {
