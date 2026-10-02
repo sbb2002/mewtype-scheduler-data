@@ -26,11 +26,11 @@
     }
   ],
   "undo": {
-    "action": "소식 updated (「DIMENSIONAL OVERLAP」)",
-    "at": "2026-10-02T03:00:20Z",
+    "action": "소식 added (当日のグッズ販売情報を公開しました)",
+    "at": "2026-10-02T08:08:21Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "1fe27df75c5bdcb807050fad040576b99e0b38fb",
+    "new_sha": "14187c6cb29eda3c4407ef0562f564a44cf2e989",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-10-02T03:00:20Z",
@@ -487,28 +487,29 @@
         },
         {
           "anchor_a": null,
-          "anchor_b": "夢ノ結唱mewアルファー版",
-          "body_for_llm": "RT @yumenokessho: 🎉「夢ノ結唱 MEW アルファー版」体験会実施！ 🏟 イベント:BanG Dream! 13th☆LIVE DAY2 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 ⏰ 2026年 (日) 〜 …",
-          "body_raw": "RT @yumenokessho: 🎉「夢ノ結唱 MEW アルファー版」体験会実施！\n\n🏟 イベント:BanG Dream! 13th☆LIVE DAY2 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\n⏰ 2026年10月11日(日) 13:30〜16:30…",
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "📢 (日)開催！ BanG Dream! 13th☆LIVE DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」 本ライブ開催時にはログインした方全員に「スター×50」と、#アワーノーツ のプロフィールカードで使用できる「ライブロゴステッカー」をプレゼント✨ またライブ会場にお越しくださった方限定で、特別仕様のライブロゴステッカーがGET出来るシリアルコードの配布も決定✨ ▼ライブ詳細",
+          "body_raw": "📢10月11日(日)開催！\nBanG Dream! 13th☆LIVE\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」\n\n本ライブ開催時にはログインした方全員に「スター×50」と、#アワーノーツ のプロフィールカードで使用できる「ライブロゴステッカー」をプレゼント✨\n\nまたライブ会場にお越しくださった方限定で、特別仕様のライブロゴステッカーがGET出来るシリアルコードの配布も決定✨\n\n▼ライブ詳細",
           "category": "etc",
           "date": "2026-10-11",
           "deadline": false,
           "expires_at": "2026-10-11T15:00:00Z",
           "first_seen": "2026-09-10T12:18:02Z",
           "id": "2098018660086657040",
-          "last_updated": "2026-09-29T14:14:15Z",
+          "last_updated": "2026-10-02T03:00:20Z",
           "seen_ids": [
             "2098018660086657040",
-            "2104935720586756460"
+            "2104935720586756460",
+            "2105855344908153102"
           ],
           "site": "x",
-          "src_handle": "RT @yumenokessho",
-          "time": "13:30",
-          "title": "RT @yumenokessho: 「夢ノ結唱 MEW アルファー版」体験会実施",
+          "src_handle": "@BDP_yumemita",
+          "time": "02:00",
+          "title": "「DIMENSIONAL OVERLAP」",
           "title_ko": "뱅드림 13th 라이브 DAY 무겐다이 뮤타입 “DIMENSIONAL OVERLAP” 티켓 일반 판매 시작",
-          "title_raw": "RT @yumenokessho: 「夢ノ結唱 MEW アルファー版」体験会実施",
-          "title_slug": "rtyumenokessho夢ノ結唱mewアルフ",
-          "tweet_url": "https://x.com/i/status/2104935720586756460",
+          "title_raw": "「DIMENSIONAL OVERLAP」",
+          "title_slug": "dimensionaloverlap",
+          "tweet_url": "https://x.com/i/status/2105855344908153102",
           "url": null
         },
         {
