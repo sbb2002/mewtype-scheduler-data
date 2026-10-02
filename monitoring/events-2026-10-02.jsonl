@@ -54,3 +54,4 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_8147786c", "result": "ok", "title": "【 #バイオ7 】強くなりたい強くなりたい何も失わないように【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-02T13:20:02Z", "video_id": "6zfHh58QxL0", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-02T13:41:08Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-02T13:41:17Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-02T14:14:22Z", "via": "ingest", "who": "arale"}
