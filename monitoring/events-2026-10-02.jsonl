@@ -46,3 +46,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-02T13:00:28Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-02T13:00:47Z", "who": "藤都子"}
 {"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-02T13:04:30Z", "who": "【 #バイオ7 】強くなりたい強くなりたい何も失わないように【 #千石ユノ / #バンドリ 】"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-02T13:05:39Z", "via": "ingest", "who": ""}
