@@ -26,14 +26,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (現在「飲食店 NEW VISION」にて、都内を中心に40店)",
-    "at": "2026-10-02T09:44:06Z",
+    "action": "소식 updated (チケット一般発売 明日開始)",
+    "at": "2026-10-02T10:06:35Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f6e2e8c111cb8bc67dad01ac30e9a62c0bd4c9c6",
+    "new_sha": "909a57fd88728fa7f42b1e0b69e78da79b26e997",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-02T08:08:21Z",
+      "generated_at": "2026-10-02T09:44:06Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -615,6 +615,32 @@
           "title_raw": "「リリース記念！MyGO!!!!!ピックアップガチャ」「リリース記念！Ave Mujicaピックアップガチャ」について、開催期間を9月29日(火)23:59まで延長いたします。詳細",
           "title_slug": "リリース記念mygoピックアップガチャリリース記",
           "tweet_url": "https://x.com/i/status/2103409741242478741",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "飲食店newvision",
+          "body_for_llm": "📢CM放映中！ 現在「飲食店 NEW VISION」にて、都内を中心に40店舗以上の飲食店で #アワーノーツ のCMが放映中📺 📅放映期間 (日)まで ▼実施店舗はこちら",
+          "body_raw": "📢CM放映中！\n\n現在「飲食店 NEW VISION」にて、都内を中心に40店舗以上の飲食店で #アワーノーツ のCMが放映中📺\n\n📅放映期間\n10月25日(日)まで\n\n▼実施店舗はこちら",
+          "category": "etc",
+          "date": "2026-10-25",
+          "deadline": true,
+          "expires_at": "2026-10-25T15:00:00Z",
+          "first_seen": "2026-10-02T09:44:06Z",
+          "id": "2105953493320347952",
+          "last_updated": "2026-10-02T09:44:06Z",
+          "participants": null,
+          "seen_ids": [
+            "2105953493320347952"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "CM放映中！ #アワーノーツ が都内40店舗以上で放送中",
+          "title_ko": "CM 방영 중! #아워노츠가 도쿄 40개 이상 매장에서 방영 중",
+          "title_raw": "現在「飲食店 NEW VISION」にて、都内を中心に40店舗以上の飲食店で #アワーノーツ のCMが放映中",
+          "title_slug": "現在飲食店newvisionにて都内を中心に40",
+          "tweet_url": "https://x.com/i/status/2105953493320347952",
           "url": null
         },
         {
