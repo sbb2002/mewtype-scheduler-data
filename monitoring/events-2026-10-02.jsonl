@@ -52,3 +52,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-02T13:19:56Z", "who": "藤都子"}
 {"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-02T13:20:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_8147786c", "result": "ok", "title": "【 #バイオ7 】強くなりたい強くなりたい何も失わないように【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-02T13:20:02Z", "video_id": "6zfHh58QxL0", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-02T13:41:08Z", "via": "ingest", "who": "arale"}
