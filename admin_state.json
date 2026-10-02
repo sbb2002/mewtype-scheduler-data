@@ -26,11 +26,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
+    "action": "본인 예고 미네츠키 리츠 (10/5~10/12\n꒰ １週間 #りつの配信予定 🐻꒱   \n\n〜配信復活のミ)",
     "at": "2026-10-02T09:44:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "637a885a20474819624c1b8d0ac14deb8146481e",
+    "new_sha": "d3cbf771c64099e5841f5cfedf0cccc32d2dafe5",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -97,7 +97,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-01T14:00:00Z",
+      "generated_at": "2026-10-02T09:44:06Z",
       "items": [
         {
           "actual_start": null,
@@ -234,6 +234,34 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "yuno",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-10-02T16:00:00Z",
+          "first_seen": "2026-10-02T09:44:06Z",
+          "host": null,
+          "id": "pv_81d028d5",
+          "info_at": "2026-10-02T09:44:06Z",
+          "info_source": "x-relay",
+          "kind": "talk",
+          "last_updated": "2026-10-02T09:44:06Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-10-02T13:00:00Z",
+          "source": "x-relay",
+          "state": "announced",
+          "state_since": "2026-10-02T09:44:06Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": null,
+          "video_id": null
         },
         {
           "actual_start": null,
