@@ -1,2 +1,3 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-02T00:34:22Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-02T00:34:36Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-02T00:36:32Z", "via": "ingest", "who": "nonoka"}
