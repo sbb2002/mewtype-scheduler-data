@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 miyako (7sBzjBKAxFQ)",
-    "at": "2026-10-03T15:24:34Z",
+    "action": "admin 삭제 ritsu pv_b9be6327",
+    "at": "2026-10-03T15:31:37Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "5affb25921c5b1e0d244ee2e4f4342c35ad3b33c",
+    "new_sha": "12c9553d142efb728936053686c7ecb6289f1d21",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-03T12:06:13Z",
+      "generated_at": "2026-10-03T15:29:53Z",
       "items": [
         {
           "actual_start": null,
@@ -117,18 +117,19 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
+          "last_updated": "2026-10-03T15:29:53Z",
           "membership": false,
           "scheduled_start": "2026-10-05T12:30:00Z",
           "source": "api",
-          "state": "upcoming",
-          "state_since": "2026-09-30T16:20:02Z",
+          "state": "watching",
+          "state_since": "2026-10-03T15:29:53Z",
           "thumbnail": "https://i.ytimg.com/vi/jURR8qAZIM0/maxresdefault_live.jpg",
           "time_tbd": false,
           "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
           "title_ko": "【8번 출구】 간사이 사투리 제한 8번 출구를 진행【峰月律/ゆめ미타】",
           "url": "https://www.youtube.com/watch?v=jURR8qAZIM0",
-          "video_id": "jURR8qAZIM0"
+          "video_id": "jURR8qAZIM0",
+          "yt_tunein": true
         },
         {
           "actual_start": null,
@@ -144,7 +145,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
+          "last_updated": "2026-10-03T15:25:16Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -172,7 +173,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
+          "last_updated": "2026-10-03T15:25:16Z",
           "membership": false,
           "scheduled_start": "2027-08-16T14:59:00Z",
           "source": "api",
@@ -199,7 +200,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
+          "last_updated": "2026-10-03T15:25:16Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
