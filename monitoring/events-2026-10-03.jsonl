@@ -67,3 +67,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 다른 계정 글: 작성자 @arale_yumemita", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T15:24:17Z", "who": "%F1%EA%EF몢%AA%E9%AA%EC"}
 {"detail": "broadcast-change none · 글에 오늘(10/04) 방송이 없다고만 언급하고 있으며, 목록에 있는 12/24와 08/16 방송과는 관련된 내용이 없으므로 취소·변경이라고 판단할 근거가 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-03T15:24:34Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T15:24:45Z", "who": "仲町あられ"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-03T15:25:16Z", "who": ""}
