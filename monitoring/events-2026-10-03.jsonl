@@ -40,3 +40,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-03T10:35:00Z", "who": "7sBzjBKAxFQ"}
 {"assumed_live": false, "detail": "end→none", "flow": "preview", "from_state": "end", "item_id": "pv_d465a1a0", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】", "to_state": "none", "ts": "2026-10-03T10:35:00Z", "video_id": "7sBzjBKAxFQ", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T11:21:05Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T11:21:14Z", "who": "仲町あられ"}
