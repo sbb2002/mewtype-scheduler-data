@@ -42,3 +42,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T11:21:05Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T11:21:14Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T11:34:56Z", "via": "ingest", "who": "arale"}
+{"collab_with": null, "detail": "/edit preview announced→none", "flow": "preview", "from_state": "announced", "id": "pv_edd7280a", "result": "ok", "title": null, "to_state": "none", "ts": "2026-10-03T11:34:56Z", "video_id": null, "who": "arale"}
