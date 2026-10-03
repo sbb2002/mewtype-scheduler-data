@@ -6,6 +6,7 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-03T03:34:09Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T03:34:11Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-03T04:08:30Z", "via": "ingest", "who": ""}
+{"assumed_live": false, "detail": "[복원] 생성 →announced — 공식 일일 스케줄 22:00 예고(영상 없음). 생성 기록이 남지 않던 버그(v4.0.2 수정) 이전 기록이라 data 커밋 f4500885(first_seen)로 복원", "flow": "preview", "from_state": null, "item_id": "pv_edd7280a", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-03T04:08:30Z", "video_id": null, "who": "arale"}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T04:08:33Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T04:08:30Z", "via": "ingest", "who": "miyako"}
 {"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-10-03T04:08:30Z", "via": "ingest", "who": ""}
