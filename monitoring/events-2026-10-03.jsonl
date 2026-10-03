@@ -61,3 +61,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T14:01:07Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T14:12:16Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T14:12:24Z", "who": "藤都子"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-03T15:09:26Z", "via": "ingest", "who": ""}
