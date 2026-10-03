@@ -29,3 +29,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T09:27:07Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T09:27:16Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T09:29:16Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T09:29:25Z", "who": "峰月律"}
