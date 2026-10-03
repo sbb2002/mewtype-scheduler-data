@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-03T11:34:56Z",
+  "generated_at": "2026-10-03T11:40:02Z",
   "items": [
     {
       "actual_start": null,
@@ -83,7 +83,6 @@
       "kind": "collab",
       "last_updated": "2026-10-03T11:34:56Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-03T06:00:00Z",
       "source": "personal",
       "state": "upcoming",
@@ -91,7 +90,7 @@
       "thumbnail": "https://i.ytimg.com/vi/7sBzjBKAxFQ/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【零 ～濡鴉ノ巫女～】＃８ 눈을 떠보니 눈앞에 거대한 미녀 유령이 있었다. 【ゆめみた/藤都子】",
       "url": "https://www.youtube.com/watch?v=7sBzjBKAxFQ",
       "video_id": "7sBzjBKAxFQ"
     },
