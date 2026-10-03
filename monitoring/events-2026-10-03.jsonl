@@ -23,3 +23,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T06:15:44Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T07:41:14Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T07:41:27Z", "who": "峰月律"}
+{"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-10-03T09:00:07Z", "via": "ingest", "who": ""}
