@@ -55,3 +55,4 @@
 {"detail": "terminate", "flow": "cmd", "reply": "🗑 /del arale#1 반영됨. /undo 로 되돌릴 수 있습니다.", "result": "ok", "ts": "2026-10-03T12:06:13Z", "who": "(후속 입력)"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T13:44:53Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T13:45:05Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T13:58:04Z", "via": "ingest", "who": "miyako"}
