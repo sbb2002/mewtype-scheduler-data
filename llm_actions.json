@@ -18,6 +18,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_1f266a3e06",
+      "input": {
+        "channel_key": "arale",
+        "raw": "ほんでですね…………\nイ中民のみなさん、すみませんっっ！！💦\n\n本日の予定が確定する前に組んでいた配信予定でして……💦\n全然お家に間に合いません…😭\n\n明日も早い為、今日はおやすみです…！！\nずっと選考しておりアナウンスできなくてｺﾞﾒｰｰﾝｯｯ(^т  ̫ т^)💦🙏",
+        "tag": "p#https://x.com/#1tweet-2106347177538953466"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 방송을 쉬겠다는 사과와 일정 미확정을 알리는 내용이며, 제공된 방송 목록의 특정 ID와 연결되는 날짜·시간·제목 언급이 없으므로 취소나 변경으로 판단할 근거가 없습니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-03T15:29:25Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
