@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:41:14Z",
+  "generated_at": "2026-10-03T09:27:07Z",
   "tweets": {
     "arale": [
       {
@@ -125,6 +125,20 @@
         "text": "配信…はじまる❣👻",
         "text_ko": "배포…시작한다❣👻",
         "url": "https://x.com/i/status/2106263403924967590"
+      }
+    ],
+    "nonoka": [
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-04T09:27:07Z",
+        "handle": "nonoka_yumemita",
+        "id": "2106315063590363234",
+        "media": [],
+        "quote": null,
+        "received_at": "2026-10-03T09:27:07Z",
+        "text": "あらたしい発見をもらえた日だった😍",
+        "text_ko": "새로운 발견을 얻은 날이었다😍",
+        "url": "https://x.com/i/status/2106315063590363234"
       }
     ],
     "ritsu": [
