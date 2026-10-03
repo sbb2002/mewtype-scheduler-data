@@ -53,3 +53,4 @@
 {"detail": "/del preview arale 1", "flow": "cmd", "reply": "#1 나카마치 아라레의 2026/10/3 15:00~ 방송예고를 내리시겠습니까?", "result": "ok", "ts": "2026-10-03T12:06:03Z", "who": "/del"}
 {"collab_with": ["arale"], "detail": "/del arale#1 · upcoming→none", "flow": "preview", "from_state": "upcoming", "id": "pv_832b0f12", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】", "to_state": "none", "ts": "2026-10-03T12:06:13Z", "video_id": "7sBzjBKAxFQ", "who": "miyako"}
 {"detail": "terminate", "flow": "cmd", "reply": "🗑 /del arale#1 반영됨. /undo 로 되돌릴 수 있습니다.", "result": "ok", "ts": "2026-10-03T12:06:13Z", "who": "(후속 입력)"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T13:44:53Z", "via": "ingest", "who": "miyako"}
