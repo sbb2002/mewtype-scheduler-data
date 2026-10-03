@@ -70,3 +70,4 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-03T15:25:16Z", "who": ""}
 {"detail": "url-schedule skip: 이미 끝난 방송 7sBzjBKAxFQ", "flow": "tweet", "result": "ok", "ts": "2026-10-03T15:29:25Z", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 오늘 방송을 쉬겠다는 사과와 일정 미확정을 알리는 내용이며, 제공된 방송 목록의 특정 ID와 연결되는 날짜·시간·제목 언급이 없으므로 취소나 변경으로 판단할 근거가 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-03T15:29:25Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T15:29:35Z", "who": "仲町あられ"}
