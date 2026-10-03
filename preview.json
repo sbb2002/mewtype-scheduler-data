@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-03T12:06:13Z",
+  "generated_at": "2026-10-03T15:24:34Z",
   "items": [
     {
       "actual_start": null,
@@ -229,6 +229,34 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
       "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-10-03T06:00:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-03T09:00:00Z",
+      "first_seen": "2026-10-03T15:24:34Z",
+      "host": null,
+      "id": "pv_7ecc4854",
+      "info_at": "2026-10-03T15:24:34Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-10-03T15:24:34Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-03T06:00:00Z",
+      "source": "personal",
+      "state": "upcoming",
+      "state_since": "2026-10-03T15:24:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/7sBzjBKAxFQ/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=7sBzjBKAxFQ",
+      "video_id": "7sBzjBKAxFQ"
     }
   ]
 }
