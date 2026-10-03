@@ -72,3 +72,4 @@
 {"detail": "broadcast-change none · 게시물은 오늘 방송을 쉬겠다는 사과와 일정 미확정을 알리는 내용이며, 제공된 방송 목록의 특정 ID와 연결되는 날짜·시간·제목 언급이 없으므로 취소나 변경으로 판단할 근거가 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-03T15:29:25Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T15:29:35Z", "who": "仲町あられ"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-03T15:29:54Z", "who": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_b9be6327", "result": "ok", "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-03T15:29:53Z", "video_id": "jURR8qAZIM0", "who": "ritsu"}
