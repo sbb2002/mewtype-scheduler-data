@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-03T10:15:00Z",
+  "generated_at": "2026-10-03T10:35:00Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-03T10:15:00Z",
+      "last_updated": "2026-10-03T10:35:00Z",
       "membership": false,
       "scheduled_start": "2026-10-05T12:30:00Z",
       "source": "api",
@@ -106,7 +106,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-03T10:15:00Z",
+      "last_updated": "2026-10-03T10:35:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -134,7 +134,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-03T10:15:00Z",
+      "last_updated": "2026-10-03T10:35:00Z",
       "membership": false,
       "scheduled_start": "2027-08-16T14:59:00Z",
       "source": "api",
@@ -161,7 +161,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-03T10:15:00Z",
+      "last_updated": "2026-10-03T10:35:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -257,33 +257,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-10-03T06:00:17Z",
-      "api_start_seen": "2026-10-03T06:00:00Z",
-      "assumed_live": false,
-      "channel_key": "miyako",
-      "collab_with": null,
-      "concurrent_viewers": 457,
-      "expires_at": "2026-10-03T09:00:00Z",
-      "first_seen": "2026-09-30T01:40:01Z",
-      "host": null,
-      "id": "pv_d465a1a0",
-      "info_at": null,
-      "info_source": "api",
-      "kind": "game",
-      "last_updated": "2026-10-03T10:15:00Z",
-      "membership": false,
-      "scheduled_start": "2026-10-03T06:00:00Z",
-      "source": "api",
-      "state": "end",
-      "state_since": "2026-10-03T10:05:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/7sBzjBKAxFQ/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
-      "title_ko": "【零 ～濡鴉ノ巫女～】＃８ 눈을 뜨니 눈앞에 거대한 미녀 유령이 있었다. 【ゆめみた/藤都子】",
-      "url": "https://www.youtube.com/watch?v=7sBzjBKAxFQ",
-      "video_id": "7sBzjBKAxFQ"
     }
   ]
 }
