@@ -1,1 +1,2 @@
 {"detail": "mode: updated", "flow": "notice", "result": "ok", "ts": "2026-10-03T03:00:18Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-03T03:00:18Z", "via": "ingest", "who": ""}
