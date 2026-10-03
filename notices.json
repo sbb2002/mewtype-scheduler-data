@@ -59,27 +59,28 @@
     {
       "anchor_a": "yumemita-arale",
       "anchor_b": "resonext",
-      "body_for_llm": "＼プレイガイド先行受付 本日終了📢／ 🎤NAKAMACHI ARALE LIVE 2026 「RESONEXT」🎤 📅 (木) 📍大手町三井ホール ⏰受付期間:本日 まで 🎫お申し込みはこちら お見逃しなく✨ #バンドリ #ゆめみた",
-      "body_raw": "＼プレイガイド先行受付 本日終了📢／\n\n🎤NAKAMACHI ARALE LIVE 2026\n「RESONEXT」🎤\n\n📅12月24日(木)\n📍大手町三井ホール\n\n⏰受付期間:本日23:59まで\n\n🎫お申し込みはこちら\nhttps://eplus.jp/yumemita-arale/\n\nお見逃しなく✨\n\n#バンドリ #ゆめみた",
-      "category": "etc",
+      "body_for_llm": "＼チケット一般発売開始📢／ (木)開催 🎤NAKAMACHI ARALE LIVE 2026 「RESONEXT」🎤 🎫ご購入はこちら ※先着順・上限数に達し次第終了 開催までお楽しみに✨ #バンドリ #ゆめみた",
+      "body_raw": "＼チケット一般発売開始📢／\n\n12/24(木)開催\n🎤NAKAMACHI ARALE LIVE 2026\n「RESONEXT」🎤\n\n🎫ご購入はこちら\nhttps://eplus.jp/yumemita-arale/\n※先着順・上限数に達し次第終了\n\n開催までお楽しみに✨\n\n#バンドリ #ゆめみた",
+      "category": "release",
       "date": "2026-09-21",
       "deadline": true,
       "expires_at": "2026-12-24T15:00:00Z",
       "first_seen": "2026-09-10T07:22:36Z",
       "id": "nd9f0821858f4ac9",
-      "last_updated": "2026-09-21T09:30:48Z",
+      "last_updated": "2026-10-03T03:00:18Z",
       "seen_ids": [
         "nd9f0821858f4ac9",
-        "2101967170498371755"
+        "2101967170498371755",
+        "2106217694865379514"
       ],
       "site": "web",
       "src_handle": "@BDP_yumemita",
       "time": "23:59",
-      "title": "「RESONEXT」",
+      "title": "チケット一般発売開始",
       "title_ko": "NAKAMACHI ARALE LIVE 2026 「RESONEXT」",
-      "title_raw": "「RESONEXT」",
-      "title_slug": "resonext",
-      "tweet_url": "https://x.com/i/status/2101967170498371755",
+      "title_raw": "チケット一般発売開始",
+      "title_slug": "チケット一般発売開始",
+      "tweet_url": "https://x.com/i/status/2106217694865379514",
       "url": "https://eplus.jp/yumemita-arale/"
     },
     {
