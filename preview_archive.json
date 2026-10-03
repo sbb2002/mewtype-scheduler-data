@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:35:00Z",
+  "generated_at": "2026-10-03T11:34:56Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1833,6 +1833,35 @@
       "title_ko": "【零 ～濡鴉ノ巫女～】＃８ 눈을 뜨니 눈앞에 거대한 미녀 유령이 있었다. 【ゆめみた/藤都子】",
       "url": "https://www.youtube.com/watch?v=7sBzjBKAxFQ",
       "video_id": "7sBzjBKAxFQ"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "archived_at": "2026-10-03T11:34:56Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-03T16:00:00Z",
+      "first_seen": "2026-10-03T04:08:30Z",
+      "host": null,
+      "id": "pv_edd7280a",
+      "info_at": "2026-10-03T04:08:30Z",
+      "info_source": "x-relay",
+      "kind": "unknown",
+      "last_updated": "2026-10-03T11:34:56Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-03T13:00:00Z",
+      "source": "x-relay",
+      "state": "none",
+      "state_since": "2026-10-03T11:34:56Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     }
   ]
 }
