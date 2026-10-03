@@ -16,3 +16,4 @@
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_d465a1a0", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】", "to_state": "watching", "ts": "2026-10-03T05:57:00Z", "video_id": "7sBzjBKAxFQ", "who": "miyako"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-03T06:00:16Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T06:00:18Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "유튜브 sub_start → 즉시 확인 예약", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-03T06:00:58Z", "who": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"}
