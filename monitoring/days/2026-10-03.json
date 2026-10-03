@@ -1,0 +1,641 @@
+{
+  "backfillOnly": false,
+  "cmd": [
+    {
+      "cmd": "/edit",
+      "d": "/edit preview announced→none",
+      "derived": true,
+      "reply": "",
+      "t": "20:34",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/list",
+      "d": "/list",
+      "reply": "나카마치 아라레 (arale)",
+      "t": "21:05",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/del",
+      "d": "/del preview arale 1",
+      "reply": "#1 나카마치 아라레의 2026/10/3 15:00~ 방송예고를 내리시겠습니까?",
+      "t": "21:06",
+      "tone": "ok"
+    },
+    {
+      "cmd": "(후속 입력)",
+      "d": "terminate",
+      "reply": "🗑 /del arale#1 반영됨. /undo 로 되돌릴 수 있습니다.",
+      "t": "21:06",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용)",
+      "t": "00:41",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용)",
+      "t": "00:46",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)",
+      "t": "00:53",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)",
+      "t": "01:06",
+      "tone": "ok"
+    }
+  ],
+  "date": "2026-10-03",
+  "downRanges": [],
+  "eventCount": 72,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: updated",
+      "nid": null,
+      "t": "12:00",
+      "tone": "ok",
+      "ts": "2026-10-03T03:00:18Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "nid": null,
+      "t": "18:00",
+      "tone": "ok",
+      "ts": "2026-10-03T09:00:07Z",
+      "via": "ingest"
+    }
+  ],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "13:08",
+          "id": "pv_edd7280a",
+          "s": "announced",
+          "title": null,
+          "to": "20:34",
+          "vid": null
+        },
+        {
+          "from": "20:34",
+          "id": "pv_edd7280a",
+          "s": "none",
+          "title": null,
+          "to": "20:37",
+          "vid": null
+        }
+      ],
+      "title": null
+    },
+    {
+      "member": "yuno",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "id": "pv_d465a1a0",
+          "s": "upcoming",
+          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+          "to": "14:57",
+          "vid": "7sBzjBKAxFQ"
+        },
+        {
+          "from": "14:57",
+          "id": "pv_d465a1a0",
+          "s": "watching",
+          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+          "to": "15:03",
+          "vid": "7sBzjBKAxFQ"
+        },
+        {
+          "from": "15:03",
+          "id": "pv_d465a1a0",
+          "s": "live",
+          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+          "to": "19:05",
+          "vid": "7sBzjBKAxFQ"
+        },
+        {
+          "from": "19:05",
+          "id": "pv_d465a1a0",
+          "s": "end",
+          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+          "to": "19:35",
+          "vid": "7sBzjBKAxFQ"
+        },
+        {
+          "from": "19:35",
+          "id": "pv_d465a1a0",
+          "s": "none",
+          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+          "to": "21:06",
+          "vid": "7sBzjBKAxFQ"
+        },
+        {
+          "collab_with": [
+            "arale"
+          ],
+          "from": "21:06",
+          "id": "pv_832b0f12",
+          "s": "none",
+          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+          "to": "21:09",
+          "vid": "7sBzjBKAxFQ"
+        }
+      ],
+      "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:00",
+      "tone": "ok",
+      "ts": "2026-10-03T03:00:18Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:06",
+      "tone": "ok",
+      "ts": "2026-10-03T03:06:34Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:34",
+      "tone": "ok",
+      "ts": "2026-10-03T03:34:09Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "13:08",
+      "tone": "ok",
+      "ts": "2026-10-03T04:08:30Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 2건",
+      "nid": null,
+      "t": "13:08",
+      "tone": "ok",
+      "ts": "2026-10-03T04:08:30Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "15:00",
+      "tone": "ok",
+      "ts": "2026-10-03T06:00:16Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "18:00",
+      "tone": "ok",
+      "ts": "2026-10-03T09:00:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "20:52",
+      "tone": "ok",
+      "ts": "2026-10-03T11:52:26Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "00:09",
+      "tone": "ok",
+      "ts": "2026-10-03T15:09:26Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-10-03T21:10:05Z",
+  "ticks": [
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "14:57"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "15:03"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "19:05"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "19:15"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "19:35"
+    },
+    {
+      "d": "candidates=92 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:40"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "13:08",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T04:08:30Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "15:15",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T06:15:20Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "16:41",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T07:41:14Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "18:27",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T09:27:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "18:29",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T09:29:16Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "18:31",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T09:31:28Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:12",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T10:12:56Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "20:21",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T11:21:05Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "20:34",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T11:34:56Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "22:44",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T13:44:53Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "22:58",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T13:58:04Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:00",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T14:00:59Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:12",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T14:12:16Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "00:44",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-03T15:44:55Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · mode: none / 소식 · mode: updated",
+      "derived": true,
+      "src": "x",
+      "t": "12:00",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:06",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:34",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "13:08",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "13:08",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 스케줄 · 예고 2건",
+      "src": "x",
+      "t": "13:08",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "유튜브 tunein → 즉시 확인 예약",
+      "src": "yt",
+      "t": "14:31",
+      "tone": "ok",
+      "who": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "15:00",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "유튜브 sub_start → 즉시 확인 예약",
+      "src": "yt",
+      "t": "15:00",
+      "tone": "ok",
+      "who": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "15:15",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "16:41",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "18:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "18:27",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "18:29",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "18:31",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:13",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "20:21",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "20:35",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:52",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님)",
+      "src": "yt",
+      "t": "20:59",
+      "tone": "ok",
+      "who": "우이 성우와 우이 사도 스토리 더빙(기억X)"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "20:59",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "22:45",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "22:58",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:01",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "23:12",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "00:09",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "00:45",
+      "tone": "ok",
+      "who": "仲町あられ"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 6,
+    "production": 6,
+    "total": 12
+  }
+}
