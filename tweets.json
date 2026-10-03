@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:08:30Z",
+  "generated_at": "2026-10-03T06:15:20Z",
   "tweets": {
     "arale": [
       {
@@ -107,6 +107,24 @@
         "text": "こんにちわん🐶\n本日はおやつの時間から配信🎵\n\nいま、コントローラーの無線接続をがんばっています\nいつも勘で やっています",
         "text_ko": "안녕하와🐶\n오늘은 간식 시간부터 방송합니다🎵\n\n지금 컨트롤러 무선 연결을 열심히 하고 있어요\n항상 직감으로 하고 있습니다",
         "url": "https://x.com/i/status/2106232425852670193"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-10-04T06:15:20Z",
+        "handle": "miyako_yumemita",
+        "id": "2106263403924967590",
+        "media": [],
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HToOB3caYAA95Y5.jpg"
+          ],
+          "text": "💜配信よてい💜\n10/3（土）15:00〜ゲーム配信👻\n\n【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】 https://www.youtube.com/live/7sBzjBKAxFQ?si=NO8lac6MFyIxja8u \n\n夏だ！ホラゲだ！\nみやこの紙プレイをみよ❣️\n#みるみやこ",
+          "text_ko": "💜배송 일정💜\n10/3(토) 15:00~ 게임 배송👻\n\n【零 ～濡鴉ノ巫女～】＃８ 눈을 뜨니 눈앞에 거대한 미녀 유령이 있었다.【ゆめみた/藤都子】 https://www.youtube.com/live/7sBzjBKAxFQ?si=NO8lac6MFyIxja8u \n\n여름이다! 호러게임이다!\n미야코의 종이 플레이를 보라❣️\n#みるみやこ"
+        },
+        "received_at": "2026-10-03T06:15:20Z",
+        "text": "配信…はじまる❣👻",
+        "text_ko": "배포…시작한다❣👻",
+        "url": "https://x.com/i/status/2106263403924967590"
       }
     ],
     "ritsu": [
