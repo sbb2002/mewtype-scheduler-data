@@ -31,3 +31,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T09:29:16Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T09:29:25Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T09:31:28Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T09:31:37Z", "who": "峰月律"}
