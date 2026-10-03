@@ -68,3 +68,4 @@
 {"detail": "broadcast-change none · 글에 오늘(10/04) 방송이 없다고만 언급하고 있으며, 목록에 있는 12/24와 08/16 방송과는 관련된 내용이 없으므로 취소·변경이라고 판단할 근거가 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-03T15:24:34Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T15:24:45Z", "who": "仲町あられ"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-03T15:25:16Z", "who": ""}
+{"detail": "url-schedule skip: 이미 끝난 방송 7sBzjBKAxFQ", "flow": "tweet", "result": "ok", "ts": "2026-10-03T15:29:25Z", "via": "ingest", "who": "arale"}
