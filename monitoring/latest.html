@@ -159,7 +159,11 @@
   .tl-labels .row img{width:22px; height:22px; border-radius:5px; vertical-align:middle; background:var(--panel-2);
     border:1px solid var(--line-soft); padding:2px}
   .tl-scroll{position:relative; overflow-x:auto; overflow-y:hidden; flex:1; min-width:0;
-    touch-action:none; cursor:grab}
+    touch-action:none; cursor:grab;
+    /* (v4.0.3) 이동은 드래그 · 확대 버튼으로 한다 — 가로 스크롤바는 숨긴다(드래그 중 생겼다 사라지며 깜빡였다).
+       드래그가 텍스트 선택으로 번지지 않게(아래 x축 시각 라벨이 긁힌 것처럼 보였다) 선택도 막는다 */
+    scrollbar-width:none; -ms-overflow-style:none; user-select:none; -webkit-user-select:none}
+  .tl-scroll::-webkit-scrollbar{display:none}
   .tl-scroll.dragging{cursor:grabbing}
   .tl-scroll.locked{overflow:hidden; cursor:default}
   #tlSvg{display:block}
@@ -214,7 +218,12 @@
 
   .tooltip{position:fixed; background:#1c1e24; border:1px solid var(--line); border-radius:8px;
     padding:9px 11px; font-size:.76rem; pointer-events:auto; z-index:50; display:none;
-    box-shadow:0 8px 24px rgba(0,0,0,.45); max-width:280px}
+    box-shadow:0 8px 24px rgba(0,0,0,.45); max-width:340px}
+  /* (v4.0.4) 예고 · 소식 · 트윗 팝업 상세 — 링크는 클릭으로 고정한 팝업에서 연다 */
+  .tooltip .tt-kv{margin:2px 0; color:var(--ink); word-break:break-word; white-space:pre-wrap}
+  .tooltip .tt-kv > span{color:var(--muted); margin-right:4px}
+  .tooltip a.tt-link{color:#6cb4ff; word-break:break-all}
+  .tooltip .tt-hint{color:var(--muted); font-size:.68rem; margin-top:4px}
   .tooltip .tt-h{color:var(--muted); font:11px var(--mono); margin-bottom:5px}
   .tooltip .tt-title{font-size:.82rem; color:var(--ink); margin-bottom:3px; font-weight:600}
   .tooltip .tt-raw{font-family:var(--mono); font-size:.76rem; margin-bottom:3px}
@@ -344,7 +353,7 @@
 <div class="tooltip" id="tooltip"></div>
 
 <script>
-let REPORT = {"date": "2026-10-02", "monthly": false, "yearly": false, "all": true, "dates": ["2026-10-02"], "days": {"2026-10-02": {"ticks": [{"t": "18:50", "kind": "tick", "mode": "light", "ok": true, "quota": 2, "d": "candidates=92 preview_changed=True"}, {"t": "22:00", "kind": "tick", "mode": "light", "ok": true, "quota": 2, "d": "candidates=92 preview_changed=True"}, {"t": "22:20", "kind": "tick", "mode": "light", "ok": true, "quota": 2, "d": "candidates=92 preview_changed=True"}, {"t": "23:20", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=6 preview_changed=True"}, {"t": "23:35", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=6 preview_changed=True"}, {"t": "23:50", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=6 preview_changed=True"}], "ops": [], "notice": [{"t": "12:00", "tone": "ok", "d": "mode: updated", "via": "ingest"}, {"t": "17:08", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "17:08", "tone": "ok", "d": "mode: updated", "via": "ingest"}, {"t": "18:44", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "19:06", "tone": "ok", "d": "mode: updated", "via": "ingest"}], "relay": [{"t": "10:00", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "12:00", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "17:08", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "17:08", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "17:51", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "18:03", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "18:44", "tone": "ok", "d": "mode: added · 파싱 1건", "via": "ingest"}, {"t": "18:44", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "19:06", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "19:28", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "20:01", "tone": "ok", "d": "mode: none", "via": "ingest"}, {"t": "22:05", "tone": "ok", "d": "mode: none", "via": "ingest"}], "tweet": [{"t": "09:34", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "09:36", "member": "nonoka", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "09:37", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "16:03", "member": "yuno", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "18:44", "member": "ritsu", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "21:58", "member": "yuno", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "21:59", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "22:00", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "22:19", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "22:41", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest"}, {"t": "23:14", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest"}], "cmd": [], "upstream": [{"t": "09:34", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}, {"t": "09:34", "src": "x", "who": "arale", "tone": "ok", "d": "개인 트윗 · mode: added", "derived": true}, {"t": "09:36", "src": "x", "who": "宮永ののか🐰🩹", "tone": "ok", "d": "개인 트윗 · nonoka"}, {"t": "09:38", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}, {"t": "10:00", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "12:00", "src": "x", "who": "バンドリ！アワーノーツ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "16:03", "src": "x", "who": "千石ユノ", "tone": "ok", "d": "개인 트윗 · yuno"}, {"t": "17:08", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "17:08", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "17:51", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "18:04", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "18:44", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 스케줄 · 예고 1건"}, {"t": "18:44", "src": "x", "who": "峰月律", "tone": "ok", "d": "개인 트윗 · ritsu"}, {"t": "18:44", "src": "x", "who": "バンドリ！アワーノーツ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "19:06", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "19:28", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "20:01", "src": "x", "who": "バンドリ！アワーノーツ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "21:58", "src": "x", "who": "千石ユノ", "tone": "ok", "d": "개인 트윗 · yuno"}, {"t": "21:59", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "21:59", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "22:00", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "22:04", "src": "yt", "who": "【 #バイオ7 】強くなりたい強くなりたい何も失わないように【 #千石ユノ / #バンドリ 】", "tone": "ok", "d": "유튜브 sub_start → 즉시 확인 예약"}, {"t": "22:05", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "22:19", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "22:41", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}, {"t": "23:14", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}], "preview": [{"member": "arale", "title": null, "segs": []}, {"member": "yuno", "title": "【 #バイオ7 】強くなりたい強くなりたい何も失わないように【 #千石ユノ / #バンドリ 】", "segs": [{"s": "announced", "from": "06:00", "to": "22:00", "carried": true}, {"s": "watching", "from": "22:00", "to": "22:20"}, {"s": "live", "from": "22:20", "to": "23:20"}, {"s": "end", "from": "23:20", "to": "23:50"}, {"s": "none", "from": "23:50", "to": "23:53"}]}, {"member": "nonoka", "title": null, "segs": []}, {"member": "ritsu", "title": null, "segs": []}, {"member": "miyako", "title": null, "segs": []}], "downRanges": [], "vercelDeploys": {"total": 0, "production": 0, "preview": 0, "error": 0}, "eventCount": 63, "hasLog": true, "backfillOnly": false, "date": "2026-10-02", "snapshotAt": "2026-10-02T21:10:06Z"}}, "summary": {"2026-09-09": {"backfill_only": true, "events": 4}, "2026-09-10": {"backfill_only": true, "events": 58}, "2026-09-11": {"backfill_only": true, "events": 22}, "2026-09-12": {"backfill_only": true, "events": 35}, "2026-09-13": {"backfill_only": true, "events": 32}, "2026-09-14": {"backfill_only": true, "events": 14}, "2026-09-15": {"events": 223, "triggers": 212}, "2026-09-16": {"events": 520, "triggers": 497}, "2026-09-17": {"events": 330, "triggers": 174}, "2026-09-18": {"events": 339, "triggers": 183}, "2026-09-19": {"events": 64, "triggers": 46}, "2026-09-20": {"events": 102, "triggers": 77}, "2026-09-21": {"events": 73, "triggers": 55}, "2026-09-22": {"events": 77, "triggers": 52}, "2026-09-23": {"events": 107, "triggers": 54}, "2026-09-24": {"events": 181, "triggers": 85}, "2026-09-25": {"events": 213, "triggers": 103}, "2026-09-26": {"events": 155, "triggers": 84}, "2026-09-27": {"events": 73, "triggers": 43}, "2026-09-28": {"events": 50, "triggers": 26}, "2026-09-29": {"events": 132, "triggers": 64}, "2026-09-30": {"events": 203, "triggers": 97}, "2026-10-01": {"events": 142, "triggers": 70}, "2026-10-02": {"triggers": 32, "events": 63}}, "eventCount": 63};
+let REPORT = {"date": "2026-10-03", "monthly": false, "yearly": false, "all": true, "dates": ["2026-10-03"], "days": {"2026-10-03": {"ticks": [{"t": "14:57", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=5 preview_changed=True"}, {"t": "15:03", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=5 preview_changed=True"}, {"t": "19:05", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=5 preview_changed=True"}, {"t": "19:15", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=5 preview_changed=True"}, {"t": "19:35", "kind": "wake", "mode": "wake", "ok": true, "quota": 1, "d": "candidates=5 preview_changed=True"}, {"t": "20:40", "kind": "tick", "mode": "light", "ok": true, "quota": 2, "d": "candidates=92 preview_changed=True"}], "ops": [], "notice": [{"t": "12:00", "tone": "ok", "d": "mode: updated", "via": "ingest", "ts": "2026-10-03T03:00:18Z", "nid": null}, {"t": "18:00", "tone": "ok", "d": "mode: updated", "via": "ingest", "ts": "2026-10-03T09:00:07Z", "nid": null}], "relay": [{"t": "12:00", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T03:00:18Z", "nid": null}, {"t": "12:06", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T03:06:34Z", "nid": null}, {"t": "12:34", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T03:34:09Z", "nid": null}, {"t": "13:08", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T04:08:30Z", "nid": null}, {"t": "13:08", "tone": "ok", "d": "mode: added · 파싱 2건", "via": "ingest", "ts": "2026-10-03T04:08:30Z", "nid": null}, {"t": "15:00", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T06:00:16Z", "nid": null}, {"t": "18:00", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T09:00:07Z", "nid": null}, {"t": "20:52", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T11:52:26Z", "nid": null}, {"t": "00:09", "tone": "ok", "d": "mode: none", "via": "ingest", "ts": "2026-10-03T15:09:26Z", "nid": null}], "tweet": [{"t": "13:08", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T04:08:30Z", "tid": null}, {"t": "15:15", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T06:15:20Z", "tid": null}, {"t": "16:41", "member": "ritsu", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T07:41:14Z", "tid": null}, {"t": "18:27", "member": "nonoka", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T09:27:07Z", "tid": null}, {"t": "18:29", "member": "ritsu", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T09:29:16Z", "tid": null}, {"t": "18:31", "member": "ritsu", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T09:31:28Z", "tid": null}, {"t": "19:12", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T10:12:56Z", "tid": null}, {"t": "20:21", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T11:21:05Z", "tid": null}, {"t": "20:34", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T11:34:56Z", "tid": null}, {"t": "22:44", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T13:44:53Z", "tid": null}, {"t": "22:58", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T13:58:04Z", "tid": null}, {"t": "23:00", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T14:00:59Z", "tid": null}, {"t": "23:12", "member": "miyako", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T14:12:16Z", "tid": null}, {"t": "00:44", "member": "arale", "tone": "ok", "d": "mode: added", "via": "ingest", "ts": "2026-10-03T15:44:55Z", "tid": null}], "cmd": [{"t": "20:34", "cmd": "/edit", "tone": "ok", "d": "/edit preview announced→none", "reply": "", "derived": true}, {"t": "21:05", "cmd": "/list", "tone": "ok", "d": "/list", "reply": "나카마치 아라레 (arale)"}, {"t": "21:06", "cmd": "/del", "tone": "ok", "d": "/del preview arale 1", "reply": "#1 나카마치 아라레의 2026/10/3 15:00~ 방송예고를 내리시겠습니까?"}, {"t": "21:06", "cmd": "(후속 입력)", "tone": "ok", "d": "terminate", "reply": "🗑 /del arale#1 반영됨. /undo 로 되돌릴 수 있습니다."}, {"t": "00:41", "cmd": "/admin", "tone": "ok", "d": "/admin", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용)"}, {"t": "00:46", "cmd": "/admin", "tone": "ok", "d": "/admin", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용)"}, {"t": "00:53", "cmd": "/admin", "tone": "ok", "d": "/admin", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)"}, {"t": "01:06", "cmd": "/admin", "tone": "ok", "d": "/admin", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)"}], "upstream": [{"t": "12:00", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "12:00", "src": "x", "who": "", "tone": "ok", "d": "공식 스케줄 · mode: none / 소식 · mode: updated", "derived": true}, {"t": "12:06", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "12:34", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "13:08", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "13:08", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "13:08", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 스케줄 · 예고 2건"}, {"t": "14:31", "src": "yt", "who": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】", "tone": "ok", "d": "유튜브 tunein → 즉시 확인 예약"}, {"t": "15:00", "src": "x", "who": "バンドリ！アワーノーツ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "15:00", "src": "yt", "who": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】", "tone": "ok", "d": "유튜브 sub_start → 즉시 확인 예약"}, {"t": "15:15", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "16:41", "src": "x", "who": "峰月律", "tone": "ok", "d": "개인 트윗 · ritsu"}, {"t": "18:00", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "18:27", "src": "x", "who": "宮永ののか🐰🩹", "tone": "ok", "d": "개인 트윗 · nonoka"}, {"t": "18:29", "src": "x", "who": "峰月律", "tone": "ok", "d": "개인 트윗 · ritsu"}, {"t": "18:31", "src": "x", "who": "峰月律", "tone": "ok", "d": "개인 트윗 · ritsu"}, {"t": "19:13", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "20:21", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}, {"t": "20:35", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}, {"t": "20:52", "src": "x", "who": "夢限大みゅーたいぷ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "20:59", "src": "yt", "who": "우이 성우와 우이 사도 스토리 더빙(기억X)", "tone": "ok", "d": "무시(반영 대상 아님)"}, {"t": "20:59", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}, {"t": "22:45", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "22:58", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "23:01", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}, {"t": "23:12", "src": "x", "who": "藤都子", "tone": "ok", "d": "개인 트윗 · miyako"}, {"t": "00:09", "src": "x", "who": "バンドリ！アワーノーツ", "tone": "ok", "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)"}, {"t": "00:45", "src": "x", "who": "仲町あられ", "tone": "ok", "d": "개인 트윗 · arale"}], "preview": [{"member": "arale", "title": null, "segs": [{"s": "announced", "from": "13:08", "to": "20:34", "id": "pv_edd7280a", "vid": null, "title": null}, {"s": "none", "from": "20:34", "to": "20:37", "id": "pv_edd7280a", "vid": null, "title": null}]}, {"member": "yuno", "title": null, "segs": []}, {"member": "nonoka", "title": null, "segs": []}, {"member": "ritsu", "title": null, "segs": []}, {"member": "miyako", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】", "segs": [{"s": "upcoming", "from": "06:00", "to": "14:57", "carried": true, "id": "pv_d465a1a0", "vid": "7sBzjBKAxFQ", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"}, {"s": "watching", "from": "14:57", "to": "15:03", "id": "pv_d465a1a0", "vid": "7sBzjBKAxFQ", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"}, {"s": "live", "from": "15:03", "to": "19:05", "id": "pv_d465a1a0", "vid": "7sBzjBKAxFQ", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"}, {"s": "end", "from": "19:05", "to": "19:35", "id": "pv_d465a1a0", "vid": "7sBzjBKAxFQ", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"}, {"s": "none", "from": "19:35", "to": "21:06", "id": "pv_d465a1a0", "vid": "7sBzjBKAxFQ", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】"}, {"s": "none", "from": "21:06", "to": "21:09", "id": "pv_832b0f12", "vid": "7sBzjBKAxFQ", "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】", "collab_with": ["arale"]}]}], "nowHm": null, "downRanges": [], "vercelDeploys": {"total": 12, "production": 6, "preview": 6, "error": 0}, "eventCount": 72, "hasLog": true, "backfillOnly": false, "date": "2026-10-03", "snapshotAt": "2026-10-03T21:10:05Z"}}, "summary": {"2026-09-09": {"backfill_only": true, "events": 4}, "2026-09-10": {"backfill_only": true, "events": 58}, "2026-09-11": {"backfill_only": true, "events": 22}, "2026-09-12": {"backfill_only": true, "events": 35}, "2026-09-13": {"backfill_only": true, "events": 32}, "2026-09-14": {"backfill_only": true, "events": 14}, "2026-09-15": {"events": 223, "triggers": 212}, "2026-09-16": {"events": 520, "triggers": 497}, "2026-09-17": {"events": 330, "triggers": 174}, "2026-09-18": {"events": 339, "triggers": 183}, "2026-09-19": {"events": 64, "triggers": 46}, "2026-09-20": {"events": 102, "triggers": 77}, "2026-09-21": {"events": 73, "triggers": 55}, "2026-09-22": {"events": 77, "triggers": 52}, "2026-09-23": {"events": 107, "triggers": 54}, "2026-09-24": {"events": 181, "triggers": 85}, "2026-09-25": {"events": 213, "triggers": 103}, "2026-09-26": {"events": 155, "triggers": 84}, "2026-09-27": {"events": 73, "triggers": 43}, "2026-09-28": {"events": 50, "triggers": 26}, "2026-09-29": {"events": 132, "triggers": 64}, "2026-09-30": {"events": 203, "triggers": 97}, "2026-10-01": {"events": 142, "triggers": 70}, "2026-10-02": {"events": 63, "triggers": 32}, "2026-10-03": {"triggers": 34, "events": 72}}, "eventCount": 72, "runMark": true};
 const SELF_ORIGIN = "";
 
 const STATE = {
@@ -353,7 +362,9 @@ const STATE = {
   watching: { label:"대기(watching)",   color:"var(--st-watching)" },
   live:     { label:"방송 중(live)",    color:"var(--st-live)" },
   end:      { label:"방송 종료(end)",   color:"var(--st-end)" },
-  none:     { label:"사라짐(none)",     color:"var(--st-none)" },
+  // (v4.0.2) 현행 용어 out(docs/TERMINOLOGY.md — v4a D7). 옛 로그의 none 은 같은 뜻이라 같은 이름으로 보인다.
+  out:      { label:"사라짐(out)",      color:"var(--st-none)" },
+  none:     { label:"사라짐(out)",      color:"var(--st-none)" },
 };
 // (v3.8.4 item 9) sg.s 가 비어 있으면(과거 데이터 — from_state/to_state 필드 누락 버그가
 // 고쳐지기 전에 기록된 이벤트) 'null' 문자열이 그대로 노출되던 것 방지. 새로 기록되는
@@ -376,6 +387,30 @@ const X_ICON_D =
   "M18.9 2.6h3.3l-7.2 8.2 8.5 11.3h-6.7l-5.2-6.8-6 6.8H1.3l7.7-8.8L.7 2.6h6.9l4.7 6.2 5.6-6.2Zm-1.2 17.7h1.9L7.2 4.4H5.2l12.5 15.9Z";
 // (v3.8.9) 운영자 명령 원문·응답 요약은 사람이 입력한 텍스트라 툴팁/표(innerHTML)에 넣기 전에 escape.
 function esc(s){ return String(s == null ? "" : s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+// (v4.0.4) 팝업 상세 — 값이 없으면 "-". 링크는 새 창으로(클릭해 고정한 팝업에서 누른다)
+function ttKst(iso){
+  const ms = Date.parse(iso || "");
+  if (isNaN(ms)) return "-";
+  const d = new Date(ms + 9 * 3600e3), p = n => String(n).padStart(2, "0");
+  return `${p(d.getUTCMonth()+1)}/${p(d.getUTCDate())} ${p(d.getUTCHours())}:${p(d.getUTCMinutes())} KST`;
+}
+function ttLink(u){
+  if (!u || !/^https?:\/\//.test(u)) return "-";
+  return `<a class="tt-link" href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(u.replace(/^https?:\/\/(www\.)?/, ""))}</a>`;
+}
+function ttKv(k, v){ return `<div class="tt-kv"><span>${k}:</span>${v}</div>`; }
+function ttClip(s, n){ s = String(s || "").trim(); return s ? esc(s.length > n ? s.slice(0, n) + "…" : s) : "-"; }
+const TT_HINT = `<div class="tt-hint">클릭하면 팝업이 고정되어 링크를 열 수 있습니다</div>`;
+function previewInfoHtml(sg){
+  const i = sg.info || {};
+  return ttKv("title", ttClip(i.title || sg.title, 120)) + ttKv("start at", ttKst(i.start)) +
+    ttKv("YT url", ttLink(i.yt)) + ttKv("announced at", ttKst(i.announced)) + ttKv("X url", ttLink(i.src)) + TT_HINT;
+}
+function textInfoHtml(e){
+  const i = e.info;
+  if (!i) return esc(e.d || "");   // 맞춰 붙일 항목이 없는 기록(예: 「소식 아님」 판정) — 처리 결과 그대로
+  return ttKv("원문", ttClip(i.orig, 280)) + ttKv("한글", ttClip(i.ko, 280)) + ttKv("X url", ttLink(i.x)) + TT_HINT;
+}
 
 // (v3.8.9) 📥 트리거 = 업스트림 알림 수신(upstream 이벤트). 그 기록이 없는 옛 날짜만 예전처럼
 // relay·notice·tweet 결과에서 역산하되, 운영자 수동 /ingest(via=ops)는 빼고 센다.
@@ -435,9 +470,16 @@ function fmtHHMMSS(totalSec){
   return String(hh).padStart(2,"0")+":"+String(mm).padStart(2,"0")+":"+String(ss).padStart(2,"0");
 }
 function addMinutes(hhmm, min){ return fmtHM(((minutesOf(hhmm) + min) % 1440 + 1440) % 1440); }
-function buildLayeredSegs(layers){
-  const points = new Set([0, 1440]);
-  layers.forEach(l => l.ranges.forEach(r => { points.add(minutesOf(r.from)); points.add(minutesOf(r.to)); }));
+// (v4a) 하루의 끝(1440분)은 "30:00"(가상 시각) 으로 적는다 — fmtHM(1440) 은 "06:00" 으로 돌아가
+// 마지막 구간이 "10:07–06:00" 처럼 끝이 시작보다 앞이 돼 1px 로만 그려지고 누계에서도 빠졌다(v3.5.0 부터).
+function segLabel(m){ return m >= 1440 ? "30:00" : fmtHM(m); }
+// endMin: 구간을 여기까지만 만든다(오늘 = 현재 시각까지 — 아직 오지 않은 시간을 "정상"으로 칠하지 않게). 없으면 하루 끝.
+function buildLayeredSegs(layers, endMin){
+  const END = endMin == null ? 1440 : Math.max(0, Math.min(1440, endMin));
+  const points = new Set([0, END]);
+  layers.forEach(l => l.ranges.forEach(r => {
+    [minutesOf(r.from), minutesOf(r.to)].forEach(m => { if (m > 0 && m < END) points.add(m); });
+  }));
   const sorted = Array.from(points).sort((a,b) => a-b);
   const segs = [];
   for (let i = 0; i < sorted.length - 1; i++) {
@@ -447,11 +489,13 @@ function buildLayeredSegs(layers){
     let state = "up";
     layers.forEach(l => { if (l.ranges.some(r => minutesOf(r.from) <= mid && mid < minutesOf(r.to))) state = l.state; });
     const last = segs[segs.length - 1];
-    if (last && last.s === state) last.to = fmtHM(m1);
-    else segs.push({ s: state, from: fmtHM(m0), to: fmtHM(m1) });
+    if (last && last.s === state) last.to = segLabel(m1);
+    else segs.push({ s: state, from: segLabel(m0), to: segLabel(m1) });
   }
   return segs;
 }
+// 그날 관측 끝(분) — 오늘이면 현재 시각(day.nowHm), 지난 날짜면 하루 끝.
+function dayEndMin(day){ return day && day.nowHm ? minutesOf(day.nowHm) : 1440; }
 const BACKEND_BUSY_MIN = 2; // 트리거 1건 처리에 걸리는 대략적 시간(분) — 실측 아닌 근사치
 function pausedRanges(ops){
   const sorted = ops.filter(e => e.cmd === "/pause" || e.cmd === "/resume").slice()
@@ -465,7 +509,7 @@ function pausedRanges(ops){
   if (openPause) ranges.push({from:openPause, to:"30:00"});
   return ranges;
 }
-function computeBackendSegs(ticks, ops, downRanges){
+function computeBackendSegs(ticks, ops, downRanges, endMin){
   return buildLayeredSegs([
     { state:"busy",   ranges: ticks.map(e => ({ from:e.t, to:addMinutes(e.t, BACKEND_BUSY_MIN) })) },
     { state:"paused", ranges: pausedRanges(ops) },
@@ -473,7 +517,7 @@ function computeBackendSegs(ticks, ops, downRanges){
     // 호출을 날짜마다 몰아서 하지 않기 위해 합의한 근사(v3.5 설계, v3.8.5 연간 리포트). 대신
     // 막대 툴팁에 미조회임을 밝힌다(drawHealthBar).
     { state:"down",   ranges: downRanges || [] },
-  ]);
+  ], endMin);
 }
 
 function fmtClock(min){
@@ -558,7 +602,7 @@ const legendEl = document.getElementById("legend");
   legendEl.appendChild(btn);
 });
 function stateChipsHtml(){
-  const chips = Object.entries(STATE).map(([k,v]) => {
+  const chips = Object.entries(STATE).filter(([k]) => k !== "none").map(([k,v]) => {   // none = out 의 옛 이름(범례엔 한 번만)
     const bg = k === "watching"
       ? "repeating-linear-gradient(45deg, #f5c344 0 3px, #9aa0a8 3px 6px)" : v.color;
     return `<span class="lg-chip"><i style="background:${bg}"></i>${v.label}</span>`;
@@ -822,6 +866,22 @@ function renderTimeline(){
   defs.appendChild(makeHatch("liveAssumedHatch", "#ff5470"));
   svg.appendChild(defs);
 
+  // (v4a 한정, 운영자 요청) 오늘 — 플롯 왼쪽 끝(x=0)부터 현재 시각까지, 트리거 기준선(세로 막대 아랫부분)에서
+  // 개인 트윗 마지막 줄(미야코) 아래까지 흰 반투명 배경. 어디까지 관측 · 작동했는지 한눈에 보이게.
+  // 다른 요소가 그 위에 얹히도록 맨 먼저 그린다. (v4.0.2) REPORT.runMark 는 배포판 · 로컬 모두 켜진다(오늘만 칠함).
+  if (REPORT.runMark && CURRENT_DAY && CURRENT_DAY.nowHm) {
+    const tw = LANES.find(g => g.key === "tweet");
+    const y0 = rowY["trigger|all"], y1 = tw._blockTop + tw._blockHeight;
+    const xNow = timeToX(CURRENT_DAY.nowHm, plotW);
+    const shade = document.createElementNS(ns, "rect");
+    shade.setAttribute("x", 0); shade.setAttribute("y", y0);
+    shade.setAttribute("width", Math.max(0, xNow)); shade.setAttribute("height", Math.max(0, y1 - y0));
+    shade.setAttribute("fill", "#ffffff"); shade.setAttribute("fill-opacity", "0.06");
+    shade.setAttribute("pointer-events", "none");
+    shade.setAttribute("class", "tl-runmark");
+    svg.appendChild(shade);
+  }
+
   LANES.forEach(g => {
     g.rows.forEach(r => {
       const ry = rowY[g.key+"|"+r];
@@ -907,8 +967,8 @@ function renderTimeline(){
         ? `<div class="tt-collab">함께: ${sg.collab_with.map(ck =>
             `<img src="${MEMBER_ICON[ck]}" alt="${MEMBER_KO[ck]||ck}">${MEMBER_KO[ck]||ck}`).join(" ")}</div>`
         : "";
-      wireTip(rect, { t:sg.from+"–"+sg.to, title:v.title, raw:label, tone:"ok",
-        d:(sg.qd || ("video: "+(v.title||"—"))) + collabTip });
+      wireTip(rect, { t:sg.from+"–"+sg.to, title:esc(MEMBER_KO[v.member] || v.member), raw:label, tone:"ok",
+        d:(sg.qd ? esc(sg.qd) : "") + previewInfoHtml(sg) + collabTip });
       svg.appendChild(rect);
       if (isCollabLive) {
         const iconSize = 12, gap = 2;
@@ -919,8 +979,8 @@ function renderTimeline(){
           icon.setAttribute("y", ry - 6 - iconSize - 2);
           icon.setAttribute("width", iconSize); icon.setAttribute("height", iconSize);
           icon.setAttribute("class", "tl-collab-icon");
-          wireTip(icon, { t:sg.from+"–"+sg.to, title:v.title, raw:label, tone:"ok",
-            d:(sg.qd || ("video: "+(v.title||"—"))) + collabTip });
+          wireTip(icon, { t:sg.from+"–"+sg.to, title:esc(MEMBER_KO[v.member] || v.member), raw:label, tone:"ok",
+            d:(sg.qd ? esc(sg.qd) : "") + previewInfoHtml(sg) + collabTip });
           svg.appendChild(icon);
         });
       }
@@ -1031,9 +1091,9 @@ function renderTimeline(){
     svg.appendChild(g);
   });
   NOTICE.forEach((e, i) => drawDot(e.t, rowY["notice|notice"], e.tone,
-    { t:e.t, title:"소식", raw:TONE_LABEL[e.tone], tone:e.tone, d:e.d, _idx:"notice"+i }));
+    { t:e.t, title:"소식", raw:TONE_LABEL[e.tone], tone:e.tone, d:textInfoHtml(e), _idx:"notice"+i }));
   TWEET.forEach((e, i) => drawDot(e.t, rowY["tweet|"+e.member], e.tone,
-    { t:e.t, title:(MEMBER_KO[e.member]||e.member)+" 개인 트윗", raw:TONE_LABEL[e.tone], tone:e.tone, d:e.d, _idx:"tweet"+i }));
+    { t:e.t, title:(MEMBER_KO[e.member]||e.member)+" 개인 트윗", raw:TONE_LABEL[e.tone], tone:e.tone, d:textInfoHtml(e), _idx:"tweet"+i }));
   CMD.forEach((e, i) => drawDot(e.t, rowY["cmd|cmd"], e.tone,
     { t:e.t, title:"💬 " + esc(e.derived ? e.cmd : (e.d || e.cmd)), raw:TONE_LABEL[e.tone] || esc(e.tone), tone:e.tone,
       d: e.derived ? esc(e.d) + " · (이전 로그에서 복원 — 응답 기록 없음)" : (e.reply ? "응답: " + esc(e.reply) : ""),
@@ -1087,7 +1147,8 @@ function renderRightPanel(){
       sw.setAttribute("width", 8); sw.setAttribute("height", 8); sw.setAttribute("rx", 2);
       sw.setAttribute("fill", HEALTH_COLOR[k]);
       svg.appendChild(sw);
-      const pct = Math.round(durSec[k] / 86400 * 100);
+      // (v4a) 오늘은 지금까지 관측한 시간 대비 — 하루 전체(86400초)로 나누면 정상이어도 낮게 나온다
+      const pct = Math.round(durSec[k] / Math.max(60, dayEndMin(CURRENT_DAY) * 60) * 100);
       const txt = document.createElementNS(ns,"text");
       txt.setAttribute("x", barsStartX + 13); txt.setAttribute("y", ry);
       txt.setAttribute("dominant-baseline", "central");
@@ -1602,7 +1663,7 @@ function loadDay(dateStr, opts){
   UPSTREAM = day.upstream || [];  // (v3.8.9) 옛 스냅샷/리포트엔 키가 없을 수 있음
   INGEST = computeIngest(RELAY, NOTICE, TWEET, day.upstream);
   TRIGGER_GROUPS = groupTriggerEvents(OPS, TICKS, INGEST);
-  BACKEND_SEGS = computeBackendSegs(TICKS, OPS, day.downRanges);
+  BACKEND_SEGS = computeBackendSegs(TICKS, OPS, day.downRanges, dayEndMin(day));
 
   // (v3.8.9) 지난 날짜 상세의 출처 — 스냅샷(매일 06:10 에 굳힌 것) / 즉석 계산(스냅샷 전).
   const provenance = day.snapshotAt ? ` (모니터링 스냅샷 ${day.snapshotAt.replace("T", " ").replace("Z", " UTC")})` :
@@ -1704,6 +1765,8 @@ function hideCrosshair(){
   }
 
   scrollEl.addEventListener("pointerdown", (ev) => {
+    // (v4.0.3) 마우스 드래그가 문서의 텍스트 선택을 시작하지 않게 — 클릭(팝업 고정)은 그대로 발생한다
+    if (ev.pointerType === "mouse") ev.preventDefault();
     pointers.set(ev.pointerId, ev.clientX);
     scrollEl.setPointerCapture(ev.pointerId);
     if (pointers.size === 2) {
