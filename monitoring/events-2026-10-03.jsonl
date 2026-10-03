@@ -66,3 +66,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용)", "result": "ok", "ts": "2026-10-03T15:41:08Z", "who": "/admin"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-03T15:44:55Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T15:45:06Z", "who": "仲町あられ"}
+{"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용)", "result": "ok", "ts": "2026-10-03T15:46:51Z", "who": "/admin"}
