@@ -162,20 +162,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-10-03T09:44:06Z",
-        "handle": "ritsu_yumemita",
-        "id": "2105953741363179970",
-        "media": [
-          "https://pbs.twimg.com/media/HTnZw_lawAAVsiy.jpg"
-        ],
-        "quote": null,
-        "received_at": "2026-10-02T09:44:06Z",
-        "text": "10/5〜10/12\n꒰ 1週間 #りつの配信予定 🐻꒱\n\n〜配信復活のミネツキ〜",
-        "text_ko": "10/5〜10/12\n꒰ 1주일 #りつ의 방송 예정 🐻꒱\n\n〜방송 복귀의 미네츠키〜",
-        "url": "https://x.com/i/status/2105953741363179970"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-10-04T07:41:14Z",
         "handle": "ritsu_yumemita",
         "id": "2106288416816255321",
