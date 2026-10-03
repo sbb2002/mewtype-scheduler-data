@@ -47,3 +47,4 @@
 {"candidates": 92, "detail": "candidates=92 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-03T11:40:02Z", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-03T11:52:26Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-03T11:52:28Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-03T11:59:02Z", "who": "우이 성우와 우이 사도 스토리 더빙(기억X)"}
