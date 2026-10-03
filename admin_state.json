@@ -1,6 +1,40 @@
 {
   "edit_lock": null,
-  "pending_del": null,
+  "pending_del": {
+    "at": "2026-10-03T12:06:03Z",
+    "idx": 1,
+    "snapshot": {
+      "actual_start": null,
+      "api_start_seen": "2026-10-03T06:00:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": [
+        "arale"
+      ],
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-03T09:00:00Z",
+      "first_seen": "2026-10-03T11:34:56Z",
+      "host": null,
+      "id": "pv_832b0f12",
+      "info_at": "2026-10-03T11:34:56Z",
+      "info_source": "personal",
+      "kind": "collab",
+      "last_updated": "2026-10-03T11:34:56Z",
+      "membership": false,
+      "scheduled_start": "2026-10-03T06:00:00Z",
+      "source": "personal",
+      "state": "upcoming",
+      "state_since": "2026-10-03T11:34:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/7sBzjBKAxFQ/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
+      "title_ko": "【零 ～濡鴉ノ巫女～】＃８ 눈을 떠보니 눈앞에 거대한 미녀 유령이 있었다. 【ゆめみた/藤都子】",
+      "url": "https://www.youtube.com/watch?v=7sBzjBKAxFQ",
+      "video_id": "7sBzjBKAxFQ"
+    },
+    "unit": "arale",
+    "warn_text": "#1 나카마치 아라레의 2026/10/3 15:00~ 방송예고를 내리시겠습니까?\n해당 예고는 감지기능으로 다시 되살아날 수 있습니다.\n(<code>y</code> = 삭제 · <code>terminate</code> = 삭제 + 그 URL 12h 재등록 차단 · <code>N</code>/무응답 = 취소)"
+  },
   "pending_ingest": null,
   "pending_member": null,
   "pending_notice": null,
