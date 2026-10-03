@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "/del arale#1",
-    "at": "2026-10-03T12:06:13Z",
+    "action": "URL 확정 예고 miyako (7sBzjBKAxFQ)",
+    "at": "2026-10-03T15:24:34Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "0a0d98dee90858f8a3a1b177bdab7e2a8b6437c0",
+    "new_sha": "5affb25921c5b1e0d244ee2e4f4342c35ad3b33c",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,37 +101,8 @@
           ]
         }
       },
-      "generated_at": "2026-10-03T11:40:02Z",
+      "generated_at": "2026-10-03T12:06:13Z",
       "items": [
-        {
-          "actual_start": null,
-          "api_start_seen": "2026-10-03T06:00:00Z",
-          "assumed_live": false,
-          "channel_key": "miyako",
-          "collab_with": [
-            "arale"
-          ],
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-03T09:00:00Z",
-          "first_seen": "2026-10-03T11:34:56Z",
-          "host": null,
-          "id": "pv_832b0f12",
-          "info_at": "2026-10-03T11:34:56Z",
-          "info_source": "personal",
-          "kind": "collab",
-          "last_updated": "2026-10-03T11:34:56Z",
-          "membership": false,
-          "scheduled_start": "2026-10-03T06:00:00Z",
-          "source": "personal",
-          "state": "upcoming",
-          "state_since": "2026-10-03T11:34:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/7sBzjBKAxFQ/maxresdefault.jpg",
-          "time_tbd": false,
-          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
-          "title_ko": "【零 ～濡鴉ノ巫女～】＃８ 눈을 떠보니 눈앞에 거대한 미녀 유령이 있었다. 【ゆめみた/藤都子】",
-          "url": "https://www.youtube.com/watch?v=7sBzjBKAxFQ",
-          "video_id": "7sBzjBKAxFQ"
-        },
         {
           "actual_start": null,
           "api_start_seen": "2026-10-05T12:30:00Z",
