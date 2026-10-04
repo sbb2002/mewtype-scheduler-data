@@ -32,3 +32,5 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_c1d398c8", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-04T13:33:00Z", "video_id": "kfi10NW8ULw", "who": "yuno"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-04T13:56:35Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-04T13:56:35Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-04T15:05:00Z", "who": "YAGDXgpmWNE"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_c1d398c8", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-04T15:05:00Z", "video_id": "kfi10NW8ULw", "who": "yuno"}
