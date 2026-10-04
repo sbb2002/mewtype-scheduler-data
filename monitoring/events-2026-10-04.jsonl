@@ -17,3 +17,4 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-04T01:34:51Z", "who": ""}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-04T03:14:12Z", "who": "/admin"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-04T03:15:56Z", "who": "/admin"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-04T09:50:01Z", "who": ""}
