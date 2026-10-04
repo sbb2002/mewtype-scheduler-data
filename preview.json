@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-04T12:10:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-04T13:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/YAGDXgpmWNE/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡歌枠】꿈은……파워!!【 仲町あ라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=YAGDXgpmWNE",
       "video_id": "YAGDXgpmWNE"
     },
