@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-04T11:50:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-04T13:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/kfi10NW8ULw/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #아워노트 】시청자 참여형! 격연 라이브합니다!【 #천석유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=kfi10NW8ULw",
       "video_id": "kfi10NW8ULw"
     },
