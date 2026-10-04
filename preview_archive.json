@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:35:00Z",
+  "generated_at": "2026-10-04T16:25:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1890,6 +1890,35 @@
       "title_ko": "【 #아워노트 】시청자 참여형! 격연 라이브합니다!【 #천석유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=kfi10NW8ULw",
       "video_id": "kfi10NW8ULw",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-04T13:02:05Z",
+      "api_start_seen": "2026-10-04T13:00:00Z",
+      "archived_at": "2026-10-04T16:25:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 1670,
+      "expires_at": "2026-10-04T16:00:00Z",
+      "first_seen": "2026-10-04T12:10:02Z",
+      "host": null,
+      "id": "pv_714a7f52",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-04T16:25:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-04T13:00:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-04T16:25:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/YAGDXgpmWNE/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡歌枠】꿈은……파워!!【 仲町あ라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=YAGDXgpmWNE",
+      "video_id": "YAGDXgpmWNE",
       "yt_tunein": true
     }
   ]
