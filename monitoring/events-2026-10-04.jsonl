@@ -18,3 +18,5 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-04T03:14:12Z", "who": "/admin"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-04T03:15:56Z", "who": "/admin"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-04T09:50:01Z", "who": ""}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-04T11:50:01Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_c1d398c8", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-10-04T11:50:01Z", "video_id": "kfi10NW8ULw", "who": "yuno"}
