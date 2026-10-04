@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-04T12:10:02Z",
+  "generated_at": "2026-10-04T12:32:27Z",
   "items": [
     {
       "actual_start": null,
@@ -79,18 +79,19 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-04T12:10:02Z",
+      "last_updated": "2026-10-04T12:32:27Z",
       "membership": false,
       "scheduled_start": "2026-10-04T13:00:00Z",
       "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-10-04T12:10:02Z",
+      "state": "watching",
+      "state_since": "2026-10-04T12:32:27Z",
       "thumbnail": "https://i.ytimg.com/vi/YAGDXgpmWNE/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
       "title_ko": "【🟡歌枠】꿈은……파워!!【 仲町あ라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=YAGDXgpmWNE",
-      "video_id": "YAGDXgpmWNE"
+      "video_id": "YAGDXgpmWNE",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
