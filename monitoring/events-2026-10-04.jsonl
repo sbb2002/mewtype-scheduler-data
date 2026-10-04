@@ -24,3 +24,4 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_714a7f52", "result": "ok", "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-04T12:10:02Z", "video_id": "YAGDXgpmWNE", "who": "arale"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-04T12:32:29Z", "who": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_714a7f52", "result": "ok", "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-10-04T12:32:27Z", "video_id": "YAGDXgpmWNE", "who": "arale"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-04T13:01:56Z", "who": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】"}
