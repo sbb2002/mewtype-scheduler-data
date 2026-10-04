@@ -1,0 +1,401 @@
+{
+  "backfillOnly": false,
+  "cmd": [
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)",
+      "t": "12:14",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)",
+      "t": "12:15",
+      "tone": "ok"
+    }
+  ],
+  "date": "2026-10-04",
+  "downRanges": [],
+  "eventCount": 43,
+  "hasLog": true,
+  "notice": [],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "21:10",
+          "id": "pv_714a7f52",
+          "s": "upcoming",
+          "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "21:32",
+          "vid": "YAGDXgpmWNE"
+        },
+        {
+          "from": "21:32",
+          "id": "pv_714a7f52",
+          "s": "watching",
+          "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "22:03",
+          "vid": "YAGDXgpmWNE"
+        },
+        {
+          "from": "22:03",
+          "id": "pv_714a7f52",
+          "s": "live",
+          "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "00:55",
+          "vid": "YAGDXgpmWNE"
+        },
+        {
+          "from": "00:55",
+          "id": "pv_714a7f52",
+          "s": "end",
+          "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "01:25",
+          "vid": "YAGDXgpmWNE"
+        },
+        {
+          "from": "01:25",
+          "id": "pv_714a7f52",
+          "s": "out",
+          "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "01:28",
+          "vid": "YAGDXgpmWNE"
+        }
+      ],
+      "title": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "20:50",
+          "id": "pv_c1d398c8",
+          "s": "upcoming",
+          "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】",
+          "to": "22:01",
+          "vid": "kfi10NW8ULw"
+        },
+        {
+          "from": "22:01",
+          "id": "pv_c1d398c8",
+          "s": "watching",
+          "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】",
+          "to": "22:33",
+          "vid": "kfi10NW8ULw"
+        },
+        {
+          "from": "22:33",
+          "id": "pv_c1d398c8",
+          "s": "live",
+          "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】",
+          "to": "00:05",
+          "vid": "kfi10NW8ULw"
+        },
+        {
+          "from": "00:05",
+          "id": "pv_c1d398c8",
+          "s": "end",
+          "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】",
+          "to": "00:35",
+          "vid": "kfi10NW8ULw"
+        },
+        {
+          "from": "00:35",
+          "id": "pv_c1d398c8",
+          "s": "out",
+          "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】",
+          "to": "00:38",
+          "vid": "kfi10NW8ULw"
+        }
+      ],
+      "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "10:00",
+      "tone": "ok",
+      "ts": "2026-10-04T01:00:47Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-10-04T21:10:07Z",
+  "ticks": [
+    {
+      "d": "candidates=47 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "10:20"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:24"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:25"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:27"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:28"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:29"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:30"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:30"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:32"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:33"
+    },
+    {
+      "d": "candidates=77 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "10:34"
+    },
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "18:50"
+    },
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:50"
+    },
+    {
+      "d": "candidates=78 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "21:10"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:03"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:33"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:05"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:35"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:55"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:05"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:25"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "09:15",
+      "tid": "2106538757575110988",
+      "tone": "ok",
+      "ts": "2026-10-04T00:15:56Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "09:19",
+      "tid": "2106539639431725563",
+      "tone": "ok",
+      "ts": "2026-10-04T00:19:24Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "09:15",
+      "tone": "ok",
+      "who": "arale"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "09:16",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "09:19",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "10:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "유튜브 tunein",
+      "src": "yt",
+      "t": "21:32",
+      "tone": "ok",
+      "who": "【🟡歌枠】夢は……パワーーーｯｯ!!【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "d": "유튜브 tunein",
+      "src": "yt",
+      "t": "22:01",
+      "tone": "ok",
+      "who": "【 #アワーノーツ 】視聴者参加型！撃奏ライブします！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "22:56",
+      "tone": "ok",
+      "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "22:56",
+      "tone": "ok",
+      "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 2,
+    "production": 2,
+    "total": 4
+  }
+}
