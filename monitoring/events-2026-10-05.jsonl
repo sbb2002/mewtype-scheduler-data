@@ -48,3 +48,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T11:23:51Z", "tweet_id": "2107069165114966456", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T11:23:57Z", "who": "宮永ののか🐰🩹"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-05T12:06:47Z", "who": "/admin"}
+{"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-05T12:26:32Z", "who": "/admin"}
