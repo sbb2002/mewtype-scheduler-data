@@ -18,6 +18,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_661db62748",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/5(月) 23:30~┊#イ中田丁なう\n\n┊ すやバラ歌枠 ┊アコギでお届け安眠♬\n\n🔗 https://youtube.com/live/ldANhxUfUY4",
+        "tag": "p#https://x.com/#1tweet-2107106676440801443"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/5 23:30에 진행될 새 방송을 예고하고 있으며, 기존 일정의 취소나 변경을 알리는 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-05T13:54:38Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
