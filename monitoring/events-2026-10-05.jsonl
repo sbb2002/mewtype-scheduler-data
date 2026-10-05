@@ -25,3 +25,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T10:00:11Z", "tweet_id": "2107048156181430386", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T10:00:21Z", "who": "藤都子"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_a2a91ecc", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-05T10:00:11Z", "video_id": null, "who": "yuno"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_ea1b6260", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-05T10:00:11Z", "video_id": null, "who": "arale"}
