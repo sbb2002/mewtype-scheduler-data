@@ -78,3 +78,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T14:50:02Z", "who": "仲町あられ"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-05T15:00:00Z", "who": "ldANhxUfUY4"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_a2a91ecc", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "end", "ts": "2026-10-05T15:00:00Z", "video_id": "GlUyCMjkyj4", "who": "yuno"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-05T15:25:00Z", "who": "GlUyCMjkyj4"}
