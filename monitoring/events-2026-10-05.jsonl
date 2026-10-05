@@ -8,3 +8,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-05T00:10:02Z", "who": ""}
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-05T01:00:02Z", "who": ""}
 {"assumed_live": false, "detail": "announced→out", "flow": "preview", "from_state": "announced", "item_id": "pv_dfa7955d", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-05T01:00:02Z", "video_id": null, "who": "ritsu"}
+{"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-05T08:13:01Z", "who": "/admin"}
