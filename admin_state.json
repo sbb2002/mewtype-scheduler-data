@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "admin 삭제 miyako pv_45bf18ca",
-    "at": "2026-10-05T08:41:27Z",
+    "action": "admin 수동 예고 arale",
+    "at": "2026-10-05T08:44:30Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "ff2d0291d641181073f69a32b1208bdfcffa6d9a",
+    "new_sha": "8994df7b57017ad4a2817ed9a2b161118863caae",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-05T01:00:02Z",
+      "generated_at": "2026-10-05T08:41:27Z",
       "items": [
         {
           "actual_start": null,
@@ -211,34 +211,6 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": null,
-          "assumed_live": false,
-          "channel_key": "miyako",
-          "collab_with": [],
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-11T15:00:00Z",
-          "first_seen": "2026-09-29T14:14:24Z",
-          "host": null,
-          "id": "pv_45bf18ca",
-          "info_at": "2026-09-29T14:12:34Z",
-          "info_source": "personal",
-          "kind": "game",
-          "last_updated": "2026-09-29T14:14:24Z",
-          "membership": false,
-          "needs_tl": false,
-          "scheduled_start": "2026-10-11T00:00:00Z",
-          "source": "personal",
-          "state": "announced",
-          "state_since": "2026-09-29T14:14:24Z",
-          "thumbnail": null,
-          "time_tbd": true,
-          "title": null,
-          "title_ko": null,
-          "url": "https://www.youtube.com/@miyako_yumemita",
-          "video_id": null
         }
       ]
     }
