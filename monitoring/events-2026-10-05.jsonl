@@ -71,3 +71,4 @@
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-05T14:00:07Z", "who": ""}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-05T14:01:21Z", "who": "【🟡歌枠】すやすや誘いwithアコギ【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_23bf8741", "result": "ok", "title": "【🟡歌枠】すやすや誘いwithアコギ【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-10-05T14:01:19Z", "video_id": "ldANhxUfUY4", "who": "arale"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-05T14:34:59Z", "who": "【🟡歌枠】すやすや誘いwithアコギ【 仲町あられ / 夢限大みゅーたいぷ 】"}
