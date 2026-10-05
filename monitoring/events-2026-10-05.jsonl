@@ -14,3 +14,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T08:33:34Z", "tweet_id": "2106716113937809421", "via": "ops", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T08:34:19Z", "tweet_id": "2106943459022225594", "via": "ops", "who": "miyako"}
 {"collab_with": [], "detail": "admin 삭제 miyako pv_45bf18ca · announced→out", "flow": "preview", "from_state": "announced", "id": "pv_45bf18ca", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-05T08:41:27Z", "video_id": null, "who": "miyako"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_939cd0c0", "result": "ok", "title": "미정", "to_state": "announced", "ts": "2026-10-05T08:44:30Z", "video_id": null, "who": "arale"}
