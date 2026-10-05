@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-05T08:41:27Z",
+  "generated_at": "2026-10-05T08:44:30Z",
   "items": [
     {
       "actual_start": null,
@@ -173,6 +173,35 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-05T17:30:00Z",
+      "first_seen": "2026-10-05T08:44:30Z",
+      "host": null,
+      "id": "pv_939cd0c0",
+      "info_at": "2026-10-05T08:44:30Z",
+      "info_source": "manual",
+      "kind": null,
+      "last_updated": "2026-10-05T08:44:30Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-05T14:30:00Z",
+      "source": "manual",
+      "state": "announced",
+      "state_since": "2026-10-05T08:44:30Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": "미정",
+      "title_ko": "미정",
+      "title_manual": true,
+      "url": "https://www.youtube.com/@arale_yumemita",
+      "video_id": null
     }
   ]
 }
