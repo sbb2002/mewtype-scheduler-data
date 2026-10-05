@@ -52,3 +52,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T12:31:18Z", "tweet_id": "2107086138838335548", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T12:31:28Z", "who": "藤都子"}
 {"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-05T12:49:30Z", "who": "잠깐 좀 치다 갈 장발남캠"}
+{"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-05T12:52:53Z", "who": "걸그룹 NiziU 마코,니나 초대석 [궤도의 과학속으로]"}
