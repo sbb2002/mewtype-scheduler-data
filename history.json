@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "ingest_preview",
+      "error": null,
+      "id": "2966b97a39",
+      "job_id": null,
+      "ok": true,
+      "summary": "수동 · 미정",
+      "target": "arale",
+      "ts": "2026-10-05T08:44:35Z"
+    },
+    {
       "action": "delete_preview",
       "error": null,
       "id": "6c4cbfa27c",
