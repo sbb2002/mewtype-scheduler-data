@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:30:36Z",
+  "generated_at": "2026-10-05T08:32:32Z",
   "tweets": {
     "arale": [
       {
@@ -59,6 +59,23 @@
         "text": "今日は23:30〜すやバラ〜🌃🎸✨️",
         "text_ko": "오늘은 23:30부터 수야바라까지~🌃🎸✨️",
         "url": "https://x.com/i/status/2107020350924185889"
+      }
+    ],
+    "yuno": [
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-07T07:32:47Z",
+        "handle": "yuno_yumemita",
+        "id": "2107011099300397179",
+        "media": [
+          "https://pbs.twimg.com/media/HT2bbTXaMAAsvf4.jpg"
+        ],
+        "posted_at": "2026-10-05T07:32:47Z",
+        "quote": null,
+        "received_at": "2026-10-05T08:32:32Z",
+        "text": "#ばばんばばんばんばんドリーム\n開店前に許可を得て撮影させていただきました✨\n\nそうだね、ユノちゃん\nののかが入ってたお風呂だね\n\n…ユノちゃんは布だからやめておこうね",
+        "text_ko": "#ばばん바반반반반드림\n개점 전에 허가를 받고 촬영했습니다✨\n\n그렇지, 유노짱\n노노카가 들어갔던 욕실이네\n\n…유노짱은 천이니까 그만두자.",
+        "url": "https://x.com/i/status/2107011099300397179"
       }
     ]
   }
