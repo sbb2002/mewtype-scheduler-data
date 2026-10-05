@@ -63,3 +63,4 @@
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_a2a91ecc", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "live", "ts": "2026-10-05T13:34:51Z", "video_id": "GlUyCMjkyj4", "who": "yuno"}
 {"detail": "회원 방송 시작 · yuno (upgraded)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-05T13:35:00Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: YUNO's+ 限定配信"}
 {"candidates": 79, "detail": "candidates=79 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-05T13:40:02Z", "who": ""}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T13:54:38Z", "tweet_id": "2107106676440801443", "via": "ingest", "who": "arale"}
