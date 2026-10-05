@@ -37,3 +37,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T10:31:33Z", "tweet_id": "2107056077699473703", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T10:31:42Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T10:34:40Z", "tweet_id": "2107056860629287261", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T10:34:47Z", "who": "藤都子"}
