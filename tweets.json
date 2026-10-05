@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:50:01Z",
+  "generated_at": "2026-10-05T10:52:19Z",
   "tweets": {
     "arale": [
       {
@@ -192,6 +192,21 @@
         "text": "髪の毛切ったのも、いちばんに気づいたよーん😆えへん😆😆😆",
         "text_ko": "머리 자른 것도, 가장 먼저 눈쳤어~ 😆 에헨 😆😆😆",
         "url": "https://x.com/i/status/2107059184147828971"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-07T10:52:17Z",
+        "handle": "nonoka_yumemita",
+        "id": "2107061307329667526",
+        "media": [
+          "https://pbs.twimg.com/media/HT3JE0ybcAAgHB4.jpg"
+        ],
+        "posted_at": "2026-10-05T10:52:17Z",
+        "quote": null,
+        "received_at": "2026-10-05T10:52:19Z",
+        "text": "#ばばんばばんばんばんドリーム\n\nパネルに、らくがき🎶\n(みなさんは、まねしないでください。)",
+        "text_ko": "#ばばんばばんばんばんドリーム\n\n패널에, 낙서🎶\n(여러분은, 흉내 내지 말아 주세요.)",
+        "url": "https://x.com/i/status/2107061307329667526"
       }
     ],
     "yuno": [
