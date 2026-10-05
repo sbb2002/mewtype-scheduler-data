@@ -18,3 +18,4 @@
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @gekirock 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-05T09:05:23Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-05T09:05:23Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T09:05:26Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @gekirock 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T09:05:25Z", "who": "夢限大みゅーたいぷ"}
