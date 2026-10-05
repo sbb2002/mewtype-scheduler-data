@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "delete_preview",
+      "error": null,
+      "id": "6c4cbfa27c",
+      "job_id": null,
+      "ok": true,
+      "summary": "miyako ",
+      "target": "pv_45bf18ca",
+      "ts": "2026-10-05T08:41:35Z"
+    },
+    {
       "action": "ingest_tweet",
       "error": null,
       "id": "b42fefa50e",
