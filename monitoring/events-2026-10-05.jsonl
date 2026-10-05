@@ -64,3 +64,4 @@
 {"detail": "회원 방송 시작 · yuno (upgraded)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-05T13:35:00Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: YUNO's+ 限定配信"}
 {"candidates": 79, "detail": "candidates=79 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-05T13:40:02Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T13:54:38Z", "tweet_id": "2107106676440801443", "via": "ingest", "who": "arale"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_23bf8741", "result": "ok", "title": "【🟡歌枠】すやすや誘いwithアコギ【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-05T13:54:38Z", "video_id": "ldANhxUfUY4", "who": "arale"}
