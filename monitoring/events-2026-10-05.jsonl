@@ -10,3 +10,4 @@
 {"assumed_live": false, "detail": "announced→out", "flow": "preview", "from_state": "announced", "item_id": "pv_dfa7955d", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-05T01:00:02Z", "video_id": null, "who": "ritsu"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-05T08:13:01Z", "who": "/admin"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T08:30:36Z", "tweet_id": "2107020350924185889", "via": "ops", "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T08:32:32Z", "tweet_id": "2107011099300397179", "via": "ops", "who": "yuno"}
