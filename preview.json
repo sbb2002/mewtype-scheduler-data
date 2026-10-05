@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-05T16:20:00Z",
+  "generated_at": "2026-10-05T16:50:00Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-05T16:20:00Z",
+      "last_updated": "2026-10-05T16:50:00Z",
       "membership": false,
       "scheduled_start": "2026-10-06T12:00:00Z",
       "source": "api",
@@ -106,7 +106,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-05T16:20:00Z",
+      "last_updated": "2026-10-05T16:50:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -134,7 +134,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-05T16:20:00Z",
+      "last_updated": "2026-10-05T16:50:00Z",
       "membership": false,
       "scheduled_start": "2027-08-16T14:59:00Z",
       "source": "api",
@@ -161,7 +161,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-05T16:20:00Z",
+      "last_updated": "2026-10-05T16:50:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -173,35 +173,6 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
-    },
-    {
-      "actual_start": "2026-10-05T14:34:31Z",
-      "api_start_seen": "2026-10-05T14:30:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": 1464,
-      "expires_at": "2026-10-05T17:30:00Z",
-      "first_seen": "2026-10-05T13:54:38Z",
-      "host": null,
-      "id": "pv_23bf8741",
-      "info_at": "2026-10-05T13:54:38Z",
-      "info_source": "personal",
-      "kind": null,
-      "last_updated": "2026-10-05T16:20:00Z",
-      "membership": false,
-      "scheduled_start": "2026-10-05T14:30:00Z",
-      "source": "personal",
-      "src_url": "https://x.com/i/status/2107106676440801443",
-      "state": "end",
-      "state_since": "2026-10-05T16:20:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/ldANhxUfUY4/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【🟡歌枠】すやすや誘いwithアコギ【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": "【🟡노래 방송】편안히 유도 with 어쿠스틱 기타【 나카마치 아라레 / 무겐다이 뮤타입 】",
-      "url": "https://www.youtube.com/watch?v=ldANhxUfUY4",
-      "video_id": "ldANhxUfUY4",
-      "yt_tunein": true
     }
   ]
 }
