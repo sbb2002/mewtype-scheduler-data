@@ -82,3 +82,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-05T15:30:00Z", "who": "GlUyCMjkyj4"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_a2a91ecc", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "out", "ts": "2026-10-05T15:30:00Z", "video_id": "GlUyCMjkyj4", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T15:39:03Z", "tweet_id": "2107133448486093304", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T15:39:14Z", "who": "峰月律"}
