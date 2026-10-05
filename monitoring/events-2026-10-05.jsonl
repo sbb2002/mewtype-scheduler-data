@@ -66,3 +66,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-05T13:54:38Z", "tweet_id": "2107106676440801443", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_23bf8741", "result": "ok", "title": "【🟡歌枠】すやすや誘いwithアコギ【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-05T13:54:38Z", "video_id": "ldANhxUfUY4", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 10/5 23:30에 진행될 새 방송을 예고하고 있으며, 기존 일정의 취소나 변경을 알리는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-05T13:54:38Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-05T13:55:09Z", "who": "仲町あられ"}
