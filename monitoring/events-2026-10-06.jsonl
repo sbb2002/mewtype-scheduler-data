@@ -48,3 +48,4 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "watching", "ts": "2026-10-06T10:30:06Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-06T11:02:00Z", "who": ""}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "live", "ts": "2026-10-06T11:02:00Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-06T11:32:00Z", "who": ""}
