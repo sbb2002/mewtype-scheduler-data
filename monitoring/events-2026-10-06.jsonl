@@ -45,3 +45,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-06T09:50:02Z", "who": ""}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-06T10:15:00Z", "who": "/admin"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-06T10:30:09Z", "who": "【メン限】りっちゃんズ集会🌸10月"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "watching", "ts": "2026-10-06T10:30:06Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
