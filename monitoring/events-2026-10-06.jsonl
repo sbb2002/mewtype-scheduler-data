@@ -77,3 +77,5 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-06T12:33:01Z", "who": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_e132f559", "result": "ok", "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-10-06T12:32:59Z", "video_id": "dEVAfIaGAJM", "who": "arale"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-06T12:57:22Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T12:57:22Z", "who": "dEVAfIaGAJM"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_e132f559", "result": "ok", "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-06T12:57:22Z", "video_id": "dEVAfIaGAJM", "who": "arale"}
