@@ -78,6 +78,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ac1d45a4dd",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "【メンテナンス延長のお知らせ】\n各ストアでのVer.1.0.5の反映が遅れているため、本日15:59に終了を予定しておりましたメンテナンスを延長いたします。\n\n終了予定時刻は16:59を予定しております。\n\nご利用のお客さまにご迷惑をおかけいたしますこと、お詫び申し上げます。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2107366855589708241"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "메인테넌스 연장 공지로 행사와 가챠와 무관한 일반 안내이므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-06T07:06:34Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
