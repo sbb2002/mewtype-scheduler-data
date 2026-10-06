@@ -1,3 +1,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-06T00:34:10Z", "who": "/admin"}
 {"collab_with": null, "detail": "admin 삭제 arale pv_770d82c6 · upcoming→out", "flow": "preview", "from_state": "upcoming", "id": "pv_770d82c6", "result": "ok", "title": "🌟誕生日グッズ2026🌟9/15〆完全受注生産 発売中！【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-10-06T00:35:02Z", "video_id": "3tQbs-OKrys", "who": "arale"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-06T03:56:45Z", "via": "ingest", "who": ""}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T03:56:46Z", "who": "夢限大みゅーたいぷ"}
