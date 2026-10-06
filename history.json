@@ -3,6 +3,16 @@
     {
       "action": "edit_preview",
       "error": null,
+      "id": "91879e9ac7",
+      "job_id": null,
+      "ok": true,
+      "summary": "ritsu 【メン限】りっちゃんズ集会🌸10月 ← {'membership': True}",
+      "target": "pv_9fa24125",
+      "ts": "2026-10-06T10:18:12Z"
+    },
+    {
+      "action": "edit_preview",
+      "error": null,
       "id": "16628d894b",
       "job_id": null,
       "ok": true,
