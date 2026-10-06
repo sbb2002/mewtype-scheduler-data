@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T08:34:19Z",
+  "generated_at": "2026-10-06T09:04:11Z",
   "tweets": {
     "arale": [
       {
@@ -273,6 +273,23 @@
         "text": "はいしんあります\nがちゃひきます",
         "text_ko": "배신이 있습니다\n가챠 뽑습니다",
         "url": "https://x.com/i/status/2107385557672489001"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-08T09:00:36Z",
+        "handle": "nonoka_yumemita",
+        "id": "2107395586697920592",
+        "media": [],
+        "posted_at": "2026-10-06T09:00:36Z",
+        "quote": {
+          "media": [],
+          "text": "はいしんあります\nがちゃひきます",
+          "text_ko": "배신이 있습니다\n가챠 뽑습니다"
+        },
+        "received_at": "2026-10-06T09:04:11Z",
+        "text": "20:30‼️(にじゅーじ、はん‼️)",
+        "text_ko": "20:30‼️(20시 반‼️)",
+        "url": "https://x.com/i/status/2107395586697920592"
       }
     ],
     "ritsu": [
