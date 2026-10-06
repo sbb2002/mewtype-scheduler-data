@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "edit_preview",
+      "error": null,
+      "id": "16628d894b",
+      "job_id": null,
+      "ok": true,
+      "summary": "ritsu 【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】 ← {'membership': False}",
+      "target": "pv_b9be6327",
+      "ts": "2026-10-06T10:17:59Z"
+    },
+    {
       "action": "delete_preview",
       "error": null,
       "id": "9cfe14d29d",
