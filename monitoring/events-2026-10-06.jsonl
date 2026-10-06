@@ -85,3 +85,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_8cd58187", "result": "ok", "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "end", "ts": "2026-10-06T13:00:00Z", "video_id": "yF_UhMTJu7g", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T13:24:07Z", "tweet_id": "2107461882357706873", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 현재 진행 중인 방송에 대한 진행 상황을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-06T13:24:07Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T13:24:19Z", "who": "仲町あられ"}
