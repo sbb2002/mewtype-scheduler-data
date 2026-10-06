@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:01:59Z",
+  "generated_at": "2026-10-06T12:26:58Z",
   "tweets": {
     "arale": [
       {
@@ -454,6 +454,21 @@
         "text": "#ばばんばばんばんばんドリーム\n\nそうだね、ユノちゃん\nいちごのにしようね",
         "text_ko": "#ばばん바반반반반드림\n\n그래, 유노짱\n딸기로 하자.",
         "url": "https://x.com/i/status/2107388961417248957"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-08T12:26:52Z",
+        "handle": "yuno_yumemita",
+        "id": "2107447498981937238",
+        "media": [
+          "https://pbs.twimg.com/media/HT8oVKRbgAEzXw4.jpg"
+        ],
+        "posted_at": "2026-10-06T12:26:52Z",
+        "quote": null,
+        "received_at": "2026-10-06T12:26:58Z",
+        "text": "〈配信のおしらせ〉\n10/6 22:30〜 セルフネイル\n\n今週末の13thLIVEに向けてネイルをします！\nキラキラにしたいよね",
+        "text_ko": "〈배송 안내〉\n10/6 22:30〜 셀프 네일\n\n이번 주말 13thLIVE를 위해 네일을 할 거예요!\n반짝반짝하고 싶죠.",
+        "url": "https://x.com/i/status/2107447498981937238"
       }
     ]
   }
