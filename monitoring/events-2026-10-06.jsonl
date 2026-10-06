@@ -34,3 +34,5 @@
 {"detail": "공식 스케줄 · 예고 5건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:04:32Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner mode: none · 기존 진행 중인 이벤트에 대한 밸런스 안내이며 새로운 일정·가챠·곡 정보가 없으므로 배너 변경 없음", "flow": "notice", "result": "ok", "ts": "2026-10-06T09:30:07Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:30:15Z", "who": "バンドリ！アワーノーツ"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-06T09:40:02Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "upcoming", "ts": "2026-10-06T09:40:02Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
