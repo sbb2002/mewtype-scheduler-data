@@ -4,3 +4,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T03:56:46Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner mode: none · 유지보수 공지이며 행사·가챠와 무관한 일반 안내이므로 action=none", "flow": "notice", "result": "ok", "ts": "2026-10-06T04:30:08Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T04:30:13Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T06:46:07Z", "tweet_id": "2107361409826988229", "via": "ingest", "who": "ritsu"}
