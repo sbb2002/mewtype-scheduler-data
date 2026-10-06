@@ -157,6 +157,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_31455dc039",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HT75mXuacAALPof.jpg"
+        ],
+        "raw": "【お知らせ】\nイベント「アイの奔流 AtoZ」に関するご意見と今後のバランス調整について、ご案内をおまとめいたしました。\n\nご一読いただけますと幸いです。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2107402986683301993"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 진행 중인 이벤트에 대한 밸런스 안내이며 새로운 일정·가챠·곡 정보가 없으므로 배너 변경 없음",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-06T09:30:07Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
