@@ -65,3 +65,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T12:01:52Z", "who": "jURR8qAZIM0"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_b9be6327", "result": "ok", "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-06T12:01:52Z", "video_id": "jURR8qAZIM0", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T12:01:55Z", "tweet_id": "2107441208641683916", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T12:02:11Z", "who": "藤都子"}
