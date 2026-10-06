@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:30:00Z",
+  "generated_at": "2026-10-06T13:55:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2096,6 +2096,35 @@
       "title_ko": "【#아워노츠】노노유노SSR 두 개 다 뽑을 때까지 일본어 금지!【ゆめみた/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=yF_UhMTJu7g",
       "video_id": "yF_UhMTJu7g"
+    },
+    {
+      "actual_start": "2026-10-06T12:01:36Z",
+      "api_start_seen": "2026-10-06T12:00:00Z",
+      "archived_at": "2026-10-06T13:55:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 873,
+      "expires_at": "2026-10-05T15:30:00Z",
+      "first_seen": "2026-09-30T16:20:02Z",
+      "host": null,
+      "id": "pv_b9be6327",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "game",
+      "last_updated": "2026-10-06T13:55:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-06T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2107361409826988229",
+      "state": "out",
+      "state_since": "2026-10-06T13:55:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/jURR8qAZIM0/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
+      "title_ko": "【8번 출구】 간사이 사투리 제한 8번 출구를 진행【峰月律/ゆめ미타】",
+      "url": "https://www.youtube.com/watch?v=jURR8qAZIM0",
+      "video_id": "jURR8qAZIM0"
     }
   ]
 }
