@@ -92,3 +92,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T13:27:50Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T13:29:47Z", "tweet_id": "2107463317199724688", "via": "ingest", "who": "nonoka"}
 {"detail": "url-schedule skip: 이미 끝난 방송 yF_UhMTJu7g", "flow": "tweet", "result": "ok", "ts": "2026-10-06T13:29:47Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T13:30:01Z", "who": "宮永ののか🐰🩹"}
