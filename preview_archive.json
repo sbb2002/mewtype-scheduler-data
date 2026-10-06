@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:50:00Z",
+  "generated_at": "2026-10-06T12:30:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2037,6 +2037,35 @@
       "title_ko": "【🟡노래 방송】편안히 유도 with 어쿠스틱 기타【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=ldANhxUfUY4",
       "video_id": "ldANhxUfUY4",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-06T11:00:13Z",
+      "api_start_seen": "2026-10-06T11:00:00Z",
+      "archived_at": "2026-10-06T12:30:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-06T14:00:00Z",
+      "first_seen": "2026-10-06T09:40:02Z",
+      "host": null,
+      "id": "pv_9fa24125",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-06T12:30:00Z",
+      "membership": true,
+      "scheduled_start": "2026-10-06T11:00:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-06T12:30:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/2nznMoF9BF0/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【メン限】りっちゃんズ集会🌸10月",
+      "title_ko": "【メン限】리쨩즈 모임🌸10월",
+      "url": "https://www.youtube.com/watch?v=2nznMoF9BF0",
+      "video_id": "2nznMoF9BF0",
       "yt_tunein": true
     }
   ]
