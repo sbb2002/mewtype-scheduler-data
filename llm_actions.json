@@ -179,6 +179,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b540c16133",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/6(火) 22:00~┊#イ中田丁なう\n\n┊ メロンパンアイス ┊食！🍈🍞🍨✨️\n\n🔗 https://www.youtube.com/live/dEVAfIaGAJM",
+        "tag": "p#https://x.com/#1tweet-2107406844159488159"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/6(화) 22:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-06T09:45:21Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
