@@ -236,6 +236,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f1cb5592a3",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/6 22:30～ セルフネイル\n\n今週末の13thLIVEに向けてネイルをします！\nキラキラにしたいよね",
+        "tag": "p#https://x.com/#1tweet-2107447498981937238"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 〈配信のおしらせ〉\n10/6 22:30～ セルフネイル\n\n今週末の13thLIVEに向けてネイルをします！\nキラキラに",
+      "ts": "2026-10-06T12:26:58Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
