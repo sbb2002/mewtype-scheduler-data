@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-06T11:40:00Z",
+  "generated_at": "2026-10-06T11:40:05Z",
   "items": [
     {
       "actual_start": "2026-10-06T11:00:13Z",
@@ -109,7 +109,6 @@
       "kind": null,
       "last_updated": "2026-10-06T11:40:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-06T11:30:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2107434569360449904",
@@ -118,7 +117,7 @@
       "thumbnail": "https://i.ytimg.com/vi/yF_UhMTJu7g/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】",
-      "title_ko": null,
+      "title_ko": "【#아워노츠】노노유노SSR 두 개 다 뽑을 때까지 일본어 금지!【ゆめみた/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=yF_UhMTJu7g",
       "video_id": "yF_UhMTJu7g"
     },
