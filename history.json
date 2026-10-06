@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "delete_preview",
+      "error": null,
+      "id": "9cfe14d29d",
+      "job_id": null,
+      "ok": true,
+      "summary": "arale 🌟誕生日グッズ2026🌟9/15〆完全受注生産 発売中！【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "target": "pv_770d82c6",
+      "ts": "2026-10-06T00:35:07Z"
+    },
+    {
       "action": "ingest_preview",
       "error": null,
       "id": "2966b97a39",
