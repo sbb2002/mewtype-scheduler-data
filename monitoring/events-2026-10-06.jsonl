@@ -50,3 +50,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "live", "ts": "2026-10-06T11:02:00Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-06T11:32:00Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T11:38:03Z", "tweet_id": "2107434569360449904", "via": "ingest", "who": "nonoka"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_8cd58187", "result": "ok", "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "watching", "ts": "2026-10-06T11:38:03Z", "video_id": "yF_UhMTJu7g", "who": "nonoka"}
