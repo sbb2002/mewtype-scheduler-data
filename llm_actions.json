@@ -198,6 +198,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9410fc6009",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "【配信開始】\n\nアワーノーツでユノちゃんのイベガチャ引くぞい！😍\nGanbarinasu.\n\n【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】 https://www.youtube.com/live/yF_UhMTJu7g?si=X1wQXcFiqbShIiRb",
+        "tag": "p#https://x.com/#1tweet-2107434569360449904"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 현재 진행 중인 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-06T11:38:03Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
