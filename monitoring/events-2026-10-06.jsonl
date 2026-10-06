@@ -100,3 +100,5 @@
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_068b05be", "result": "ok", "title": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-06T13:32:09Z", "video_id": "suVCgyvD3Ks", "who": "yuno"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-06T13:32:16Z", "who": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-06T13:40:02Z", "who": ""}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-06T13:50:02Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_7f3a9e18", "result": "ok", "title": "【バンドリ！アワーノーツ】SR峰月律を完凸させたい！音ゲー極めたい！【峰月律/ゆめみた】#アワーノーツ", "to_state": "upcoming", "ts": "2026-10-06T13:50:02Z", "video_id": "gCuTCjPha8k", "who": "ritsu"}
