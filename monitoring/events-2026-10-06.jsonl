@@ -80,3 +80,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T12:57:22Z", "who": "dEVAfIaGAJM"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_e132f559", "result": "ok", "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-06T12:57:22Z", "video_id": "dEVAfIaGAJM", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T12:57:58Z", "tweet_id": "2107455308931248173", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T12:58:13Z", "who": "仲町あられ"}
