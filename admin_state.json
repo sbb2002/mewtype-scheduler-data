@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (jURR8qAZIM0)",
-    "at": "2026-10-06T12:01:59Z",
+    "action": "URL 확정 예고 arale (dEVAfIaGAJM)",
+    "at": "2026-10-06T12:57:58Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "392631fce48c1ef7da81bb468404c01c7f50ebff",
+    "new_sha": "b9e9558d08bc2205c532c27a8bbfa035df288ed2",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-06T12:01:52Z",
+      "generated_at": "2026-10-06T12:57:22Z",
       "items": [
         {
           "actual_start": "2026-10-06T11:39:08Z",
@@ -109,7 +109,7 @@
           "assumed_live": false,
           "channel_key": "nonoka",
           "collab_with": null,
-          "concurrent_viewers": 1338,
+          "concurrent_viewers": 874,
           "expires_at": "2026-10-06T14:30:00Z",
           "first_seen": "2026-10-06T11:38:03Z",
           "host": null,
@@ -117,7 +117,7 @@
           "info_at": "2026-10-06T11:38:03Z",
           "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-10-06T12:01:52Z",
+          "last_updated": "2026-10-06T12:57:22Z",
           "membership": false,
           "scheduled_start": "2026-10-06T11:30:00Z",
           "source": "personal",
@@ -137,7 +137,7 @@
           "assumed_live": false,
           "channel_key": "ritsu",
           "collab_with": null,
-          "concurrent_viewers": 224,
+          "concurrent_viewers": 826,
           "expires_at": "2026-10-05T15:30:00Z",
           "first_seen": "2026-09-30T16:20:02Z",
           "host": null,
@@ -145,7 +145,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": "game",
-          "last_updated": "2026-10-06T12:01:52Z",
+          "last_updated": "2026-10-06T12:57:22Z",
           "membership": false,
           "scheduled_start": "2026-10-06T12:00:00Z",
           "source": "api",
@@ -160,12 +160,12 @@
           "video_id": "jURR8qAZIM0"
         },
         {
-          "actual_start": null,
+          "actual_start": "2026-10-06T12:57:05Z",
           "api_start_seen": "2026-10-06T13:00:00Z",
           "assumed_live": false,
           "channel_key": "arale",
           "collab_with": null,
-          "concurrent_viewers": null,
+          "concurrent_viewers": 165,
           "expires_at": "2026-10-06T16:00:00Z",
           "first_seen": "2026-10-06T09:45:21Z",
           "host": null,
@@ -173,19 +173,20 @@
           "info_at": "2026-10-06T09:45:21Z",
           "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-10-06T12:01:52Z",
+          "last_updated": "2026-10-06T12:57:22Z",
           "membership": false,
           "scheduled_start": "2026-10-06T13:00:00Z",
           "source": "personal",
           "src_url": "https://x.com/i/status/2107406844159488159",
-          "state": "upcoming",
-          "state_since": "2026-10-06T09:45:21Z",
+          "state": "live",
+          "state_since": "2026-10-06T12:57:22Z",
           "thumbnail": "https://i.ytimg.com/vi/dEVAfIaGAJM/maxresdefault_live.jpg",
           "time_tbd": false,
           "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】",
           "title_ko": "【🟡멜론빵 아이스크림】 만들면서 먹으며 잡담! 느긋하게 이야기해요【 仲町아라레 / 무겐다이 뮤타입 】",
           "url": "https://www.youtube.com/watch?v=dEVAfIaGAJM",
-          "video_id": "dEVAfIaGAJM"
+          "video_id": "dEVAfIaGAJM",
+          "yt_tunein": true
         },
         {
           "actual_start": null,
@@ -201,7 +202,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-06T12:01:52Z",
+          "last_updated": "2026-10-06T12:57:22Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -229,7 +230,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-06T12:01:52Z",
+          "last_updated": "2026-10-06T12:57:22Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -270,34 +271,6 @@
           "title_ko": null,
           "url": null,
           "video_id": null
-        },
-        {
-          "actual_start": "2026-10-06T11:00:13Z",
-          "api_start_seen": "2026-10-06T11:00:00Z",
-          "assumed_live": false,
-          "channel_key": "ritsu",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-06T14:00:00Z",
-          "first_seen": "2026-10-06T09:40:02Z",
-          "host": null,
-          "id": "pv_9fa24125",
-          "info_at": null,
-          "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-10-06T12:01:52Z",
-          "membership": true,
-          "scheduled_start": "2026-10-06T11:00:00Z",
-          "source": "api",
-          "state": "end",
-          "state_since": "2026-10-06T12:00:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/2nznMoF9BF0/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "【メン限】りっちゃんズ集会🌸10月",
-          "title_ko": "【メン限】리쨩즈 모임🌸10월",
-          "url": "https://www.youtube.com/watch?v=2nznMoF9BF0",
-          "video_id": "2nznMoF9BF0",
-          "yt_tunein": true
         }
       ]
     }
