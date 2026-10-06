@@ -1,0 +1,1008 @@
+{
+  "backfillOnly": false,
+  "cmd": [
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)",
+      "t": "09:34",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)",
+      "t": "16:52",
+      "tone": "ok"
+    },
+    {
+      "cmd": "/admin",
+      "d": "/admin",
+      "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)",
+      "t": "19:15",
+      "tone": "ok"
+    }
+  ],
+  "date": "2026-10-06",
+  "downRanges": [],
+  "eventCount": 118,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "banner mode: none · 유지보수 공지이며 행사·가챠와 무관한 일반 안내이므로 action=none",
+      "nid": null,
+      "t": "13:30",
+      "tone": "ok",
+      "ts": "2026-10-06T04:30:08Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 메인테넌스 연장 공지로 행사와 가챠와 무관한 일반 안내이므로 none 처리합니다.",
+      "nid": null,
+      "t": "16:06",
+      "tone": "ok",
+      "ts": "2026-10-06T07:06:34Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 메인테넌스 종료 및 보상 안내는 행사·가챠와 무관한 일반 공지이므로 action=none으로 판정했습니다.",
+      "nid": null,
+      "t": "17:02",
+      "tone": "ok",
+      "ts": "2026-10-06T08:02:54Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 업데이트 공지이며 행사·가챠와 무관한 일반 안내이므로 배너에 아무 조치도 필요합니다.",
+      "nid": null,
+      "t": "17:04",
+      "tone": "ok",
+      "ts": "2026-10-06T08:04:27Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 일반 사과 및 보상 배포 공지이며 행사·가챠와 무관하므로 none 처리한다.",
+      "nid": null,
+      "t": "18:04",
+      "tone": "ok",
+      "ts": "2026-10-06T09:04:11Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 기존 진행 중인 이벤트에 대한 밸런스 안내이며 새로운 일정·가챠·곡 정보가 없으므로 배너 변경 없음",
+      "nid": null,
+      "t": "18:30",
+      "tone": "ok",
+      "ts": "2026-10-06T09:30:07Z",
+      "via": "ingest"
+    }
+  ],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "id": "pv_770d82c6",
+          "s": "upcoming",
+          "title": "🌟誕生日グッズ2026🌟9/15〆完全受注生産 発売中！【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "09:35",
+          "vid": "3tQbs-OKrys"
+        },
+        {
+          "from": "09:35",
+          "id": "pv_770d82c6",
+          "s": "out",
+          "title": "🌟誕生日グッズ2026🌟9/15〆完全受注生産 発売中！【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "18:04",
+          "vid": "3tQbs-OKrys"
+        },
+        {
+          "from": "18:04",
+          "id": "pv_b238f278",
+          "s": "announced",
+          "title": null,
+          "to": "18:45",
+          "vid": null
+        },
+        {
+          "from": "18:45",
+          "id": "pv_e132f559",
+          "s": "upcoming",
+          "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "21:32",
+          "vid": "dEVAfIaGAJM"
+        },
+        {
+          "from": "21:32",
+          "id": "pv_e132f559",
+          "s": "watching",
+          "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "21:57",
+          "vid": "dEVAfIaGAJM"
+        },
+        {
+          "from": "21:57",
+          "id": "pv_e132f559",
+          "s": "live",
+          "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "00:10",
+          "vid": "dEVAfIaGAJM"
+        },
+        {
+          "from": "00:10",
+          "id": "pv_e132f559",
+          "s": "end",
+          "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "00:40",
+          "vid": "dEVAfIaGAJM"
+        },
+        {
+          "from": "00:40",
+          "id": "pv_e132f559",
+          "s": "out",
+          "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "00:43",
+          "vid": "dEVAfIaGAJM"
+        }
+      ],
+      "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "18:04",
+          "id": "pv_068b05be",
+          "s": "announced",
+          "title": null,
+          "to": "22:32",
+          "vid": null
+        },
+        {
+          "from": "22:32",
+          "id": "pv_068b05be",
+          "s": "live",
+          "title": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】",
+          "to": "00:25",
+          "vid": "suVCgyvD3Ks"
+        },
+        {
+          "from": "00:25",
+          "id": "pv_068b05be",
+          "s": "end",
+          "title": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】",
+          "to": "00:55",
+          "vid": "suVCgyvD3Ks"
+        },
+        {
+          "from": "00:55",
+          "id": "pv_068b05be",
+          "s": "out",
+          "title": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】",
+          "to": "00:58",
+          "vid": "suVCgyvD3Ks"
+        }
+      ],
+      "title": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "from": "18:04",
+          "id": "pv_a05c38b7",
+          "s": "announced",
+          "title": null,
+          "to": "20:38",
+          "vid": null
+        },
+        {
+          "from": "20:38",
+          "id": "pv_8cd58187",
+          "s": "watching",
+          "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】",
+          "to": "20:39",
+          "vid": "yF_UhMTJu7g"
+        },
+        {
+          "from": "20:39",
+          "id": "pv_8cd58187",
+          "s": "live",
+          "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】",
+          "to": "22:00",
+          "vid": "yF_UhMTJu7g"
+        },
+        {
+          "from": "22:00",
+          "id": "pv_8cd58187",
+          "s": "end",
+          "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】",
+          "to": "22:30",
+          "vid": "yF_UhMTJu7g"
+        },
+        {
+          "from": "22:30",
+          "id": "pv_8cd58187",
+          "s": "out",
+          "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】",
+          "to": "01:45",
+          "vid": "yF_UhMTJu7g"
+        },
+        {
+          "from": "01:45",
+          "id": "pv_c7ad7d3b",
+          "s": "upcoming",
+          "title": "※ののらーしゅうかいかいじょう",
+          "to": "30:00",
+          "vid": "2Q5A9SWgHtA"
+        }
+      ],
+      "title": "※ののらーしゅうかいかいじょう"
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "from": "18:04",
+          "id": "pv_557e7714",
+          "s": "announced",
+          "title": null,
+          "to": "18:40",
+          "vid": null
+        },
+        {
+          "from": "18:40",
+          "id": "pv_9fa24125",
+          "s": "upcoming",
+          "title": "【メン限】りっちゃんズ集会🌸10月",
+          "to": "19:30",
+          "vid": "2nznMoF9BF0"
+        },
+        {
+          "from": "19:30",
+          "id": "pv_9fa24125",
+          "s": "watching",
+          "title": "【メン限】りっちゃんズ集会🌸10月",
+          "to": "20:02",
+          "vid": "2nznMoF9BF0"
+        },
+        {
+          "from": "20:02",
+          "id": "pv_9fa24125",
+          "s": "live",
+          "title": "【メン限】りっちゃんズ集会🌸10月",
+          "to": "20:40",
+          "vid": "2nznMoF9BF0"
+        },
+        {
+          "from": "20:40",
+          "id": "pv_b9be6327",
+          "s": "watching",
+          "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
+          "to": "21:00",
+          "vid": "jURR8qAZIM0"
+        },
+        {
+          "from": "21:00",
+          "id": "pv_9fa24125",
+          "s": "end",
+          "title": "【メン限】りっちゃんズ集会🌸10月",
+          "to": "21:01",
+          "vid": "2nznMoF9BF0"
+        },
+        {
+          "from": "21:01",
+          "id": "pv_b9be6327",
+          "s": "live",
+          "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
+          "to": "21:30",
+          "vid": "jURR8qAZIM0"
+        },
+        {
+          "from": "21:30",
+          "id": "pv_9fa24125",
+          "s": "out",
+          "title": "【メン限】りっちゃんズ集会🌸10月",
+          "to": "22:25",
+          "vid": "2nznMoF9BF0"
+        },
+        {
+          "from": "22:25",
+          "id": "pv_b9be6327",
+          "s": "end",
+          "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
+          "to": "22:50",
+          "vid": "jURR8qAZIM0"
+        },
+        {
+          "from": "22:50",
+          "id": "pv_7f3a9e18",
+          "s": "upcoming",
+          "title": "【バンドリ！アワーノーツ】SR峰月律を完凸させたい！音ゲー極めたい！【峰月律/ゆめみた】#アワーノーツ",
+          "to": "22:55",
+          "vid": "gCuTCjPha8k"
+        },
+        {
+          "from": "22:55",
+          "id": "pv_b9be6327",
+          "s": "out",
+          "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
+          "to": "22:58",
+          "vid": "jURR8qAZIM0"
+        }
+      ],
+      "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】"
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글",
+      "nid": null,
+      "t": "12:56",
+      "tone": "ok",
+      "ts": "2026-10-06T03:56:45Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "nid": null,
+      "t": "17:19",
+      "tone": "ok",
+      "ts": "2026-10-06T08:19:19Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 5건",
+      "nid": null,
+      "t": "18:04",
+      "tone": "ok",
+      "ts": "2026-10-06T09:04:10Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @gekirock 의 글",
+      "nid": null,
+      "t": "18:04",
+      "tone": "ok",
+      "ts": "2026-10-06T09:04:11Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-10-06T21:10:08Z",
+  "ticks": [
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "18:40"
+    },
+    {
+      "d": "candidates=78 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "18:50"
+    },
+    {
+      "d": "candidates=78 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:02"
+    },
+    {
+      "d": "candidates=78 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 102,
+      "t": "20:32"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:39"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:40"
+    },
+    {
+      "d": "candidates=79 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "20:40"
+    },
+    {
+      "d": "candidates=78 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "21:00"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:01"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:30"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:57"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:00"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:25"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:30"
+    },
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 102,
+      "t": "22:32"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:32"
+    },
+    {
+      "d": "candidates=78 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:40"
+    },
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:50"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:55"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:10"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:15"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:25"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:40"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:55"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:45"
+    },
+    {
+      "d": "candidates=78 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "01:50"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "15:46",
+      "tid": "2107361409826988229",
+      "tone": "ok",
+      "ts": "2026-10-06T06:46:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 오늘 20:00·21:00에 진행될 새로운 방송을 알리는 내용이며, 기존에 예정된 방송을 취소하거나 일정 변경한다는 언급이 없으므로",
+      "member": "ritsu",
+      "t": "15:46",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-06T06:46:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "17:21",
+      "tid": "2107385557672489001",
+      "tone": "ok",
+      "ts": "2026-10-06T08:21:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "17:34",
+      "tid": "2107388961417248957",
+      "tone": "ok",
+      "ts": "2026-10-06T08:34:19Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "18:04",
+      "tid": "2107395586697920592",
+      "tone": "ok",
+      "ts": "2026-10-06T09:04:11Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "18:41",
+      "tid": "2107405789384380555",
+      "tone": "ok",
+      "ts": "2026-10-06T09:41:10Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "18:45",
+      "tid": "2107406844159488159",
+      "tone": "ok",
+      "ts": "2026-10-06T09:45:21Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 10/6(화) 22:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "member": "arale",
+      "t": "18:45",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-06T09:45:21Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:38",
+      "tid": "2107434569360449904",
+      "tone": "ok",
+      "ts": "2026-10-06T11:38:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 현재 진행 중인 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다",
+      "member": "nonoka",
+      "t": "20:38",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-06T11:38:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:01",
+      "tid": "2107441208641683916",
+      "tone": "ok",
+      "ts": "2026-10-06T12:01:55Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "21:01",
+      "tid": "2107441229449642212",
+      "tone": "ok",
+      "ts": "2026-10-06T12:01:59Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · ‘配信、はじめます！！！！’는 방송 시작을 알리는 내용으로, 취소나 일정 변경을 알리는 표현이 없기 때문입니다.",
+      "member": "ritsu",
+      "t": "21:01",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-06T12:01:59Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "21:26",
+      "tid": "2107447498981937238",
+      "tone": "ok",
+      "ts": "2026-10-06T12:26:58Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 10/6 22:30에 예정된 셀프네일 방송을 알리는 내용으로, 취소나 일정 변경을 언급하지 않는다.",
+      "member": "yuno",
+      "t": "21:26",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-06T12:26:58Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "21:57",
+      "tid": "2107455308931248173",
+      "tone": "ok",
+      "ts": "2026-10-06T12:57:58Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "22:24",
+      "tid": "2107461882357706873",
+      "tone": "ok",
+      "ts": "2026-10-06T13:24:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 현재 진행 중인 방송에 대한 진행 상황을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경을 언급하고 있지 않다.",
+      "member": "arale",
+      "t": "22:24",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-06T13:24:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "22:27",
+      "tid": "2107462795784835205",
+      "tone": "ok",
+      "ts": "2026-10-06T13:27:41Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "22:29",
+      "tid": "2107463317199724688",
+      "tone": "ok",
+      "ts": "2026-10-06T13:29:47Z",
+      "via": "ingest"
+    },
+    {
+      "d": "url-schedule skip: 이미 끝난 방송 yF_UhMTJu7g",
+      "member": "nonoka",
+      "t": "22:29",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-06T13:29:47Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글",
+      "src": "x",
+      "t": "12:56",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글",
+      "derived": true,
+      "src": "x",
+      "t": "12:56",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "13:30",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "15:46",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "16:06",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "17:03",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "17:04",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "src": "x",
+      "t": "17:19",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "17:21",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "17:34",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @gekirock 의 글",
+      "src": "x",
+      "t": "18:04",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "18:04",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "18:04",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "공식 스케줄 · 예고 5건",
+      "src": "x",
+      "t": "18:04",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "18:30",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "18:41",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "18:45",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "유튜브 tunein",
+      "src": "yt",
+      "t": "19:30",
+      "tone": "ok",
+      "who": "【メン限】りっちゃんズ集会🌸10月"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "20:38",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "20:39",
+      "tone": "ok",
+      "who": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "21:01",
+      "tone": "ok",
+      "who": "峰月律-Minetsuki Ritsu- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "21:02",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "21:02",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "21:27",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "유튜브 tunein",
+      "src": "yt",
+      "t": "21:33",
+      "tone": "ok",
+      "who": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "21:57",
+      "tone": "ok",
+      "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "21:58",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "22:24",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "22:27",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "22:30",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "22:32",
+      "tone": "ok",
+      "who": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 1,
+    "preview": 7,
+    "production": 2,
+    "total": 9
+  }
+}
