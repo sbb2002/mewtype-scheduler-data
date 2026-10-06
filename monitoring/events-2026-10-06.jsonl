@@ -83,3 +83,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T12:58:13Z", "who": "仲町あられ"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T13:00:00Z", "who": "jURR8qAZIM0"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_8cd58187", "result": "ok", "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "end", "ts": "2026-10-06T13:00:00Z", "video_id": "yF_UhMTJu7g", "who": "nonoka"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T13:24:07Z", "tweet_id": "2107461882357706873", "via": "ingest", "who": "arale"}
