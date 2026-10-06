@@ -76,3 +76,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "out", "ts": "2026-10-06T12:30:00Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-06T12:33:01Z", "who": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_e132f559", "result": "ok", "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-10-06T12:32:59Z", "video_id": "dEVAfIaGAJM", "who": "arale"}
+{"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-06T12:57:22Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
