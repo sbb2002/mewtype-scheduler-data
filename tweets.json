@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:41:10Z",
+  "generated_at": "2026-10-06T09:45:21Z",
   "tweets": {
     "arale": [
       {
@@ -87,6 +87,21 @@
         "text": "めろん…ぱん……あ……",
         "text_ko": "멜론…빵……아……",
         "url": "https://x.com/i/status/2107405789384380555"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-08T09:45:20Z",
+        "handle": "arale_yumemita",
+        "id": "2107406844159488159",
+        "media": [
+          "https://pbs.twimg.com/media/HT8DWrwaEAAS-48.jpg"
+        ],
+        "posted_at": "2026-10-06T09:45:20Z",
+        "quote": null,
+        "received_at": "2026-10-06T09:45:21Z",
+        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/6(火) 22:00〜┊#イ中田丁なう\n\n┊ メロンパンアイス ┊食！🍈🍞🍨✨️\n\n🔗 https://www.youtube.com/live/dEVAfIaGAJM",
+        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 10/6(화) 22:00〜┊#이중다정 나우\n\n┊ 멜론빵 아이스크림 ┊식!🍈🍞🍨✨️\n\n🔗 https://www.youtube.com/live/dEVAfIaGAJM",
+        "url": "https://x.com/i/status/2107406844159488159"
       }
     ],
     "miyako": [
