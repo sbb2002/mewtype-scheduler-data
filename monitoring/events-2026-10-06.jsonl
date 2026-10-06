@@ -25,3 +25,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:04:15Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @gekirock 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:04:12Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T09:04:11Z", "tweet_id": "2107395586697920592", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:04:22Z", "who": "宮永ののか🐰🩹"}
