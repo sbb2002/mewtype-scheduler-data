@@ -72,3 +72,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T12:26:58Z", "tweet_id": "2107447498981937238", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 10/6 22:30에 예정된 셀프네일 방송을 알리는 내용으로, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-06T12:26:58Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T12:27:16Z", "who": "千石ユノ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T12:30:00Z", "who": "2nznMoF9BF0"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "out", "ts": "2026-10-06T12:30:00Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
