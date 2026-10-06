@@ -11,3 +11,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T07:06:39Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-06T07:52:09Z", "who": "/admin"}
 {"detail": "banner mode: none · 메인테넌스 종료 및 보상 안내는 행사·가챠와 무관한 일반 공지이므로 action=none으로 판정했습니다.", "flow": "notice", "result": "ok", "ts": "2026-10-06T08:02:54Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T08:03:00Z", "who": "バンドリ！アワーノーツ"}
