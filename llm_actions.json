@@ -116,6 +116,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c0916aac4e",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HT7bwNmbAAAr5P-.jpg"
+        ],
+        "raw": "【Ver.1.0.5アップデートのお知らせ】\nVer.1.0.5の公開、及び強制アップデートを実施いたしました。\n\n通信環境のよい場所にて、アップデートをお願いいたします。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2107381452044476586"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "업데이트 공지이며 행사·가챠와 무관한 일반 안내이므로 배너에 아무 조치도 필요합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-06T08:04:27Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
