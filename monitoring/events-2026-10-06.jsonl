@@ -41,3 +41,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T09:45:21Z", "tweet_id": "2107406844159488159", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_e132f559", "result": "ok", "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-06T09:45:21Z", "video_id": "dEVAfIaGAJM", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 10/6(화) 22:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-06T09:45:21Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:45:41Z", "who": "仲町あられ"}
