@@ -106,3 +106,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_b9be6327", "result": "ok", "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-10-06T13:55:00Z", "video_id": "jURR8qAZIM0", "who": "ritsu"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T15:10:00Z", "who": "dEVAfIaGAJM"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_e132f559", "result": "ok", "title": "【🟡メロンパンアイス】作って食べながらざつだん！まったりおはなししよう【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-06T15:10:00Z", "video_id": "dEVAfIaGAJM", "who": "arale"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T15:15:00Z", "who": "dEVAfIaGAJM"}
