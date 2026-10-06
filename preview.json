@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-06T12:57:22Z",
+  "generated_at": "2026-10-06T12:57:58Z",
   "items": [
     {
       "actual_start": "2026-10-06T11:39:08Z",
@@ -127,7 +127,7 @@
       "assumed_live": false,
       "channel_key": "arale",
       "collab_with": null,
-      "concurrent_viewers": 165,
+      "concurrent_viewers": 205,
       "expires_at": "2026-10-06T16:00:00Z",
       "first_seen": "2026-10-06T09:45:21Z",
       "host": null,
@@ -135,7 +135,7 @@
       "info_at": "2026-10-06T09:45:21Z",
       "info_source": "personal",
       "kind": null,
-      "last_updated": "2026-10-06T12:57:22Z",
+      "last_updated": "2026-10-06T12:57:58Z",
       "membership": false,
       "scheduled_start": "2026-10-06T13:00:00Z",
       "source": "personal",
