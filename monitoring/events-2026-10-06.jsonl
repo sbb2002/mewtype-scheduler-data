@@ -33,3 +33,4 @@
 {"detail": "mode: added · 파싱 5건", "flow": "relay", "result": "ok", "ts": "2026-10-06T09:04:10Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 5건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:04:32Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner mode: none · 기존 진행 중인 이벤트에 대한 밸런스 안내이며 새로운 일정·가챠·곡 정보가 없으므로 배너 변경 없음", "flow": "notice", "result": "ok", "ts": "2026-10-06T09:30:07Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:30:15Z", "who": "バンドリ！アワーノーツ"}
