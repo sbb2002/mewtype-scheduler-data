@@ -38,3 +38,4 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_9fa24125", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "upcoming", "ts": "2026-10-06T09:40:02Z", "video_id": "2nznMoF9BF0", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T09:41:10Z", "tweet_id": "2107405789384380555", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T09:41:18Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T09:45:21Z", "tweet_id": "2107406844159488159", "via": "ingest", "who": "arale"}
