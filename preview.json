@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-06T13:32:09Z",
+  "generated_at": "2026-10-06T13:40:02Z",
   "items": [
     {
       "actual_start": "2026-10-06T12:57:05Z",
@@ -110,7 +110,6 @@
       "kind": "unknown",
       "last_updated": "2026-10-06T13:32:09Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-06T13:30:00Z",
       "search_checked": true,
       "source": "x-relay",
@@ -120,7 +119,7 @@
       "thumbnail": "https://i.ytimg.com/vi/suVCgyvD3Ks/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #셀프네일 】이번 주말은 13th LIVE! 반짝반짝 네일 할 거야!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=suVCgyvD3Ks",
       "video_id": "suVCgyvD3Ks"
     },
