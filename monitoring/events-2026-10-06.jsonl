@@ -58,3 +58,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_8cd58187", "result": "ok", "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "live", "ts": "2026-10-06T11:39:38Z", "video_id": "yF_UhMTJu7g", "who": "nonoka"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T11:40:00Z", "who": "jURR8qAZIM0"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_b9be6327", "result": "ok", "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-06T11:40:00Z", "video_id": "jURR8qAZIM0", "who": "ritsu"}
+{"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-06T11:40:05Z", "who": ""}
