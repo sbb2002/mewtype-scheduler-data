@@ -89,3 +89,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T13:25:00Z", "who": "jURR8qAZIM0"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_b9be6327", "result": "ok", "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-10-06T13:25:00Z", "video_id": "jURR8qAZIM0", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-06T13:27:41Z", "tweet_id": "2107462795784835205", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T13:27:50Z", "who": "峰月律"}
