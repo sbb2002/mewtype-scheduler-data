@@ -54,3 +54,5 @@
 {"detail": "broadcast-change none · 게시물은 현재 진행 중인 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다", "flow": "tweet", "result": "ok", "ts": "2026-10-06T11:38:03Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-06T11:38:35Z", "who": "宮永ののか🐰🩹"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-06T11:39:38Z", "who": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T11:39:38Z", "who": "yF_UhMTJu7g"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_8cd58187", "result": "ok", "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "live", "ts": "2026-10-06T11:39:38Z", "video_id": "yF_UhMTJu7g", "who": "nonoka"}
