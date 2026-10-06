@@ -96,3 +96,5 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T13:30:00Z", "who": "dEVAfIaGAJM"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_8cd58187", "result": "ok", "title": "【#アワーノーツ】ののユノSSR両方引くまで日本語禁止！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "out", "ts": "2026-10-06T13:30:00Z", "video_id": "yF_UhMTJu7g", "who": "nonoka"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-06T13:32:00Z", "who": ""}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-06T13:32:09Z", "who": "suVCgyvD3Ks"}
+{"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_068b05be", "result": "ok", "title": "【 #セルフネイル 】今週末は13th LIVE！キラキラネイルするよ！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-06T13:32:09Z", "video_id": "suVCgyvD3Ks", "who": "yuno"}
