@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-07T13:31:59Z",
+  "generated_at": "2026-10-07T13:40:02Z",
   "items": [
     {
       "actual_start": "2026-10-07T13:05:59Z",
@@ -109,7 +109,6 @@
       "kind": "talk",
       "last_updated": "2026-10-07T13:31:59Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-07T13:30:00Z",
       "search_checked": true,
       "source": "x-relay",
@@ -119,7 +118,7 @@
       "thumbnail": "https://i.ytimg.com/vi/ky3mits82Qw/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【雑談】くるくるしゃべ太郎/ガムトーク【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
-      "title_ko": null,
+      "title_ko": "【잡담】쿠루쿠루 말해타로/껌 토크【무겐다이 뮤타입/후지츠코】#shorts #세로형방송 #vtuber",
       "url": "https://www.youtube.com/watch?v=ky3mits82Qw",
       "video_id": "ky3mits82Qw"
     },
