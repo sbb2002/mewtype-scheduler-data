@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:03:02Z",
+  "generated_at": "2026-10-07T22:03:20Z",
   "tweets": {
     "arale": [
       {
@@ -96,6 +96,21 @@
         "text": "明日〜は朝活6:30！\nおやすみ〜🌃",
         "text_ko": "내일~은 아침 활동 6시 30분!  \n잘 자요~🌃",
         "url": "https://x.com/i/status/2107849170073829649"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-09T21:34:35Z",
+        "handle": "arale_yumemita",
+        "id": "2107947721445556667",
+        "media": [
+          "https://pbs.twimg.com/media/HUDvQkPaQAAAqrd.jpg"
+        ],
+        "posted_at": "2026-10-07T21:34:35Z",
+        "quote": null,
+        "received_at": "2026-10-07T22:03:20Z",
+        "text": "❑ ━━━ 配信開始！！ ━━━ ❑\n\n┊ 10/8(木) 6:30〜┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 https://youtube.com/live/9ViQbE7YLtg",
+        "text_ko": "❑ ━━━ 방송 시작!! ━━━ ❑\n\n┊ 10/8(목) 6:30〜┊#イ中田丁なう\n\n┊ 아침 활동 ┊잘 다녀오세요와 작별 인사☀️\n\n🔗 https://youtube.com/live/9ViQbE7YLtg",
+        "url": "https://x.com/i/status/2107947721445556667"
       }
     ],
     "miyako": [
