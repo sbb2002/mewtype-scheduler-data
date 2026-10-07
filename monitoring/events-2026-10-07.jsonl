@@ -25,3 +25,4 @@
 {"detail": "retweet skip: 폰 원문이 @payupayu589 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-07T12:01:49Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T12:01:55Z", "who": "峰月律"}
 {"detail": "retweet skip: 폰 원문이 @donquipanties99 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-07T12:01:48Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T12:01:59Z", "who": "峰月律"}
