@@ -3,3 +3,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T03:09:42Z", "who": "藤都子"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T03:09:42Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-07T05:21:26Z", "tweet_id": "2107697962944258397", "via": "ingest", "who": "ritsu"}
+{"detail": "broadcast-change none · 게시물에 일정 변경이나 취소를 알리는 표현이 없고, 기존 방송 시간과 동일하게 22:00에 진행한다고만 안내하고 있다.", "flow": "tweet", "result": "ok", "ts": "2026-10-07T05:21:26Z", "via": "ingest", "who": "ritsu"}
