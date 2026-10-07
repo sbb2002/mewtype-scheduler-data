@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-07T21:32:09Z",
+  "generated_at": "2026-10-07T21:40:02Z",
   "items": [
     {
       "actual_start": "2026-10-07T21:31:50Z",
@@ -81,7 +81,6 @@
       "kind": "morning",
       "last_updated": "2026-10-07T21:32:09Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-07T21:30:00Z",
       "search_checked": true,
       "source": "x-relay",
@@ -91,7 +90,7 @@
       "thumbnail": "https://i.ytimg.com/vi/9ViQbE7YLtg/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡朝活】今週末は13th...！！🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡아침활동】이번 주말은 13th...!!🌟 #Shorts #Vtuber 【 仲町あ라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=9ViQbE7YLtg",
       "video_id": "9ViQbE7YLtg"
     },
