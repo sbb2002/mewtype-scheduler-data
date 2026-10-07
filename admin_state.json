@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 yuno (4uLjfoE58mU)",
-    "at": "2026-10-07T11:06:36Z",
+    "action": "URL 확정 예고 ritsu (gCuTCjPha8k)",
+    "at": "2026-10-07T13:06:27Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "4906706c972139703c9d5cbe62ba57628add78af",
+    "new_sha": "07322a902dd5388d86bdd3dac3ab31d06693a1be",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-07T09:30:04Z",
+      "generated_at": "2026-10-07T12:40:00Z",
       "items": [
         {
           "actual_start": null,
@@ -117,13 +117,13 @@
           "info_at": null,
           "info_source": "api",
           "kind": "game",
-          "last_updated": "2026-10-07T09:30:04Z",
+          "last_updated": "2026-10-07T12:40:00Z",
           "membership": false,
           "scheduled_start": "2026-10-07T13:00:00Z",
           "source": "api",
           "src_url": "https://x.com/i/status/2107697962944258397",
-          "state": "upcoming",
-          "state_since": "2026-10-06T13:50:02Z",
+          "state": "watching",
+          "state_since": "2026-10-07T12:40:00Z",
           "thumbnail": "https://i.ytimg.com/vi/gCuTCjPha8k/maxresdefault_live.jpg",
           "time_tbd": false,
           "title": "【バンドリ！アワーノーツ】SR峰月律を完凸させたい！音ゲー極めたい！【峰月律/ゆめみた】#アワーノーツ",
@@ -145,7 +145,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-06T16:45:02Z",
+          "last_updated": "2026-10-07T12:40:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -173,7 +173,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-06T16:45:02Z",
+          "last_updated": "2026-10-07T12:40:00Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -243,6 +243,34 @@
           "title_ko": null,
           "url": null,
           "video_id": null
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "yuno",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": null,
+          "first_seen": "2026-10-07T11:06:36Z",
+          "host": null,
+          "id": "pv_1b13b76a",
+          "info_at": "2026-10-07T11:06:36Z",
+          "info_source": "personal",
+          "kind": null,
+          "last_updated": "2026-10-07T12:40:00Z",
+          "membership": false,
+          "scheduled_start": null,
+          "source": "personal",
+          "src_url": "https://x.com/i/status/2107789284669526481",
+          "state": "announced",
+          "state_since": "2026-10-07T11:06:36Z",
+          "thumbnail": "https://i.ytimg.com/vi/4uLjfoE58mU/maxresdefault.jpg",
+          "time_tbd": false,
+          "title": "TearJerkerを弾いてみたよ #バンドリ #ゆめみた",
+          "title_ko": "TearJerker를 연주해봤어 #뱅드림 #ゆめみた",
+          "url": "https://www.youtube.com/watch?v=4uLjfoE58mU",
+          "video_id": "4uLjfoE58mU"
         }
       ]
     }
