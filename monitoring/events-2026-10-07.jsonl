@@ -36,3 +36,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-07T13:06:27Z", "tweet_id": "2107819832091795965", "via": "ingest", "who": "ritsu"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_7f3a9e18", "result": "ok", "title": "【バンドリ！アワーノーツ】SR峰月律を完凸させたい！音ゲー極めたい！【峰月律/ゆめみた】#アワーノーツ", "to_state": "live", "ts": "2026-10-07T13:06:27Z", "video_id": "gCuTCjPha8k", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T13:06:58Z", "who": "峰月律"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-07T13:32:00Z", "who": ""}
