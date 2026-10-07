@@ -7,3 +7,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T05:21:44Z", "who": "峰月律"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-07T07:39:25Z", "who": "/admin"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_11e3866f", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-07T07:43:10Z", "video_id": null, "who": "miyako"}
+{"collab_with": null, "detail": "admin 삭제 nonoka pv_c7ad7d3b · upcoming→out", "flow": "preview", "from_state": "upcoming", "id": "pv_c7ad7d3b", "result": "ok", "title": "※ののらーしゅうかいかいじょう", "to_state": "out", "ts": "2026-10-07T07:43:49Z", "video_id": "2Q5A9SWgHtA", "who": "nonoka"}
