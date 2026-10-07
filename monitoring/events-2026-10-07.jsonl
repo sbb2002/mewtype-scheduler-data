@@ -62,3 +62,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T15:03:11Z", "who": "仲町あられ"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T15:05:00Z", "who": "ky3mits82Qw"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_767ec6d1", "result": "ok", "title": "【雑談】くるくるしゃべ太郎/ガムトーク【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "out", "ts": "2026-10-07T15:05:00Z", "video_id": "ky3mits82Qw", "who": "miyako"}
+{"collab_with": null, "detail": "admin 삭제 yuno pv_1b13b76a · announced→out", "flow": "preview", "from_state": "announced", "id": "pv_1b13b76a", "result": "ok", "title": "TearJerkerを弾いてみたよ #バンドリ #ゆめみた", "to_state": "out", "ts": "2026-10-07T15:28:03Z", "video_id": "4uLjfoE58mU", "who": "yuno"}
