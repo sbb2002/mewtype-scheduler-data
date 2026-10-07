@@ -2,3 +2,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T21:32:09Z", "who": "9ViQbE7YLtg"}
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_4e6277a5", "result": "ok", "title": "【🟡朝活】今週末は13th...！！🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-07T21:32:09Z", "video_id": "9ViQbE7YLtg", "who": "arale"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-07T21:32:16Z", "who": "【🟡朝活】今週末は13th...！！🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-07T21:40:02Z", "who": ""}
