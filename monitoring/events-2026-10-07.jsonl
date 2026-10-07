@@ -1,2 +1,3 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-07T03:09:25Z", "tweet_id": "2107667244830372262", "via": "ingest", "who": "miyako"}
 {"detail": "banner mode: none · 기존 배너와 동일한 행사이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-07T03:09:26Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T03:09:42Z", "who": "藤都子"}
