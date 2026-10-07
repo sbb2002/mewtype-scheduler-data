@@ -350,6 +350,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_54b033f077",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信開始！！ ━━━ ❑\n\n┊ 10/8(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 https://youtube.com/live/9ViQbE7YLtg",
+        "tag": "p#https://x.com/#1tweet-2107947721445556667"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/8 6:30에 시작하는 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-07T22:03:20Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
