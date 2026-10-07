@@ -28,3 +28,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T12:01:59Z", "who": "峰月律"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-07T12:24:35Z", "who": "/admin"}
 {"detail": "retweet skip: 폰 원문이 @akiba_gema 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-07T12:31:45Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T12:31:47Z", "who": "宮永ののか🐰🩹"}
