@@ -12,3 +12,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @gekirock 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T09:28:59Z", "who": "夢限大みゅーたいぷ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_767ec6d1", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-07T09:30:04Z", "video_id": null, "who": "miyako"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_4e6277a5", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-07T09:30:04Z", "video_id": null, "who": "arale"}
+{"detail": "mode: added · 파싱 3건", "flow": "relay", "result": "ok", "ts": "2026-10-07T09:30:04Z", "via": "ingest", "who": ""}
