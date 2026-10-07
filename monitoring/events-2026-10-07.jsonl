@@ -51,3 +51,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T14:17:36Z", "who": "峰月律"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T14:35:00Z", "who": "gCuTCjPha8k"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_767ec6d1", "result": "ok", "title": "【雑談】くるくるしゃべ太郎/ガムトーク【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "end", "ts": "2026-10-07T14:35:00Z", "video_id": "ky3mits82Qw", "who": "miyako"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T14:40:00Z", "who": "ky3mits82Qw"}
