@@ -4,19 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-07T16:22:26Z",
-        "handle": "arale_yumemita",
-        "id": "2107144393010647259",
-        "media": [],
-        "posted_at": "2026-10-05T16:22:26Z",
-        "quote": null,
-        "received_at": "2026-10-05T16:22:32Z",
-        "text": "おやすま🌃",
-        "text_ko": "잘 자🌃",
-        "url": "https://x.com/i/status/2107144393010647259"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-08T09:41:08Z",
         "handle": "arale_yumemita",
         "id": "2107405789384380555",
@@ -246,19 +233,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-07T15:38:57Z",
-        "handle": "ritsu_yumemita",
-        "id": "2107133448486093304",
-        "media": [],
-        "posted_at": "2026-10-05T15:38:57Z",
-        "quote": null,
-        "received_at": "2026-10-05T15:39:03Z",
-        "text": "みんなの優しさに泣いた\nいつもありがとう、またあした！\nいや、また今日！おやすみなさい",
-        "text_ko": "모두의 친절함에 눈물이 났어요\n항상 고마워, 내일 또 봐요!\n아니, 오늘도! 안녕히 주무세요",
-        "url": "https://x.com/i/status/2107133448486093304"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-08T06:44:47Z",
