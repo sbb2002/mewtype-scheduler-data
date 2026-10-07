@@ -45,3 +45,5 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-07T13:40:02Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-07T14:03:15Z", "tweet_id": "2107834130239197292", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T14:03:29Z", "who": "仲町あられ"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T14:15:00Z", "who": "gCuTCjPha8k"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_7f3a9e18", "result": "ok", "title": "【バンドリ！アワーノーツ】SR峰月律を完凸させたい！音ゲー極めたい！【峰月律/ゆめみた】#アワーノーツ", "to_state": "end", "ts": "2026-10-07T14:15:00Z", "video_id": "gCuTCjPha8k", "who": "ritsu"}
