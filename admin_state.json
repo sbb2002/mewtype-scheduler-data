@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "admin 개인 예고 miyako",
-    "at": "2026-10-07T07:43:10Z",
+    "action": "admin 삭제 nonoka pv_c7ad7d3b",
+    "at": "2026-10-07T07:43:49Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "6e063e83c9df41cf75d41cbc685461ddaf6eca2e",
+    "new_sha": "b1c2b555eff75a2c124205dbbf48d54997ae655e",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-07T05:21:26Z",
+      "generated_at": "2026-10-07T07:43:10Z",
       "items": [
         {
           "actual_start": null,
@@ -212,6 +212,34 @@
           "title_ko": "※노노라 슈카이 회장",
           "url": "https://www.youtube.com/watch?v=2Q5A9SWgHtA",
           "video_id": "2Q5A9SWgHtA"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "miyako",
+          "collab_with": [],
+          "concurrent_viewers": null,
+          "expires_at": "2026-10-07T16:30:00Z",
+          "first_seen": "2026-10-07T07:43:10Z",
+          "host": null,
+          "id": "pv_11e3866f",
+          "info_at": "2026-10-07T03:00:04Z",
+          "info_source": "personal",
+          "kind": "talk",
+          "last_updated": "2026-10-07T07:43:10Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-10-07T13:30:00Z",
+          "source": "manual",
+          "state": "announced",
+          "state_since": "2026-10-07T07:43:10Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": null,
+          "video_id": null
         }
       ]
     }
