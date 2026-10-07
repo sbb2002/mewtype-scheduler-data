@@ -19,3 +19,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-07T11:06:36Z", "tweet_id": "2107789284669526481", "via": "ingest", "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_1b13b76a", "result": "ok", "title": "TearJerkerを弾いてみたよ #バンドリ #ゆめみた", "to_state": "announced", "ts": "2026-10-07T11:06:36Z", "video_id": "4uLjfoE58mU", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T11:06:56Z", "who": "千石ユノ"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-07T11:10:01Z", "who": ""}
