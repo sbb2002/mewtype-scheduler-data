@@ -331,6 +331,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_377062c979",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【今日の配信】 \n🩵 ･･････････････････････ 🩵 \n\n今夜22:00~\n#アワーノーツ 峰月律を峰月律が完凸させたい！\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/gCuTCjPha8k?si=LMzghRPrWn2yBvAL\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2107697962944258397"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 일정 변경이나 취소를 알리는 표현이 없고, 기존 방송 시간과 동일하게 22:00에 진행한다고만 안내하고 있다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-07T05:21:26Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
