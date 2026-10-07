@@ -42,3 +42,4 @@
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_767ec6d1", "result": "ok", "title": "【雑談】くるくるしゃべ太郎/ガムトーク【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "live", "ts": "2026-10-07T13:32:19Z", "video_id": "ky3mits82Qw", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T13:32:32Z", "who": "藤都子"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-07T13:32:40Z", "who": "【雑談】くるくるしゃべ太郎/ガムトーク【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-07T13:40:02Z", "who": ""}
