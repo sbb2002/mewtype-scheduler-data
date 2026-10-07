@@ -312,6 +312,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ac49a0332b",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/7(水)22:30～雑談\nくるくるしゃべ太郎が\nやってくるくる♪\n\n👄ガムトーク👄\n引いたカードのお題に沿って\nふり～と～きんぐ♪\n\n配信URLは直前についーよします🔔\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2107667244830372262"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 💜配信よてい💜\n10/7(水)22:30～雑談\nくるくるしゃべ太郎が\nやってくるくる♪\n\n👄ガムトーク👄\n引いたカードの",
+      "ts": "2026-10-07T03:09:25Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
