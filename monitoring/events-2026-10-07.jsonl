@@ -21,3 +21,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T11:06:56Z", "who": "千石ユノ"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-07T11:10:01Z", "who": ""}
 {"detail": "retweet skip: 폰 원문이 @O1O4__aa 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-07T12:01:48Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T12:01:50Z", "who": "峰月律"}
