@@ -293,6 +293,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_058e61dbc5",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "チャレンジライブイベント「アイの奔流 AtoZ」開催中！\n\nイベントptの累計報酬として、SRメンバー峰月 律が登場！\nまた交換所ではイベントバッジを使用し、都子＆律のSRスナップと交換できますよ💫\n\nイベントは明日の20:59まで！お見逃しなく✨\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2107667236945309914"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 행사이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음 — アイの奔流 AtoZ",
+      "ts": "2026-10-07T03:09:26Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
