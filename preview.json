@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-07T11:06:36Z",
+  "generated_at": "2026-10-07T11:10:01Z",
   "items": [
     {
       "actual_start": null,
@@ -222,7 +222,6 @@
       "kind": null,
       "last_updated": "2026-10-07T11:06:36Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": null,
       "source": "personal",
       "src_url": "https://x.com/i/status/2107789284669526481",
@@ -231,7 +230,7 @@
       "thumbnail": "https://i.ytimg.com/vi/4uLjfoE58mU/maxresdefault.jpg",
       "time_tbd": false,
       "title": "TearJerkerを弾いてみたよ #バンドリ #ゆめみた",
-      "title_ko": null,
+      "title_ko": "TearJerker를 연주해봤어 #뱅드림 #ゆめみた",
       "url": "https://www.youtube.com/watch?v=4uLjfoE58mU",
       "video_id": "4uLjfoE58mU"
     }
