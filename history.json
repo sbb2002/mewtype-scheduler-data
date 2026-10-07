@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "delete_preview",
+      "error": null,
+      "id": "039a996ea5",
+      "job_id": null,
+      "ok": true,
+      "summary": "nonoka ※ののらーしゅうかいかいじょう",
+      "target": "pv_c7ad7d3b",
+      "ts": "2026-10-07T07:43:55Z"
+    },
+    {
       "action": "ingest_preview",
       "error": null,
       "id": "17d18a71ca",
