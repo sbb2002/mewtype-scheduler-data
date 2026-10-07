@@ -54,3 +54,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T14:40:00Z", "who": "ky3mits82Qw"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T14:45:00Z", "who": "ky3mits82Qw"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_7f3a9e18", "result": "ok", "title": "【バンドリ！アワーノーツ】SR峰月律を完凸させたい！音ゲー極めたい！【峰月律/ゆめみた】#アワーノーツ", "to_state": "out", "ts": "2026-10-07T14:45:00Z", "video_id": "gCuTCjPha8k", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-07T14:46:14Z", "tweet_id": "2107844802113077498", "via": "ingest", "who": "miyako"}
