@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "ingest_preview",
+      "error": null,
+      "id": "17d18a71ca",
+      "job_id": null,
+      "ok": true,
+      "summary": "개인 예고(URL 없음)",
+      "target": "miyako",
+      "ts": "2026-10-07T07:43:16Z"
+    },
+    {
       "action": "edit_preview",
       "error": null,
       "id": "91879e9ac7",
