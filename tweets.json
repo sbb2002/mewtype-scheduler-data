@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:03:15Z",
+  "generated_at": "2026-10-07T14:17:28Z",
   "tweets": {
     "arale": [
       {
@@ -309,6 +309,22 @@
         "text": "おまたせしましたはじめます！",
         "text_ko": "잠시 기다리게 해서 죄송합니다. 시작합니다!",
         "url": "https://x.com/i/status/2107819832091795965"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-09T14:15:48Z",
+        "handle": "ritsu_yumemita",
+        "id": "2107837300260712809",
+        "media": [
+          "https://pbs.twimg.com/media/HUCK2ika8AEMOj1.jpg"
+        ],
+        "needs_tl": true,
+        "posted_at": "2026-10-07T14:15:48Z",
+        "quote": null,
+        "received_at": "2026-10-07T14:17:28Z",
+        "text": "無事に、完凸峰月律をゲットしました！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！\n編み込み赤ちゃんだ！！！！！！！！",
+        "text_ko": null,
+        "url": "https://x.com/i/status/2107837300260712809"
       }
     ],
     "yuno": [
