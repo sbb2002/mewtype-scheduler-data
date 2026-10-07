@@ -3,6 +3,16 @@
     {
       "action": "delete_preview",
       "error": null,
+      "id": "4723a6010a",
+      "job_id": null,
+      "ok": true,
+      "summary": "yuno TearJerkerを弾いてみたよ #バンドリ #ゆめみた",
+      "target": "pv_1b13b76a",
+      "ts": "2026-10-07T15:28:09Z"
+    },
+    {
+      "action": "delete_preview",
+      "error": null,
       "id": "039a996ea5",
       "job_id": null,
       "ok": true,
