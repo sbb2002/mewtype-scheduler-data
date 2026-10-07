@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-07T23:30:00Z",
+  "generated_at": "2026-10-07T23:35:00Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-07T23:30:00Z",
+      "last_updated": "2026-10-07T23:35:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -107,7 +107,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-07T23:30:00Z",
+      "last_updated": "2026-10-07T23:35:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -134,7 +134,7 @@
       "info_at": "2026-10-07T09:30:04Z",
       "info_source": "x-relay",
       "kind": "morning",
-      "last_updated": "2026-10-07T23:30:00Z",
+      "last_updated": "2026-10-07T23:35:00Z",
       "membership": false,
       "scheduled_start": "2026-10-07T21:30:00Z",
       "search_checked": true,
@@ -142,7 +142,7 @@
       "src_url": "https://x.com/i/status/2107765378709422325",
       "state": "end",
       "state_since": "2026-10-07T23:30:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/9ViQbE7YLtg/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/9ViQbE7YLtg/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【🟡朝活】今週末は13th...！！🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
       "title_ko": "【🟡아침활동】이번 주말은 13th...!!🌟 #Shorts #Vtuber 【 仲町あ라레 / 무겐다이 뮤타입 】",
