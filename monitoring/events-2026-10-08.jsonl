@@ -6,3 +6,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-07T22:03:20Z", "tweet_id": "2107947721445556667", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 10/8 6:30에 시작하는 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-07T22:03:20Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-07T22:03:43Z", "who": "仲町あられ"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-07T23:30:00Z", "who": "9ViQbE7YLtg"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_4e6277a5", "result": "ok", "title": "【🟡朝活】今週末は13th...！！🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-07T23:30:00Z", "video_id": "9ViQbE7YLtg", "who": "arale"}
