@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:45:00Z",
+  "generated_at": "2026-10-07T15:05:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2214,6 +2214,36 @@
       "title_ko": "【뱅드림! 아워노츠】SR峰月律을 완전 강화하고 싶어! 리듬게임을 정복하고 싶어!【峰月律/유메미타】#아워노츠",
       "url": "https://www.youtube.com/watch?v=gCuTCjPha8k",
       "video_id": "gCuTCjPha8k"
+    },
+    {
+      "actual_start": "2026-10-07T13:31:28Z",
+      "api_start_seen": "2026-10-07T13:31:07Z",
+      "archived_at": "2026-10-07T15:05:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 708,
+      "expires_at": "2026-10-07T16:30:00Z",
+      "first_seen": "2026-10-07T09:30:04Z",
+      "host": null,
+      "id": "pv_767ec6d1",
+      "info_at": "2026-10-07T09:30:04Z",
+      "info_source": "x-relay",
+      "kind": "talk",
+      "last_updated": "2026-10-07T15:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-07T13:30:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2107765378709422325",
+      "state": "out",
+      "state_since": "2026-10-07T15:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/ky3mits82Qw/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【雑談】くるくるしゃべ太郎/ガムトーク【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
+      "title_ko": "【잡담】쿠루쿠루 말해타로/껌 토크【무겐다이 뮤타입/후지츠코】#shorts #세로형방송 #vtuber",
+      "url": "https://www.youtube.com/watch?v=ky3mits82Qw",
+      "video_id": "ky3mits82Qw"
     }
   ]
 }
