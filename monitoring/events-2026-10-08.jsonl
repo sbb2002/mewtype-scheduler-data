@@ -27,3 +27,4 @@
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-08T05:14:36Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T05:14:37Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T05:56:43Z", "tweet_id": "2108074061884801297", "via": "ingest", "who": "ritsu"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_e9849df7", "result": "ok", "title": "【#歌枠 】アニソン大盛で、いかせていただきます【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-08T05:56:43Z", "video_id": "QHvPTjoCcPk", "who": "ritsu"}
