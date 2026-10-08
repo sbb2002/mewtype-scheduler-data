@@ -106,3 +106,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:09:20Z", "tweet_id": "2108196478749642964", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 7시 방송을 알리는 예고이며 취소나 일정 변경을 언급하지 않아", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:09:20Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T14:09:42Z", "who": "峰月律"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T14:10:00Z", "who": "IN5AqR1WQt0"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_7d62c656", "result": "ok", "title": "バンドリ！TV LIVE 2026 #335", "to_state": "end", "ts": "2026-10-08T14:10:00Z", "video_id": "IN5AqR1WQt0", "who": "nonoka"}
