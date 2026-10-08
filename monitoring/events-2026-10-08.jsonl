@@ -14,3 +14,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-08T00:16:47Z", "who": "/admin"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T00:47:28Z", "tweet_id": "2107996239858208983", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T00:47:36Z", "who": "藤都子"}
+{"detail": "retweet skip: 폰 원문이 @kuunerin 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T01:55:34Z", "via": "ingest", "who": "nonoka"}
