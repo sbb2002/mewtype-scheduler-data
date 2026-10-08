@@ -95,3 +95,4 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_45b41a1d", "result": "ok", "title": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-08T13:14:51Z", "video_id": "e7o58qBi89s", "who": "ritsu"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T13:30:00Z", "who": "IN5AqR1WQt0"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_e9849df7", "result": "ok", "title": "【#歌枠 】アニソン大盛で、いかせていただきます【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-10-08T13:30:00Z", "video_id": "QHvPTjoCcPk", "who": "ritsu"}
+{"detail": "retweet skip: 폰 원문이 @iid_animedia 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T13:44:28Z", "via": "ingest", "who": "miyako"}
