@@ -369,6 +369,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_d3bbab472b",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n今夜　𝗦𝗧𝗔𝗥𝗧 21:00～\n\nアニソン大盛歌枠!もりもり!!!!!!!\n\n↻ ＵＲＬ\nhttps://youtube.com/live/QHvPTjoCcPk?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2108074061884801297"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:00에 시작하는 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-08T05:56:43Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
