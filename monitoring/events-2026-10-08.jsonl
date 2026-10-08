@@ -58,3 +58,4 @@
 {"detail": "banner mode: none · 글이 새로운 행사나 가챠 정보를 포함하지 않고 단순히 곡 추가 안내이므로 배너에 아무 조치도 필요합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-08T12:00:15Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:00:23Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:00:44Z", "tweet_id": "2108165685360939318", "via": "ingest", "who": "ritsu"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_e9849df7", "result": "ok", "title": "【#歌枠 】アニソン大盛で、いかせていただきます【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-08T12:00:44Z", "video_id": "QHvPTjoCcPk", "who": "ritsu"}
