@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-08T14:10:00Z",
+  "generated_at": "2026-10-08T14:20:10Z",
   "items": [
     {
       "actual_start": null,
@@ -175,6 +175,35 @@
       "title": null,
       "title_ko": null,
       "url": null,
+      "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-15T16:00:00Z",
+      "first_seen": "2026-10-08T14:20:10Z",
+      "host": "group",
+      "id": "pv_7688bfb3",
+      "info_at": "2026-10-08T14:20:10Z",
+      "info_source": "x-relay",
+      "kind": "collab",
+      "last_updated": "2026-10-08T14:20:10Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-15T13:00:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2108198521010868336",
+      "state": "announced",
+      "state_since": "2026-10-08T14:20:10Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": "バンドリTVLIVE 2026",
+      "title_ko": null,
+      "url": "https://www.youtube.com/live/YUB5qGbmzHs",
       "video_id": null
     },
     {
