@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (QHvPTjoCcPk)",
-    "at": "2026-10-08T05:56:43Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-10-08T10:00:10Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "86b4c3bc870c12e4cfab351067d581918a6b89f8",
+    "new_sha": "1b7ee7118aa1a3f614e8997c72c237bcf292ab4c",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,8 +101,36 @@
           ]
         }
       },
-      "generated_at": "2026-10-08T00:00:00Z",
+      "generated_at": "2026-10-08T06:00:02Z",
       "items": [
+        {
+          "actual_start": null,
+          "api_start_seen": "2026-10-08T12:00:00Z",
+          "assumed_live": false,
+          "channel_key": "ritsu",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-10-08T15:00:00Z",
+          "first_seen": "2026-10-08T05:56:43Z",
+          "host": null,
+          "id": "pv_e9849df7",
+          "info_at": "2026-10-08T05:56:43Z",
+          "info_source": "personal",
+          "kind": null,
+          "last_updated": "2026-10-08T05:56:43Z",
+          "membership": false,
+          "scheduled_start": "2026-10-08T12:00:00Z",
+          "source": "personal",
+          "src_url": "https://x.com/i/status/2108074061884801297",
+          "state": "upcoming",
+          "state_since": "2026-10-08T05:56:43Z",
+          "thumbnail": "https://i.ytimg.com/vi/QHvPTjoCcPk/maxresdefault_live.jpg",
+          "time_tbd": false,
+          "title": "【#歌枠 】アニソン大盛で、いかせていただきます【峰月律/ゆめみた】",
+          "title_ko": "【#노래방】 애니송 대잔치로, 진행하겠습니다【峰月律/ゆめみた】",
+          "url": "https://www.youtube.com/watch?v=QHvPTjoCcPk",
+          "video_id": "QHvPTjoCcPk"
+        },
         {
           "actual_start": null,
           "api_start_seen": "2026-12-24T14:59:00Z",
