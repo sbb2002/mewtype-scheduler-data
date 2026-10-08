@@ -625,6 +625,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_855f992eb8",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/8 23:30～ #APEX \n\nカスタムで遊びます！\n今日は縛りカスタムもしようかな！",
+        "tag": "p#https://x.com/#1tweet-2108198319638069329"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 〈配信のおしらせ〉\n10/8 23:30～ #APEX \n\nカスタムで遊びます！\n今日は縛りカスタムもしようかな！",
+      "ts": "2026-10-08T14:20:10Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
