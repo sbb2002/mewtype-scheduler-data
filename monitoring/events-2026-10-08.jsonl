@@ -138,3 +138,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T14:40:00Z", "who": "IN5AqR1WQt0"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_7d62c656", "result": "ok", "title": "バンドリ！TV LIVE 2026 #335", "to_state": "out", "ts": "2026-10-08T14:40:00Z", "video_id": "IN5AqR1WQt0", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T15:21:41Z", "tweet_id": "2108216241735512562", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T15:21:53Z", "who": "宮永ののか🐰🩹"}
