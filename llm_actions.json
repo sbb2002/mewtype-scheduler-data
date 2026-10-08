@@ -663,6 +663,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_db96ce3c56",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/9 11:00頃～ #ヴァンガード 開封\n\n今回は 【2カートン】 開封します！\n久々のカートン！どきどきです！\n\n狙いはもちろん…？\nみんなも一緒に開封しよー！\n\nhttps://www.youtube.com/live/XVJU08W_l8g?si=u22pHJYtnNNPwSY5",
+        "tag": "p#https://x.com/#1tweet-2108334977779892267"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/9 11:00에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-08T23:13:31Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
