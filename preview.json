@@ -109,7 +109,6 @@
       "kind": null,
       "last_updated": "2026-10-08T13:14:51Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-08T22:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -117,7 +116,7 @@
       "thumbnail": "https://i.ytimg.com/vi/e7o58qBi89s/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【아침활동】안녕 리짱☀ 7번째!【峰月律/유메미타】",
       "url": "https://www.youtube.com/watch?v=e7o58qBi89s",
       "video_id": "e7o58qBi89s"
     },
