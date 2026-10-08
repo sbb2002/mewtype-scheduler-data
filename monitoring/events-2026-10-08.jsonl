@@ -104,3 +104,4 @@
 {"detail": "banner mode: none · 글이 생방송 안내이며 행사·가챠와 무관한 일반 공지이므로 none으로 판정한다.", "flow": "notice", "result": "ok", "ts": "2026-10-08T13:58:22Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T13:58:28Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:09:20Z", "tweet_id": "2108196478749642964", "via": "ingest", "who": "ritsu"}
+{"detail": "broadcast-change none · 게시물은 7시 방송을 알리는 예고이며 취소나 일정 변경을 언급하지 않아", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:09:20Z", "via": "ingest", "who": "ritsu"}
