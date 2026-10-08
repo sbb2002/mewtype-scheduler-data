@@ -11,3 +11,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T23:10:00Z", "who": "e7o58qBi89s"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_45b41a1d", "result": "ok", "title": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-10-08T23:10:00Z", "video_id": "e7o58qBi89s", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T23:13:31Z", "tweet_id": "2108334977779892267", "via": "ingest", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물은 10/9 11:00에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다", "flow": "tweet", "result": "ok", "ts": "2026-10-08T23:13:31Z", "via": "ingest", "who": "yuno"}
