@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:05:00Z",
+  "generated_at": "2026-10-08T00:00:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2244,6 +2244,36 @@
       "title_ko": "【잡담】쿠루쿠루 말해타로/껌 토크【무겐다이 뮤타입/후지츠코】#shorts #세로형방송 #vtuber",
       "url": "https://www.youtube.com/watch?v=ky3mits82Qw",
       "video_id": "ky3mits82Qw"
+    },
+    {
+      "actual_start": "2026-10-07T21:31:50Z",
+      "api_start_seen": "2026-10-07T21:31:34Z",
+      "archived_at": "2026-10-08T00:00:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 565,
+      "expires_at": "2026-10-08T00:30:00Z",
+      "first_seen": "2026-10-07T09:30:04Z",
+      "host": null,
+      "id": "pv_4e6277a5",
+      "info_at": "2026-10-07T09:30:04Z",
+      "info_source": "x-relay",
+      "kind": "morning",
+      "last_updated": "2026-10-08T00:00:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-07T21:30:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2107765378709422325",
+      "state": "out",
+      "state_since": "2026-10-08T00:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/9ViQbE7YLtg/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡朝活】今週末は13th...！！🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡아침활동】이번 주말은 13th...!!🌟 #Shorts #Vtuber 【 仲町あ라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=9ViQbE7YLtg",
+      "video_id": "9ViQbE7YLtg"
     }
   ]
 }
