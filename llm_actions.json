@@ -410,6 +410,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_32c769c7f6",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUG05ITaoAAqiB7.jpg"
+        ],
+        "raw": "【お知らせ】\n10月9日(金)15:00から開催予定の次回イベントより実施する、バランス調整およびゲームシステムの仕様変更内容について、ご案内をおまとめいたしました。\n\nご一読いただけますと幸いです。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108166014563147933"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 일반 공지이며 대상인 夢限大みゅーたいぷ 행사·가챠와 무관하므로 아무 작업도 필요하지 않음.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-08T12:02:04Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
