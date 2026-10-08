@@ -131,3 +131,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T14:35:20Z", "who": "藤都子"}
 {"detail": "retweet skip: 폰 원문이 @Flags2323 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:35:22Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T14:35:24Z", "who": "藤都子"}
+{"detail": "retweet skip: 폰 원문이 @Ningen_Aku 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:35:52Z", "via": "ingest", "who": "miyako"}
