@@ -63,3 +63,4 @@
 {"detail": "banner mode: none · 글이 일반 공지이며 대상인 夢限大みゅーたいぷ 행사·가챠와 무관하므로 아무 작업도 필요하지 않음.", "flow": "notice", "result": "ok", "ts": "2026-10-08T12:02:04Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:02:10Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: added · 새 행사 — 제발, 사이드 슬로우", "flow": "notice", "result": "ok", "ts": "2026-10-08T12:04:02Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:04:15Z", "who": "バンドリ！アワーノーツ"}
