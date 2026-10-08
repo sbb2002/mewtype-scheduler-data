@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-08T14:30:06Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-08T14:30:00Z",
       "source": "api",
       "state": "watching",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/G9-fV-igSOk/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #APEX 】縛りカスタム！何が何でも勝ってやる！！！！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #APEX 】제한 커스텀! 뭐든지 이겨버릴 거야!!!!【 #천석유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=G9-fV-igSOk",
       "video_id": "G9-fV-igSOk"
     },
@@ -192,7 +191,6 @@
       "kind": "collab",
       "last_updated": "2026-10-08T14:20:10Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-15T13:00:00Z",
       "source": "x-relay",
       "src_url": "https://x.com/i/status/2108198521010868336",
@@ -201,7 +199,7 @@
       "thumbnail": null,
       "time_tbd": false,
       "title": "バンドリTVLIVE 2026",
-      "title_ko": null,
+      "title_ko": "TVLIVE 2026",
       "url": "https://www.youtube.com/live/YUB5qGbmzHs",
       "video_id": null
     },
