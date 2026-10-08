@@ -644,6 +644,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5c62574071",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/8 23:30～ #APEX \n\nカスタムで遊びます！\n今日は縛りカスタムもしようかな！",
+        "tag": "p#https://x.com/#1tweet-2108198319638069329"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/8 23:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-08T14:20:10Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
