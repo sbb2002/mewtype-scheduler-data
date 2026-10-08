@@ -388,6 +388,28 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_96c5fd839d",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUGuaerboAAkSD5.jpg"
+        ],
+        "raw": "夢限大みゅーたいぷが歌うオリジナル楽曲『夢我夢中』を追加しました🛸\n\nぜひプレイしてみてくださいね！\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108165525087945165"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 새로운 행사나 가챠 정보를 포함하지 않고 단순히 곡 추가 안내이므로 배너에 아무 조치도 필요합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-08T12:00:15Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
