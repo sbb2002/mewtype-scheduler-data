@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:09:20Z",
+  "generated_at": "2026-10-08T14:20:10Z",
   "tweets": {
     "arale": [
       {
@@ -380,6 +380,21 @@
         "text": "今週末の13thLIVEに向けて、TearJerkerのショート動画をあげたよ✌️\n\nみてね✌️\n\nhttps://youtube.com/shorts/4uLjfoE58mU?si=2FkmlMjF7GdeL9N3",
         "text_ko": "이번 주말 13thLIVE를 위해 TearJerker의 쇼트 영상을 올렸어✌️\n\n봐줘✌️\n\nhttps://youtube.com/shorts/4uLjfoE58mU?si=2FkmlMjF7GdeL9N3",
         "url": "https://x.com/i/status/2107789284669526481"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-10T14:10:22Z",
+        "handle": "yuno_yumemita",
+        "id": "2108198319638069329",
+        "media": [
+          "https://pbs.twimg.com/media/HUHTMrUbMAAtoF-.jpg"
+        ],
+        "posted_at": "2026-10-08T14:10:22Z",
+        "quote": null,
+        "received_at": "2026-10-08T14:20:10Z",
+        "text": "〈配信のおしらせ〉\n10/8 23:30〜 #APEX\n\nカスタムで遊びます！\n今日は縛りカスタムもしようかな！",
+        "text_ko": "〈배송 안내〉\n10/8 23:30〜 #APEX\n\n커스텀으로 플레이합니다!\n오늘은 제한 커스텀도 해볼까!",
+        "url": "https://x.com/i/status/2108198319638069329"
       }
     ]
   }
