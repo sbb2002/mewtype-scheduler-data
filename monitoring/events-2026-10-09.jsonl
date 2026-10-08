@@ -5,3 +5,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T22:00:58Z", "who": "e7o58qBi89s"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_45b41a1d", "result": "ok", "title": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-08T22:00:58Z", "video_id": "e7o58qBi89s", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T22:11:16Z", "tweet_id": "2108316680552333675", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T22:11:31Z", "who": "峰月律"}
