@@ -120,3 +120,5 @@
 {"detail": "broadcast-change none · 게시물은 10/8 23:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:20:10Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T14:20:41Z", "who": "千石ユノ"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T14:30:00Z", "who": "IN5AqR1WQt0"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-08T14:30:06Z", "who": ""}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_44cbd3ae", "result": "ok", "title": "【 #APEX 】縛りカスタム！何が何でも勝ってやる！！！！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-08T14:30:06Z", "video_id": "G9-fV-igSOk", "who": "yuno"}
