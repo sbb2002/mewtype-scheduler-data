@@ -35,7 +35,28 @@
       ],
       "start_at": "2026-09-30T09:00:00Z",
       "start_time_tbd": null
+    },
+    {
+      "end_at": "2026-10-17T05:59:00Z",
+      "first_seen": "2026-10-08T12:04:02Z",
+      "gachas": [],
+      "hold": null,
+      "id": "bn_02586e5d",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HUGupaVbwAAx8hD.jpg"
+      ],
+      "last_updated": "2026-10-08T12:04:02Z",
+      "match_keys": [
+        "お願いサイドスロ"
+      ],
+      "name_ja": "お願い、サイドスロー",
+      "name_ko": "제발, 사이드 슬로우",
+      "src_ids": [
+        "2108166517896749382"
+      ],
+      "start_at": "2026-10-09T06:00:00Z",
+      "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-02T04:25:16Z"
+  "generated_at": "2026-10-08T12:04:02Z"
 }
