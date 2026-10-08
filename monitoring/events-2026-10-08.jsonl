@@ -35,3 +35,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bushi_creative 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T08:24:17Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2108122037172732364", "result": "ok", "ts": "2026-10-08T09:07:21Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-08T09:07:21Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T09:07:33Z", "who": "夢限大みゅーたいぷ"}
