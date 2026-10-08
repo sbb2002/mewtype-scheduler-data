@@ -73,3 +73,4 @@
 {"detail": "banner mode: none · 게시글이 기존 배너와 동일한 행사 정보를 제공하고 새로운 날짜나 가챠 정보가 없으므로 none으로 판정했습니다.", "flow": "notice", "result": "ok", "ts": "2026-10-08T12:14:03Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:14:17Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "retweet skip: 폰 원문이 @bushi_creative 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:14:32Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:14:34Z", "who": "藤都子"}
