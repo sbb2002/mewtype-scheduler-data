@@ -568,6 +568,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0d79fd2821",
+      "input": {
+        "channel_key": "arale",
+        "raw": "見ざる聞かざる言わざる の\n爆発解除するやつしたい…🙊🙈🙉\n\n一緒にコラボ配信してくれる人いないかな…？🥹",
+        "tag": "p#https://x.com/#1tweet-2108177331257069827"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 콜라보 스트리밍 요청이며 기존 12/24 방송에 대한 취소·변경 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-08T12:47:01Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
