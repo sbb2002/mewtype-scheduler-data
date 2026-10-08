@@ -43,3 +43,4 @@
 {"detail": "group-video pending dTqZ7duxoHY · live_now · OCR none", "flow": "relay", "result": "ok", "ts": "2026-10-08T09:30:02Z", "via": "ingest", "who": "group"}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T09:30:12Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-08T09:32:12Z", "who": "/admin"}
+{"detail": "retweet skip: 폰 원문이 @gekirock 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T09:41:58Z", "via": "ingest", "who": "ritsu"}
