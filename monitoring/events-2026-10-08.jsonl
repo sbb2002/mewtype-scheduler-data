@@ -82,3 +82,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:16:08Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "retweet skip: 폰 원문이 @kuunerin 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:43:32Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:43:34Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:47:01Z", "tweet_id": "2108177331257069827", "via": "ingest", "who": "arale"}
