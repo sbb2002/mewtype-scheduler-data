@@ -112,3 +112,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T14:20:13Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:20:10Z", "tweet_id": "2108198319638069329", "via": "ingest", "who": "yuno"}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2108199485671436531", "result": "ok", "ts": "2026-10-08T14:20:10Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-08T14:20:10Z", "via": "ingest", "who": ""}
