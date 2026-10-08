@@ -90,3 +90,4 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_7d62c656", "result": "ok", "title": "バンドリ！TV LIVE 2026 #335", "to_state": "live", "ts": "2026-10-08T13:07:38Z", "video_id": "IN5AqR1WQt0", "who": "nonoka"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-08T13:07:38Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T13:07:52Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-08T13:10:02Z", "who": ""}
