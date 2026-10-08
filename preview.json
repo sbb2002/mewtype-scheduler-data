@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-08T10:00:10Z",
+  "generated_at": "2026-10-08T11:40:00Z",
   "items": [
     {
       "actual_start": null,
@@ -79,13 +79,13 @@
       "info_at": "2026-10-08T05:56:43Z",
       "info_source": "personal",
       "kind": "song",
-      "last_updated": "2026-10-08T10:00:10Z",
+      "last_updated": "2026-10-08T11:40:00Z",
       "membership": false,
       "scheduled_start": "2026-10-08T12:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2108074061884801297",
-      "state": "upcoming",
-      "state_since": "2026-10-08T05:56:43Z",
+      "state": "watching",
+      "state_since": "2026-10-08T11:40:00Z",
       "thumbnail": "https://i.ytimg.com/vi/QHvPTjoCcPk/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【#歌枠 】アニソン大盛で、いかせていただきます【峰月律/ゆめみた】",
@@ -107,7 +107,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-08T00:00:00Z",
+      "last_updated": "2026-10-08T11:40:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -135,7 +135,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-08T00:00:00Z",
+      "last_updated": "2026-10-08T11:40:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
