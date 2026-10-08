@@ -524,6 +524,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f7c3cc3d7e",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUGvpGtbMAAWk84.jpg"
+        ],
+        "raw": "明日15:00より開催🎉\nチャレンジライブイベント「お願い、サイドスロー」\n\nライブクリアで手に入る「イベントバッジ」と交換可能な、汐見 蛍のSRスナップイラストを紹介💐\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108169034139075006"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게시글이 기존 배너와 동일한 행사 정보를 제공하고 새로운 날짜나 가챠 정보가 없으므로 none으로 판정했습니다.",
+      "summary": "행사 배너 — 해당 없음 — お願い、サイドスロー",
+      "ts": "2026-10-08T12:14:03Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
