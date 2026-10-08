@@ -587,6 +587,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5f08e72e55",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "📢10月15日(木)22:00より生配信！\n「#バンドリTVLIVE 2026」#336\n\n配信内にて、アワーノーツの新情報をお届けいたします！お楽しみに✨\n\n#アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108195203538727098"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 생방송 안내이며 행사·가챠와 무관한 일반 공지이므로 none으로 판정한다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-08T13:58:22Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
