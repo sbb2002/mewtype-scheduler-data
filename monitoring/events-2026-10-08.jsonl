@@ -99,3 +99,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T13:44:30Z", "who": "藤都子"}
 {"detail": "retweet skip: 폰 원문이 @Pospaspasposppp 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T13:44:28Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T13:44:35Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T13:56:21Z", "tweet_id": "2108194744241398045", "via": "ingest", "who": "miyako"}
