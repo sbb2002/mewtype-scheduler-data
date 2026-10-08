@@ -46,3 +46,4 @@
 {"detail": "retweet skip: 폰 원문이 @gekirock 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T09:41:58Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T09:42:00Z", "who": "峰月律"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_68a67f32", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-08T10:00:10Z", "video_id": null, "who": "yuno"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_7bc39879", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-08T10:00:10Z", "video_id": null, "who": "ritsu"}
