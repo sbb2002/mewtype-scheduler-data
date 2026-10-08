@@ -458,6 +458,28 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7ef0bd98db",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUGvAuca8AAlXKY.jpg"
+        ],
+        "raw": "💐millsage初イベント💐\n「お願い、サイドスロー」予告 \n\n再始動したmillsage。が、ひとり浮かない顔の凪。去来するのは憧憬と、シューズが床を擦る音。全部全部閉じ込めて、しまっておいたはずなのに。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108167020613345678"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 夢限大みゅーたいぷ와 무관한 일반 홍보이며, 대상 행사·가챠가 아니므로 none 처리한다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-08T12:06:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
