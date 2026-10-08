@@ -101,3 +101,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T13:44:35Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T13:56:21Z", "tweet_id": "2108194744241398045", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T13:56:51Z", "who": "藤都子"}
+{"detail": "banner mode: none · 글이 생방송 안내이며 행사·가챠와 무관한 일반 공지이므로 none으로 판정한다.", "flow": "notice", "result": "ok", "ts": "2026-10-08T13:58:22Z", "via": "ingest", "who": "bang_dream_on"}
