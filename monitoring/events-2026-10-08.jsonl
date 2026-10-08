@@ -53,3 +53,5 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T10:50:24Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T10:54:11Z", "tweet_id": "2108148936489959540", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T10:54:19Z", "who": "藤都子"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T11:40:00Z", "who": "QHvPTjoCcPk"}
+{"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_e9849df7", "result": "ok", "title": "【#歌枠 】アニソン大盛で、いかせていただきます【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-08T11:40:00Z", "video_id": "QHvPTjoCcPk", "who": "ritsu"}
