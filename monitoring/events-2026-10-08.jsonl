@@ -69,3 +69,4 @@
 {"detail": "banner mode: none · 대상인 夢限大みゅーたいぷ 멤버가 등장하지 않아 팬 사이트 배너에 반영하지 않는다.", "flow": "notice", "result": "ok", "ts": "2026-10-08T12:10:15Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:10:21Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 기존 배너와 동일한 일정이며 새로운 정보가 없으므로 none", "flow": "notice", "result": "ok", "ts": "2026-10-08T12:12:02Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:12:11Z", "who": "バンドリ！アワーノーツ"}
