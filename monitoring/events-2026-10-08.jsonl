@@ -118,3 +118,4 @@
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-08T14:20:10Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T14:20:33Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "broadcast-change none · 게시물은 10/8 23:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아", "flow": "tweet", "result": "ok", "ts": "2026-10-08T14:20:10Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T14:20:41Z", "who": "千石ユノ"}
