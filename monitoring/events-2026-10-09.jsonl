@@ -2,3 +2,5 @@
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_45b41a1d", "result": "ok", "title": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-08T21:40:00Z", "video_id": "e7o58qBi89s", "who": "ritsu"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-08T21:41:20Z", "who": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-08T22:00:58Z", "who": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T22:00:58Z", "who": "e7o58qBi89s"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_45b41a1d", "result": "ok", "title": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-08T22:00:58Z", "video_id": "e7o58qBi89s", "who": "ritsu"}
