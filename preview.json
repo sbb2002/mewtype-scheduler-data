@@ -109,7 +109,6 @@
       "kind": null,
       "last_updated": "2026-10-08T16:10:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-09T02:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -117,7 +116,7 @@
       "thumbnail": "https://i.ytimg.com/vi/XVJU08W_l8g/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #ヴァンガード 】2カートン！運命星戦を開封します！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #ヴァンガード 】2카톤! 운명성전을 개봉합니다!【 #천석유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=XVJU08W_l8g",
       "video_id": "XVJU08W_l8g"
     },
