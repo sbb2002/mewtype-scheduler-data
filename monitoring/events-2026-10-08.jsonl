@@ -85,3 +85,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:47:01Z", "tweet_id": "2108177331257069827", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 콜라보 스트리밍 요청이며 기존 12/24 방송에 대한 취소·변경 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:47:01Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:47:19Z", "who": "仲町あられ"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-08T13:00:00Z", "who": "QHvPTjoCcPk"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_e9849df7", "result": "ok", "title": "【#歌枠 】アニソン大盛で、いかせていただきます【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-10-08T13:00:00Z", "video_id": "QHvPTjoCcPk", "who": "ritsu"}
