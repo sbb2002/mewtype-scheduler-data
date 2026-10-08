@@ -75,3 +75,4 @@
 {"detail": "retweet skip: 폰 원문이 @bushi_creative 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:14:32Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:14:34Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-08T12:15:24Z", "tweet_id": "2108169378961498215", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T12:15:39Z", "who": "仲町あられ"}
