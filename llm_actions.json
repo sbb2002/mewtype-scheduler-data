@@ -432,6 +432,32 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5c280639b7",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUGupaVbwAAx8hD.jpg"
+        ],
+        "raw": "明日15:00より開催🎉\nチャレンジライブイベント「お願い、サイドスロー」\n\nぜひお楽しみに！\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108166517896749382"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "새로운 챌린지 라이브 이벤트가 발표되어 시작·종료 날짜가 기존 배너와 다르므로 upsert 처리합니다.",
+      "summary": "행사 배너 추가 — お願い、サイドスロー",
+      "ts": "2026-10-08T12:04:02Z",
+      "undo": {
+        "before": null,
+        "id": "bn_02586e5d",
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
