@@ -502,6 +502,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8b93ba060a",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUGvmg_aEAAf4KK.jpg"
+        ],
+        "raw": "明日15:00より開催🎉\nチャレンジライブイベント「お願い、サイドスロー」\n\nイベント報酬で手に入る、SRメンバー和泉 朋花のイラストを紹介💐\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108168530516746523"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 일정이며 새로운 정보가 없으므로 none",
+      "summary": "행사 배너 — 해당 없음 — お願い、サイドスロー",
+      "ts": "2026-10-08T12:12:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
