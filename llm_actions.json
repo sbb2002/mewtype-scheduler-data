@@ -606,6 +606,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_81133be860",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n朝 7:00\nおはようりっちゃん☀️7回目\nいってらっしゃい！おはよう！\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/e7o58qBi89s?si=CV-U2bKWH68_A-QJ\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2108196478749642964"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 7시 방송을 알리는 예고이며 취소나 일정 변경을 언급하지 않아",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-08T14:09:20Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
