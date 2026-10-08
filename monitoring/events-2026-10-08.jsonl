@@ -91,3 +91,5 @@
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-08T13:07:38Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-08T13:07:52Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-08T13:10:02Z", "who": ""}
+{"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-08T13:14:51Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_45b41a1d", "result": "ok", "title": "【朝活】おはようりっちゃん☀第７回目!【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-08T13:14:51Z", "video_id": "e7o58qBi89s", "who": "ritsu"}
