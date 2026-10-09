@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-09T14:10:00Z",
+  "generated_at": "2026-10-09T14:10:05Z",
   "items": [
     {
       "actual_start": "2026-10-09T14:02:47Z",
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-09T14:10:00Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-10-09T14:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2108559899819172030",
@@ -90,7 +89,7 @@
       "thumbnail": "https://i.ytimg.com/vi/P7RgSygNLek/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡メン限】1hだけおはなーし🌼🌸【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡메인 제한】1시간만 대화해요🌼🌸【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=P7RgSygNLek",
       "video_id": "P7RgSygNLek"
     },
