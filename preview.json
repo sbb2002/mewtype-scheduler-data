@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-09T14:08:45Z",
+  "generated_at": "2026-10-09T14:09:14Z",
   "items": [
     {
       "actual_start": "2026-10-09T13:02:29Z",
@@ -146,36 +146,6 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
-    },
-    {
-      "actual_start": null,
-      "api_start_seen": null,
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": null,
-      "expires_at": "2026-10-09T19:00:00Z",
-      "first_seen": "2026-10-09T00:00:14Z",
-      "host": null,
-      "id": "pv_3635c43a",
-      "info_at": "2026-10-09T00:00:14Z",
-      "info_source": "x-relay",
-      "kind": "unknown",
-      "last_updated": "2026-10-09T14:02:00Z",
-      "membership": true,
-      "needs_tl": false,
-      "scheduled_start": "2026-10-09T14:00:00Z",
-      "search_checked": true,
-      "source": "x-relay",
-      "src_url": "https://x.com/i/status/2108346709294399772",
-      "state": "announced",
-      "state_since": "2026-10-09T00:00:14Z",
-      "thumbnail": null,
-      "time_tbd": false,
-      "title": null,
-      "title_ko": null,
-      "url": null,
-      "video_id": null
     },
     {
       "actual_start": null,
