@@ -720,6 +720,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9fd3795fd3",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKrw7RaEAAYqdt.jpg"
+        ],
+        "raw": "チャレンジライブイベント「お願い、サイドスロー」開催！\n\n本イベントは10月17日(土)14:59まで✨\n\nmillsageの新楽曲『Odd Dice』もチャレンジライブでプレイ可能です💐ぜひチェックしてくださいね！\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108439063221190925"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 행사이며 새로운 정보가 없으므로 none",
+      "summary": "행사 배너 — 해당 없음 — お願い、サイドスロー",
+      "ts": "2026-10-09T06:07:01Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
