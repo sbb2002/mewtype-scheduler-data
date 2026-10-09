@@ -51,3 +51,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:17:06Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 글이 일반적인 이벤트 이용 안내이며 새로운 행사·가챠 정보가 없으므로 배너에 아무 조치도 필요하지 않다.", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:17:00Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:17:09Z", "who": "バンドリ！アワーノーツ"}
+{"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-09T07:00:01Z", "who": "group"}
