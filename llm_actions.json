@@ -827,6 +827,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e65c19eef0",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "現在一部のお客さまにおいて、ゲームに繋がりにくい現象を確認しております。\n\n誠に恐れ入りますが、しばらくお時間を空けてからアクセスしていただきますようご協力をお願いいたします。\n\nご利用のお客さまにご迷惑をおかけしておりますこと、お詫び申し上げます。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108578322095726764"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "일반 접속 장애 안내이며 행사와 무관한 공지이므로 action=none",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-09T15:20:24Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
