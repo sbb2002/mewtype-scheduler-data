@@ -808,6 +808,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7d23eaadb6",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/9 22:00～ グッズ紹介\n\n今週末開催！\nでぃめらぷ(略称)のグッズ紹介をするよ！\n\nどれ買うか一緒に悩も✌️",
+        "tag": "p#https://x.com/#1tweet-2108524251720675644"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/9 22:00에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-09T11:45:37Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
