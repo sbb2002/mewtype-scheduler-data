@@ -46,3 +46,4 @@
 {"detail": "banner mode: none · 글이 불법 행위 안내 및 일반 공지이며, 夢限大みゅーたいぷ와 관련된 행사·가챠가 없으므로 배너에 아무 조치도 필요하지 않음.", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:05:38Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:05:43Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 기존 배너와 동일한 행사이며 새로운 정보가 없으므로 none", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:07:01Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:07:08Z", "who": "バンドリ！アワーノーツ"}
