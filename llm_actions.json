@@ -789,6 +789,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9be91359c3",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/9 22:00～ グッズ紹介\n\n今週末開催！\nでぃめらぷ(略称)のグッズ紹介をするよ！\n\nどれ買うか一緒に悩も✌️",
+        "tag": "p#https://x.com/#1tweet-2108524251720675644"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 〈配信のおしらせ〉\n10/9 22:00～ グッズ紹介\n\n今週末開催！\nでぃめらぷ(略称)のグッズ紹介をするよ！\n\nどれ",
+      "ts": "2026-10-09T11:45:37Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
