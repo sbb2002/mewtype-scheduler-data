@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-09T15:50:00Z",
+  "generated_at": "2026-10-09T16:20:00Z",
   "items": [
     {
       "actual_start": null,
@@ -79,7 +79,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-09T15:50:00Z",
+      "last_updated": "2026-10-09T16:20:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -107,7 +107,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-09T15:50:00Z",
+      "last_updated": "2026-10-09T16:20:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -147,34 +147,6 @@
       "title_ko": "TVLIVE 2026",
       "url": "https://www.youtube.com/live/YUB5qGbmzHs",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-10-09T14:02:47Z",
-      "api_start_seen": "2026-10-09T14:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": null,
-      "expires_at": "2026-10-09T17:00:00Z",
-      "first_seen": "2026-10-09T14:07:14Z",
-      "host": null,
-      "id": "pv_5e4a25c1",
-      "info_at": "2026-10-09T14:07:14Z",
-      "info_source": "personal",
-      "kind": null,
-      "last_updated": "2026-10-09T15:50:00Z",
-      "membership": true,
-      "scheduled_start": "2026-10-09T14:00:00Z",
-      "source": "personal",
-      "src_url": "https://x.com/i/status/2108559899819172030",
-      "state": "end",
-      "state_since": "2026-10-09T15:50:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/P7RgSygNLek/maxresdefault_live.jpg",
-      "time_tbd": false,
-      "title": "【🟡メン限】1hだけおはなーし🌼🌸【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": "【🟡메인 제한】1시간만 대화해요🌼🌸【 仲町아라레 / 무겐다이 뮤타입 】",
-      "url": "https://www.youtube.com/watch?v=P7RgSygNLek",
-      "video_id": "P7RgSygNLek"
     }
   ]
 }
