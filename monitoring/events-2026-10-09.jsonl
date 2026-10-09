@@ -53,3 +53,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:17:09Z", "who": "バンドリ！アワーノーツ"}
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-09T07:00:01Z", "who": "group"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-09T09:05:15Z", "via": "ingest", "who": ""}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T09:05:17Z", "who": "夢限大みゅーたいぷ"}
