@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:00:10Z",
+  "generated_at": "2026-10-09T10:05:10Z",
   "tweets": {
     "arale": [
       {
@@ -416,6 +416,21 @@
         "text": "はじめます！",
         "text_ko": "시작합니다!",
         "url": "https://x.com/i/status/2108316680552333675"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-11T10:05:07Z",
+        "handle": "ritsu_yumemita",
+        "id": "2108498987506634821",
+        "media": [
+          "https://pbs.twimg.com/media/HULkphraoAA4HBx.jpg"
+        ],
+        "posted_at": "2026-10-09T10:05:07Z",
+        "quote": null,
+        "received_at": "2026-10-09T10:05:10Z",
+        "text": "#ばばんばばんばんばんドリーム\nついに行けました！！！！！！\n峰月律の湯だった嬉しい！！！！！！\nサインも書かせていただきました！\nぬいぐるみ𝑺𝒐 𝒄𝒖𝒕𝒆.....",
+        "text_ko": "#ばばんばばんばんばんドリーム\n드디어 다녀왔어요!!!!!!\n峰月律의 온천이라서 너무 기뻐요!!!!!!\n사인도 받았습니다!\n인형 𝑺𝒐 𝒄𝒖𝒕𝒆.....",
+        "url": "https://x.com/i/status/2108498987506634821"
       }
     ],
     "yuno": [
