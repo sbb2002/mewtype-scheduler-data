@@ -1,0 +1,42 @@
+{
+  "banners": [
+    {
+      "archived_at": "2026-10-09T15:05:27Z",
+      "archived_reason": "deleted",
+      "end_at": "2026-10-08T11:59:00Z",
+      "first_seen": "2026-10-02T04:23:58Z",
+      "gachas": [
+        {
+          "end_at": "2026-10-09T02:59:00Z",
+          "id": "gc_898cbfb9",
+          "image_urls": [],
+          "start_at": "2026-09-30T09:00:00Z",
+          "title_ja": "ワタシが主役のサイバーナイトガチャ",
+          "title_ko": "내가 주인공인 사이버 나이트 가챠"
+        }
+      ],
+      "hold": null,
+      "id": "bn_d71db08a",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HTbODIMa0AAcBH7.jpg"
+      ],
+      "last_updated": "2026-10-02T04:25:16Z",
+      "match_keys": [
+        "アイの奔流atoz",
+        "ワタシが主役のサイバナイトガチャ"
+      ],
+      "name_ja": "アイの奔流 AtoZ",
+      "name_ko": "아이의 급류 AtoZ",
+      "src_ids": [
+        "2103109383559500117",
+        "2104058859686072576",
+        "2104964551745925480",
+        "2105100376395723202",
+        "2105101320310931513",
+        "2105224884251230569"
+      ],
+      "start_at": "2026-09-30T09:00:00Z",
+      "start_time_tbd": null
+    }
+  ]
+}
