@@ -43,3 +43,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-09T06:03:05Z", "who": "/admin"}
 {"detail": "banner mode: none · 글이 유지보수 종료 및 보상 배포 안내이며, 夢限大みゅーたいぷ와 관련된 행사·가챠가 없으므로 배너에 아무 조치도 필요합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:03:45Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:03:50Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · 글이 불법 행위 안내 및 일반 공지이며, 夢限大みゅーたいぷ와 관련된 행사·가챠가 없으므로 배너에 아무 조치도 필요하지 않음.", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:05:38Z", "via": "ingest", "who": "bang_dream_on"}
