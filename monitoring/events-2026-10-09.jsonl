@@ -41,3 +41,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-09T05:55:00Z", "who": "XVJU08W_l8g"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_30e40b40", "result": "ok", "title": "【 #ヴァンガード 】2カートン！運命星戦を開封します！【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-10-09T05:55:00Z", "video_id": "XVJU08W_l8g", "who": "yuno"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-09T06:03:05Z", "who": "/admin"}
+{"detail": "banner mode: none · 글이 유지보수 종료 및 보상 배포 안내이며, 夢限大みゅーたいぷ와 관련된 행사·가챠가 없으므로 배너에 아무 조치도 필요합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:03:45Z", "via": "ingest", "who": "bang_dream_on"}
