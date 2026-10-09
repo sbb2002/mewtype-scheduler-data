@@ -59,3 +59,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-09T10:00:10Z", "tweet_id": "2108497713771999363", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T10:00:23Z", "who": "藤都子"}
 {"detail": "group-video pending dTqZ7duxoHY · live_now · OCR none", "flow": "relay", "result": "ok", "ts": "2026-10-09T10:00:10Z", "via": "ingest", "who": "group"}
+{"detail": "mode: recap", "flow": "notice", "notice_id": "2108497703122723114", "result": "ok", "ts": "2026-10-09T10:00:10Z", "via": "ingest", "who": ""}
