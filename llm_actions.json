@@ -742,6 +742,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_19786e34a0",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKr2HxasAAEoF2.jpg"
+        ],
+        "raw": "10月9日(金)15:00より開催中✨\nガチャ「差し込む光、始まりのとき」\n\n下記のメンバーとスナップが新登場！\n\n【メンバー】\n・SSR琴平 凪\n・SSR伊沢 なつめ\n\n【スナップ】\n・SSR琴平 凪\n・SSRまほろ&凪\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108439566533472435"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 대상인 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니므로 배너에 반영하지 않는다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-09T06:17:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
