@@ -94,3 +94,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-09T14:50:22Z", "tweet_id": "2108570757597196408", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T14:50:36Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @ESPGuitarsJP 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-09T14:54:30Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T14:54:32Z", "who": "宮永ののか🐰🩹"}
