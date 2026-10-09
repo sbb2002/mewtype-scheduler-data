@@ -75,3 +75,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-09T13:04:14Z", "who": "BFGgU7409s4"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_db44ca5b", "result": "ok", "title": "【 グッズ紹介 】13th LIVE直前！でぃめらぷのグッズ紹介します！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-09T13:04:14Z", "video_id": "BFGgU7409s4", "who": "yuno"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-09T13:10:02Z", "who": ""}
+{"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-09T13:30:15Z", "who": "30분 후 仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限"}
