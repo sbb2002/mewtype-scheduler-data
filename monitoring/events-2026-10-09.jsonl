@@ -83,3 +83,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-09T14:07:49Z", "who": "/admin"}
 {"detail": "mode: yt-member-live updated", "flow": "relay", "result": "ok", "ts": "2026-10-09T14:08:45Z", "via": "ingest", "who": "arale"}
 {"detail": "회원 방송 시작 · arale (updated)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-09T14:09:04Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限】1hだけお"}
+{"collab_with": null, "detail": "admin 삭제 arale pv_3635c43a · announced→out", "flow": "preview", "from_state": "announced", "id": "pv_3635c43a", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-09T14:09:14Z", "video_id": null, "who": "arale"}
