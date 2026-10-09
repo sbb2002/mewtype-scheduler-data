@@ -86,3 +86,4 @@
 {"collab_with": null, "detail": "admin 삭제 arale pv_3635c43a · announced→out", "flow": "preview", "from_state": "announced", "id": "pv_3635c43a", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-09T14:09:14Z", "video_id": null, "who": "arale"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-09T14:10:00Z", "who": "BFGgU7409s4"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_db44ca5b", "result": "ok", "title": "【 グッズ紹介 】13th LIVE直前！でぃめらぷのグッズ紹介します！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-09T14:10:00Z", "video_id": "BFGgU7409s4", "who": "yuno"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-09T14:10:05Z", "who": ""}
