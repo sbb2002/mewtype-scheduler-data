@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:10:00Z",
+  "generated_at": "2026-10-09T05:55:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2389,6 +2389,36 @@
       "title_ko": "【아침활동】안녕 리짱☀ 7번째!【峰月律/유메미타】",
       "url": "https://www.youtube.com/watch?v=e7o58qBi89s",
       "video_id": "e7o58qBi89s"
+    },
+    {
+      "actual_start": "2026-10-09T02:10:24Z",
+      "api_start_seen": "2026-10-09T02:10:00Z",
+      "archived_at": "2026-10-09T05:55:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 259,
+      "expires_at": "2026-10-09T05:00:00Z",
+      "first_seen": "2026-10-08T16:10:02Z",
+      "host": null,
+      "id": "pv_30e40b40",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "unknown",
+      "last_updated": "2026-10-09T05:55:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-09T02:10:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2108334977779892267",
+      "state": "out",
+      "state_since": "2026-10-09T05:55:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/XVJU08W_l8g/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【 #ヴァンガード 】2カートン！運命星戦を開封します！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #ヴァンガード 】2카톤! 운명성전을 개봉합니다!【 #천석유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=XVJU08W_l8g",
+      "video_id": "XVJU08W_l8g",
+      "yt_tunein": true
     }
   ]
 }
