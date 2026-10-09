@@ -96,3 +96,4 @@
 {"detail": "retweet skip: 폰 원문이 @ESPGuitarsJP 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-09T14:54:30Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T14:54:32Z", "who": "宮永ののか🐰🩹"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-09T15:05:07Z", "who": "/admin"}
+{"detail": "banner mode: none · 일반 접속 장애 안내이며 행사와 무관한 공지이므로 action=none", "flow": "notice", "result": "ok", "ts": "2026-10-09T15:20:24Z", "via": "ingest", "who": "bang_dream_on"}
