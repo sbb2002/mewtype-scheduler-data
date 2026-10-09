@@ -78,3 +78,4 @@
 {"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-09T13:30:15Z", "who": "30분 후 仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-09T14:02:00Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-09T14:07:14Z", "tweet_id": "2108559899819172030", "via": "ingest", "who": "arale"}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_5e4a25c1", "result": "ok", "title": "【🟡メン限】1hだけおはなーし🌼🌸【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-09T14:07:14Z", "video_id": "P7RgSygNLek", "who": "arale"}
