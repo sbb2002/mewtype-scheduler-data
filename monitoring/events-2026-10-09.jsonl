@@ -100,3 +100,5 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T15:20:30Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "retweet skip: 폰 원문이 @ESPGuitarsJP 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-09T15:48:41Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T15:48:43Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-09T15:50:00Z", "who": "P7RgSygNLek"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_5e4a25c1", "result": "ok", "title": "【🟡メン限】1hだけおはなーし🌼🌸【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-09T15:50:00Z", "video_id": "P7RgSygNLek", "who": "arale"}
