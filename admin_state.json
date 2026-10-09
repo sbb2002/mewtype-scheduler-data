@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 yuno (XVJU08W_l8g)",
-    "at": "2026-10-08T23:13:31Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-10-09T00:00:14Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "5aba9e16bf69d7a0f3db5151894a1f8aa7eded68",
+    "new_sha": "e7cb0a90ed4bfebc5fc8e2037cee82dd2b1901a7",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-08T23:10:00Z",
+      "generated_at": "2026-10-08T23:13:31Z",
       "items": [
         {
           "actual_start": null,
@@ -117,10 +117,11 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-08T23:10:00Z",
+          "last_updated": "2026-10-08T23:13:31Z",
           "membership": false,
           "scheduled_start": "2026-10-09T02:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2108334977779892267",
           "state": "upcoming",
           "state_since": "2026-10-08T16:10:02Z",
           "thumbnail": "https://i.ytimg.com/vi/XVJU08W_l8g/maxresdefault_live.jpg",
