@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "delete_banner",
+      "error": null,
+      "id": "ef99309045",
+      "job_id": null,
+      "ok": true,
+      "summary": "",
+      "target": "bn_d71db08a",
+      "ts": "2026-10-09T15:05:30Z"
+    },
+    {
       "action": "dismiss_group_pending",
       "error": null,
       "id": "a670a3f60a",
