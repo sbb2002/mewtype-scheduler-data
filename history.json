@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "dismiss_group_pending",
+      "error": null,
+      "id": "a670a3f60a",
+      "job_id": null,
+      "ok": true,
+      "summary": "",
+      "target": "dTqZ7duxoHY",
+      "ts": "2026-10-09T14:12:26Z"
+    },
+    {
       "action": "delete_preview",
       "error": null,
       "id": "b8f7c4832a",
