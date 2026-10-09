@@ -81,3 +81,4 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_5e4a25c1", "result": "ok", "title": "【🟡メン限】1hだけおはなーし🌼🌸【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-09T14:07:14Z", "video_id": "P7RgSygNLek", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T14:07:34Z", "who": "仲町あられ"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-09T14:07:49Z", "who": "/admin"}
+{"detail": "mode: yt-member-live updated", "flow": "relay", "result": "ok", "ts": "2026-10-09T14:08:45Z", "via": "ingest", "who": "arale"}
