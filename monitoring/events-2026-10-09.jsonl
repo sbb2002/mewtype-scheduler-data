@@ -50,3 +50,4 @@
 {"detail": "banner mode: none · 글이 대상인 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니므로 배너에 반영하지 않는다.", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:17:00Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:17:06Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 글이 일반적인 이벤트 이용 안내이며 새로운 행사·가챠 정보가 없으므로 배너에 아무 조치도 필요하지 않다.", "flow": "notice", "result": "ok", "ts": "2026-10-09T06:17:00Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T06:17:09Z", "who": "バンドリ！アワーノーツ"}
