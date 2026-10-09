@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T05:55:00Z",
+  "generated_at": "2026-10-09T14:40:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2419,6 +2419,34 @@
       "url": "https://www.youtube.com/watch?v=XVJU08W_l8g",
       "video_id": "XVJU08W_l8g",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-09T13:02:29Z",
+      "api_start_seen": "2026-10-09T13:00:00Z",
+      "archived_at": "2026-10-09T14:40:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 489,
+      "expires_at": "2026-10-09T16:00:00Z",
+      "first_seen": "2026-10-09T13:04:14Z",
+      "host": null,
+      "id": "pv_db44ca5b",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-09T14:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-09T13:00:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-09T14:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/BFGgU7409s4/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【 グッズ紹介 】13th LIVE直前！でぃめらぷのグッズ紹介します！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 굿즈 소개 】13th LIVE 직전! 디메라프의 굿즈를 소개합니다!【 #千石ユノ / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=BFGgU7409s4",
+      "video_id": "BFGgU7409s4"
     }
   ]
 }
