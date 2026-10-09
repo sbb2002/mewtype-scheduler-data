@@ -16,3 +16,4 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_04d72292", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-09T00:00:14Z", "video_id": null, "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_3635c43a", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-09T00:00:14Z", "video_id": null, "who": "arale"}
 {"detail": "mode: added · 파싱 3건", "flow": "relay", "result": "ok", "ts": "2026-10-09T00:00:14Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 3건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-09T00:00:26Z", "who": "夢限大みゅーたいぷ"}
