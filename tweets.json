@@ -519,21 +519,6 @@
     "yuno": [
       {
         "channel_key": "yuno",
-        "expires_at": "2026-10-10T14:10:22Z",
-        "handle": "yuno_yumemita",
-        "id": "2108198319638069329",
-        "media": [
-          "https://pbs.twimg.com/media/HUHTMrUbMAAtoF-.jpg"
-        ],
-        "posted_at": "2026-10-08T14:10:22Z",
-        "quote": null,
-        "received_at": "2026-10-08T14:20:10Z",
-        "text": "〈配信のおしらせ〉\n10/8 23:30〜 #APEX\n\nカスタムで遊びます！\n今日は縛りカスタムもしようかな！",
-        "text_ko": "〈배송 안내〉\n10/8 23:30〜 #APEX\n\n커스텀으로 플레이합니다!\n오늘은 제한 커스텀도 해볼까!",
-        "url": "https://x.com/i/status/2108198319638069329"
-      },
-      {
-        "channel_key": "yuno",
         "expires_at": "2026-10-10T23:13:24Z",
         "handle": "yuno_yumemita",
         "id": "2108334977779892267",
