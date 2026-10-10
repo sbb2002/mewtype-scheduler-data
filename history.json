@@ -3,6 +3,16 @@
     {
       "action": "ingest_tweet",
       "error": null,
+      "id": "179a87cb12",
+      "job_id": null,
+      "ok": true,
+      "summary": "tweet-2108771416481149261",
+      "target": "arale",
+      "ts": "2026-10-10T11:49:45Z"
+    },
+    {
+      "action": "ingest_tweet",
+      "error": null,
       "id": "7716d9c391",
       "job_id": null,
       "ok": true,
