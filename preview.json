@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-10T13:47:35Z",
+  "generated_at": "2026-10-10T13:50:01Z",
   "items": [
     {
       "actual_start": null,
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-10T13:47:35Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-10T14:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2108915470938280215",
@@ -90,7 +89,7 @@
       "thumbnail": "https://i.ytimg.com/vi/1gjYtQROP-o/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡意気込み】前日です。緊張？してるよ【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡意気込み】전날이에요. 긴장?하고 있어요【 仲町あ라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=1gjYtQROP-o",
       "video_id": "1gjYtQROP-o"
     },
