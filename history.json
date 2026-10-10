@@ -3,6 +3,16 @@
     {
       "action": "ingest_tweet",
       "error": null,
+      "id": "d1ccb3cde1",
+      "job_id": null,
+      "ok": true,
+      "summary": "tweet-2108880119272194199",
+      "target": "miyako",
+      "ts": "2026-10-10T11:55:53Z"
+    },
+    {
+      "action": "ingest_tweet",
+      "error": null,
       "id": "06aee67bd3",
       "job_id": null,
       "ok": true,
