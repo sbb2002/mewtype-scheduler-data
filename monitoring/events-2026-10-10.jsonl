@@ -38,3 +38,4 @@
 {"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_07ec417e", "result": "ok", "title": "【🟡意気込み】前日です。緊張？してるよ【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-10-10T13:47:35Z", "video_id": "1gjYtQROP-o", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 10/10(금) 23:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-10T13:47:35Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T13:47:59Z", "who": "仲町あられ"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-10T13:50:01Z", "who": ""}
