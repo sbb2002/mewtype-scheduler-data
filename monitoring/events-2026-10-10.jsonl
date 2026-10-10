@@ -41,3 +41,4 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-10T13:50:01Z", "who": ""}
 {"detail": "retweet skip: 폰 원문이 @bang_dream_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-10T13:55:44Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T13:55:46Z", "who": "宮永ののか🐰🩹"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-10T13:59:30Z", "who": "【🟡意気込み】前日です。緊張？してるよ【 仲町あられ / 夢限大みゅーたいぷ 】"}
