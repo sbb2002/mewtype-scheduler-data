@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T16:20:00Z",
+  "generated_at": "2026-10-10T15:35:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2476,6 +2476,35 @@
       "title_ko": "【🟡메인 제한】1시간만 대화해요🌼🌸【 仲町아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=P7RgSygNLek",
       "video_id": "P7RgSygNLek"
+    },
+    {
+      "actual_start": "2026-10-10T13:59:12Z",
+      "api_start_seen": "2026-10-10T14:00:00Z",
+      "archived_at": "2026-10-10T15:35:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 596,
+      "expires_at": "2026-10-10T17:00:00Z",
+      "first_seen": "2026-10-10T13:47:35Z",
+      "host": null,
+      "id": "pv_07ec417e",
+      "info_at": "2026-10-10T13:47:35Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-10-10T15:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-10T14:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2108915470938280215",
+      "state": "out",
+      "state_since": "2026-10-10T15:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/1gjYtQROP-o/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡意気込み】前日です。緊張？してるよ【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡意気込み】전날이에요. 긴장?하고 있어요【 仲町あ라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=1gjYtQROP-o",
+      "video_id": "1gjYtQROP-o"
     }
   ]
 }
