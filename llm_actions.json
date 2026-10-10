@@ -846,6 +846,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0b811d9f3d",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/10(金) 23:00~┊#イ中田丁なう\n\n┊ 前日語り ┊緊張？普通にとてもしていますﾀｽｹﾃ\n\n🔗 https://youtube.com/live/1gjYtQROP-o",
+        "tag": "p#https://x.com/#1tweet-2108915470938280215"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/10(금) 23:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-10T13:47:35Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
