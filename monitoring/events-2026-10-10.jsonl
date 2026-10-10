@@ -3,3 +3,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-10T11:44:34Z", "who": "/admin"}
 {"detail": "ECHO(테스트·점검 — 처리 안 함)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T11:47:23Z", "who": "jehy"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-10T11:48:03Z", "who": "/admin"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T11:48:28Z", "tweet_id": "2108714718643011733", "via": "ops", "who": "arale"}
