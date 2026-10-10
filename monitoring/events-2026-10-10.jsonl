@@ -30,3 +30,5 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T12:27:52Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T12:37:16Z", "tweet_id": "2108899500412772738", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T12:37:24Z", "who": "藤都子"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-10T13:10:01Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_6a32801b", "result": "ok", "title": "💜メン限 雑談💜みやこの部屋#13 【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-10-10T13:10:01Z", "video_id": "65Lq4jg4JmM", "who": "miyako"}
