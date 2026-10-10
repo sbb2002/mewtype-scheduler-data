@@ -5,3 +5,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-10T11:48:03Z", "who": "/admin"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T11:48:28Z", "tweet_id": "2108714718643011733", "via": "ops", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T11:49:11Z", "tweet_id": "2108740396096643125", "via": "ops", "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T11:49:38Z", "tweet_id": "2108771416481149261", "via": "ops", "who": "arale"}
