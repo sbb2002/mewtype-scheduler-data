@@ -26,3 +26,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T12:15:59Z", "who": "藤都子"}
 {"detail": "retweet skip: 폰 원문이 @bushi_20thlive 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-10T12:15:58Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T12:16:03Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T12:27:39Z", "tweet_id": "2108897235111121094", "via": "ingest", "who": "miyako"}
