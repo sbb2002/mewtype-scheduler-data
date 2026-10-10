@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "ingest_tweet",
+      "error": null,
+      "id": "fc05d186b2",
+      "job_id": null,
+      "ok": true,
+      "summary": "tweet-2108714718643011733",
+      "target": "arale",
+      "ts": "2026-10-10T11:48:38Z"
+    },
+    {
       "action": "delete_banner",
       "error": null,
       "id": "ef99309045",
