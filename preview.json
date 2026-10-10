@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-10T13:10:01Z",
+  "generated_at": "2026-10-10T13:47:35Z",
   "items": [
     {
       "actual_start": null,
@@ -201,6 +201,35 @@
       "title_ko": "TVLIVE 2026",
       "url": "https://www.youtube.com/live/YUB5qGbmzHs",
       "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-10-10T14:00:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-10T17:00:00Z",
+      "first_seen": "2026-10-10T13:47:35Z",
+      "host": null,
+      "id": "pv_07ec417e",
+      "info_at": "2026-10-10T13:47:35Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-10-10T13:47:35Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-10T14:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2108915470938280215",
+      "state": "watching",
+      "state_since": "2026-10-10T13:47:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/1gjYtQROP-o/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡意気込み】前日です。緊張？してるよ【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=1gjYtQROP-o",
+      "video_id": "1gjYtQROP-o"
     }
   ]
 }
