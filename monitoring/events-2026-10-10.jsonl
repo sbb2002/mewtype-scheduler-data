@@ -49,3 +49,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T14:02:41Z", "who": "仲町あられ"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T14:02:47Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T14:07:09Z", "tweet_id": "2108921115301339226", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T14:07:20Z", "who": "宮永ののか🐰🩹"}
