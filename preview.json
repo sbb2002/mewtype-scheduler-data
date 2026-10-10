@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-10T12:10:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-12T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/l28xzNelSDc/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【振り返り】バンドリ13thLIVE🛸DAY2夢限大みゅーたいぷ❣【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【회고】뱅드림 13thLIVE🛸DAY2 무겐다이 뮤타입❣【유메미타/후지토코】",
       "url": "https://www.youtube.com/watch?v=l28xzNelSDc",
       "video_id": "l28xzNelSDc"
     },
