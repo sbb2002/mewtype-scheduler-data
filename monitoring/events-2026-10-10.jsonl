@@ -58,3 +58,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_07ec417e", "result": "ok", "title": "【🟡意気込み】前日です。緊張？してるよ【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-10T15:05:00Z", "video_id": "1gjYtQROP-o", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-10T15:13:17Z", "tweet_id": "2108938007101493684", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-10T15:13:26Z", "who": "仲町あられ"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-10T15:20:00Z", "who": "1gjYtQROP-o"}
