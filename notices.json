@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:13:51Z",
+  "generated_at": "2026-10-11T11:15:55Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -281,6 +281,33 @@
       "title_slug": "お早めのご整列をお願いします",
       "tweet_url": "https://x.com/i/status/2109177177107464640",
       "url": "https://bang-dream.com/events/13th-live-day2/#Notice"
+    },
+    {
+      "anchor_a": "ymmt-tour2027",
+      "anchor_b": "ymmtriccounterpoint",
+      "body_for_llm": "＼🎊特報🎊／ 夢限大みゅーたいぷ LIVE TOUR 2027 「YMMTric COUNTER POINT」開催決定🎉 チケット最速先行はこのあと 〜受付開始📢 申込券は #ゆめみた 5th Single 「これはぼくたちの生存のあらすじ」初回生産分に 封入💡 ツアー詳細はこちら🛸 #バンドリ #ゆめみた",
+      "body_ko": "＼🎊특보🎊／\n\n무겐다이 뮤타입 LIVE TOUR 2027\n「YMMTric COUNTER POINT」 개최 결정🎉\n\n티켓 최우선 선예매는 이 후 21시부터 접수 시작📢\n신청권은 #ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」 초판 생산분에\n동봉💡\n\n투어 상세는 여기🛸\nhttps://bang-dream.com/events/ymmt-tour2027/\n\n#뱅드림 #ゆめみた",
+      "body_raw": "＼🎊特報🎊／\n\n夢限大みゅーたいぷ LIVE TOUR 2027\n「YMMTric COUNTER POINT」開催決定🎉\n\nチケット最速先行はこのあと21時〜受付開始📢\n申込券は #ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」初回生産分に\n封入💡\n\nツアー詳細はこちら🛸\nhttps://bang-dream.com/events/ymmt-tour2027/\n\n#バンドリ #ゆめみた",
+      "category": "etc",
+      "date": "2026-10-11",
+      "deadline": false,
+      "expires_at": "2026-10-11T15:00:00Z",
+      "first_seen": "2026-10-11T11:15:55Z",
+      "id": "2109241565281739077",
+      "last_updated": "2026-10-11T11:15:55Z",
+      "participants": null,
+      "seen_ids": [
+        "2109241565281739077"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:00",
+      "title": "LIVE TOUR 2027 「YMMTric COUNTER POINT」開催決定",
+      "title_ko": "LIVE TOUR 2027 「YMMTric COUNTER POINT」 개최 결정",
+      "title_raw": "「YMMTric COUNTER POINT」開催決定",
+      "title_slug": "ymmtriccounterpoint開催決定",
+      "tweet_url": "https://x.com/i/status/2109241565281739077",
+      "url": "https://bang-dream.com/events/ymmt-tour2027/"
     },
     {
       "anchor_a": null,
