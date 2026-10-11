@@ -150,3 +150,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T12:21:46Z", "tweet_id": "2109258139552063966", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T12:21:58Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T12:46:35Z", "tweet_id": "2109263281445834764", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T12:46:42Z", "who": "峰月律"}
