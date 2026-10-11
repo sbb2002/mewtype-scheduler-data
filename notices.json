@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:27:28Z",
+  "generated_at": "2026-10-11T01:27:57Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -87,6 +87,33 @@
       "title_slug": "ゆめみた東京公演finalライブ映像同時視聴生配",
       "tweet_url": "https://x.com/i/status/2105638957698719884",
       "url": "https://youtube.com/live/dTqZ7duxoHY"
+    },
+    {
+      "anchor_a": "13th-live-day2",
+      "anchor_b": null,
+      "body_for_llm": "＼CD販売情報💿／ 会場でのCD販売の詳細はこちら💡 直筆サイン入りポスターが当たる抽選会も✨ ⏰販売時間 ・先行販売: 〜 ・開場販売: 〜 詳細はこちら👇 #ゆめみた_DIMENSIONALOVERLAP #バンドリ13thライブ",
+      "body_ko": "＼CD 판매 정보💿／\n\n현장에서의 CD 판매 상세는 여기💡\n직필 사인 포스터가 당첨되는 추첨회도✨\n\n⏰판매 시간\n・선행 판매:12:00〜16:00\n・개장 판매:16:30〜18:00\n\n상세는 여기👇\nhttps://bang-dream.com/events/13th-live-day2/#CD_sales\n\n#ゆめみた_DIMENSIONALOVERLAP\n#뱅드림 13thライブ",
+      "body_raw": "＼CD販売情報💿／\n\n会場でのCD販売の詳細はこちら💡\n直筆サイン入りポスターが当たる抽選会も✨\n\n⏰販売時間\n・先行販売:12:00〜16:00\n・開場販売:16:30〜18:00\n\n詳細はこちら👇\nhttps://bang-dream.com/events/13th-live-day2/#CD_sales\n\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ",
+      "category": "release",
+      "date": "2026-10-11",
+      "deadline": false,
+      "expires_at": "2026-10-11T15:00:00Z",
+      "first_seen": "2026-10-11T01:27:57Z",
+      "id": "2109087083209822504",
+      "last_updated": "2026-10-11T01:27:57Z",
+      "participants": null,
+      "seen_ids": [
+        "2109087083209822504"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "12:00",
+      "title": "CD販売情報💿 会場での販売詳細と抽選会のお知らせ",
+      "title_ko": "CD 판매 정보💿 현장 판매 상세 및 추첨 행사 안내",
+      "title_raw": "会場でのCD販売の詳細はこちら💡",
+      "title_slug": "会場でのcd販売の詳細はこちら",
+      "tweet_url": "https://x.com/i/status/2109087083209822504",
+      "url": "https://bang-dream.com/events/13th-live-day2/#CD_sales"
     },
     {
       "anchor_a": "13th-live-day2",
