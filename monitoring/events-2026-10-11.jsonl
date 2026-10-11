@@ -172,3 +172,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-11T14:14:23Z", "who": "AYgrSr1xZPI"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_eef42992", "result": "ok", "title": "【🟡備忘録】#バンドリ13thライブ お疲れ様でした！✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-11T14:14:23Z", "video_id": "AYgrSr1xZPI", "who": "arale"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @animefreaks_jp 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-11T14:30:00Z", "via": "ingest", "who": ""}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @animefreaks_jp 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T14:30:02Z", "who": "夢限大みゅーたいぷ"}
