@@ -163,3 +163,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:55:29Z", "tweet_id": "2109281726564589930", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T13:55:36Z", "who": "仲町あられ"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-11T14:02:04Z", "who": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-11T14:02:00Z", "who": ""}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_eef42992", "result": "ok", "title": "【🟡備忘録】#バンドリ13thライブ お疲れ様でした！✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-10-11T14:02:00Z", "video_id": "AYgrSr1xZPI", "who": "arale"}
