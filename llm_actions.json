@@ -1091,6 +1091,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_78e241f6c2",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKwFRPbAAAbjaa.jpg"
+        ],
+        "raw": "BanG Dream! 13th☆LIVE\n「DIMENSIONAL OVERLAP」\n開催記念 ミッションパス🛸\n\n開催期間中、限定ミッションをクリアすることで、ライブKVを使用した夢限大みゅーたいぷのEXスナップなどがGETできます✨\n\nまたプレミアムミッションパスを購入することで、EXスナップはMAX Lv.まで上限解放することが可能！\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2109253178352935181"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 夢限大みゅーたいぷ와 무관한 일반 라이브 행사이며, 팬 사이트 배너에 적용할 대상이 아니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-11T12:02:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
