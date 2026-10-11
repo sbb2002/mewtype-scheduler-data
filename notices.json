@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:27:57Z",
+  "generated_at": "2026-10-11T01:30:01Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -87,6 +87,33 @@
       "title_slug": "ゆめみた東京公演finalライブ映像同時視聴生配",
       "tweet_url": "https://x.com/i/status/2105638957698719884",
       "url": "https://youtube.com/live/dTqZ7duxoHY"
+    },
+    {
+      "anchor_a": "13th-live-day2",
+      "anchor_b": "dimensionaloverlap",
+      "body_for_llm": "【#バンドリ13thライブ】 DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」🛸 会場へご来場の方は、注意事項のご一読をお願いいたします😌 周りの方へのご配慮など、素敵で心地よいライブ空間作りへのご協力をよろしくお願いいたします🙇‍♀ 📝公演に関する注意事項",
+      "body_ko": "【#뱅드림 13thライブ】\nDAY2 : 무겐다이 뮤타입\n「DIMENSIONAL OVERLAP」🛸\n\n관객 여러분께서는 주의사항을 꼭 읽어 주세요😌\n\n주변 사람들을 배려하는 등, 멋지고 쾌적한 라이브 공간 조성을 위해 협조 부탁드립니다🙇‍♀\n\n📝공연 관련 주의사항\nhttps://bang-dream.com/events/13th-live-day2/#Notice",
+      "body_raw": "【#バンドリ13thライブ】\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」🛸\n\n会場へご来場の方は、注意事項のご一読をお願いいたします😌\n\n周りの方へのご配慮など、素敵で心地よいライブ空間作りへのご協力をよろしくお願いいたします🙇‍♀\n\n📝公演に関する注意事項\nhttps://bang-dream.com/events/13th-live-day2/#Notice",
+      "category": "etc",
+      "date": "2026-10-11",
+      "deadline": false,
+      "expires_at": "2026-10-11T15:00:00Z",
+      "first_seen": "2026-10-11T01:30:01Z",
+      "id": "2109094129435283771",
+      "last_updated": "2026-10-11T01:30:01Z",
+      "participants": null,
+      "seen_ids": [
+        "2109094129435283771"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "02:00",
+      "title": "【#バンドリ 13thライブ】 DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」",
+      "title_ko": "【#뱅드림 13th 라이브】 DAY 무겐다이 뮤타입 「DIMENSIONAL OVERLAP」",
+      "title_raw": "「DIMENSIONAL OVERLAP」",
+      "title_slug": "dimensionaloverlap",
+      "tweet_url": "https://x.com/i/status/2109094129435283771",
+      "url": "https://bang-dream.com/events/13th-live-day2/#Notice"
     },
     {
       "anchor_a": "13th-live-day2",
