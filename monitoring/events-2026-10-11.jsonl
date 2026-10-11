@@ -193,3 +193,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f9505d90", "result": "ok", "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-11T15:40:00Z", "video_id": "wgweoKfjCPo", "who": "yuno"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-11T16:10:00Z", "who": "AYgrSr1xZPI"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_f9505d90", "result": "ok", "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-10-11T16:10:00Z", "video_id": "wgweoKfjCPo", "who": "yuno"}
+{"detail": "retweet skip: 폰 원문이 @coneka_44kaz 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-11T16:12:36Z", "via": "ingest", "who": "nonoka"}
