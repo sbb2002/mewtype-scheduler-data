@@ -1151,6 +1151,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4cc7df1ae7",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\nあした10/12（月）21:30〜\n#ゆめみた_DIMENSIONALOVERLAP\n振り返り配信📺⚡️\n\n🔗 https://www.youtube.com/live/l28xzNelSDc?si=8fxPSh40LT6OFtvZ\n\n演奏から都三郎の話まで♪\n語るでごわす❣️\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2109290775234396248"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/12(월) 21:30에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-11T14:31:25Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
