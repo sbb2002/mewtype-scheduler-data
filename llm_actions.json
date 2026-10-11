@@ -1170,6 +1170,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a23bd0cd1f",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "🐶週間予定🐶\n来週のミヤコさんは～？\n\n「DIMENSIONAL OVERLAP」\nLIVEふりかえり♪\nそして月に一度のぽぽぽ♪めんば〜しっぷ限定配信でごわす🎃\n\n💜総合 #みるみやこ #藤都子\n🎨FA #かくみやこ\n✂切り抜きなど #オキニみやこ",
+        "tag": "p#https://x.com/#1tweet-2109305592506691705"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 다음 주 일정과 내용 소개이며, 취소나 일정 변경을 알리는 표현이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-11T15:30:18Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
