@@ -176,3 +176,4 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-11T14:31:18Z", "who": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-11T14:31:19Z", "who": "wgweoKfjCPo"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_f9505d90", "result": "ok", "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-11T14:31:19Z", "video_id": "wgweoKfjCPo", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T14:31:25Z", "tweet_id": "2109290775234396248", "via": "ingest", "who": "miyako"}
