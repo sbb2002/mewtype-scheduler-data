@@ -184,3 +184,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-11T15:01:20Z", "who": "/admin"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T15:19:25Z", "tweet_id": "2109302831014613463", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T15:19:39Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T15:30:18Z", "tweet_id": "2109305592506691705", "via": "ingest", "who": "miyako"}
