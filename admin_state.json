@@ -34,10 +34,10 @@
     "at": "2026-10-11T11:13:51Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "97c0e0dc634eeaff35195a65023937b062e0cbbd",
+    "new_sha": "3e050a86c9d0979dee6b7a400ac6b918e9b78a47",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-11T07:00:09Z",
+      "generated_at": "2026-10-11T11:13:51Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -151,6 +151,33 @@
           "title_raw": "チケットのグッズ引換券にて実施いたします",
           "title_slug": "チケットのグッズ引換券にて実施いたします",
           "tweet_url": "https://x.com/i/status/2109124331309531241",
+          "url": null
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "🛸 #バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」🛸 ご来場・ご視聴ありがとうございました❣ #ゆめみた_DIMENSIONALOVERLAP をつけて 感想お待ちしています🌟 これからも皆さんと共に歩んでいく 夢限大みゅーたいぷを、どうぞよろしくお願いします💌",
+          "body_ko": "🛸 #뱅드림 13th 라이브\nDAY2 : 무겐다이 뮤타입\n「DIMENSIONAL OVERLAP」🛸\n\n관람·시청해 주셔서 감사합니다❣\n\n#ゆめみた_DIMENSIONALOVERLAP 를 달고\n감상 기다리고 있습니다🌟\n\n앞으로도 여러분과 함께 걸어갈\n무겐다이 뮤타입을, 잘 부탁드립니다💌",
+          "body_raw": "🛸 #バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」🛸\n\nご来場・ご視聴ありがとうございました❣\n\n#ゆめみた_DIMENSIONALOVERLAP  をつけて\n感想お待ちしています🌟\n\nこれからも皆さんと共に歩んでいく\n夢限大みゅーたいぷを、どうぞよろしくお願いします💌",
+          "category": "etc",
+          "date": "2026-10-11",
+          "deadline": false,
+          "expires_at": "2026-10-11T15:00:00Z",
+          "first_seen": "2026-10-11T11:13:51Z",
+          "id": "2109240261767487860",
+          "last_updated": "2026-10-11T11:13:51Z",
+          "participants": null,
+          "seen_ids": [
+            "2109240261767487860"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "02:00",
+          "title": "13thライブ DAY DIMENSIONAL OVERLAP",
+          "title_ko": "13th 라이브 DAY DIMENSIONAL OVERLAP",
+          "title_raw": "バンドリ13thライブ DAY2 : 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」",
+          "title_slug": "バンドリ13thライブday夢限大みゅーたいぷd",
+          "tweet_url": "https://x.com/i/status/2109240261767487860",
           "url": null
         },
         {
