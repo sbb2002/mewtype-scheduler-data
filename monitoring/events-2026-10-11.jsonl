@@ -197,3 +197,5 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T16:12:38Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-11T17:05:00Z", "who": "AYgrSr1xZPI"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_eef42992", "result": "ok", "title": "【🟡備忘録】#バンドリ13thライブ お疲れ様でした！✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-11T17:05:00Z", "video_id": "AYgrSr1xZPI", "who": "arale"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-11T17:35:00Z", "who": "AYgrSr1xZPI"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_eef42992", "result": "ok", "title": "【🟡備忘録】#バンドリ13thライブ お疲れ様でした！✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-10-11T17:35:00Z", "video_id": "AYgrSr1xZPI", "who": "arale"}
