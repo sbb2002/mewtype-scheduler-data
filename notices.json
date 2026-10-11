@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:30:01Z",
+  "generated_at": "2026-10-11T03:13:58Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -229,29 +229,30 @@
     },
     {
       "anchor_a": "yumemita",
-      "anchor_b": null,
-      "body_for_llm": "🍩 まで🍩 ゆめみた×極楽湯こら〜ぼ✞開催中✞ ▷ こら〜ぼフードやドリンクもあるぜよ❣ みやこのぶるべりどーなちで視力を回復させなさい❣ #ばばんばばんばんばんドリーム",
-      "body_ko": "🍩10/20까지🍩\nゆめみた×극락탕 코라~보✞진행 중✞\n▷https://rakuspa.com/yumemita/\n\n코라~보에는 음식과 음료도 있어요❣\n미야코의 블루베리 도나치에서 시력을 회복하세요❣\n#ばばんばばんばんばん드림",
-      "body_raw": "🍩10/20まで🍩\nゆめみた×極楽湯こら〜ぼ✞開催中✞\n▷https://rakuspa.com/yumemita/\n\nこら〜ぼフードやドリンクもあるぜよ❣\nみやこのぶるべりどーなちで視力を回復させなさい❣\n#ばばんばばんばんばんドリーム",
+      "anchor_b": "藤都子",
+      "body_for_llm": "本日 から まで❣ コラボ風呂💜みやこの湯ですぞ💜 ▷ 「藤都子」プロフィール 現役女子高生漫画家（16歳） ストイックで情熱的な女の子。 可愛いものが大好き。 可愛いものが大好き。 #ばばんばばんばんばんドリーム",
+      "body_ko": "오늘 10/11부터 10/13까지❣\n콜라보 욕조💜미야코의 물이에요💜\n▷https://rakuspa.com/yumemita/\n\n「藤都子」프로필\n현역 여고생 만화가(16세)\n스토익하고 열정적인 소녀.\n귀여운 것을 아주 좋아함.\n\n귀여운 것을 아주 좋아함.\n#ばばんばばんばんばんドリーム",
+      "body_raw": "本日10/11から10/13まで❣\nコラボ風呂💜みやこの湯ですぞ💜\n▷https://rakuspa.com/yumemita/\n\n「藤都子」プロフィール\n現役女子高生漫画家（16歳）\nストイックで情熱的な女の子。\n可愛いものが大好き。\n\n可愛いものが大好き。\n#ばばんばばんばんばんドリーム",
       "category": "etc",
       "date": "2026-10-20",
       "deadline": true,
-      "expires_at": "2026-10-20T15:00:00Z",
+      "expires_at": "2026-10-11T15:00:00Z",
       "first_seen": "2026-10-08T03:00:12Z",
       "id": "2108029621224558725",
-      "last_updated": "2026-10-08T03:00:12Z",
+      "last_updated": "2026-10-11T03:13:58Z",
       "participants": null,
       "seen_ids": [
-        "2108029621224558725"
+        "2108029621224558725",
+        "2109116788143525971"
       ],
       "site": "web",
       "src_handle": "@BDP_yumemita",
       "time": null,
-      "title": "ゆめみた×極楽湯 こら〜ぼ開催中",
+      "title": "「藤都子」プロフィール",
       "title_ko": "유메미타×극락탕 코라보 개최 중",
-      "title_raw": "▷https://rakuspa.com/yumemita/",
-      "title_slug": "httpsrakuspacomyumemita",
-      "tweet_url": "https://x.com/i/status/2108029621224558725",
+      "title_raw": "「藤都子」プロフィール",
+      "title_slug": "藤都子プロフィール",
+      "tweet_url": "https://x.com/i/status/2109116788143525971",
       "url": "https://rakuspa.com/yumemita/"
     },
     {
