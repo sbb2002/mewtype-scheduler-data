@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:15:55Z",
+  "generated_at": "2026-10-11T11:17:01Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -687,6 +687,33 @@
       "title_slug": "チケット一般発売明日開始",
       "tweet_url": "https://x.com/i/status/2105960991897080077",
       "url": "https://bang-dream.com/events/nakamachiarale_live2026/"
+    },
+    {
+      "anchor_a": "4259",
+      "anchor_b": "it’sourchoice",
+      "body_for_llm": "＼🎊特報🎊／ 2027年 (水) 2nd Album「It’s our choice」リリース決定🛸 「バンドリ！アワーノーツ」や #アニメゆめみた 収録楽曲を含む全10曲を収録🎶 Blu-ray付生産限定盤には、 「新宿着陸計画」DAY2 の映像を収録💿✨ 詳細はこちら🛸 #バンドリ",
+      "body_ko": "＼🎊특보🎊／\n\n2027년 1월 27일(수)\n2nd Album「It’s our choice」발매 결정🛸\n\n「뱅드림! 아워 노츠」와\n#アニメゆめみた 수록곡을 포함한 전곡 10곡 수록🎶\n\nBlu‑ray 부착 한정판에는,\n「신주쿠 착륙 계획」DAY2 영상 수록💿✨\n\n자세한 내용은 여기🛸\nhttps://bang-dream.com/discographies/4259/\n\n#뱅드림",
+      "body_raw": "＼🎊特報🎊／\n\n2027年1月27日(水)\n2nd Album「It’s our choice」リリース決定🛸\n\n「バンドリ！アワーノーツ」や \n#アニメゆめみた 収録楽曲を含む全10曲を収録🎶\n\nBlu-ray付生産限定盤には、\n「新宿着陸計画」DAY2 の映像を収録💿✨\n\n詳細はこちら🛸\nhttps://bang-dream.com/discographies/4259/\n\n#バンドリ",
+      "category": "release",
+      "date": "2027-01-27",
+      "deadline": false,
+      "expires_at": "2027-01-27T15:00:00Z",
+      "first_seen": "2026-10-11T11:17:01Z",
+      "id": "2109241849189941510",
+      "last_updated": "2026-10-11T11:17:01Z",
+      "participants": null,
+      "seen_ids": [
+        "2109241849189941510"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "2027年 2ndアルバム「It’s our choice」リリース決定",
+      "title_ko": "2027년 2nd 앨범 “It’s our choice” 발매 결정",
+      "title_raw": "2nd Album「It’s our choice」リリース決定",
+      "title_slug": "2ndalbumitsourchoiceリリース",
+      "tweet_url": "https://x.com/i/status/2109241849189941510",
+      "url": "https://bang-dream.com/discographies/4259/"
     },
     {
       "anchor_a": "miyako_atelier",
