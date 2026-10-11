@@ -865,6 +865,58 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0d3d89cd1d",
+      "input": {
+        "raw": "＼夢ノ結唱 MEW 体験会情報💻／\n\n会場内、夢ノ結唱ブースにて\n「夢ノ結唱 MEW アルファー版」体験会を実施💻✨\n\n⏰開催時間：13:30～16:30 \n\n詳しくはこちら👀👇 \nhttps://bang-dream.com/events/13th-live-day2\n\nぜひ直接ご体験ください🌟\n\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ #夢ノ結唱",
+        "tag": "p#https://x.com/#1tweet-2109088592991514758",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "duplicate_notice",
+      "parent_id": null,
+      "reason": "기존 소식 2098018660086657040",
+      "summary": "같은 소식으로 판정 — 「夢ノ結唱 MEW アルファー版」体験会を実施💻",
+      "ts": "2026-10-11T01:27:23Z",
+      "undo": {
+        "before": {
+          "anchor_a": null,
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "RT @bang_dream_info: 🎁物販情報更新②🎁 (日)開催 🛸#バンドリ13thライブ DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 ✨グッズ販売情報を公開✨ 詳細はこちら👇",
+          "body_ko": "RT @bang_dream_info: 🎁물품 판매 정보 업데이트②🎁\n\n10/11(일) 개최\n🛸#뱅드림 13th 라이브\nDAY2 : 무겐다이 뮤타입「DIMENSIONAL OVERLAP」\n\n✨굿즈 판매 정보를 공개✨\n\n자세한 내용은 여기👇",
+          "body_raw": "RT @bang_dream_info: 🎁物販情報更新②🎁\n\n10/11(日)開催\n🛸#バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\n\n✨グッズ販売情報を公開✨\n\n詳細はこちら👇",
+          "category": "release",
+          "date": "2026-10-11",
+          "deadline": false,
+          "expires_at": "2026-10-11T15:00:00Z",
+          "first_seen": "2026-09-10T12:18:02Z",
+          "id": "2098018660086657040",
+          "last_updated": "2026-10-02T08:08:21Z",
+          "seen_ids": [
+            "2098018660086657040",
+            "2104935720586756460",
+            "2105855344908153102",
+            "2105932496215175602"
+          ],
+          "site": "x",
+          "src_handle": "RT @bang_dream_info",
+          "time": "02:00",
+          "title": "グッズ販売情報を公開",
+          "title_ko": "뱅드림 13th 라이브 DAY 무겐다이 뮤타입 “DIMENSIONAL OVERLAP” 티켓 일반 판매 시작",
+          "title_raw": "グッズ販売情報を公開",
+          "title_slug": "グッズ販売情報を公開",
+          "tweet_url": "https://x.com/i/status/2105932496215175602",
+          "url": null
+        },
+        "id": "2098018660086657040",
+        "parsed_id": "2109088592991514758",
+        "type": "restore_notice"
+      },
+      "undone": null,
+      "who": "notice"
     }
   ]
 }
