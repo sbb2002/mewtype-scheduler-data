@@ -156,3 +156,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T13:02:43Z", "who": "千石ユノ"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-11T13:40:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_f9505d90", "result": "ok", "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-10-11T13:40:02Z", "video_id": "wgweoKfjCPo", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:45:00Z", "tweet_id": "2109278676407971844", "via": "ingest", "who": "miyako"}
