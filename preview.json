@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-11T13:40:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-11T14:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -89,7 +88,7 @@
       "thumbnail": "https://i.ytimg.com/vi/wgweoKfjCPo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【振り돌아보기】라이브 직후! 13th LIVE 감사합니다!【 #千石ユノ / #뱅드림】",
       "url": "https://www.youtube.com/watch?v=wgweoKfjCPo",
       "video_id": "wgweoKfjCPo"
     },
