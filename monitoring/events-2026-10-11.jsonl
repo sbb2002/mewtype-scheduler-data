@@ -23,3 +23,4 @@
 {"detail": "mode: updated", "flow": "notice", "notice_id": "2109086831635509513", "result": "ok", "ts": "2026-10-11T01:27:28Z", "via": "ingest", "who": ""}
 {"detail": "mode: added", "flow": "notice", "notice_id": "2109087083209822504", "result": "ok", "ts": "2026-10-11T01:27:57Z", "via": "ingest", "who": ""}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2109086588714234246", "result": "ok", "ts": "2026-10-11T01:27:52Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-11T01:27:52Z", "via": "ingest", "who": ""}
