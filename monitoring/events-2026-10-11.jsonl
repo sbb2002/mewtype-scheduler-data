@@ -21,3 +21,4 @@
 {"detail": "retweet skip: 폰 원문이 @802Palette 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-11T01:28:07Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T01:28:08Z", "who": "藤都子"}
 {"detail": "mode: updated", "flow": "notice", "notice_id": "2109086831635509513", "result": "ok", "ts": "2026-10-11T01:27:28Z", "via": "ingest", "who": ""}
+{"detail": "mode: added", "flow": "notice", "notice_id": "2109087083209822504", "result": "ok", "ts": "2026-10-11T01:27:57Z", "via": "ingest", "who": ""}
