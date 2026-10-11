@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:27:23Z",
+  "generated_at": "2026-10-11T01:27:44Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -87,6 +87,33 @@
       "title_slug": "ゆめみた東京公演finalライブ映像同時視聴生配",
       "tweet_url": "https://x.com/i/status/2105638957698719884",
       "url": "https://youtube.com/live/dTqZ7duxoHY"
+    },
+    {
+      "anchor_a": "13th-live-day2",
+      "anchor_b": null,
+      "body_for_llm": "＼DRAIVE特設ブース情報👕／ ぱくっとチャージやDRAIVEドライTシャツ、 プロテインなど販売する特設ブースが出店🏠✨ ⏰販売時間 ・先行販売: 〜 ・開場販売: 〜 詳細はこちら👇 #ゆめみた_DIMENSIONALOVERLAP #バンドリ13thライブ",
+      "body_ko": "＼DRAIVE 특설 부스 안내👕／\n\n빠르게 충전하거나 DRAIVE 드라이 티셔츠,\n프로틴 등을 판매하는 특설 부스가 출점🏠✨\n\n⏰ 판매 시간\n· 선행 판매: 12:00~16:00\n· 개장 판매: 16:30~18:00\n\n자세한 내용은 여기👇\nhttps://bang-dream.com/events/13th-live-day2/#Goods_onsite\n\n#ゆめみた_DIMENSIONALOVERLAP\n#뱅드림 13thライブ",
+      "body_raw": "＼DRAIVE特設ブース情報👕／\n\nぱくっとチャージやDRAIVEドライTシャツ、\nプロテインなど販売する特設ブースが出店🏠✨\n\n⏰販売時間\n・先行販売:12:00〜16:00\n・開場販売:16:30〜18:00\n\n詳細はこちら👇\nhttps://bang-dream.com/events/13th-live-day2/#Goods_onsite\n\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ",
+      "category": "etc",
+      "date": "2026-10-11",
+      "deadline": false,
+      "expires_at": "2026-10-11T15:00:00Z",
+      "first_seen": "2026-10-11T01:27:44Z",
+      "id": "2109087335019380944",
+      "last_updated": "2026-10-11T01:27:44Z",
+      "participants": null,
+      "seen_ids": [
+        "2109087335019380944"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "12:00",
+      "title": "DRAIVE特設ブース出店のお知らせ",
+      "title_ko": "DRAIVE 특설 부스 출점 안내",
+      "title_raw": "ぱくっとチャージやDRAIVEドライTシャツ",
+      "title_slug": "ぱくっとチャージやdraiveドライtシャツ",
+      "tweet_url": "https://x.com/i/status/2109087335019380944",
+      "url": "https://bang-dream.com/events/13th-live-day2/#Goods_onsite"
     },
     {
       "anchor_a": "13th-live-day2",
