@@ -78,3 +78,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T08:05:07Z", "tweet_id": "2109193559069073413", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T08:05:15Z", "who": "千石ユノ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_9808c162", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-11T08:30:06Z", "video_id": null, "who": "arale"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_f4d91c5b", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-11T08:30:06Z", "video_id": null, "who": "yuno"}
