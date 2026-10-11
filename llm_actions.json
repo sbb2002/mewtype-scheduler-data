@@ -917,6 +917,58 @@
       },
       "undone": null,
       "who": "notice"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0502317fc1",
+      "input": {
+        "raw": "＼グッズ販売情報🛍️／\n\nグッズ販売情報は \n@Bushi_goods をチェック👀❣️\n\n⏰販売時間\n・先行販売：12:00～16:00\n・開場販売：16:30～18:00\n\n詳細はこちら👇\nhttps://bang-dream.com/events/13th-live-day2/#Goods_onsite\n\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ",
+        "tag": "p#https://x.com/#1tweet-2109086831635509513",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "duplicate_notice",
+      "parent_id": null,
+      "reason": "기존 소식 2098018660086657040",
+      "summary": "같은 소식으로 판정 — グッズ販売情報🛍",
+      "ts": "2026-10-11T01:27:28Z",
+      "undo": {
+        "before": {
+          "anchor_a": null,
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "RT @bang_dream_info: 🎁物販情報更新②🎁 (日)開催 🛸#バンドリ13thライブ DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 ✨グッズ販売情報を公開✨ 詳細はこちら👇",
+          "body_ko": "RT @bang_dream_info: 🎁물품 판매 정보 업데이트②🎁\n\n10/11(일) 개최\n🛸#뱅드림 13th 라이브\nDAY2 : 무겐다이 뮤타입「DIMENSIONAL OVERLAP」\n\n✨굿즈 판매 정보를 공개✨\n\n자세한 내용은 여기👇",
+          "body_raw": "RT @bang_dream_info: 🎁物販情報更新②🎁\n\n10/11(日)開催\n🛸#バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\n\n✨グッズ販売情報を公開✨\n\n詳細はこちら👇",
+          "category": "release",
+          "date": "2026-10-11",
+          "deadline": false,
+          "expires_at": "2026-10-11T15:00:00Z",
+          "first_seen": "2026-09-10T12:18:02Z",
+          "id": "2098018660086657040",
+          "last_updated": "2026-10-02T08:08:21Z",
+          "seen_ids": [
+            "2098018660086657040",
+            "2104935720586756460",
+            "2105855344908153102",
+            "2105932496215175602"
+          ],
+          "site": "x",
+          "src_handle": "RT @bang_dream_info",
+          "time": "02:00",
+          "title": "グッズ販売情報を公開",
+          "title_ko": "뱅드림 13th 라이브 DAY 무겐다이 뮤타입 “DIMENSIONAL OVERLAP” 티켓 일반 판매 시작",
+          "title_raw": "グッズ販売情報を公開",
+          "title_slug": "グッズ販売情報を公開",
+          "tweet_url": "https://x.com/i/status/2105932496215175602",
+          "url": null
+        },
+        "id": "2098018660086657040",
+        "parsed_id": "2109086831635509513",
+        "type": "restore_notice"
+      },
+      "undone": null,
+      "who": "notice"
     }
   ]
 }
