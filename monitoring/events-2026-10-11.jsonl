@@ -189,3 +189,5 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T15:30:31Z", "who": "藤都子"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @coneka_44kaz 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-11T15:32:49Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @coneka_44kaz 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T15:32:51Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-11T15:40:00Z", "who": "wgweoKfjCPo"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f9505d90", "result": "ok", "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-11T15:40:00Z", "video_id": "wgweoKfjCPo", "who": "yuno"}
