@@ -1132,6 +1132,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_995c41322d",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/11 23:30～\n#バンドリ13thライブ\n#ゆめみた_DIMENSIONALOVERLAP \n特大感謝振り返り配信！\n\nみんなと今日の思い出をHOTなうちに語りたい気分！\n話そうねー！",
+        "tag": "p#https://x.com/#1tweet-2109264564378583091"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/11 23:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-11T13:02:27Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
