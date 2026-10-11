@@ -152,3 +152,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T12:46:35Z", "tweet_id": "2109263281445834764", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T12:46:42Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:02:27Z", "tweet_id": "2109264564378583091", "via": "ingest", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물은 10/11 23:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:02:27Z", "via": "ingest", "who": "yuno"}
