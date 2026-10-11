@@ -185,3 +185,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T15:19:25Z", "tweet_id": "2109302831014613463", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T15:19:39Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T15:30:18Z", "tweet_id": "2109305592506691705", "via": "ingest", "who": "miyako"}
+{"detail": "broadcast-change none · 게시물은 다음 주 일정과 내용 소개이며, 취소나 일정 변경을 알리는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-11T15:30:18Z", "via": "ingest", "who": "miyako"}
