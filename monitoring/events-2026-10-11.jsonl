@@ -159,3 +159,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:45:00Z", "tweet_id": "2109278676407971844", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T13:45:10Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:47:30Z", "tweet_id": "2109279719040721097", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T13:47:38Z", "who": "藤都子"}
