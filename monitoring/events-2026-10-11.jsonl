@@ -56,3 +56,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T04:33:09Z", "who": "峰月律"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-11T04:37:33Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bangdream_store 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T04:37:35Z", "who": "夢限大みゅーたいぷ"}
+{"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-11T05:00:02Z", "who": "group"}
