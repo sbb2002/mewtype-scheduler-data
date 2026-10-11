@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:10:00Z",
+  "generated_at": "2026-10-11T17:35:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2534,6 +2534,35 @@
       "url": "https://www.youtube.com/watch?v=wgweoKfjCPo",
       "video_id": "wgweoKfjCPo",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-11T14:14:10Z",
+      "api_start_seen": "2026-10-11T14:00:00Z",
+      "archived_at": "2026-10-11T17:35:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 1363,
+      "expires_at": "2026-10-11T17:00:00Z",
+      "first_seen": "2026-10-11T14:02:00Z",
+      "host": null,
+      "id": "pv_eef42992",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-11T17:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-11T14:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2109284221714080054",
+      "state": "out",
+      "state_since": "2026-10-11T17:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/AYgrSr1xZPI/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡備忘録】#バンドリ13thライブ お疲れ様でした！✨️【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡備忘録】#뱅드림 13thライブ 수고하셨습니다!✨️【 仲町あ라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=AYgrSr1xZPI",
+      "video_id": "AYgrSr1xZPI"
     }
   ]
 }
