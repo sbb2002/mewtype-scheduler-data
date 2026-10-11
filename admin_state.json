@@ -30,14 +30,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (チケットのグッズ引換券にて実施いたします)",
-    "at": "2026-10-11T03:35:33Z",
+    "action": "소식 updated (お早めのご整列をお願いします)",
+    "at": "2026-10-11T07:00:09Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "419dbfdc8ce17bcb58d4533e4b4dd1fa8ce7b0a3",
+    "new_sha": "987b575d883372199501f9bdf79fb4da1fb5b560",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-11T03:13:58Z",
+      "generated_at": "2026-10-11T03:35:33Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -152,6 +152,33 @@
           "title_slug": "dimensionaloverlap",
           "tweet_url": "https://x.com/i/status/2109094129435283771",
           "url": "https://bang-dream.com/events/13th-live-day2/#Notice"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "【チケット特典のお渡しについて】 🛸 #バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」🛸 特典の引き換えは、 チケットのグッズ引換券にて実施いたします。 📝引換場所 東京ガーデンシアター 3Fバルコニーゲート付近 特典引換所 ⏰引換時間 〜終演後 列が途切れ次第終了 ※開場時間以降は場内からも引き換えいただけます。 ※特典の引き換えは上記引換時間のみ対応させていただきます。後日のご連絡にはお応えいたしかねますので、特典はお忘れなくお受け取りください。 ※終演後は大変混雑が予想されます。混雑緩和のためお時間に余裕をもって特典の引換をお願いいたします。 #ゆめみた_DIMENSIONALOVERLAP",
+          "body_ko": "【티켓 특전 전달에 관하여】\n\n🛸 #뱅드림 13th 라이브\nDAY2 : 무겐다이 뮤타입\n「DIMENSIONAL OVERLAP」🛸\n\n특전 교환은,\n티켓의 굿즈 교환권으로 진행합니다.\n\n📝 교환 장소\n도쿄 가든 시어터\n3층 발코니 게이트 근처 특전 교환소\n\n⏰ 교환 시간\n13:00~공연 종료 후 줄이 끊기는 대로 종료\n\n※ 개장 시간 이후에도 현장 내에서 교환이 가능합니다.\n\n※ 특전 교환은 위 교환 시간에만 대응합니다. 추후 연락에는 응답할 수 없으니, 특전은 꼭 받아 주세요.\n\n※ 공연 종료 후는 매우 혼잡할 것으로 예상됩니다. 혼잡 완화를 위해 여유 있게 교환해 주시기 바랍니다.\n\n#ゆめみた_DIMENSIONALOVERLAP",
+          "body_raw": "【チケット特典のお渡しについて】\n\n🛸 #バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」🛸\n\n特典の引き換えは、\nチケットのグッズ引換券にて実施いたします。\n\n📝引換場所\n東京ガーデンシアター\n3Fバルコニーゲート付近 特典引換所\n\n⏰引換時間\n13:00〜終演後 列が途切れ次第終了\n\n※開場時間以降は場内からも引き換えいただけます。\n\n※特典の引き換えは上記引換時間のみ対応させていただきます。後日のご連絡にはお応えいたしかねますので、特典はお忘れなくお受け取りください。\n\n※終演後は大変混雑が予想されます。混雑緩和のためお時間に余裕をもって特典の引換をお願いいたします。\n\n#ゆめみた_DIMENSIONALOVERLAP",
+          "category": "release",
+          "date": "2026-10-11",
+          "deadline": false,
+          "expires_at": "2026-10-11T15:00:00Z",
+          "first_seen": "2026-10-11T03:35:33Z",
+          "id": "2109124331309531241",
+          "last_updated": "2026-10-11T03:35:33Z",
+          "participants": null,
+          "seen_ids": [
+            "2109124331309531241"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": "02:00",
+          "title": "チケット特典引き換えのお知らせ",
+          "title_ko": "티켓 특전 교환 안내",
+          "title_raw": "チケットのグッズ引換券にて実施いたします",
+          "title_slug": "チケットのグッズ引換券にて実施いたします",
+          "tweet_url": "https://x.com/i/status/2109124331309531241",
+          "url": null
         },
         {
           "anchor_a": "13th-live-day2",
