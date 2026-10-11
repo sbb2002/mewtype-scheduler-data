@@ -154,3 +154,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:02:27Z", "tweet_id": "2109264564378583091", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 10/11 23:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-11T13:02:27Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-11T13:02:43Z", "who": "千石ユノ"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-11T13:40:02Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_f9505d90", "result": "ok", "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-10-11T13:40:02Z", "video_id": "wgweoKfjCPo", "who": "yuno"}
