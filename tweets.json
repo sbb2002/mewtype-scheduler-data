@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T02:12:54Z",
+  "generated_at": "2026-10-11T02:46:49Z",
   "tweets": {
     "arale": [
       {
@@ -544,6 +544,25 @@
         "text": "(ᐢ⩌-⩌ᐢ)𓂂𓏸\n\nあ、ユノちゃんが起きたみたい\nおはようユノちゃん！\n\nそっか、今日はでぃめらぷ当日だから早起きなんだね！\n頑張ろうねユノちゃん！",
         "text_ko": "(ᐢ⩌-⩌ᐢ)𓂂𓏸\n\n아, 유노쨩이 일어난 것 같아\n좋은 아침이야, 유노쨩!\n\n그렇구나, 오늘은 디메라프 당일이라 일찍 일어났구나!\n힘내자, 유노쨩!",
         "url": "https://x.com/i/status/2109064345972031491"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-13T02:46:44Z",
+        "handle": "yuno_yumemita",
+        "id": "2109113441105609212",
+        "media": [
+          "https://pbs.twimg.com/media/HUUTfT-bIAA4I4i.jpg"
+        ],
+        "posted_at": "2026-10-11T02:46:44Z",
+        "quote": {
+          "media": [],
+          "text": "＼パルワールド オフィシャルカードゲーム情報🎁／\n\n物販のほか、展示も行いますので、\nぜひお立ち寄りくださいね🌟\n\nまた、　#ゆめみた_DIMENSIONALOVERLAP\nライブご入場者に「夢限大みゅーたいぷ」の\n『パルワールド オフィシャルカードゲーム』\n特製PRカードを1枚ランダムでプレゼント🎁🎉\n\n要チェック✨\n\n#バンドリ13thライブ",
+          "text_ko": "＼파루월드 공식 카드 게임 정보🎁／\n\n물품 판매 외에도 전시를 진행하니,\n꼭 들러 주세요🌟\n\n또한, #ゆめみた_DIMENSIONALOVERLAP\n라이브 입장자에게 “무겐다이 뮤타입”의\n‘파루월드 공식 카드 게임’\n특제 PR 카드를 1장 랜덤으로 증정🎁🎉\n\n꼭 확인하세요✨\n\n#뱅드림 13th 라이브"
+        },
+        "received_at": "2026-10-11T02:46:49Z",
+        "text": "𝑮𝑬𝑻…\n\n#パルワールドカードゲーム\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ",
+        "text_ko": "GET…\n\n#Palworld 카드게임\n#꿈꾸는_DIMENSIONALOVERLAP\n#뱅드림 13th 라이브",
+        "url": "https://x.com/i/status/2109113441105609212"
       }
     ]
   }
