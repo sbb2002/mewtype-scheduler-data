@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-11T14:02:00Z",
+  "generated_at": "2026-10-11T14:02:03Z",
   "items": [
     {
       "actual_start": null,
@@ -106,18 +106,19 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-11T14:02:00Z",
+      "last_updated": "2026-10-11T14:02:03Z",
       "membership": false,
       "scheduled_start": "2026-10-11T14:30:00Z",
       "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-10-11T13:40:02Z",
+      "state": "watching",
+      "state_since": "2026-10-11T14:02:03Z",
       "thumbnail": "https://i.ytimg.com/vi/wgweoKfjCPo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 振り返り 】ライブ直後！13th LIVE ありがとうございました！【 #千石ユノ / #バンドリ 】",
       "title_ko": "【振り돌아보기】라이브 직후! 13th LIVE 감사합니다!【 #千石ユノ / #뱅드림】",
       "url": "https://www.youtube.com/watch?v=wgweoKfjCPo",
-      "video_id": "wgweoKfjCPo"
+      "video_id": "wgweoKfjCPo",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
