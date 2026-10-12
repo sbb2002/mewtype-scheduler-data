@@ -53,3 +53,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T15:12:29Z", "tweet_id": "2109649874459426853", "via": "ops", "who": "miyako"}
 {"detail": "ECHO(테스트·점검 — 처리 안 함)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-12T15:15:24Z", "who": "jehy"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T15:17:41Z", "tweet_id": "2109605862826479702", "via": "ops", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T15:17:58Z", "tweet_id": "2109623331771269507", "via": "ops", "who": "ritsu"}
