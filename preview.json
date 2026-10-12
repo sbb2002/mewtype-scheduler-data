@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-11T17:35:00Z",
+  "generated_at": "2026-10-12T07:02:25Z",
   "items": [
     {
       "actual_start": null,
@@ -78,8 +78,8 @@
       "id": "pv_4dc83dc5",
       "info_at": null,
       "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-10-11T17:35:00Z",
+      "kind": "talk",
+      "last_updated": "2026-10-12T07:02:25Z",
       "membership": false,
       "scheduled_start": "2026-10-12T12:30:00Z",
       "source": "api",
@@ -174,6 +174,35 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-12T16:00:00Z",
+      "first_seen": "2026-10-12T07:02:25Z",
+      "host": null,
+      "id": "pv_c7a402a2",
+      "info_at": "2026-10-12T07:02:25Z",
+      "info_source": "x-relay",
+      "kind": "game",
+      "last_updated": "2026-10-12T07:02:25Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-12T13:00:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2109539570890981438",
+      "state": "announced",
+      "state_since": "2026-10-12T07:02:25Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     },
     {
       "actual_start": null,
