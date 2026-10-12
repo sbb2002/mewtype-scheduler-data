@@ -22,3 +22,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-12T06:06:03Z", "who": "仲町あられ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_c7a402a2", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-12T07:02:25Z", "video_id": null, "who": "yuno"}
 {"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-10-12T07:02:25Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 2건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-12T07:02:36Z", "who": "夢限大みゅーたいぷ"}
