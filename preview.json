@@ -110,7 +110,6 @@
       "kind": null,
       "last_updated": "2026-10-12T13:00:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-12T13:00:00Z",
       "source": "api",
       "state": "watching",
@@ -118,7 +117,7 @@
       "thumbnail": "https://i.ytimg.com/vi/KYRb1qWDBkA/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブの予定！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #아워노트 】시청자 참여형! 격연 라이브 예정!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=KYRb1qWDBkA",
       "video_id": "KYRb1qWDBkA"
     },
