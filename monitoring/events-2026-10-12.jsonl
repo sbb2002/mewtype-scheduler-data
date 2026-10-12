@@ -6,3 +6,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T03:00:34Z", "tweet_id": "2109478830360719706", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-12T03:00:42Z", "who": "藤都子"}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2109479180572279030", "result": "ok", "ts": "2026-10-12T03:00:34Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-12T03:00:34Z", "via": "ingest", "who": ""}
