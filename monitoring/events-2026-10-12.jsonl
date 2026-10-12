@@ -51,3 +51,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T15:09:07Z", "tweet_id": "2109655664763297936", "via": "ops", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T15:09:23Z", "tweet_id": "2109659777429356952", "via": "ops", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T15:12:29Z", "tweet_id": "2109649874459426853", "via": "ops", "who": "miyako"}
+{"detail": "ECHO(테스트·점검 — 처리 안 함)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-12T15:15:24Z", "who": "jehy"}
