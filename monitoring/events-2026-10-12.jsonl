@@ -20,3 +20,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-12T06:02:43Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T06:05:53Z", "tweet_id": "2109525936245022830", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-12T06:06:03Z", "who": "仲町あられ"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_c7a402a2", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-12T07:02:25Z", "video_id": null, "who": "yuno"}
