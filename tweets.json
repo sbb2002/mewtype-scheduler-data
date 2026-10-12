@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:12:17Z",
+  "generated_at": "2026-10-12T15:08:14Z",
   "tweets": {
     "arale": [
       {
@@ -149,6 +149,21 @@
         "text": "わ、ワトカポ…………(？)",
         "text_ko": "와, 와토카포…………(？)",
         "url": "https://x.com/i/status/2109525936245022830"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-14T14:59:31Z",
+        "handle": "arale_yumemita",
+        "id": "2109660240887374094",
+        "media": [
+          "https://pbs.twimg.com/media/HUcEzo1aUAAIICN.jpg"
+        ],
+        "posted_at": "2026-10-12T14:59:31Z",
+        "quote": null,
+        "received_at": "2026-10-12T15:08:14Z",
+        "text": "#ばばんばばんばんばんドリーム\n\n꒰  💤  ꒱ ｽﾔｧ…",
+        "text_ko": "#바반바반반반반드림\n꒰  💤  ꒱ 스야…",
+        "url": "https://x.com/i/status/2109660240887374094"
       }
     ],
     "miyako": [
