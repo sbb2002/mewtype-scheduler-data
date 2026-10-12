@@ -3,6 +3,16 @@
     {
       "action": "ingest_tweet",
       "error": null,
+      "id": "b016b0c8db",
+      "job_id": null,
+      "ok": true,
+      "summary": "tweet-2109605862826479702",
+      "target": "ritsu",
+      "ts": "2026-10-12T15:17:49Z"
+    },
+    {
+      "action": "ingest_tweet",
+      "error": null,
       "id": "7c6f1e1712",
       "job_id": null,
       "ok": true,
