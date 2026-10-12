@@ -35,3 +35,5 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-12T13:00:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_733b2d2c", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブの予定！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-12T13:00:02Z", "video_id": "KYRb1qWDBkA", "who": "yuno"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-12T13:07:28Z", "who": "【 #アワーノーツ 】視聴者参加型！撃奏ライブの予定！【 #千石ユノ / #バンドリ 】"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-12T13:07:28Z", "who": "KYRb1qWDBkA"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_733b2d2c", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブの予定！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-12T13:07:28Z", "video_id": "KYRb1qWDBkA", "who": "yuno"}
