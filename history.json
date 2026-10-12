@@ -3,6 +3,16 @@
     {
       "action": "ingest_tweet",
       "error": null,
+      "id": "6fbaad2202",
+      "job_id": null,
+      "ok": true,
+      "summary": "tweet-2109659777429356952",
+      "target": "yuno",
+      "ts": "2026-10-12T15:09:30Z"
+    },
+    {
+      "action": "ingest_tweet",
+      "error": null,
       "id": "3e4c807420",
       "job_id": null,
       "ok": true,
