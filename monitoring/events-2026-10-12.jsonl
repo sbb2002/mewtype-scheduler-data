@@ -46,3 +46,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-12T15:00:00Z", "who": "KYRb1qWDBkA"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_733b2d2c", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブの予定！【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-10-12T15:00:00Z", "video_id": "KYRb1qWDBkA", "who": "yuno"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-12T15:07:46Z", "who": "/admin"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-12T15:08:14Z", "tweet_id": "2109660240887374094", "via": "ops", "who": "arale"}
