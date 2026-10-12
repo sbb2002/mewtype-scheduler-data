@@ -110,7 +110,6 @@
       "kind": null,
       "last_updated": "2026-10-12T12:10:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-13T12:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -118,7 +117,7 @@
       "thumbnail": "https://i.ytimg.com/vi/Pmo1Um8aCfg/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【振り返り】#バンドリ13thライブ 　感想会！！！！【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【회고】#뱅드림 13번째 라이브 감상회!!!!【峰月律/ゆめみた】",
       "url": "https://www.youtube.com/watch?v=Pmo1Um8aCfg",
       "video_id": "Pmo1Um8aCfg"
     },
