@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T14:35:00Z",
+  "generated_at": "2026-10-12T15:00:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2593,6 +2593,34 @@
       "url": "https://www.youtube.com/watch?v=l28xzNelSDc",
       "video_id": "l28xzNelSDc",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-12T13:07:07Z",
+      "api_start_seen": "2026-10-12T13:00:00Z",
+      "archived_at": "2026-10-12T15:00:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 1506,
+      "expires_at": "2026-10-12T16:00:00Z",
+      "first_seen": "2026-10-12T13:00:02Z",
+      "host": null,
+      "id": "pv_733b2d2c",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-12T15:00:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-12T13:00:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-12T15:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/KYRb1qWDBkA/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブの予定！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #아워노트 】시청자 참여형! 격연 라이브 예정!【 #센고쿠 유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=KYRb1qWDBkA",
+      "video_id": "KYRb1qWDBkA"
     }
   ]
 }
