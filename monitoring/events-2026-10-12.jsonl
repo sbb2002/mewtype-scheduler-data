@@ -32,3 +32,5 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-12T12:33:00Z", "who": "l28xzNelSDc"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_4dc83dc5", "result": "ok", "title": "【振り返り】バンドリ13thLIVE🛸DAY2夢限大みゅーたいぷ❣【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-10-12T12:33:00Z", "video_id": "l28xzNelSDc", "who": "miyako"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-12T12:34:16Z", "who": "【振り返り】バンドリ13thLIVE🛸DAY2夢限大みゅーたいぷ❣【ゆめみた/藤都子】"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-12T13:00:02Z", "who": ""}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_733b2d2c", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！撃奏ライブの予定！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-12T13:00:02Z", "video_id": "KYRb1qWDBkA", "who": "yuno"}
