@@ -32,3 +32,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T11:17:00Z", "who": "0Oom7elwKMo"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_d27290d1", "result": "ok", "title": "【ライブ振り返り】バンドリ！13thライブをふりかえる！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "live", "ts": "2026-10-13T11:17:00Z", "video_id": "0Oom7elwKMo", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-13T11:19:26Z", "tweet_id": "2109966158019572156", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T11:19:35Z", "who": "仲町あられ"}
