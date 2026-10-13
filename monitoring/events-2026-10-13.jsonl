@@ -38,3 +38,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-13T11:20:02Z", "who": ""}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-13T11:31:50Z", "who": "【振り返り】#バンドリ13thライブ 　感想会！！！！【峰月律/ゆめみた】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_81823c33", "result": "ok", "title": "【振り返り】#バンドリ13thライブ 　感想会！！！！【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-13T11:31:50Z", "video_id": "Pmo1Um8aCfg", "who": "ritsu"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-13T12:02:19Z", "who": "【振り返り】#バンドリ13thライブ 　感想会！！！！【峰月律/ゆめみた】"}
