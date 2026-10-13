@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (yglP1E_ZPtc)",
-    "at": "2026-10-13T13:04:15Z",
+    "action": "URL 확정 예고 yuno (5h3YKEPtOtQ)",
+    "at": "2026-10-13T13:20:55Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "367ec995256bde3d134d3ee3b5afafb358738c18",
+    "new_sha": "9dc3e8d29d5101eab20ae9e60adb9e2b04f6aac2",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-13T13:01:14Z",
+      "generated_at": "2026-10-13T13:04:15Z",
       "items": [
         {
           "actual_start": "2026-10-13T11:16:46Z",
@@ -166,7 +166,7 @@
           "assumed_live": false,
           "channel_key": "arale",
           "collab_with": null,
-          "concurrent_viewers": 150,
+          "concurrent_viewers": 433,
           "expires_at": "2026-10-13T16:00:00Z",
           "first_seen": "2026-10-13T12:52:16Z",
           "host": null,
@@ -174,7 +174,7 @@
           "info_at": "2026-10-13T12:52:16Z",
           "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-10-13T13:01:15Z",
+          "last_updated": "2026-10-13T13:04:15Z",
           "membership": false,
           "scheduled_start": "2026-10-13T13:00:00Z",
           "source": "personal",
