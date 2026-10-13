@@ -5,3 +5,4 @@
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-13T01:00:01Z", "who": "group"}
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-13T02:00:02Z", "who": "group"}
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-13T03:00:02Z", "who": "group"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-13T03:09:01Z", "tweet_id": "2109841560007565718", "via": "ingest", "who": "miyako"}
