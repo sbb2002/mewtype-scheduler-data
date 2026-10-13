@@ -58,3 +58,4 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-13T13:02:08Z", "who": "【🟡歌枠】ピアノ音源歌枠🎹まったり気分【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-13T13:04:15Z", "tweet_id": "2109993609181491234", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T13:04:31Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-13T13:20:55Z", "tweet_id": "2109997788755091545", "via": "ingest", "who": "yuno"}
