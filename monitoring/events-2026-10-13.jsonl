@@ -57,3 +57,4 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_00c7220f", "result": "ok", "title": "【 新たな記念日！ 】デビュー1059日記念！みんなありがとう！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-13T13:01:14Z", "video_id": "5h3YKEPtOtQ", "who": "yuno"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-13T13:02:08Z", "who": "【🟡歌枠】ピアノ音源歌枠🎹まったり気分【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-13T13:04:15Z", "tweet_id": "2109993609181491234", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T13:04:31Z", "who": "仲町あられ"}
