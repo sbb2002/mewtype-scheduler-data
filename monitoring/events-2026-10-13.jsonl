@@ -18,3 +18,4 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_605c6294", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-13T09:00:17Z", "video_id": null, "who": "nonoka"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_92d98633", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-13T09:00:17Z", "video_id": null, "who": "arale"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_dc9c55ab", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-13T09:00:17Z", "video_id": null, "who": "yuno"}
+{"detail": "mode: added · 파싱 4건", "flow": "relay", "result": "ok", "ts": "2026-10-13T09:00:17Z", "via": "ingest", "who": ""}
