@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-13T12:02:22Z",
+  "generated_at": "2026-10-13T12:52:16Z",
   "items": [
     {
       "actual_start": "2026-10-13T11:16:46Z",
@@ -287,6 +287,35 @@
       "title_ko": "TVLIVE 2026",
       "url": "https://www.youtube.com/live/YUB5qGbmzHs",
       "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-10-13T13:00:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-13T16:00:00Z",
+      "first_seen": "2026-10-13T12:52:16Z",
+      "host": null,
+      "id": "pv_7e7eda61",
+      "info_at": "2026-10-13T12:52:16Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-10-13T12:52:16Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-13T13:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2109990575332303262",
+      "state": "watching",
+      "state_since": "2026-10-13T12:52:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/yglP1E_ZPtc/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】ピアノ音源歌枠🎹まったり気分【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=yglP1E_ZPtc",
+      "video_id": "yglP1E_ZPtc"
     }
   ]
 }
