@@ -62,3 +62,5 @@
 {"detail": "broadcast-change none · 게시물이 10/13 22:30 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않아", "flow": "tweet", "result": "ok", "ts": "2026-10-13T13:20:55Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T13:21:18Z", "who": "千石ユノ"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-13T13:30:48Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T13:30:48Z", "who": "5h3YKEPtOtQ"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_00c7220f", "result": "ok", "title": "【 新たな記念日！ 】デビュー1059日記念！みんなありがとう！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-13T13:30:48Z", "video_id": "5h3YKEPtOtQ", "who": "yuno"}
