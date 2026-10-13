@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-13T11:19:26Z",
+  "generated_at": "2026-10-13T11:20:02Z",
   "items": [
     {
       "actual_start": "2026-10-13T11:16:46Z",
@@ -81,7 +81,6 @@
       "kind": null,
       "last_updated": "2026-10-13T11:19:26Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-13T11:15:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2109966915015954796",
@@ -90,7 +89,7 @@
       "thumbnail": "https://i.ytimg.com/vi/0Oom7elwKMo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【ライブ振り返り】バンドリ！13thライブをふりかえる！【ゆめみた/夢限大みゅーたいぷ】",
-      "title_ko": null,
+      "title_ko": "【라이브 회고】뱅드림! 13번째 라이브를 되돌아보다!【유메미타/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=0Oom7elwKMo",
       "video_id": "0Oom7elwKMo"
     },
