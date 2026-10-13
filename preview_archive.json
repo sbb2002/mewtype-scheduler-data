@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:20:00Z",
+  "generated_at": "2026-10-13T14:25:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2650,6 +2650,36 @@
       "title_ko": "【라이브 회고】뱅드림! 13번째 라이브를 되돌아보다!【유메미타/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=0Oom7elwKMo",
       "video_id": "0Oom7elwKMo"
+    },
+    {
+      "actual_start": "2026-10-13T12:01:54Z",
+      "api_start_seen": "2026-10-13T12:00:00Z",
+      "archived_at": "2026-10-13T14:25:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 423,
+      "expires_at": "2026-10-13T15:00:00Z",
+      "first_seen": "2026-10-12T12:10:02Z",
+      "host": null,
+      "id": "pv_81823c33",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "talk",
+      "last_updated": "2026-10-13T14:25:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-13T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2109845866492354879",
+      "state": "out",
+      "state_since": "2026-10-13T14:25:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/Pmo1Um8aCfg/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【振り返り】#バンドリ13thライブ 　感想会！！！！【峰月律/ゆめみた】",
+      "title_ko": "【회고】#뱅드림 13번째 라이브 감상회!!!!【峰月律/ゆめみた】",
+      "url": "https://www.youtube.com/watch?v=Pmo1Um8aCfg",
+      "video_id": "Pmo1Um8aCfg",
+      "yt_tunein": true
     }
   ]
 }
