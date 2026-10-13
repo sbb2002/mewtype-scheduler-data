@@ -29,3 +29,5 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T10:18:50Z", "who": "峰月律"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-13T11:02:00Z", "who": ""}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-13T11:17:00Z", "who": "【ライブ振り返り】バンドリ！13thライブをふりかえる！【ゆめみた/夢限大みゅーたいぷ】"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T11:17:00Z", "who": "0Oom7elwKMo"}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_d27290d1", "result": "ok", "title": "【ライブ振り返り】バンドリ！13thライブをふりかえる！【ゆめみた/夢限大みゅーたいぷ】", "to_state": "live", "ts": "2026-10-13T11:17:00Z", "video_id": "0Oom7elwKMo", "who": "nonoka"}
