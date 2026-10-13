@@ -54,3 +54,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-13T13:01:15Z", "who": "【 新たな記念日！ 】デビュー1059日記念！みんなありがとう！【 #千石ユノ / #バンドリ 】"}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T13:01:15Z", "who": "5h3YKEPtOtQ"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_7e7eda61", "result": "ok", "title": "【🟡歌枠】ピアノ音源歌枠🎹まったり気分【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-13T13:01:15Z", "video_id": "yglP1E_ZPtc", "who": "arale"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_00c7220f", "result": "ok", "title": "【 新たな記念日！ 】デビュー1059日記念！みんなありがとう！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-13T13:01:14Z", "video_id": "5h3YKEPtOtQ", "who": "yuno"}
