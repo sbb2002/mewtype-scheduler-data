@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T15:00:00Z",
+  "generated_at": "2026-10-13T14:20:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2621,6 +2621,35 @@
       "title_ko": "【 #아워노트 】시청자 참여형! 격연 라이브 예정!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=KYRb1qWDBkA",
       "video_id": "KYRb1qWDBkA"
+    },
+    {
+      "actual_start": "2026-10-13T11:16:46Z",
+      "api_start_seen": "2026-10-13T11:15:00Z",
+      "archived_at": "2026-10-13T14:20:00Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 493,
+      "expires_at": "2026-10-13T14:15:00Z",
+      "first_seen": "2026-10-13T11:17:00Z",
+      "host": null,
+      "id": "pv_d27290d1",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-13T14:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-13T11:15:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2109966915015954796",
+      "state": "out",
+      "state_since": "2026-10-13T14:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/0Oom7elwKMo/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【ライブ振り返り】バンドリ！13thライブをふりかえる！【ゆめみた/夢限大みゅーたいぷ】",
+      "title_ko": "【라이브 회고】뱅드림! 13번째 라이브를 되돌아보다!【유메미타/무겐다이 뮤타입】",
+      "url": "https://www.youtube.com/watch?v=0Oom7elwKMo",
+      "video_id": "0Oom7elwKMo"
     }
   ]
 }
