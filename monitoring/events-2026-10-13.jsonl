@@ -20,3 +20,4 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_dc9c55ab", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-13T09:00:17Z", "video_id": null, "who": "yuno"}
 {"detail": "mode: added · 파싱 4건", "flow": "relay", "result": "ok", "ts": "2026-10-13T09:00:17Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 4건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T09:00:34Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-13T09:09:46Z", "tweet_id": "2109934594791444526", "via": "ingest", "who": "nonoka"}
