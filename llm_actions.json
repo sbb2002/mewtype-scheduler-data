@@ -1284,6 +1284,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a8cb136175",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/13 22:30～ デビュー1059日記念！\n\nこれまでの1059日を配信に絞って振り返ってくよ✌️\n\n1059回の「おめでとう」ください…！\n\nhttps://www.youtube.com/live/5h3YKEPtOtQ?si=j2hDB_vSa4Nachc7",
+        "tag": "p#https://x.com/#1tweet-2109997788755091545"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물이 10/13 22:30 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않아",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-13T13:20:55Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
