@@ -82,3 +82,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_00c7220f", "result": "ok", "title": "【 新たな記念日！ 】デビュー1059日記念！みんなありがとう！【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-10-13T15:05:00Z", "video_id": "5h3YKEPtOtQ", "who": "yuno"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T15:50:00Z", "who": "yglP1E_ZPtc"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_7e7eda61", "result": "ok", "title": "【🟡歌枠】ピアノ音源歌枠🎹まったり気分【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-13T15:50:00Z", "video_id": "yglP1E_ZPtc", "who": "arale"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T16:00:00Z", "who": "yglP1E_ZPtc"}
