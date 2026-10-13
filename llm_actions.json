@@ -1265,6 +1265,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7d44e26568",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/13(火) 22:00~┊#イ中田丁なう\n\n┊ 歌枠 ┊本日はピアノ音源歌枠🎹\n\n🔗 https://youtube.com/live/yglP1E_ZPtc",
+        "tag": "p#https://x.com/#1tweet-2109990575332303262"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/13 22:00에 진행될 예정인 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-13T12:52:16Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
