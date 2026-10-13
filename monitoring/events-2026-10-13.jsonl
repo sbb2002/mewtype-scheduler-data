@@ -83,3 +83,5 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T15:50:00Z", "who": "yglP1E_ZPtc"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_7e7eda61", "result": "ok", "title": "【🟡歌枠】ピアノ音源歌枠🎹まったり気分【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-13T15:50:00Z", "video_id": "yglP1E_ZPtc", "who": "arale"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T16:00:00Z", "who": "yglP1E_ZPtc"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-13T16:00:06Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_c74763b6", "result": "ok", "title": "【#歌枠 】夜だから歌っちゃおうね～【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-13T16:00:06Z", "video_id": "_SrusVgYNog", "who": "ritsu"}
