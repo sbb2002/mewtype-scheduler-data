@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-13T11:20:02Z",
+  "generated_at": "2026-10-13T11:31:50Z",
   "items": [
     {
       "actual_start": "2026-10-13T11:16:46Z",
@@ -107,19 +107,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "talk",
-      "last_updated": "2026-10-13T11:17:00Z",
+      "last_updated": "2026-10-13T11:31:50Z",
       "membership": false,
       "scheduled_start": "2026-10-13T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2109845866492354879",
-      "state": "upcoming",
-      "state_since": "2026-10-12T12:10:02Z",
+      "state": "watching",
+      "state_since": "2026-10-13T11:31:50Z",
       "thumbnail": "https://i.ytimg.com/vi/Pmo1Um8aCfg/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【振り返り】#バンドリ13thライブ 　感想会！！！！【峰月律/ゆめみた】",
       "title_ko": "【회고】#뱅드림 13번째 라이브 감상회!!!!【峰月律/ゆめみた】",
       "url": "https://www.youtube.com/watch?v=Pmo1Um8aCfg",
-      "video_id": "Pmo1Um8aCfg"
+      "video_id": "Pmo1Um8aCfg",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
