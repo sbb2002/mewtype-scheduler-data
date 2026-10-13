@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T12:02:22Z",
+  "generated_at": "2026-10-13T12:52:16Z",
   "tweets": {
     "arale": [
       {
@@ -132,6 +132,21 @@
         "text": "今日は…ピアーノ音源歌枠の気分だな!!!!!",
         "text_ko": "오늘은… 피아노 음원 노래 방송 기분이네!!!!!",
         "url": "https://x.com/i/status/2109966158019572156"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-15T12:52:09Z",
+        "handle": "arale_yumemita",
+        "id": "2109990575332303262",
+        "media": [
+          "https://pbs.twimg.com/media/HUgw6lVbEAAaATN.jpg"
+        ],
+        "posted_at": "2026-10-13T12:52:09Z",
+        "quote": null,
+        "received_at": "2026-10-13T12:52:16Z",
+        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/13(火) 22:00〜┊#イ中田丁なう\n\n┊ 歌枠 ┊本日はピアノ音源歌枠🎹\n\n🔗 https://youtube.com/live/yglP1E_ZPtc",
+        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 10/13(화) 22:00〜┊#이중다정 나우\n\n┊ 노래 방송 ┊오늘은 피아노 음원 노래 방송🎹\n\n🔗 https://youtube.com/live/yglP1E_ZPtc",
+        "url": "https://x.com/i/status/2109990575332303262"
       }
     ],
     "miyako": [
