@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-13T12:02:19Z",
+  "generated_at": "2026-10-13T12:02:22Z",
   "items": [
     {
       "actual_start": "2026-10-13T11:16:46Z",
@@ -99,7 +99,7 @@
       "assumed_live": false,
       "channel_key": "ritsu",
       "collab_with": null,
-      "concurrent_viewers": 131,
+      "concurrent_viewers": 138,
       "expires_at": "2026-10-13T15:00:00Z",
       "first_seen": "2026-10-12T12:10:02Z",
       "host": null,
@@ -107,7 +107,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": "talk",
-      "last_updated": "2026-10-13T12:02:19Z",
+      "last_updated": "2026-10-13T12:02:22Z",
       "membership": false,
       "scheduled_start": "2026-10-13T12:00:00Z",
       "source": "api",
