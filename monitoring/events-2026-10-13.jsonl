@@ -11,3 +11,4 @@
 {"detail": "broadcast-change none · 게시물은 오늘 21:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-13T03:17:56Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T03:18:15Z", "who": "峰月律"}
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-13T05:00:01Z", "who": "group"}
+{"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-13T06:00:01Z", "who": "group"}
