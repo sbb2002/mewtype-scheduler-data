@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (Pmo1Um8aCfg)",
-    "at": "2026-10-13T12:02:22Z",
+    "action": "URL 확정 예고 arale (yglP1E_ZPtc)",
+    "at": "2026-10-13T12:52:16Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "6d6eaf76e32ab1e2011f31f3e34369f3bb205514",
+    "new_sha": "de62a691c97ba40f958c1cb19e039c3595975354",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-13T12:02:19Z",
+      "generated_at": "2026-10-13T12:02:22Z",
       "items": [
         {
           "actual_start": "2026-10-13T11:16:46Z",
@@ -137,7 +137,7 @@
           "assumed_live": false,
           "channel_key": "ritsu",
           "collab_with": null,
-          "concurrent_viewers": 131,
+          "concurrent_viewers": 138,
           "expires_at": "2026-10-13T15:00:00Z",
           "first_seen": "2026-10-12T12:10:02Z",
           "host": null,
@@ -145,7 +145,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": "talk",
-          "last_updated": "2026-10-13T12:02:19Z",
+          "last_updated": "2026-10-13T12:02:22Z",
           "membership": false,
           "scheduled_start": "2026-10-13T12:00:00Z",
           "source": "api",
