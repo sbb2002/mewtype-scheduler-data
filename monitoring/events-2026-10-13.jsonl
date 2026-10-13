@@ -17,3 +17,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T07:34:01Z", "who": "仲町あられ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_605c6294", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-13T09:00:17Z", "video_id": null, "who": "nonoka"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_92d98633", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-13T09:00:17Z", "video_id": null, "who": "arale"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_dc9c55ab", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-13T09:00:17Z", "video_id": null, "who": "yuno"}
