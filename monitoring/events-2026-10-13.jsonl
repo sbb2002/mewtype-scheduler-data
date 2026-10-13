@@ -50,3 +50,4 @@
 {"detail": "broadcast-change none · 게시물은 10/13 22:00에 진행될 예정인 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-13T12:52:16Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-13T12:52:44Z", "who": "仲町あられ"}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-13T12:54:00Z", "who": "yglP1E_ZPtc"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-13T13:00:03Z", "who": ""}
