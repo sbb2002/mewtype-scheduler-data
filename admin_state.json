@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (Pmo1Um8aCfg)",
-    "at": "2026-10-13T03:17:56Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-10-13T09:00:17Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "b7180bb8d1448ef87b098d3c1c24dedf12053996",
+    "new_sha": "f0384b0b77322790dfeffdd91a6170b924f5da60",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-12T15:00:00Z",
+      "generated_at": "2026-10-13T03:17:56Z",
       "items": [
         {
           "actual_start": null,
@@ -117,10 +117,11 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-12T15:00:00Z",
+          "last_updated": "2026-10-13T03:17:56Z",
           "membership": false,
           "scheduled_start": "2026-10-13T12:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2109845866492354879",
           "state": "upcoming",
           "state_since": "2026-10-12T12:10:02Z",
           "thumbnail": "https://i.ytimg.com/vi/Pmo1Um8aCfg/maxresdefault_live.jpg",
