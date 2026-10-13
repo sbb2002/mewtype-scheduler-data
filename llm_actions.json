@@ -1227,6 +1227,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0454de0436",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "【配信告知】\n\n本日20:00〜  バンドリ！13thライブ振り返り✨\n\nセトリを振り返りながら、舞台裏のことやライブで得た気付きなどおはなししたいと思います🎶\n\nお楽しみに🎶",
+        "tag": "p#https://x.com/#1tweet-2109934594791444526"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 【配信告知】\n\n本日20:00〜  バンドリ！13thライブ振り返り✨\n\nセトリを振り返りながら、舞台裏のことやライブで",
+      "ts": "2026-10-13T09:09:46Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
