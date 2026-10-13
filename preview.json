@@ -63,7 +63,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-13T12:54:00Z",
+  "generated_at": "2026-10-13T13:00:03Z",
   "items": [
     {
       "actual_start": "2026-10-13T11:16:46Z",
@@ -138,7 +138,6 @@
       "kind": null,
       "last_updated": "2026-10-13T12:54:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-13T13:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2109990575332303262",
@@ -147,7 +146,7 @@
       "thumbnail": "https://i.ytimg.com/vi/yglP1E_ZPtc/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡歌枠】ピアノ音源歌枠🎹まったり気分【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡歌枠】피아노 음원 노래 방송🎹느긋한 기분【 仲町あられ / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=yglP1E_ZPtc",
       "video_id": "yglP1E_ZPtc"
     },
