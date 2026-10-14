@@ -1303,6 +1303,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_52e8da5f37",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n本日10/14（水）21:30〜\nぽぽぽ🐾めんし限定配信\n\nみやこの部屋#13 【ゆめみた/藤都子】 https://www.youtube.com/live/65Lq4jg4JmM?si=_QvJ_fvDFXTyRXSt \n\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2110192835786051937"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-14T02:16:11Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
