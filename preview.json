@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-14T10:33:40Z",
+  "generated_at": "2026-10-14T12:00:48Z",
   "items": [
     {
       "actual_start": null,
@@ -95,19 +95,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "unknown",
-      "last_updated": "2026-10-14T10:33:40Z",
+      "last_updated": "2026-10-14T12:00:48Z",
       "membership": true,
       "scheduled_start": "2026-10-14T12:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2110192835786051937",
-      "state": "upcoming",
-      "state_since": "2026-10-10T13:10:01Z",
+      "state": "watching",
+      "state_since": "2026-10-14T12:00:48Z",
       "thumbnail": "https://i.ytimg.com/vi/65Lq4jg4JmM/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "💜メン限 雑談💜みやこの部屋#13 【ゆめみた/藤都子】",
       "title_ko": "💜멤버 제한 잡담💜미야코의 방#13 【ゆめみた/藤都子】",
       "url": "https://www.youtube.com/watch?v=65Lq4jg4JmM",
-      "video_id": "65Lq4jg4JmM"
+      "video_id": "65Lq4jg4JmM",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
