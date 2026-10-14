@@ -10,3 +10,4 @@
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "degraded", "ts": "2026-10-14T23:00:02Z", "who": "group"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-14T23:15:00Z", "who": "MC3JSnTXTd8"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_409ca5f7", "result": "ok", "title": "【🟡朝活】今日はぱっちり起きれました🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-14T23:15:00Z", "video_id": "MC3JSnTXTd8", "who": "arale"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-14T23:20:00Z", "who": "MC3JSnTXTd8"}
