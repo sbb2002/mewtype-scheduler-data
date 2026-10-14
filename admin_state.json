@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 miyako (65Lq4jg4JmM)",
-    "at": "2026-10-14T02:16:11Z",
+    "action": "URL 확정 예고 ritsu (_SrusVgYNog)",
+    "at": "2026-10-14T06:46:44Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "57ee3078a3a22e6ecc53735d8c0e086ec9ceec1e",
+    "new_sha": "8a3ff8e2c7ce96dc67c946354f90e83c92a8a9e8",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -101,7 +101,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-13T16:20:00Z",
+      "generated_at": "2026-10-14T02:16:11Z",
       "items": [
         {
           "actual_start": null,
@@ -117,10 +117,11 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-13T16:20:00Z",
+          "last_updated": "2026-10-14T02:16:11Z",
           "membership": false,
           "scheduled_start": "2026-10-14T12:30:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2110192835786051937",
           "state": "upcoming",
           "state_since": "2026-10-10T13:10:01Z",
           "thumbnail": "https://i.ytimg.com/vi/65Lq4jg4JmM/maxresdefault_live.jpg",
