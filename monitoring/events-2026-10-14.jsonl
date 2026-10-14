@@ -41,3 +41,4 @@
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-14T11:31:41Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-14T11:31:43Z", "who": "宮永ののか🐰🩹"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-14T12:00:49Z", "who": "💜メン限 雑談💜みやこの部屋#13 【ゆめみた/藤都子】"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_6a32801b", "result": "ok", "title": "💜メン限 雑談💜みやこの部屋#13 【ゆめみた/藤都子】", "to_state": "watching", "ts": "2026-10-14T12:00:48Z", "video_id": "65Lq4jg4JmM", "who": "miyako"}
