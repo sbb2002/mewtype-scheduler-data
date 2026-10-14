@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:22:09Z",
+  "generated_at": "2026-10-14T06:46:44Z",
   "tweets": {
     "arale": [
       {
@@ -352,6 +352,21 @@
         "text": "いつも、ありがとう。\nはい、肉。あげます。私からのお礼です。",
         "text_ko": "항상 고마워.\n네, 고기. 줄게. 내 감사의 표시야.",
         "url": "https://x.com/i/status/2110012690987143485"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-16T06:39:20Z",
+        "handle": "ritsu_yumemita",
+        "id": "2110259141663129882",
+        "media": [
+          "https://pbs.twimg.com/media/HUklgOhbYAEzuSo.jpg"
+        ],
+        "posted_at": "2026-10-14T06:39:20Z",
+        "quote": null,
+        "received_at": "2026-10-14T06:46:44Z",
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n今夜23:00〜\n夜の歌枠、はじめましょ〜☆。.:＊・゜\n\n↻ ＵＲＬ\n https://www.youtube.com/live/_SrusVgYNog?si=4rjR4Qp8nvlhd-nC\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 23:00부터\n밤 노래 방송, 시작해볼까~☆。.:＊・゜\n\n↻ URL\n https://www.youtube.com/live/_SrusVgYNog?si=4rjR4Qp8nvlhd-nC\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2110259141663129882"
       }
     ],
     "yuno": [
