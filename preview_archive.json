@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:10:00Z",
+  "generated_at": "2026-10-14T16:20:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2769,6 +2769,35 @@
       "url": "https://www.youtube.com/watch?v=65Lq4jg4JmM",
       "video_id": "65Lq4jg4JmM",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-14T14:01:44Z",
+      "api_start_seen": "2026-10-14T14:00:00Z",
+      "archived_at": "2026-10-14T16:20:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 679,
+      "expires_at": "2026-10-14T17:00:00Z",
+      "first_seen": "2026-10-13T16:00:06Z",
+      "host": null,
+      "id": "pv_c74763b6",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "song",
+      "last_updated": "2026-10-14T16:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-14T14:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2110259141663129882",
+      "state": "out",
+      "state_since": "2026-10-14T16:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/_SrusVgYNog/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【#歌枠 】夜だから歌っちゃおうね～【峰月律/ゆめみた】",
+      "title_ko": "【#노래시간】밤이니까 노래해볼게~【峰月律/ゆめみた】",
+      "url": "https://www.youtube.com/watch?v=_SrusVgYNog",
+      "video_id": "_SrusVgYNog"
     }
   ]
 }
