@@ -53,3 +53,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_6a32801b", "result": "ok", "title": "💜メン限 雑談💜みやこの部屋#13 【ゆめみた/藤都子】", "to_state": "end", "ts": "2026-10-14T13:40:00Z", "video_id": "65Lq4jg4JmM", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-14T14:00:51Z", "tweet_id": "2110370226194047052", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 10/15 06:30에 진행될 방송을 예고하고 있을 뿐, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-14T14:00:51Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-14T14:01:11Z", "who": "仲町あられ"}
