@@ -103,21 +103,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-10-14T10:00:00Z",
-        "handle": "miyako_yumemita",
-        "id": "2109584865691857255",
-        "media": [
-          "https://pbs.twimg.com/media/HT0nlbkbcAAHA4U.jpg"
-        ],
-        "posted_at": "2026-10-12T10:00:00Z",
-        "quote": null,
-        "received_at": "2026-10-12T10:12:17Z",
-        "text": "このゆかたみやこが目に入らぬか‼\n#ばばんばばんばんばんドリーム",
-        "text_ko": "이 유카타 미야코가 눈에 들어오지 않겠어!!  \n#ばばんばばんばんばんドリーム",
-        "url": "https://x.com/i/status/2109584865691857255"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-10-14T14:18:20Z",
         "handle": "miyako_yumemita",
         "id": "2109649874459426853",
