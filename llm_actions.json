@@ -1341,6 +1341,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5bb8f14410",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/15(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 URLは直前！",
+        "tag": "p#https://x.com/#1tweet-2110370226194047052"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — ❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/15(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお",
+      "ts": "2026-10-14T14:00:51Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
