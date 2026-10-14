@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T16:20:00Z",
+  "generated_at": "2026-10-14T23:45:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2798,6 +2798,35 @@
       "title_ko": "【#노래시간】밤이니까 노래해볼게~【峰月律/ゆめみた】",
       "url": "https://www.youtube.com/watch?v=_SrusVgYNog",
       "video_id": "_SrusVgYNog"
+    },
+    {
+      "actual_start": "2026-10-14T21:33:09Z",
+      "api_start_seen": "2026-10-14T21:32:51Z",
+      "archived_at": "2026-10-14T23:45:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 510,
+      "expires_at": "2026-10-15T00:32:51Z",
+      "first_seen": "2026-10-14T21:33:26Z",
+      "host": null,
+      "id": "pv_409ca5f7",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-14T23:45:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-14T21:32:51Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2110485000835797220",
+      "state": "out",
+      "state_since": "2026-10-14T23:45:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/MC3JSnTXTd8/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡朝活】今日はぱっちり起きれました🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡아침 활동】오늘은 눈을 크게 뜨고 일어났어요🌟 #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=MC3JSnTXTd8",
+      "video_id": "MC3JSnTXTd8"
     }
   ]
 }
