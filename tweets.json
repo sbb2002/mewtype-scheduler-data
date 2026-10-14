@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:02:12Z",
+  "generated_at": "2026-10-14T15:53:09Z",
   "tweets": {
     "arale": [
       {
@@ -389,6 +389,21 @@
         "text": "はじめます！！！！！！！！！！！！！",
         "text_ko": "시작합니다!!!!!!!!!!!!!",
         "url": "https://x.com/i/status/2110370580843421820"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-16T15:53:02Z",
+        "handle": "ritsu_yumemita",
+        "id": "2110398485010997606",
+        "media": [
+          "https://pbs.twimg.com/media/HUmkO1gawAAf5hn.jpg"
+        ],
+        "posted_at": "2026-10-14T15:53:02Z",
+        "quote": null,
+        "received_at": "2026-10-14T15:53:09Z",
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 21:00〜\n\n【実写】ライブご褒美に！月見バーガーもぐもぐする\n\n↻ ＵＲＬ\nhttps://youtube.com/live/7hRUpcIIi88?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 21:00〜\n\n【실사】라이브 보상으로! 달빛버거도 우적우적\n\n↻ ＵＲＬ\nhttps://youtube.com/live/7hRUpcIIi88?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2110398485010997606"
       }
     ],
     "yuno": [
