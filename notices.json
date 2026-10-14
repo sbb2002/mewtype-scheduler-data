@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T03:00:34Z",
+  "generated_at": "2026-10-14T10:04:55Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -82,6 +82,33 @@
       "title_slug": "マチアソビvol31にバンドリの出展が決定しまし",
       "tweet_url": "https://x.com/i/status/2100419473794642093",
       "url": null
+    },
+    {
+      "anchor_a": "st",
+      "anchor_b": "dimensionaloverlap",
+      "body_for_llm": "＼アーカイブ配信チケット 発売中📢／ 🛸 #バンドリ13thライブ DAY 夢限大みゅーたいぷ 「DIMENSIONAL OVERLAP」🛸 ⏰販売期間 (日) ※ご視聴は まで 🎫ご購入はこちら 3DAYS通し視聴チケットもお見逃しなく✨ #バンドリ",
+      "body_ko": "＼아카이브 방송 티켓 판매 중📢／\n🛸 #뱅드림 13th 라이브\nDAY2 : 무겐다이 뮤타입\n「DIMENSIONAL OVERLAP」🛸\n⏰판매 기간\n〜10/18(日) 21:00\n※시청은 23:59까지\n🎫구매는 여기서\nhttps://eplus.jp/13th-live/st/\n3DAYS 통시 시청 티켓도 놓치지 마세요✨\n#뱅드림",
+      "body_raw": "＼アーカイブ配信チケット 発売中📢／\n\n🛸 #バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ\n「DIMENSIONAL OVERLAP」🛸\n\n⏰販売期間\n〜10/18(日) 21:00\n※ご視聴は23:59まで\n\n🎫ご購入はこちら\nhttps://eplus.jp/13th-live/st/\n\n3DAYS通し視聴チケットもお見逃しなく✨\n\n#バンドリ",
+      "category": "release",
+      "date": "2026-10-18",
+      "deadline": true,
+      "expires_at": "2026-10-18T15:00:00Z",
+      "first_seen": "2026-10-14T10:04:55Z",
+      "id": "2110309646002970986",
+      "last_updated": "2026-10-14T10:04:55Z",
+      "participants": null,
+      "seen_ids": [
+        "2110309646002970986"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "02:00",
+      "title": "アーカイブ配信チケット発売中！",
+      "title_ko": "아카이브 스트리밍 티켓 판매 중!",
+      "title_raw": "アーカイブ配信チケット 発売中",
+      "title_slug": "アーカイブ配信チケット発売中",
+      "tweet_url": "https://x.com/i/status/2110309646002970986",
+      "url": "https://eplus.jp/13th-live/st/"
     },
     {
       "anchor_a": null,
