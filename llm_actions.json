@@ -1322,6 +1322,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_212c8f10f1",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜23:00~\n夜の歌枠、はじめましょ〜☆。.:＊・゜\n\n↻ ＵＲＬ\n https://www.youtube.com/live/_SrusVgYNog?si=4rjR4Qp8nvlhd-nC\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2110259141663129882"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 밤 23시에 방송한다는 예고이며 취소·변경 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-14T06:46:44Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
