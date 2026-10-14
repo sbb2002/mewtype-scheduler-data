@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-14T21:33:26Z",
+  "generated_at": "2026-10-14T21:40:02Z",
   "items": [
     {
       "actual_start": "2026-10-14T21:33:09Z",
@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-10-14T21:33:26Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-14T21:32:51Z",
       "source": "api",
       "state": "live",
@@ -105,7 +104,7 @@
       "thumbnail": "https://i.ytimg.com/vi/MC3JSnTXTd8/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡朝活】今日はぱっちり起きれました🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡아침 활동】오늘은 눈을 크게 뜨고 일어났어요🌟 #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=MC3JSnTXTd8",
       "video_id": "MC3JSnTXTd8"
     },
