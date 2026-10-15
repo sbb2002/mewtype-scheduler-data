@@ -93,3 +93,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:35:06Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner mode: none · 글이 夢限大みゅーたいぷ와 무관한 영화 공개 기념 로그인 보상 안내이며, 행사 배너에 해당되지 않는다.", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:42:03Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:42:09Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: added · 새 행사 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:42:53Z", "via": "ingest", "who": "bang_dream_on"}
