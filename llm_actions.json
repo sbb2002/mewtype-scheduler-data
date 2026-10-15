@@ -1563,6 +1563,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_df7fc6891c",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/15 23:30～ #VALORANT \n\n──── 君、名前は？\n (今にも消えてしまいそうな透き通った声)\n\nhttps://www.youtube.com/live/U7x_Y-PPd4c?si=s6z6Xqwq-TJq0ytE",
+        "tag": "p#https://x.com/#1tweet-2110731329180688637"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/15 23:30에 VALORANT 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아 기존 방송을 유지한다고 판단했습니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-15T13:55:41Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
