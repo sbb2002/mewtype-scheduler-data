@@ -302,24 +302,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-10-15T10:18:32Z",
-        "handle": "ritsu_yumemita",
-        "id": "2109951915887100052",
-        "media": [
-          "https://pbs.twimg.com/media/HUgOEkuacAA292m.jpg",
-          "https://pbs.twimg.com/media/HUgOEl_aAAAhXwo.jpg",
-          "https://pbs.twimg.com/media/HUgOEkyawAAHHOF.jpg",
-          "https://pbs.twimg.com/media/HUgOEk3acAAI3Aj.jpg"
-        ],
-        "posted_at": "2026-10-13T10:18:32Z",
-        "quote": null,
-        "received_at": "2026-10-13T10:18:38Z",
-        "text": "#ばばんばばんばんばんドリーム",
-        "text_ko": "#바반바반바반바반드림",
-        "url": "https://x.com/i/status/2109951915887100052"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-10-15T12:02:19Z",
         "handle": "ritsu_yumemita",
         "id": "2109978032224239690",
