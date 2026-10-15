@@ -1541,6 +1541,28 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9467cbc013",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUrG0xfakAABD0c.jpg"
+        ],
+        "raw": "映画「BanG Dream! Ave Mujica prima aurora」🎥\n\n入場者プレゼントに同梱！アワーノーツで使用出来るシリアルコード✨\n上映開始から5週間配布予定となりますので、ぜひお見逃しなく！\n\n※特典はなくなり次第終了となります。\n#アワーノーツ #バンドリTVLIVE",
+        "tag": "p#https://x.com/#1tweet-2110728596805517556"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 행사이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음 — 映画「BanG Dream! Ave Mujica prima aurora」",
+      "ts": "2026-10-15T13:44:51Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
