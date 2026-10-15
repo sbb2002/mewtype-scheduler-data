@@ -68,3 +68,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T11:50:48Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T12:03:00Z", "who": "7hRUpcIIi88"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_b7099cf7", "result": "ok", "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-15T12:03:00Z", "video_id": "7hRUpcIIi88", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-15T12:03:37Z", "tweet_id": "2110702585703522572", "via": "ingest", "who": "ritsu"}
