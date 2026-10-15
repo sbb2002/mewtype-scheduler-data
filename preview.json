@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-14T23:45:00Z",
+  "generated_at": "2026-10-15T09:37:42Z",
   "items": [
     {
       "actual_start": null,
@@ -94,8 +94,8 @@
       "id": "pv_b7099cf7",
       "info_at": "2026-10-14T15:53:09Z",
       "info_source": "personal",
-      "kind": null,
-      "last_updated": "2026-10-14T23:45:00Z",
+      "kind": "unknown",
+      "last_updated": "2026-10-15T09:37:42Z",
       "membership": false,
       "scheduled_start": "2026-10-15T12:00:00Z",
       "source": "personal",
@@ -190,6 +190,35 @@
       "title": "バンドリTVLIVE 2026",
       "title_ko": "TVLIVE 2026",
       "url": "https://www.youtube.com/live/YUB5qGbmzHs",
+      "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-15T17:30:00Z",
+      "first_seen": "2026-10-15T09:37:42Z",
+      "host": null,
+      "id": "pv_6ab0c223",
+      "info_at": "2026-10-15T09:37:42Z",
+      "info_source": "x-relay",
+      "kind": "game",
+      "last_updated": "2026-10-15T09:37:42Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-15T14:30:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2110664479008534592",
+      "state": "announced",
+      "state_since": "2026-10-15T09:37:42Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
       "video_id": null
     }
   ]
