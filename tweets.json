@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:03:37Z",
+  "generated_at": "2026-10-15T13:03:12Z",
   "tweets": {
     "arale": [
       {
@@ -382,6 +382,21 @@
         "text": "はじめますたべます",
         "text_ko": "시작합니다, 먹을게요",
         "url": "https://x.com/i/status/2110702585703522572"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-17T13:03:10Z",
+        "handle": "ritsu_yumemita",
+        "id": "2110718124840690093",
+        "media": [
+          "https://pbs.twimg.com/media/HUrG8j_bYAAVNX2.jpg"
+        ],
+        "posted_at": "2026-10-15T13:03:10Z",
+        "quote": null,
+        "received_at": "2026-10-15T13:03:12Z",
+        "text": "りつは HP回復 した",
+        "text_ko": "리츠는 HP 회복했다",
+        "url": "https://x.com/i/status/2110718124840690093"
       }
     ],
     "yuno": [
