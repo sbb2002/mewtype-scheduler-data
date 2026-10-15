@@ -1487,6 +1487,60 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e3b96157f3",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUrGsTlbAAAzR-v.jpg"
+        ],
+        "raw": "📢開催決定！\n映画「BanG Dream! Ave Mujica prima aurora」\n公開記念 限定ミッション🌙\n\n期間中はミッションの項目に「限定ミッション」が登場し、ミッション達成で「映画版ステッカー交換チケット」をGET！\n\nチケット1枚で好きなメンバーのステッカー1枚と交換可能となっており、ミッションをすべてクリアすることでメンバー全員分のステッカーを獲得できます✨\n\n#アワーノーツ #バンドリTVLIVE",
+        "tag": "p#https://x.com/#1tweet-2110728388940083441"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "새로운 영화 공개 기념 이벤트이며 기간이 기존 배너와 다르므로 upsert 처리한다.",
+      "summary": "행사 배너 갱신 — 映画「BanG Dream! Ave Mujica prima aurora」公",
+      "ts": "2026-10-15T13:44:00Z",
+      "undo": {
+        "before": {
+          "end_at": "2026-10-25T14:59:00Z",
+          "first_seen": "2026-10-15T13:42:53Z",
+          "gachas": [
+            {
+              "end_at": "2026-10-25T14:59:00Z",
+              "id": "gc_5d03e77a",
+              "image_urls": [],
+              "start_at": "2026-10-16T06:00:00Z",
+              "title_ja": "Ave Mujicaピックアップガチャ",
+              "title_ko": "Ave Mujica 픽업 가챠"
+            }
+          ],
+          "hold": null,
+          "id": "bn_935879aa",
+          "image_urls": [],
+          "last_updated": "2026-10-15T13:42:53Z",
+          "match_keys": [
+            "bangdreamavemujicaprimaaurora",
+            "avemujicaピックアップガチャ"
+          ],
+          "name_ja": "映画「BanG Dream! Ave Mujica prima aurora」公開記念",
+          "name_ko": "영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념",
+          "src_ids": [
+            "2110728110891282447"
+          ],
+          "start_at": "2026-10-16T06:00:00Z",
+          "start_time_tbd": null
+        },
+        "id": "bn_935879aa",
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
