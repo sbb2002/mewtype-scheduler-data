@@ -1417,6 +1417,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a3cbfd6813",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUpioBYa4AA4gL7.jpg"
+        ],
+        "raw": "【メンテナンス実施のお知らせ】\n下記日程でメンテナンスを実施いたします。\n\n▼メンテナンス予定期間\n10月16日(金)14:00～14:59\n\n※実施期間は予告なく変更する場合がございます。詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2110611634863710666"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "메인테넌스 공지이며 행사·가챠와 무관한 일반 안내이므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-15T06:35:48Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
