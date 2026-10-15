@@ -120,3 +120,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T14:49:10Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-15T14:52:47Z", "tweet_id": "2110745696219566351", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T14:52:56Z", "who": "仲町あられ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T16:05:00Z", "who": "U7x_Y-PPd4c"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_6828b930", "result": "ok", "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-15T16:05:00Z", "video_id": "U7x_Y-PPd4c", "who": "yuno"}
