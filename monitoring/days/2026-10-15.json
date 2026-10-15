@@ -1,0 +1,1069 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-10-15",
+  "downRanges": [],
+  "eventCount": 126,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "banner mode: none · 글이 생방송 안내이며 행사·가챠와 무관한 일반 공지이므로 action=none이다.",
+      "nid": null,
+      "t": "12:35",
+      "tone": "ok",
+      "ts": "2026-10-15T03:35:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 메인테넌스 공지이며 행사·가챠와 무관한 일반 안내이므로 none 처리합니다.",
+      "nid": null,
+      "t": "15:35",
+      "tone": "ok",
+      "ts": "2026-10-15T06:35:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "nid": "2110656938530717890",
+      "t": "18:14",
+      "tone": "ok",
+      "ts": "2026-10-15T09:14:36Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "nid": "2110693398952968218",
+      "t": "20:32",
+      "tone": "ok",
+      "ts": "2026-10-15T11:32:32Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "nid": "2110715569620337127",
+      "t": "21:55",
+      "tone": "ok",
+      "ts": "2026-10-15T12:55:45Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner skip: 리트윗 폰 원문이 @bang_dream_info 의 글",
+      "nid": null,
+      "t": "22:01",
+      "tone": "ok",
+      "ts": "2026-10-15T13:01:23Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 글이 夢限大みゅーたいぷ와 무관한 영화 공개 기념 로그인 보상 안내이며, 행사 배너에 해당되지 않는다.",
+      "nid": null,
+      "t": "22:42",
+      "tone": "ok",
+      "ts": "2026-10-15T13:42:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: added · 새 행사 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념",
+      "nid": null,
+      "t": "22:42",
+      "tone": "ok",
+      "ts": "2026-10-15T13:42:53Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: updated · 갱신 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념",
+      "nid": null,
+      "t": "22:44",
+      "tone": "ok",
+      "ts": "2026-10-15T13:44:00Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 기존 배너와 동일한 행사이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.",
+      "nid": null,
+      "t": "22:44",
+      "tone": "ok",
+      "ts": "2026-10-15T13:44:51Z",
+      "via": "ingest"
+    }
+  ],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "06:33",
+          "id": "pv_409ca5f7",
+          "s": "live",
+          "title": "【🟡朝活】今日はぱっちり起きれました🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "08:15",
+          "vid": "MC3JSnTXTd8"
+        },
+        {
+          "from": "08:15",
+          "id": "pv_409ca5f7",
+          "s": "end",
+          "title": "【🟡朝活】今日はぱっちり起きれました🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "08:45",
+          "vid": "MC3JSnTXTd8"
+        },
+        {
+          "from": "08:45",
+          "id": "pv_409ca5f7",
+          "s": "out",
+          "title": "【🟡朝活】今日はぱっちり起きれました🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "21:55",
+          "vid": "MC3JSnTXTd8"
+        },
+        {
+          "from": "21:55",
+          "id": "pv_60bca11e",
+          "s": "live",
+          "title": "バンドリ！TV LIVE 2026 #336",
+          "to": "23:05",
+          "vid": "YUB5qGbmzHs"
+        },
+        {
+          "from": "23:05",
+          "id": "pv_60bca11e",
+          "s": "end",
+          "title": "バンドリ！TV LIVE 2026 #336",
+          "to": "23:35",
+          "vid": "YUB5qGbmzHs"
+        },
+        {
+          "from": "23:35",
+          "id": "pv_60bca11e",
+          "s": "out",
+          "title": "バンドリ！TV LIVE 2026 #336",
+          "to": "23:38",
+          "vid": "YUB5qGbmzHs"
+        }
+      ],
+      "title": "バンドリ！TV LIVE 2026 #336"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "18:37",
+          "id": "pv_6ab0c223",
+          "s": "announced",
+          "title": null,
+          "to": "22:55",
+          "vid": null
+        },
+        {
+          "from": "22:55",
+          "id": "pv_6828b930",
+          "s": "upcoming",
+          "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
+          "to": "23:00",
+          "vid": "U7x_Y-PPd4c"
+        },
+        {
+          "from": "23:00",
+          "id": "pv_6828b930",
+          "s": "watching",
+          "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
+          "to": "23:33",
+          "vid": "U7x_Y-PPd4c"
+        },
+        {
+          "from": "23:33",
+          "id": "pv_6828b930",
+          "s": "live",
+          "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
+          "to": "01:05",
+          "vid": "U7x_Y-PPd4c"
+        },
+        {
+          "from": "01:05",
+          "id": "pv_6828b930",
+          "s": "end",
+          "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
+          "to": "01:35",
+          "vid": "U7x_Y-PPd4c"
+        },
+        {
+          "from": "01:35",
+          "id": "pv_6828b930",
+          "s": "out",
+          "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
+          "to": "01:38",
+          "vid": "U7x_Y-PPd4c"
+        }
+      ],
+      "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "id": "pv_b7099cf7",
+          "s": "upcoming",
+          "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】",
+          "to": "20:40",
+          "vid": "7hRUpcIIi88"
+        },
+        {
+          "from": "20:40",
+          "id": "pv_b7099cf7",
+          "s": "watching",
+          "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】",
+          "to": "21:03",
+          "vid": "7hRUpcIIi88"
+        },
+        {
+          "from": "21:03",
+          "id": "pv_b7099cf7",
+          "s": "live",
+          "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】",
+          "to": "22:00",
+          "vid": "7hRUpcIIi88"
+        },
+        {
+          "from": "22:00",
+          "id": "pv_b7099cf7",
+          "s": "end",
+          "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】",
+          "to": "22:30",
+          "vid": "7hRUpcIIi88"
+        },
+        {
+          "from": "22:30",
+          "id": "pv_b7099cf7",
+          "s": "out",
+          "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】",
+          "to": "23:00",
+          "vid": "7hRUpcIIi88"
+        },
+        {
+          "from": "23:00",
+          "id": "pv_9d7dfdb5",
+          "s": "upcoming",
+          "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】",
+          "to": "30:00",
+          "vid": "4Qg5SkkDuMI"
+        }
+      ],
+      "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】"
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @CDJournal_staff 의 글",
+      "nid": null,
+      "t": "10:47",
+      "tone": "ok",
+      "ts": "2026-10-15T01:47:08Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "nid": null,
+      "t": "13:16",
+      "tone": "ok",
+      "ts": "2026-10-15T04:16:39Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "nid": null,
+      "t": "15:36",
+      "tone": "ok",
+      "ts": "2026-10-15T06:36:01Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "18:14",
+      "tone": "ok",
+      "ts": "2026-10-15T09:14:36Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 2건",
+      "nid": null,
+      "t": "18:37",
+      "tone": "ok",
+      "ts": "2026-10-15T09:37:42Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "nid": null,
+      "t": "19:23",
+      "tone": "ok",
+      "ts": "2026-10-15T10:23:58Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @spice_anige 의 글",
+      "nid": null,
+      "t": "20:32",
+      "tone": "ok",
+      "ts": "2026-10-15T11:32:32Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "20:32",
+      "tone": "ok",
+      "ts": "2026-10-15T11:32:32Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 1건",
+      "nid": null,
+      "t": "21:55",
+      "tone": "ok",
+      "ts": "2026-10-15T12:55:45Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 1건",
+      "nid": null,
+      "t": "22:01",
+      "tone": "ok",
+      "ts": "2026-10-15T13:01:57Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "22:30",
+      "tone": "ok",
+      "ts": "2026-10-15T13:30:01Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "22:35",
+      "tone": "ok",
+      "ts": "2026-10-15T13:35:02Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-10-15T21:10:06Z",
+  "song": [
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "08:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "10:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "10:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "11:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "12:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "13:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "14:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "15:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "16:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    }
+  ],
+  "ticks": [
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 102,
+      "t": "06:32"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "06:33"
+    },
+    {
+      "d": "candidates=78 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "06:40"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "08:15"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "08:20"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "08:45"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:40"
+    },
+    {
+      "d": "candidates=3 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:03"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:00"
+    },
+    {
+      "d": "candidates=78 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:00"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:30"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:00"
+    },
+    {
+      "d": "candidates=79 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "23:00"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:05"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:09"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:33"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:35"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:05"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:35"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "06:34",
+      "tid": "2110482358260715934",
+      "tone": "ok",
+      "ts": "2026-10-14T21:34:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "06:51",
+      "tid": "2110485000835797220",
+      "tone": "ok",
+      "ts": "2026-10-14T21:51:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "14:24",
+      "tid": "2110599042548064690",
+      "tone": "ok",
+      "ts": "2026-10-15T05:24:36Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @BushiM_info 의 글",
+      "member": "miyako",
+      "t": "17:03",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-15T08:03:49Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @BushiM_info 의 글",
+      "member": "miyako",
+      "t": "17:03",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-15T08:03:56Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:00",
+      "tid": "2110672029053599749",
+      "tone": "ok",
+      "ts": "2026-10-15T10:00:08Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:09",
+      "tid": "2110674473934561356",
+      "tone": "ok",
+      "ts": "2026-10-15T10:09:47Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @BushiM_info 의 글",
+      "member": "miyako",
+      "t": "19:11",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-15T10:11:22Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:13",
+      "tid": "2110675380298457196",
+      "tone": "ok",
+      "ts": "2026-10-15T10:13:23Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "19:51",
+      "tid": "2110683976822411516",
+      "tone": "ok",
+      "ts": "2026-10-15T10:51:40Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:50",
+      "tid": "2110698960310682106",
+      "tone": "ok",
+      "ts": "2026-10-15T11:50:36Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "21:03",
+      "tid": "2110702585703522572",
+      "tone": "ok",
+      "ts": "2026-10-15T12:03:37Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "22:03",
+      "tid": "2110718124840690093",
+      "tone": "ok",
+      "ts": "2026-10-15T13:03:12Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "22:55",
+      "tid": "2110731329180688637",
+      "tone": "ok",
+      "ts": "2026-10-15T13:55:41Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 10/15 23:30에 VALORANT 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아 기존 방송을 유지한다고 판단했습니다.",
+      "member": "yuno",
+      "t": "22:55",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-15T13:55:41Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:48",
+      "tid": "2110744647601733885",
+      "tone": "ok",
+      "ts": "2026-10-15T14:48:38Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:52",
+      "tid": "2110745696219566351",
+      "tone": "ok",
+      "ts": "2026-10-15T14:52:47Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "06:33",
+      "tone": "ok",
+      "who": "【🟡朝活】今日はぱっちり起きれました🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "06:34",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "06:51",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @CDJournal_staff 의 글",
+      "src": "x",
+      "t": "10:47",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "12:35",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "src": "x",
+      "t": "13:16",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "14:24",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "15:35",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "src": "x",
+      "t": "15:36",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "17:03",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "17:03",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "무시(반영 대상 아님)",
+      "src": "yt",
+      "t": "17:07",
+      "tone": "ok",
+      "who": "[메가맨X6] 드디어 나온 '메가맨X5'의 하향전 팔콘아머 모드 최초공개 !!"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "18:14",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 2건",
+      "src": "x",
+      "t": "18:37",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:00",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:09",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:11",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:13",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "src": "x",
+      "t": "19:23",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "19:51",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "무시(반영 대상 아님)",
+      "src": "yt",
+      "t": "20:01",
+      "tone": "ok",
+      "who": "사멜리아 성우입니다. 이번 스킨은 조금..."
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @spice_anige 의 글",
+      "src": "x",
+      "t": "20:32",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:32",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "20:50",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "21:03",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "유튜브 tunein",
+      "src": "yt",
+      "t": "21:30",
+      "tone": "ok",
+      "who": "バンドリ！TV LIVE 2026 #336"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "21:55",
+      "tone": "ok",
+      "who": "バンドリちゃんねる☆ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "공식 스케줄 · 예고 1건",
+      "src": "x",
+      "t": "21:56",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 게임 계정 리트윗 — 폰 원문이 @bang_dream_info 의 글",
+      "src": "x",
+      "t": "22:01",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 1건",
+      "src": "x",
+      "t": "22:02",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "22:03",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "22:30",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "22:35",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "22:42",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "22:43",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "22:44",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "22:44",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "22:56",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "유튜브 tunein",
+      "src": "yt",
+      "t": "23:00",
+      "tone": "ok",
+      "who": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "23:33",
+      "tone": "ok",
+      "who": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:49",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:52",
+      "tone": "ok",
+      "who": "仲町あられ"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 3,
+    "production": 1,
+    "total": 4
+  }
+}
