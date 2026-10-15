@@ -38,3 +38,4 @@
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-15T08:03:56Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T08:03:58Z", "who": "藤都子"}
 {"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T08:07:35Z", "who": "[메가맨X6] 드디어 나온 '메가맨X5'의 하향전 팔콘아머 모드 최초공개 !!"}
+{"detail": "mode: added", "flow": "notice", "notice_id": "2110656938530717890", "result": "ok", "ts": "2026-10-15T09:14:36Z", "via": "ingest", "who": ""}
