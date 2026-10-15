@@ -36,3 +36,4 @@
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-15T08:03:49Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T08:03:52Z", "who": "藤都子"}
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-15T08:03:56Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T08:03:58Z", "who": "藤都子"}
