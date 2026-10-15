@@ -89,3 +89,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:30:04Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T13:30:00Z", "who": "7hRUpcIIi88"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_b7099cf7", "result": "ok", "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-10-15T13:30:00Z", "video_id": "7hRUpcIIi88", "who": "ritsu"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-15T13:35:02Z", "via": "ingest", "who": ""}
