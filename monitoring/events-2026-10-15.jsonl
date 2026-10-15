@@ -85,3 +85,4 @@
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:02:14Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-15T13:03:12Z", "tweet_id": "2110718124840690093", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:03:40Z", "who": "峰月律"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-15T13:30:01Z", "via": "ingest", "who": ""}
