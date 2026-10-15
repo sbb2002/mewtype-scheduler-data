@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-10-15T13:01:57Z",
+    "action": "URL 확정 예고 yuno (U7x_Y-PPd4c)",
+    "at": "2026-10-15T13:55:41Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f1524f2f4e1401764b405a38beaaa70ecc96e356",
+    "new_sha": "f58fcc72f83227e106755e81cdc5c136e02e2b64",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-15T13:00:08Z",
+      "generated_at": "2026-10-15T13:30:00Z",
       "items": [
         {
           "actual_start": "2026-10-15T12:50:35Z",
@@ -125,7 +125,7 @@
           "assumed_live": false,
           "channel_key": "arale",
           "collab_with": null,
-          "concurrent_viewers": 2146,
+          "concurrent_viewers": 5606,
           "expires_at": "2026-10-15T15:55:45Z",
           "first_seen": "2026-10-15T12:55:45Z",
           "host": null,
@@ -133,7 +133,7 @@
           "info_at": "2026-10-15T12:55:45Z",
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-15T13:00:00Z",
+          "last_updated": "2026-10-15T13:30:00Z",
           "membership": false,
           "scheduled_start": "2026-10-15T13:00:00Z",
           "source": "x-relay",
@@ -161,7 +161,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-15T13:00:00Z",
+          "last_updated": "2026-10-15T13:30:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -189,7 +189,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-15T13:00:00Z",
+          "last_updated": "2026-10-15T13:30:00Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -230,34 +230,6 @@
           "title_ko": null,
           "url": null,
           "video_id": null
-        },
-        {
-          "actual_start": "2026-10-15T12:01:11Z",
-          "api_start_seen": "2026-10-15T12:00:00Z",
-          "assumed_live": false,
-          "channel_key": "ritsu",
-          "collab_with": null,
-          "concurrent_viewers": 502,
-          "expires_at": "2026-10-15T15:00:00Z",
-          "first_seen": "2026-10-14T15:53:09Z",
-          "host": null,
-          "id": "pv_b7099cf7",
-          "info_at": "2026-10-14T15:53:09Z",
-          "info_source": "personal",
-          "kind": "unknown",
-          "last_updated": "2026-10-15T13:00:00Z",
-          "membership": false,
-          "scheduled_start": "2026-10-15T12:00:00Z",
-          "source": "personal",
-          "src_url": "https://x.com/i/status/2110398485010997606",
-          "state": "end",
-          "state_since": "2026-10-15T13:00:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/7hRUpcIIi88/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】",
-          "title_ko": "【실사】라이브 보상으로! 달빛버거도 먹어먹어!!!!!!!【미네츠키 리츠/유메미타】",
-          "url": "https://www.youtube.com/watch?v=7hRUpcIIi88",
-          "video_id": "7hRUpcIIi88"
         }
       ]
     }
