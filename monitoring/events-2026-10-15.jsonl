@@ -96,3 +96,4 @@
 {"detail": "banner mode: added · 새 행사 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:42:53Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:43:05Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: updated · 갱신 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:44:00Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:44:11Z", "who": "バンドリ！アワーノーツ"}
