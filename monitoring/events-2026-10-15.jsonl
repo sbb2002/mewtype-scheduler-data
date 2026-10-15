@@ -100,3 +100,4 @@
 {"detail": "banner mode: none · 기존 배너와 동일한 행사이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:44:51Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:44:58Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-15T13:55:41Z", "tweet_id": "2110731329180688637", "via": "ingest", "who": "yuno"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_6828b930", "result": "ok", "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-10-15T13:55:41Z", "video_id": "U7x_Y-PPd4c", "who": "yuno"}
