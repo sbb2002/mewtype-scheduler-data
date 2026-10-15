@@ -97,3 +97,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:43:05Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: updated · 갱신 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:44:00Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:44:11Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · 기존 배너와 동일한 행사이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:44:51Z", "via": "ingest", "who": "bang_dream_on"}
