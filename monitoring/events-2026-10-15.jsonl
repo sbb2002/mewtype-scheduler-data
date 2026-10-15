@@ -72,3 +72,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T12:03:59Z", "who": "峰月律"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T12:30:31Z", "who": "バンドリ！TV LIVE 2026 #336"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T12:55:46Z", "who": "バンドリちゃんねる☆ 실시간 스트리밍 시작"}
+{"detail": "mode: updated", "flow": "notice", "notice_id": "2110715569620337127", "result": "ok", "ts": "2026-10-15T12:55:45Z", "via": "ingest", "who": ""}
