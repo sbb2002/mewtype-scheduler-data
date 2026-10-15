@@ -1461,6 +1461,32 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_129da55056",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUrGkyYbUAAUne0.jpg"
+        ],
+        "raw": "📢開催決定！\n映画「BanG Dream! Ave Mujica prima aurora」\n公開記念 Ave Mujicaピックアップガチャ🌙\n\nAve MujicaのSSRメンバーがピックアップ💫\n\nまた開催期間中は、毎日1回無料でガチャを引くことができます！ぜひお見逃しなく✨\n\n※本ガチャは、アワーノーツパスpremium特典の「イベントガチャ毎日1回無料」の対象外となります。\n#アワーノーツ #バンドリTVLIVE",
+        "tag": "p#https://x.com/#1tweet-2110728110891282447"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "새로운 영화 공개 기념 이벤트와 가챠가 발표되어 기간과 가챠 정보를 추가해야 함",
+      "summary": "행사 배너 추가 — 映画「BanG Dream! Ave Mujica prima aurora」公",
+      "ts": "2026-10-15T13:42:53Z",
+      "undo": {
+        "before": null,
+        "id": "bn_935879aa",
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
