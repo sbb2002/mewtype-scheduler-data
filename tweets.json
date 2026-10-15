@@ -237,19 +237,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-10-15T14:14:11Z",
-        "handle": "nonoka_yumemita",
-        "id": "2110011221206556894",
-        "media": [],
-        "posted_at": "2026-10-13T14:14:11Z",
-        "quote": null,
-        "received_at": "2026-10-13T14:14:17Z",
-        "text": "振り返り配信ありがとうございました🎶\n\n最高に良いライブができたからこそ、次はもっと良いライブができると感じていて....\nとってもとっても、幸せです🥰\n\nありがとう🎶",
-        "text_ko": "돌아보는 방송 감사합니다🎶\n\n최고로 좋은 라이브를 할 수 있었기에 다음엔 더 좋은 라이브를 할 수 있을 거라고 느껴요....\n정말 정말 행복합니다🥰\n\n고마워요🎶",
-        "url": "https://x.com/i/status/2110011221206556894"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-10-16T10:42:13Z",
         "handle": "nonoka_yumemita",
         "id": "2110320263095312641",
@@ -280,19 +267,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-15T14:20:02Z",
-        "handle": "ritsu_yumemita",
-        "id": "2110012690987143485",
-        "media": [],
-        "posted_at": "2026-10-13T14:20:02Z",
-        "quote": null,
-        "received_at": "2026-10-13T14:20:04Z",
-        "text": "いつも、ありがとう。\nはい、肉。あげます。私からのお礼です。",
-        "text_ko": "항상 고마워.\n네, 고기. 줄게. 내 감사의 표시야.",
-        "url": "https://x.com/i/status/2110012690987143485"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-16T06:39:20Z",
