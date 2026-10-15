@@ -104,3 +104,5 @@
 {"detail": "broadcast-change none · 게시물은 10/15 23:30에 VALORANT 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아 기존 방송을 유지한다고 판단했습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-15T13:55:41Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:56:12Z", "who": "千石ユノ"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T14:00:00Z", "who": "YUB5qGbmzHs"}
+{"candidates": 79, "detail": "candidates=79 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-15T14:00:06Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_9d7dfdb5", "result": "ok", "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-15T14:00:06Z", "video_id": "4Qg5SkkDuMI", "who": "ritsu"}
