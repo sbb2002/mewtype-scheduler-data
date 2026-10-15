@@ -125,7 +125,6 @@
       "kind": null,
       "last_updated": "2026-10-15T14:00:06Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-15T14:30:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2110731329180688637",
@@ -134,7 +133,7 @@
       "thumbnail": "https://i.ytimg.com/vi/U7x_Y-PPd4c/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #VALORANT 】유노짱은 허무해【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=U7x_Y-PPd4c",
       "video_id": "U7x_Y-PPd4c"
     },
@@ -154,7 +153,6 @@
       "kind": null,
       "last_updated": "2026-10-15T14:00:06Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-16T14:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -162,7 +160,7 @@
       "thumbnail": "https://i.ytimg.com/vi/4Qg5SkkDuMI/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【폰코츠社】미네츠키 사장과 상품 개발 회의【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=4Qg5SkkDuMI",
       "video_id": "4Qg5SkkDuMI"
     },
