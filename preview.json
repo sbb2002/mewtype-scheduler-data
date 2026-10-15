@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-15T14:33:00Z",
+  "generated_at": "2026-10-15T14:35:00Z",
   "items": [
     {
       "actual_start": "2026-10-15T14:32:30Z",
@@ -87,7 +87,7 @@
       "assumed_live": false,
       "channel_key": "yuno",
       "collab_with": null,
-      "concurrent_viewers": 381,
+      "concurrent_viewers": 627,
       "expires_at": "2026-10-15T17:30:00Z",
       "first_seen": "2026-10-15T13:55:41Z",
       "host": null,
@@ -95,7 +95,7 @@
       "info_at": "2026-10-15T13:55:41Z",
       "info_source": "personal",
       "kind": null,
-      "last_updated": "2026-10-15T14:33:00Z",
+      "last_updated": "2026-10-15T14:35:00Z",
       "membership": false,
       "scheduled_start": "2026-10-15T14:30:00Z",
       "source": "personal",
@@ -124,7 +124,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-15T14:33:00Z",
+      "last_updated": "2026-10-15T14:35:00Z",
       "membership": false,
       "scheduled_start": "2026-10-16T14:00:00Z",
       "source": "api",
@@ -151,7 +151,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-15T14:33:00Z",
+      "last_updated": "2026-10-15T14:35:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -179,7 +179,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-15T14:33:00Z",
+      "last_updated": "2026-10-15T14:35:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -191,34 +191,6 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
-    },
-    {
-      "actual_start": "2026-10-15T12:50:35Z",
-      "api_start_seen": "2026-10-15T13:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": 2920,
-      "expires_at": "2026-10-15T15:55:45Z",
-      "first_seen": "2026-10-15T12:55:45Z",
-      "host": null,
-      "id": "pv_60bca11e",
-      "info_at": "2026-10-15T12:55:45Z",
-      "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-10-15T14:33:00Z",
-      "membership": false,
-      "scheduled_start": "2026-10-15T13:00:00Z",
-      "source": "x-relay",
-      "src_url": "https://x.com/i/status/2108198521010868336",
-      "state": "end",
-      "state_since": "2026-10-15T14:05:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/YUB5qGbmzHs/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "バンドリ！TV LIVE 2026 #336",
-      "title_ko": "뱅드림！TV LIVE 2026 #336",
-      "url": "https://www.youtube.com/watch?v=YUB5qGbmzHs",
-      "video_id": "YUB5qGbmzHs"
     }
   ]
 }
