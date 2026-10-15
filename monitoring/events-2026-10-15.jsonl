@@ -102,3 +102,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-15T13:55:41Z", "tweet_id": "2110731329180688637", "via": "ingest", "who": "yuno"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_6828b930", "result": "ok", "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】", "to_state": "upcoming", "ts": "2026-10-15T13:55:41Z", "video_id": "U7x_Y-PPd4c", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 10/15 23:30에 VALORANT 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아 기존 방송을 유지한다고 판단했습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-15T13:55:41Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:56:12Z", "who": "千石ユノ"}
