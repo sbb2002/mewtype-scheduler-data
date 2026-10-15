@@ -76,3 +76,5 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_60bca11e", "result": "ok", "title": "バンドリ！TV LIVE 2026 #336", "to_state": "live", "ts": "2026-10-15T12:55:45Z", "video_id": "YUB5qGbmzHs", "who": "arale"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-15T12:55:45Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T12:56:11Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T13:00:00Z", "who": "7hRUpcIIi88"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_b7099cf7", "result": "ok", "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-10-15T13:00:00Z", "video_id": "7hRUpcIIi88", "who": "ritsu"}
