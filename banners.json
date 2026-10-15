@@ -22,7 +22,7 @@
       "start_time_tbd": null
     },
     {
-      "end_at": "2026-10-25T14:59:00Z",
+      "end_at": "2026-11-19T14:59:00Z",
       "first_seen": "2026-10-15T13:42:53Z",
       "gachas": [
         {
@@ -36,8 +36,10 @@
       ],
       "hold": null,
       "id": "bn_935879aa",
-      "image_urls": [],
-      "last_updated": "2026-10-15T13:42:53Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HUrGsTlbAAAzR-v.jpg"
+      ],
+      "last_updated": "2026-10-15T13:44:00Z",
       "match_keys": [
         "bangdreamavemujicaprimaaurora",
         "avemujicaピックアップガチャ"
@@ -45,11 +47,12 @@
       "name_ja": "映画「BanG Dream! Ave Mujica prima aurora」公開記念",
       "name_ko": "영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념",
       "src_ids": [
-        "2110728110891282447"
+        "2110728110891282447",
+        "2110728388940083441"
       ],
       "start_at": "2026-10-16T06:00:00Z",
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-15T13:42:53Z"
+  "generated_at": "2026-10-15T13:44:00Z"
 }
