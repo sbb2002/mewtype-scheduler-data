@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:35:00Z",
+  "generated_at": "2026-10-15T16:35:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2885,6 +2885,36 @@
       "title_ko": "뱅드림！TV LIVE 2026 #336",
       "url": "https://www.youtube.com/watch?v=YUB5qGbmzHs",
       "video_id": "YUB5qGbmzHs"
+    },
+    {
+      "actual_start": "2026-10-15T14:32:30Z",
+      "api_start_seen": "2026-10-15T14:30:00Z",
+      "archived_at": "2026-10-15T16:35:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 627,
+      "expires_at": "2026-10-15T17:30:00Z",
+      "first_seen": "2026-10-15T13:55:41Z",
+      "host": null,
+      "id": "pv_6828b930",
+      "info_at": "2026-10-15T13:55:41Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-10-15T16:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-15T14:30:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2110731329180688637",
+      "state": "out",
+      "state_since": "2026-10-15T16:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/U7x_Y-PPd4c/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #VALORANT 】유노짱은 허무해【 #千石ユノ / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=U7x_Y-PPd4c",
+      "video_id": "U7x_Y-PPd4c",
+      "yt_tunein": true
     }
   ]
 }
