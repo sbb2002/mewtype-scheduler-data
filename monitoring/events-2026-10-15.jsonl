@@ -108,3 +108,5 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_9d7dfdb5", "result": "ok", "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-15T14:00:06Z", "video_id": "4Qg5SkkDuMI", "who": "ritsu"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T14:00:39Z", "who": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_6828b930", "result": "ok", "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-15T14:00:37Z", "video_id": "U7x_Y-PPd4c", "who": "yuno"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T14:05:00Z", "who": "YUB5qGbmzHs"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_60bca11e", "result": "ok", "title": "バンドリ！TV LIVE 2026 #336", "to_state": "end", "ts": "2026-10-15T14:05:00Z", "video_id": "YUB5qGbmzHs", "who": "arale"}
