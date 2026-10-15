@@ -1398,6 +1398,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6282cc5930",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "📢本日22:00より生配信！\n「#バンドリTVLIVE 2026」#336\n\n配信内にてアワーノーツの新情報をお届けいたします！ぜひご覧ください💫\n\n▼YouTube Live\nhttps://youtube.com/live/YUB5qGbmzHs\n\n#アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2110573879924273600"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 생방송 안내이며 행사·가챠와 무관한 일반 공지이므로 action=none이다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-15T03:35:17Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
