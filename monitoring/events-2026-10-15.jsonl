@@ -70,3 +70,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_b7099cf7", "result": "ok", "title": "【実写】ライブご褒美に！月見バーガーもぐもぐする！！！！！！！【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-15T12:03:00Z", "video_id": "7hRUpcIIi88", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-15T12:03:37Z", "tweet_id": "2110702585703522572", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T12:03:59Z", "who": "峰月律"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T12:30:31Z", "who": "バンドリ！TV LIVE 2026 #336"}
