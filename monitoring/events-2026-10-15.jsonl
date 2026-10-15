@@ -81,3 +81,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-15T13:00:08Z", "who": ""}
 {"detail": "banner skip: 리트윗 폰 원문이 @bang_dream_info 의 글", "flow": "notice", "result": "ok", "ts": "2026-10-15T13:01:23Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "무시(반영 대상 아님) · 게임 계정 리트윗 — 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-15T13:01:25Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-15T13:01:57Z", "via": "ingest", "who": ""}
