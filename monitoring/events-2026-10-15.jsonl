@@ -73,3 +73,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T12:30:31Z", "who": "バンドリ！TV LIVE 2026 #336"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T12:55:46Z", "who": "バンドリちゃんねる☆ 실시간 스트리밍 시작"}
 {"detail": "mode: updated", "flow": "notice", "notice_id": "2110715569620337127", "result": "ok", "ts": "2026-10-15T12:55:45Z", "via": "ingest", "who": ""}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_60bca11e", "result": "ok", "title": "バンドリ！TV LIVE 2026 #336", "to_state": "live", "ts": "2026-10-15T12:55:45Z", "video_id": "YUB5qGbmzHs", "who": "arale"}
