@@ -113,3 +113,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T14:09:00Z", "who": "U7x_Y-PPd4c"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-15T14:33:00Z", "who": "U7x_Y-PPd4c"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_6828b930", "result": "ok", "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-15T14:33:00Z", "video_id": "U7x_Y-PPd4c", "who": "yuno"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-15T14:33:09Z", "who": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】"}
