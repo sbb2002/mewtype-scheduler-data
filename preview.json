@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-15T14:00:06Z",
+  "generated_at": "2026-10-15T14:00:37Z",
   "items": [
     {
       "actual_start": "2026-10-15T12:50:35Z",
@@ -123,19 +123,20 @@
       "info_at": "2026-10-15T13:55:41Z",
       "info_source": "personal",
       "kind": null,
-      "last_updated": "2026-10-15T14:00:06Z",
+      "last_updated": "2026-10-15T14:00:37Z",
       "membership": false,
       "scheduled_start": "2026-10-15T14:30:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2110731329180688637",
-      "state": "upcoming",
-      "state_since": "2026-10-15T13:55:41Z",
+      "state": "watching",
+      "state_since": "2026-10-15T14:00:37Z",
       "thumbnail": "https://i.ytimg.com/vi/U7x_Y-PPd4c/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #VALORANT 】ユノちゃんは儚い【 #千石ユノ / #バンドリ 】",
       "title_ko": "【 #VALORANT 】유노짱은 허무해【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=U7x_Y-PPd4c",
-      "video_id": "U7x_Y-PPd4c"
+      "video_id": "U7x_Y-PPd4c",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
