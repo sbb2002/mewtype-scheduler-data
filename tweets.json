@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:02:57Z",
+  "generated_at": "2026-10-16T15:32:17Z",
   "tweets": {
     "arale": [
       {
@@ -395,6 +395,21 @@
         "text": "謎配信、始まり",
         "text_ko": "미스테리 방송, 시작",
         "url": "https://x.com/i/status/2111095164177625418"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-18T15:28:44Z",
+        "handle": "ritsu_yumemita",
+        "id": "2111117145329508764",
+        "media": [
+          "https://pbs.twimg.com/media/HUwx2q5aMAEN_Kr.jpg"
+        ],
+        "posted_at": "2026-10-16T15:28:44Z",
+        "quote": null,
+        "received_at": "2026-10-16T15:32:17Z",
+        "text": "儚すぎる",
+        "text_ko": "너무 허무해",
+        "url": "https://x.com/i/status/2111117145329508764"
       }
     ],
     "yuno": [
