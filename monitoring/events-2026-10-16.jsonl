@@ -71,3 +71,4 @@
 {"candidates": 80, "detail": "candidates=80 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-16T13:40:05Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-16T13:46:44Z", "tweet_id": "2111091462188482931", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:46:52Z", "who": "宮永ののか🐰🩹"}
+{"detail": "retweet skip: 폰 원문이 @pennxd0o0b 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-16T13:50:54Z", "via": "ingest", "who": "ritsu"}
