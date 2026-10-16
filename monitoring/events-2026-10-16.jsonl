@@ -93,3 +93,5 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T15:32:25Z", "who": "峰月律"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-16T15:50:00Z", "who": "NETX7vJNdW8"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_9d7dfdb5", "result": "ok", "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-10-16T15:50:00Z", "video_id": "4Qg5SkkDuMI", "who": "ritsu"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-16T17:05:00Z", "who": "NETX7vJNdW8"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_007adf21", "result": "ok", "title": "【🟡メン限】２めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-16T17:05:00Z", "video_id": "NETX7vJNdW8", "who": "arale"}
