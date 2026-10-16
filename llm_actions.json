@@ -1601,6 +1601,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e31bd53ceb",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "チャレンジライブイベント「お願い、サイドスロー」開催中！\n\nイベントptの累計報酬として、SRメンバー和泉 朋花が登場！\nまた交換所ではイベントバッジを使用し、汐見 蛍のSRスナップと交換できますよ💫\n\nイベントは明日の14:59まで！お見逃しなく✨\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2110928730335916240"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 이벤트이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-16T03:04:35Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
