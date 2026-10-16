@@ -1705,6 +1705,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_93bce78995",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUuu6z_bsAABWwI.jpg"
+        ],
+        "raw": "映画「BanG Dream! Ave Mujica prima aurora」\n公開記念 特別ログインボーナス🌙\n\n映画の公開を記念し「映画版ロゴステッカー」をプレゼント✨\n\n※11月19日(木)23:59までにログインし、プレゼントボックスよりお受け取りください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2110975023498313888"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "해당 글은 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니며 일반 로그인 보너스 안내이므로 배너에 아무 조치도 필요하지 않다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-16T06:04:47Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
