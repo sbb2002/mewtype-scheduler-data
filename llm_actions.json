@@ -1664,6 +1664,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a83554cda8",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "メンテナンスが終了いたしました。\nご協力いただき、誠にありがとうございました。\n\nご協力のお礼として、「スター×50」を皆さまへ配布いたしました。\n10月23日(金)23:59までにログインし、プレゼントボックスよりお受け取りください。\n\n引き続き #アワーノーツ をお楽しみください✨\n\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2110974227155472466"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "메인테넌스 종료 및 보상 배포 공지로, 夢限大みゅーたいぷ와 관련된 행사·가챠가 아니므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-16T06:00:58Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
