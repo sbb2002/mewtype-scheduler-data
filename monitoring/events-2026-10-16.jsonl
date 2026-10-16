@@ -52,3 +52,4 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-16T13:02:00Z", "who": ""}
 {"detail": "mode: yt-member-live upgraded", "flow": "relay", "result": "ok", "ts": "2026-10-16T13:09:38Z", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_5b1be579", "result": "ok", "title": "【🟡メン限】めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-16T13:09:38Z", "video_id": "s69JQ8Bielo", "who": "arale"}
+{"detail": "회원 방송 시작 · arale (upgraded)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-16T13:09:47Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限】めんげん！"}
