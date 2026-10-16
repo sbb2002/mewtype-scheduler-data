@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-16T17:05:00Z",
+  "generated_at": "2026-10-16T17:15:00Z",
   "items": [
     {
       "actual_start": null,
@@ -95,7 +95,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-16T17:05:00Z",
+      "last_updated": "2026-10-16T17:15:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -123,7 +123,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-16T17:05:00Z",
+      "last_updated": "2026-10-16T17:15:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -150,13 +150,13 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-16T17:05:00Z",
+      "last_updated": "2026-10-16T17:15:00Z",
       "membership": false,
       "scheduled_start": "2026-10-16T13:35:00Z",
       "source": "api",
       "state": "end",
       "state_since": "2026-10-16T17:05:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/NETX7vJNdW8/maxresdefault_live.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/NETX7vJNdW8/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【🟡メン限】２めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】",
       "title_ko": "【🟡멤버십 한정】2멘겐! 또 리오 이야기【 나카마치 아라레 / 무겐다이 뮤타입 】",
