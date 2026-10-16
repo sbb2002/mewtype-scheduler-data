@@ -68,3 +68,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:38:12Z", "who": "仲町あられ"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-16T13:40:00Z", "who": "s69JQ8Bielo"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_9d7dfdb5", "result": "ok", "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-16T13:40:00Z", "video_id": "4Qg5SkkDuMI", "who": "ritsu"}
+{"candidates": 80, "detail": "candidates=80 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-16T13:40:05Z", "who": ""}
