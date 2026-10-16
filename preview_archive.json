@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:50:00Z",
+  "generated_at": "2026-10-16T17:35:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3004,6 +3004,34 @@
       "title_ko": "【폰코츠社】미네츠키 사장과 상품 개발 회의【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=4Qg5SkkDuMI",
       "video_id": "4Qg5SkkDuMI"
+    },
+    {
+      "actual_start": "2026-10-16T13:34:31Z",
+      "api_start_seen": "2026-10-16T13:35:00Z",
+      "archived_at": "2026-10-16T17:35:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-16T16:35:00Z",
+      "first_seen": "2026-10-16T13:34:55Z",
+      "host": null,
+      "id": "pv_007adf21",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-16T17:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-16T13:35:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-16T17:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/NETX7vJNdW8/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡メン限】２めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡멤버십 한정】2멘겐! 또 리오 이야기【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=NETX7vJNdW8",
+      "video_id": "NETX7vJNdW8"
     }
   ]
 }
