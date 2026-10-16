@@ -7,3 +7,4 @@
 {"detail": "banner mode: none · 기존 배너와 동일한 이벤트이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-16T03:04:35Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T03:04:41Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "retweet skip: 폰 원문이 @tianshashaovo 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-16T03:33:40Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T03:33:42Z", "who": "藤都子"}
