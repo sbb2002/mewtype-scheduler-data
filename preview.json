@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-16T13:09:50Z",
+  "generated_at": "2026-10-16T13:10:04Z",
   "items": [
     {
       "actual_start": "2026-10-16T13:03:36Z",
@@ -97,7 +97,6 @@
       "kind": "unknown",
       "last_updated": "2026-10-16T13:09:50Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-10-16T13:00:00Z",
       "search_checked": true,
       "source": "x-relay",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/s69JQ8Bielo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡メン限】めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡멤버십 한정】멤버십 한정! 또 리오 토크【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=s69JQ8Bielo",
       "video_id": "s69JQ8Bielo"
     },
