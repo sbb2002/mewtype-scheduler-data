@@ -11,3 +11,4 @@
 {"detail": "banner mode: none · 광고 게시글은 행사나 가챠와 무관한 일반 공지이므로 action=none으로 판정합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-16T04:14:27Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T04:14:32Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 유지보수 공지이며 행사·가챠와 무관한 일반 안내이므로 action=none", "flow": "notice", "result": "ok", "ts": "2026-10-16T04:30:18Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T04:30:24Z", "who": "バンドリ！アワーノーツ"}
