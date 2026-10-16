@@ -70,3 +70,4 @@
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_9d7dfdb5", "result": "ok", "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-16T13:40:00Z", "video_id": "4Qg5SkkDuMI", "who": "ritsu"}
 {"candidates": 80, "detail": "candidates=80 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-16T13:40:05Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-16T13:46:44Z", "tweet_id": "2111091462188482931", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:46:52Z", "who": "宮永ののか🐰🩹"}
