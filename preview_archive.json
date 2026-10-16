@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:05:00Z",
+  "generated_at": "2026-10-16T15:20:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2945,6 +2945,36 @@
       "title_ko": "【🟡멤버십 한정】멤버십 한정! 또 리오 토크【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=s69JQ8Bielo",
       "video_id": "s69JQ8Bielo"
+    },
+    {
+      "actual_start": "2026-10-16T13:35:52Z",
+      "api_start_seen": "2026-10-16T13:35:00Z",
+      "archived_at": "2026-10-16T15:20:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-16T18:30:00Z",
+      "first_seen": "2026-10-16T09:01:46Z",
+      "host": null,
+      "id": "pv_48bc1de2",
+      "info_at": "2026-10-16T09:01:46Z",
+      "info_source": "yt-notif",
+      "kind": "unknown",
+      "last_updated": "2026-10-16T15:20:00Z",
+      "membership": true,
+      "scheduled_start": "2026-10-16T13:35:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2111019328195920016",
+      "state": "out",
+      "state_since": "2026-10-16T15:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/MyV9YKvFkrI/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "YUNO's+ 限定配信",
+      "title_ko": "유노's+ 제한 방송",
+      "url": "https://www.youtube.com/watch?v=MyV9YKvFkrI",
+      "video_id": "MyV9YKvFkrI"
     }
   ]
 }
