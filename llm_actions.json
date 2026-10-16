@@ -1768,6 +1768,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_40eed53a54",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "謎配信、始まり",
+        "tag": "p#https://x.com/#1tweet-2111095164177625418"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "‘謎配信、始まり’는 방송이 시작됨을 알리는 표현이며, 취소나 일정 변경을 의미하는 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-16T14:02:57Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
