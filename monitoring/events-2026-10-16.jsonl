@@ -61,3 +61,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-16T13:34:55Z", "who": "NETX7vJNdW8"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_007adf21", "result": "ok", "title": "【🟡メン限】２めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-16T13:34:55Z", "video_id": "NETX7vJNdW8", "who": "arale"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_5b1be579", "result": "ok", "title": "【🟡メン限】めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-16T13:34:55Z", "video_id": "s69JQ8Bielo", "who": "arale"}
+{"detail": "mode: yt-member-live upgraded", "flow": "relay", "result": "ok", "ts": "2026-10-16T13:37:07Z", "via": "ingest", "who": "yuno"}
