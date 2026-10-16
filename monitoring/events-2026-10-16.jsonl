@@ -73,3 +73,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:46:52Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @pennxd0o0b 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-16T13:50:54Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:50:56Z", "who": "峰月律"}
+{"detail": "retweet skip: 폰 원문이 @forhor1 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-16T13:50:57Z", "via": "ingest", "who": "ritsu"}
