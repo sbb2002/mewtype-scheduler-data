@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-16T13:09:38Z",
+  "generated_at": "2026-10-16T13:09:50Z",
   "items": [
     {
       "actual_start": null,
@@ -165,8 +165,8 @@
       "video_id": "ZZMwYj6PM9o"
     },
     {
-      "actual_start": "2026-10-16T13:09:38Z",
-      "api_start_seen": null,
+      "actual_start": "2026-10-16T13:03:36Z",
+      "api_start_seen": "2026-10-16T13:00:00Z",
       "assumed_live": false,
       "channel_key": "arale",
       "collab_with": null,
@@ -178,7 +178,7 @@
       "info_at": "2026-10-16T09:01:46Z",
       "info_source": "yt-notif",
       "kind": "unknown",
-      "last_updated": "2026-10-16T13:09:38Z",
+      "last_updated": "2026-10-16T13:09:50Z",
       "membership": true,
       "needs_tl": true,
       "scheduled_start": "2026-10-16T13:00:00Z",
@@ -187,7 +187,7 @@
       "src_url": "https://x.com/i/status/2111019328195920016",
       "state": "live",
       "state_since": "2026-10-16T13:09:38Z",
-      "thumbnail": null,
+      "thumbnail": "https://i.ytimg.com/vi/s69JQ8Bielo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡メン限】めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】",
       "title_ko": null,
