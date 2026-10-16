@@ -2,3 +2,4 @@
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BUSHIM_ongaku 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-16T02:00:05Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BUSHIM_ongaku 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T02:00:07Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner mode: none · 이미 배너에 존재하는 행사와 동일한 내용이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-16T02:18:35Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T02:18:41Z", "who": "バンドリ！アワーノーツ"}
