@@ -1620,6 +1620,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_dc6ad4558c",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/card_img/2107013233613910016/cMtWACsG?format=jpg&name=800x419"
+        ],
+        "raw": "📢広告掲出中！\n\n東京メトロ全9路線にて\n#アワーノーツ の広告を掲出中です💫\n\n📅掲出期間\n10月22日(木)まで\n\nご利用の際はぜひチェックしてみてくださいね✨\n\n▼好評配信中\nhttps://bang-dream-on.bushimo.jp/\n\n※駅、及び駅員へのお問合せはご遠慮ください。\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2110946393531858990"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "광고 게시글은 행사나 가챠와 무관한 일반 공지이므로 action=none으로 판정합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-16T04:14:27Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
