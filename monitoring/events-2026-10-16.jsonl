@@ -54,3 +54,4 @@
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_5b1be579", "result": "ok", "title": "【🟡メン限】めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-16T13:09:38Z", "video_id": "s69JQ8Bielo", "who": "arale"}
 {"detail": "회원 방송 시작 · arale (upgraded)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-16T13:09:47Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限】めんげん！"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-16T13:09:50Z", "tweet_id": "2111081276426047700", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:10:07Z", "who": "仲町あられ"}
