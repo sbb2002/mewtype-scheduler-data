@@ -77,3 +77,5 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:51:00Z", "who": "峰月律"}
 {"detail": "retweet skip: 폰 원문이 @OGqKowv2IjkzFf3 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-16T13:51:34Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T13:51:36Z", "who": "峰月律"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-16T14:03:00Z", "who": "4Qg5SkkDuMI"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_9d7dfdb5", "result": "ok", "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-16T14:03:00Z", "video_id": "4Qg5SkkDuMI", "who": "ritsu"}
