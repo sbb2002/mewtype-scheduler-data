@@ -18,3 +18,4 @@
 {"detail": "banner mode: none · 글은 새로운 곡 추가 안내이며 행사·가챠와 무관하므로 배너에 아무 조치도 필요하지 않음.", "flow": "notice", "result": "ok", "ts": "2026-10-16T06:02:02Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T06:02:08Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 해당 글은 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니며 일반 로그인 보너스 안내이므로 배너에 아무 조치도 필요하지 않다.", "flow": "notice", "result": "ok", "ts": "2026-10-16T06:04:47Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T06:04:54Z", "who": "バンドリ！アワーノーツ"}
