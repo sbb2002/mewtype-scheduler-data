@@ -63,3 +63,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_5b1be579", "result": "ok", "title": "【🟡メン限】めんげん！またりおはなし【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-16T13:34:55Z", "video_id": "s69JQ8Bielo", "who": "arale"}
 {"detail": "mode: yt-member-live upgraded", "flow": "relay", "result": "ok", "ts": "2026-10-16T13:37:07Z", "via": "ingest", "who": "yuno"}
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_48bc1de2", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "live", "ts": "2026-10-16T13:37:07Z", "video_id": "MyV9YKvFkrI", "who": "yuno"}
+{"detail": "회원 방송 시작 · yuno (upgraded)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-16T13:37:17Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: YUNO's+ 限定配信"}
