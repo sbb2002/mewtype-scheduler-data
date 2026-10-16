@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:01:38Z",
+  "generated_at": "2026-10-16T12:18:33Z",
   "tweets": {
     "arale": [
       {
@@ -215,6 +215,27 @@
         "text": "#ばばんばばんばんばんドリーム",
         "text_ko": "#바반바반바반바반드림",
         "url": "https://x.com/i/status/2110698960310682106"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-18T12:18:26Z",
+        "handle": "nonoka_yumemita",
+        "id": "2111069252929409286",
+        "media": [
+          "https://pbs.twimg.com/media/HUwGS6XbQAAru85.jpg"
+        ],
+        "posted_at": "2026-10-16T12:18:26Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HUmCUYoaAAAwfWl.jpg"
+          ],
+          "text": "#ばばんばばんばんばんドリーム\n\nごろごろできる、しあわせ。",
+          "text_ko": "#ばばんばばんばんばんドリーム\n\n게으르게 있어도 행복해."
+        },
+        "received_at": "2026-10-16T12:18:33Z",
+        "text": "#ばばんばばんばんばんドリーム\n\nあられちゃん⬇️の構図チェック\nのテストしゃしん😆",
+        "text_ko": "#ばばんばばんばんばんドリーム\n아라레짱⬇️의 구도 체크\n테스트 사진😆",
+        "url": "https://x.com/i/status/2111069252929409286"
       }
     ],
     "ritsu": [
