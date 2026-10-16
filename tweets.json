@@ -113,21 +113,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-10-16T10:00:01Z",
-        "handle": "miyako_yumemita",
-        "id": "2110309645050908840",
-        "media": [
-          "https://pbs.twimg.com/media/HT0stPYbcAAMa5n.jpg"
-        ],
-        "posted_at": "2026-10-14T10:00:01Z",
-        "quote": null,
-        "received_at": "2026-10-14T10:04:55Z",
-        "text": "へぁ〜〜〜\n#ばばんばばんばんばんドリーム",
-        "text_ko": "헤아~  \n#ばばんばばんばんばんドリーム",
-        "url": "https://x.com/i/status/2110309645050908840"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-10-16T11:20:27Z",
         "handle": "miyako_yumemita",
         "id": "2110329887697633455",
