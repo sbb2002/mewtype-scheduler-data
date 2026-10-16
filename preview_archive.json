@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:20:00Z",
+  "generated_at": "2026-10-16T15:50:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -2975,6 +2975,35 @@
       "title_ko": "유노's+ 제한 방송",
       "url": "https://www.youtube.com/watch?v=MyV9YKvFkrI",
       "video_id": "MyV9YKvFkrI"
+    },
+    {
+      "actual_start": "2026-10-16T14:01:40Z",
+      "api_start_seen": "2026-10-16T14:00:00Z",
+      "archived_at": "2026-10-16T15:50:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 983,
+      "expires_at": "2026-10-16T17:00:00Z",
+      "first_seen": "2026-10-15T14:00:06Z",
+      "host": null,
+      "id": "pv_9d7dfdb5",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "unknown",
+      "last_updated": "2026-10-16T15:50:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-16T14:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2110997846757671395",
+      "state": "out",
+      "state_since": "2026-10-16T15:50:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/4Qg5SkkDuMI/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【ぽんこつ社】峰月社長と商品開発会議【峰月律/ゆめみた】",
+      "title_ko": "【폰코츠社】미네츠키 사장과 상품 개발 회의【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=4Qg5SkkDuMI",
+      "video_id": "4Qg5SkkDuMI"
     }
   ]
 }
