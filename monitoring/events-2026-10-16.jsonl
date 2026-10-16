@@ -44,3 +44,4 @@
 {"detail": "retweet skip: 폰 원문이 @bang_dream_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-16T11:19:10Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-16T11:19:11Z", "who": "宮永ののか🐰🩹"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-16T11:54:11Z", "who": "/admin"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-16T12:01:38Z", "tweet_id": "2111064967978143814", "via": "ingest", "who": "ritsu"}
