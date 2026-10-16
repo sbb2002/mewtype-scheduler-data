@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:52:47Z",
+  "generated_at": "2026-10-16T07:34:48Z",
   "tweets": {
     "arale": [
       {
@@ -375,6 +375,21 @@
         "text": "りつは HP回復 した",
         "text_ko": "리츠는 HP 회복했다",
         "url": "https://x.com/i/status/2110718124840690093"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-18T07:34:41Z",
+        "handle": "ritsu_yumemita",
+        "id": "2110997846757671395",
+        "media": [
+          "https://pbs.twimg.com/media/HUvFWYMaIAAYH6r.jpg"
+        ],
+        "posted_at": "2026-10-16T07:34:41Z",
+        "quote": null,
+        "received_at": "2026-10-16T07:34:48Z",
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n今夜23:00〜\n怪しすぎる峰月社長の配信\n\n↻ ＵＲＬ\n https://www.youtube.com/live/4Qg5SkkDuMI?si=dxRfnsSF0VPFCzI9\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 23:00부터\n너무 수상한 미네츠키 사장의 방송\n\n↻ ＵＲＬ\n https://www.youtube.com/live/4Qg5SkkDuMI?si=dxRfnsSF0VPFCzI9\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2110997846757671395"
       }
     ],
     "yuno": [
