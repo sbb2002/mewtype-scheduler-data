@@ -1582,6 +1582,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_d9d1e8f731",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "【映画「BanG Dream! Ave Mujica prima aurora」特典シリアルコードの使用開始期日について】\n\n本日上映開始の映画「BanG Dream! Ave Mujica prima aurora」の特典にて配布されるシリアルコードについて、アワーノーツ内での使用開始時刻が本日15:00からとなります。\n\n本日14:00〜14:59に予定しておりますメンテナンス終了後から使用可能となりますので、皆さまにはご不便をおかけいたしますが、何卒ご了承いただけますと幸いです。\n\n引き続き『バンドリ！アワーノーツ』をよろしくお願いいたします。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2110917345812377855"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "이미 배너에 존재하는 행사와 동일한 내용이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-16T02:18:35Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
