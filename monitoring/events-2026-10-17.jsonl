@@ -81,3 +81,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T11:00:18Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T11:25:13Z", "tweet_id": "2111418235136680165", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_950461f3", "result": "ok", "title": "【🟡歌枠】どようび！ハツラツに歌いたい気分！💪🏻✨【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-17T11:25:13Z", "video_id": "bJcQqbOOXfo", "who": "arale"}
+{"detail": "broadcast-change none · 게시물은 10/17 22:00에 진행될 노래 방송을 예고하고 있을 뿐, 취소나 일정 변경을 알리는 내용이 없기 때문입니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-17T11:25:13Z", "via": "ingest", "who": "arale"}
