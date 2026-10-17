@@ -1894,6 +1894,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2f843fbc8d",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUzvj1aaAAARaXs.jpg"
+        ],
+        "raw": "明日15:00より開催🎉\nチャレンジライブイベント「Shake Your 魂, Baby!!」\n\nぜひお楽しみに！\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111381718116540885"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글에 夢限大みゅーたいぷ 멤버가 언급되지 않아 대상이 아니므로 배너에 반영하지 않음",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-17T09:00:17Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
