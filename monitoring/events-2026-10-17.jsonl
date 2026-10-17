@@ -17,3 +17,4 @@
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-17T04:00:01Z", "who": "group"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_d812a4e0", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-17T04:00:44Z", "video_id": null, "who": "arale"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_6c3ac8e5", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-17T04:00:44Z", "video_id": null, "who": "yuno"}
+{"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-10-17T04:00:44Z", "via": "ingest", "who": ""}
