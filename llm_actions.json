@@ -1809,6 +1809,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_005ed41fb0",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUzXmQUa4AAsDQg.jpg"
+        ],
+        "raw": "「マチ★アソビ vol.31」\n\n『バンドリ！アワーノーツ』開発 フロムトーキョースタッフトークショーが終了しました！\n\nご参加いただいた皆さま、ありがとうございました✨\n\n引き続き #マチアソビ をお楽しみください🎶\n\n#アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111299570319982924"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 夢限大와 관련된 행사·가챠가 아니며 일반 감사 및 안내 내용이므로 배너에 아무 조치도 필요하지 않다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-17T03:34:16Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
