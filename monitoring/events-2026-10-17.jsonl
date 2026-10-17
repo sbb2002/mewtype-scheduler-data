@@ -48,3 +48,4 @@
 {"detail": "banner mode: none · 대상인 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니므로 배너에 반영하지 않음", "flow": "notice", "result": "ok", "ts": "2026-10-17T09:06:02Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:06:09Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T09:07:43Z", "tweet_id": "2111383635987447813", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:07:51Z", "who": "仲町あられ"}
