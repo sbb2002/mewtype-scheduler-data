@@ -154,7 +154,6 @@
       "kind": null,
       "last_updated": "2026-10-17T14:30:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-18T13:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -162,7 +161,7 @@
       "thumbnail": "https://i.ytimg.com/vi/GXE-zeOD3nc/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡歌枠】#バンドリ ！歌枠✨️全１２バンドの曲を歌うよ～～～～～～～！！！！【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡노래 방송】#뱅드림 ！노래 방송✨️전 12밴드 곡을 부를게~！！！！【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=GXE-zeOD3nc",
       "video_id": "GXE-zeOD3nc"
     },
