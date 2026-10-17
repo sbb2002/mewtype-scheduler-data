@@ -1938,6 +1938,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_81fc685ac5",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUzxBEiagAAG9SV.jpg"
+        ],
+        "raw": "明日15:00より開催✨\n「はじめてを奏でる光彩讃歌ガチャ」\n\n下記のメンバーとスナップが新登場！\n\n【メンバー】\n・SSR四宮 寧月\n・SSR須賀 蕾叶\n\n【スナップ】\n・SSR四宮 寧月\n・SSR蓬咲&ちえり&寧月\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111383213222359442"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "대상인 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니므로 배너에 반영하지 않음",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-17T09:06:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
