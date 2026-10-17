@@ -15,3 +15,4 @@
 {"detail": "banner mode: none · 글이 夢限大와 관련된 행사·가챠가 아니며 일반 감사 및 안내 내용이므로 배너에 아무 조치도 필요하지 않다.", "flow": "notice", "result": "ok", "ts": "2026-10-17T03:34:16Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T03:34:22Z", "who": "バンドリ！アワーノーツ"}
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-17T04:00:01Z", "who": "group"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_d812a4e0", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-17T04:00:44Z", "video_id": null, "who": "arale"}
