@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T17:35:00Z",
+  "generated_at": "2026-10-17T15:20:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3032,6 +3032,36 @@
       "title_ko": "【🟡멤버십 한정】2멘겐! 또 리오 이야기【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=NETX7vJNdW8",
       "video_id": "NETX7vJNdW8"
+    },
+    {
+      "actual_start": "2026-10-17T13:01:57Z",
+      "api_start_seen": "2026-10-17T13:00:00Z",
+      "archived_at": "2026-10-17T15:20:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 1743,
+      "expires_at": "2026-10-17T16:00:00Z",
+      "first_seen": "2026-10-17T11:25:13Z",
+      "host": null,
+      "id": "pv_950461f3",
+      "info_at": "2026-10-17T11:25:13Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-10-17T15:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-17T13:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2111418235136680165",
+      "state": "out",
+      "state_since": "2026-10-17T15:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/bJcQqbOOXfo/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】どようび！ハツラツに歌いたい気分！💪🏻✨【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡노래 방송】토요일! 활기차게 노래하고 싶은 기분!💪🏻✨【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=bJcQqbOOXfo",
+      "video_id": "bJcQqbOOXfo",
+      "yt_tunein": true
     }
   ]
 }
