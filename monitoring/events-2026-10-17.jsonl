@@ -42,3 +42,4 @@
 {"detail": "banner mode: none · 글에 夢限大みゅーたいぷ 멤버가 언급되지 않아 대상이 아니므로 배너에 반영하지 않음", "flow": "notice", "result": "ok", "ts": "2026-10-17T09:00:17Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:00:23Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-17T09:01:41Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:01:43Z", "who": "藤都子"}
