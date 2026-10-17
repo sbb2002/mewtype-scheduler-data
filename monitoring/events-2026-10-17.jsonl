@@ -12,3 +12,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T02:46:51Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T02:59:36Z", "tweet_id": "2111290976681734180", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T02:59:45Z", "who": "千石ユノ"}
+{"detail": "banner mode: none · 글이 夢限大와 관련된 행사·가챠가 아니며 일반 감사 및 안내 내용이므로 배너에 아무 조치도 필요하지 않다.", "flow": "notice", "result": "ok", "ts": "2026-10-17T03:34:16Z", "via": "ingest", "who": "bang_dream_on"}
