@@ -59,3 +59,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:14:07Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T10:00:11Z", "tweet_id": "2111396813030990038", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T10:00:23Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T10:16:42Z", "tweet_id": "2111400992067776730", "via": "ingest", "who": "ritsu"}
