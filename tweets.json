@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:27:44Z",
+  "generated_at": "2026-10-17T13:32:05Z",
   "tweets": {
     "arale": [
       {
@@ -502,6 +502,27 @@
         "text": "本日リリイベです！\n楽しもうね✌️\n\n来る人気をつけてきてね✌️✌️✌️",
         "text_ko": "오늘 릴리즈 이벤트입니다! 즐기자✌️ 인기도 올려서 와줘✌️✌️✌️",
         "url": "https://x.com/i/status/2111290976681734180"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-19T13:31:00Z",
+        "handle": "yuno_yumemita",
+        "id": "2111449905168572882",
+        "media": [
+          "https://pbs.twimg.com/media/HU1gf0QbUAAm2jf.jpg"
+        ],
+        "posted_at": "2026-10-17T13:31:00Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HUwafpmbEAEtUtZ.jpg"
+          ],
+          "text": "儚い.....",
+          "text_ko": "덧없다....."
+        },
+        "received_at": "2026-10-17T13:32:05Z",
+        "text": "そうだね、 儚いね",
+        "text_ko": "그렇네, 허무하네",
+        "url": "https://x.com/i/status/2111449905168572882"
       }
     ]
   }
