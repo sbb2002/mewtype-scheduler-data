@@ -126,7 +126,6 @@
       "kind": null,
       "last_updated": "2026-10-17T13:30:03Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-17T13:30:00Z",
       "source": "api",
       "state": "watching",
@@ -134,7 +133,7 @@
       "thumbnail": "https://i.ytimg.com/vi/wdxacW2m-6g/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #アワーノーツ 】視聴者参加型！目指せビッグマウスフルコン！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #アワーノーツ 】시청자 참여형! 빅마우스 풀콘을 목표!【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=wdxacW2m-6g",
       "video_id": "wdxacW2m-6g"
     },
