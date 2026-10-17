@@ -2026,6 +2026,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7aceafb7cb",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HU0WDgLa0AAmCtU.jpg"
+        ],
+        "raw": "【Ver.1.0.6アップデートについて】\n10月18日(日)にアップデートを実施予定です。\n\n▼アップデート内容\n・スキル強化チケットとバンド強化アイテムに入手方法を表示\n・ライブにて判定表示位置を調整できるオプション機能を追加\n・ライブの画面モードにて「軽量」を選択した際にも演出が発生するよう変更\n・不具合の修正\nなど\n\n※メンテナンス終了と同時に強制アップデートを実施いたします。詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111385226324644056"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "업데이트 안내 글은 행사·가챠와 무관한 일반 공지이므로 action=none으로 판정한다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-17T09:14:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
