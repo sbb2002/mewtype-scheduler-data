@@ -505,6 +505,21 @@
       },
       {
         "channel_key": "yuno",
+        "expires_at": "2026-10-19T13:28:25Z",
+        "handle": "yuno_yumemita",
+        "id": "2111449255152132118",
+        "media": [
+          "https://pbs.twimg.com/media/HU1f6ARaEAAQJ8n.jpg"
+        ],
+        "posted_at": "2026-10-17T13:28:25Z",
+        "quote": null,
+        "received_at": "2026-10-17T13:32:05Z",
+        "text": "〈配信のおしらせ〉\n10/17 22:30〜 #アワーノーツ\n\n今日は！ビッグマウスを！いっぱいやります！\nみんな、ユノちゃんをたすけてー！！！\n\n https://www.youtube.com/live/wdxacW2m-6g?si=gXeDwywyER-sBOZ9",
+        "text_ko": "〈방송 안내〉\n10/17 22:30~ #아워노츠\n\n오늘! 빅마우스를! 많이 할 거예요!\n다들, 유노짱을 도와줘!!! \n\nhttps://www.youtube.com/live/wdxacW2m-6g?si=gXeDwywyER-sBOZ9",
+        "url": "https://x.com/i/status/2111449255152132118"
+      },
+      {
+        "channel_key": "yuno",
         "expires_at": "2026-10-19T13:31:00Z",
         "handle": "yuno_yumemita",
         "id": "2111449905168572882",
