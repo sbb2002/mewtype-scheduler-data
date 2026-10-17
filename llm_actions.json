@@ -1960,6 +1960,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8b0dba7c95",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HU0VzV5bQAARorZ.jpg"
+        ],
+        "raw": "明日15:00より開催🎉\nチャレンジライブイベント「Shake Your 魂, Baby!!」\n\nイベント報酬で手に入る、SRメンバー馬橋 心玖のイラストを紹介✌️\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111383716261982225"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 夢限大みゅーたいぷ와 무관한 일반 이벤트이므로 배너에 반영하지 않는다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-17T09:08:01Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
