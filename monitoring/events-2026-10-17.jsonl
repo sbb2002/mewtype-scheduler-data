@@ -6,3 +6,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T02:12:24Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner mode: none · 글이 개발자 토크쇼 안내이며 夢限大みゅーたいぷ와 관련된 행사·가챠가 아니므로 배너에 아무 조치도 필요함", "flow": "notice", "result": "ok", "ts": "2026-10-17T02:30:07Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T02:30:14Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T02:33:10Z", "tweet_id": "2111284257297662208", "via": "ingest", "who": "miyako"}
