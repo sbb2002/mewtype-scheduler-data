@@ -1831,6 +1831,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a74db27da1",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUz5Av1boAA10wj.jpg"
+        ],
+        "raw": "「マチ★アソビ vol.31」\n\n『バンドリ！アワーノーツ』のキャラクターデザイン・アートディレクターを担当する\n信澤収&もちぷよによるサイン会がスタートしました🎉\n\nご参加の皆さま、お楽しみください💫\n\n#アワーノーツ #マチアソビ",
+        "tag": "p#https://x.com/#1tweet-2111337010246066591"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 夢限大みゅーたいぷ와 무관한 사인회 안내이며 행사·가챠가 아니므로 none 처리한다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-17T06:09:16Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
