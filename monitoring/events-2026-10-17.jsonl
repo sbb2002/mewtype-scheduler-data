@@ -58,3 +58,4 @@
 {"detail": "banner mode: none · 업데이트 안내 글은 행사·가챠와 무관한 일반 공지이므로 action=none으로 판정한다.", "flow": "notice", "result": "ok", "ts": "2026-10-17T09:14:02Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:14:07Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T10:00:11Z", "tweet_id": "2111396813030990038", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T10:00:23Z", "who": "藤都子"}
