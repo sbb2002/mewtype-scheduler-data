@@ -52,3 +52,4 @@
 {"detail": "banner mode: none · 글이 夢限大みゅーたいぷ와 무관한 일반 이벤트이므로 배너에 반영하지 않는다.", "flow": "notice", "result": "ok", "ts": "2026-10-17T09:08:01Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:08:06Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 글이 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니므로 팬 사이트 배너에 아무 조치도 필요합니다.", "flow": "notice", "result": "ok", "ts": "2026-10-17T09:10:02Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:10:10Z", "who": "バンドリ！アワーノーツ"}
