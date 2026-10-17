@@ -113,3 +113,5 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T13:32:32Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T13:45:50Z", "tweet_id": "2111453630381568476", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T13:45:59Z", "who": "峰月律"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-17T14:30:00Z", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_6d29e909", "result": "ok", "title": "【🟡歌枠】#バンドリ ！歌枠✨️全１２バンドの曲を歌うよ～～～～～～～！！！！【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-17T14:30:00Z", "video_id": "GXE-zeOD3nc", "who": "arale"}
