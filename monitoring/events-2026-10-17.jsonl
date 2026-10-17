@@ -26,3 +26,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T06:09:21Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 글이 새로운 이벤트나 가챠와 무관한 단순 곡 추가 안내이므로 배너에 아무 조치도 필요하지 않다.", "flow": "notice", "result": "ok", "ts": "2026-10-17T06:09:16Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T06:09:25Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "retweet skip: 폰 원문이 @Akitoo1476081 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-17T06:53:13Z", "via": "ingest", "who": "yuno"}
