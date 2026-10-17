@@ -105,3 +105,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-17T13:31:58Z", "who": "wdxacW2m-6g"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_33c95f26", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！目指せビッグマウスフルコン！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-17T13:31:58Z", "video_id": "wdxacW2m-6g", "who": "yuno"}
 {"detail": "retweet skip: 폰 원문이 @lbdwzm 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-17T13:32:06Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T13:32:07Z", "who": "藤都子"}
