@@ -55,3 +55,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:10:10Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 메인테넌스 공지이며 행사·가챠와 무관한 일반 안내이므로 action=none", "flow": "notice", "result": "ok", "ts": "2026-10-17T09:12:02Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T09:12:08Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · 업데이트 안내 글은 행사·가챠와 무관한 일반 공지이므로 action=none으로 판정한다.", "flow": "notice", "result": "ok", "ts": "2026-10-17T09:14:02Z", "via": "ingest", "who": "bang_dream_on"}
