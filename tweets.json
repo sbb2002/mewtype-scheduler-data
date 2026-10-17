@@ -336,40 +336,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-10-17T12:01:26Z",
-        "handle": "ritsu_yumemita",
-        "id": "2110702585703522572",
-        "media": [],
-        "posted_at": "2026-10-15T12:01:26Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HUmkO1gawAAf5hn.jpg"
-          ],
-          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 21:00～\n\n【実写】ライブご褒美に！月見バーガーもぐもぐする\n\n↻ ＵＲＬ\nhttps://youtube.com/live/7hRUpcIIi88?feature=share\n\n🩵 ･･････････････････････ 🩵",
-          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵\n\n　START 21:00～\n\n【실사】라이브 보상으로! 달맞이 버거도 먹어보는\n\n↻ URL\nhttps://youtube.com/live/7hRUpcIIi88?feature=share\n\n🩵 ･･････････････････････ 🩵"
-        },
-        "received_at": "2026-10-15T12:03:37Z",
-        "text": "はじめますたべます",
-        "text_ko": "시작합니다, 먹을게요",
-        "url": "https://x.com/i/status/2110702585703522572"
-      },
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-17T13:03:10Z",
-        "handle": "ritsu_yumemita",
-        "id": "2110718124840690093",
-        "media": [
-          "https://pbs.twimg.com/media/HUrG8j_bYAAVNX2.jpg"
-        ],
-        "posted_at": "2026-10-15T13:03:10Z",
-        "quote": null,
-        "received_at": "2026-10-15T13:03:12Z",
-        "text": "りつは HP回復 した",
-        "text_ko": "리츠는 HP 회복했다",
-        "url": "https://x.com/i/status/2110718124840690093"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-10-18T07:34:41Z",
         "handle": "ritsu_yumemita",
         "id": "2110997846757671395",
