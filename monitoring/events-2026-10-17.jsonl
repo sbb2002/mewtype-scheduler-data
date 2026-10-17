@@ -98,3 +98,4 @@
 {"detail": "retweet skip: 폰 원문이 @Darklight0314 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-17T13:27:44Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T13:27:46Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T13:27:44Z", "tweet_id": "2111447162529985019", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T13:27:54Z", "who": "藤都子"}
