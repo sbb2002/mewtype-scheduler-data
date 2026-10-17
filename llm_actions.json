@@ -2048,6 +2048,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2f67943562",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/17(土) 22:00~┊#イ中田丁なう\n\n┊ 歌枠 ┊ハツラツ気分♪歌枠！！\n\n🔗 https://www.youtube.com/live/bJcQqbOOXfo",
+        "tag": "p#https://x.com/#1tweet-2111418235136680165"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/17 22:00에 진행될 노래 방송을 예고하고 있을 뿐, 취소나 일정 변경을 알리는 내용이 없기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-17T11:25:13Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
