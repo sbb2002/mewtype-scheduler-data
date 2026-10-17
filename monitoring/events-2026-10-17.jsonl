@@ -125,3 +125,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T15:23:42Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T15:23:30Z", "tweet_id": "2111474074837008431", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T15:23:47Z", "who": "千石ユノ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-17T15:30:00Z", "who": "wdxacW2m-6g"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_33c95f26", "result": "ok", "title": "【 #アワーノーツ 】視聴者参加型！目指せビッグマウスフルコン！【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-10-17T15:30:00Z", "video_id": "wdxacW2m-6g", "who": "yuno"}
