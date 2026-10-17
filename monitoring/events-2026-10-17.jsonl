@@ -94,3 +94,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_950461f3", "result": "ok", "title": "【🟡歌枠】どようび！ハツラツに歌いたい気分！💪🏻✨【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-17T13:03:00Z", "video_id": "bJcQqbOOXfo", "who": "arale"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-17T13:03:25Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T13:05:19Z", "tweet_id": "2111443322342650056", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T13:05:41Z", "who": "仲町あられ"}
