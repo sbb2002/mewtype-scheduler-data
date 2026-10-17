@@ -1787,6 +1787,28 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8d5af9db6f",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUzGJiwbgAAVFVD.jpg"
+        ],
+        "raw": "「マチ★アソビ vol.31」\n\n『バンドリ！アワーノーツ』開発 フロムトーキョースタッフトークショーがスタートしました✨\n\n開発スタッフが #アワーノーツ の裏話などをお届けします🎶\n\n#マチアソビ",
+        "tag": "p#https://x.com/#1tweet-2111283556173443267"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 개발자 토크쇼 안내이며 夢限大みゅーたいぷ와 관련된 행사·가챠가 아니므로 배너에 아무 조치도 필요함",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-17T02:30:07Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
