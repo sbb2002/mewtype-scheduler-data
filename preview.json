@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-10-17T11:30:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-17T13:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2111418235136680165",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/bJcQqbOOXfo/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【🟡歌枠】どようび！ハツラツに歌いたい気分！💪🏻✨【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡노래 방송】토요일! 활기차게 노래하고 싶은 기분!💪🏻✨【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=bJcQqbOOXfo",
       "video_id": "bJcQqbOOXfo"
     },
