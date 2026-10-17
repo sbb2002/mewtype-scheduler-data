@@ -88,3 +88,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T11:47:49Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-17T11:56:20Z", "tweet_id": "2111425588099715325", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T11:56:29Z", "who": "宮永ののか🐰🩹"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-17T12:30:50Z", "who": "【🟡歌枠】どようび！ハツラツに歌いたい気分！💪🏻✨【 仲町あられ / 夢限大みゅーたいぷ 】"}
