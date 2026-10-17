@@ -275,28 +275,29 @@
     {
       "anchor_a": "yumemita_kinntorebu2026",
       "anchor_b": null,
-      "body_for_llm": "＼チケット一般発売決定📢／ (土)開催 💪集え！#ゆめみた筋トレ部 〜輝け！上腕二頭筋〜💪 ⏰受付期間 (日) 〜 ※先着順・上限数に達し次第終了 🔗詳細はこちら この機会をお見逃しなく✨ #バンドリ",
-      "body_ko": "＼티켓 일반 판매 결정📢／\n\n11/21(토) 개최\n💪모여라! #유메미타근트레이닝부 \n　~빛나라! 상완 이두근~💪\n\n⏰접수 기간\n10/18(일) 12:00~\n※선착순·한도에 도달하는 즉시 종료\n\n🔗상세는 여기\nhttps://bang-dream.com/events/yumemita_kinntorebu2026/\n\n이 기회를 놓치지 마세요✨\n\n#뱅드림",
-      "body_raw": "＼チケット一般発売決定📢／\n\n11/21(土)開催\n💪集え！#ゆめみた筋トレ部 \n　〜輝け！上腕二頭筋〜💪\n\n⏰受付期間\n10/18(日) 12:00〜\n※先着順・上限数に達し次第終了\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/yumemita_kinntorebu2026/\n\nこの機会をお見逃しなく✨\n\n#バンドリ",
+      "body_for_llm": "＼チケット一般発売 明日開始📢／ (土)開催 💪集え！#ゆめみた筋トレ部 〜輝け！上腕二頭筋〜💪 ⏰受付期間 明日 (日) 〜 ※先着順・上限数に達し次第終了 🔗詳細はこちら この機会をお見逃しなく✨ #バンドリ",
+      "body_ko": "＼티켓 일반 판매 내일 시작📢／  \n11/21(토) 개최  \n💪모여라! #유메미타근트레이닝부  \n　~빛나라! 상완 이두근~💪  \n\n⏰접수 기간  \n내일 10/18(일) 12:00~  \n※선착순·한도에 도달하는 즉시 종료  \n\n🔗상세는 여기  \nhttps://bang-dream.com/events/yumemita_kinntorebu2026/  \n\n이 기회를 놓치지 마세요✨  \n\n#뱅드림",
+      "body_raw": "＼チケット一般発売 明日開始📢／\n\n11/21(土)開催\n💪集え！#ゆめみた筋トレ部 \n　〜輝け！上腕二頭筋〜💪\n\n⏰受付期間\n明日10/18(日) 12:00〜\n※先着順・上限数に達し次第終了\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/yumemita_kinntorebu2026/\n\nこの機会をお見逃しなく✨\n\n#バンドリ",
       "category": "release",
       "date": "2026-11-21",
       "deadline": false,
       "expires_at": "2026-11-21T15:00:00Z",
       "first_seen": "2026-10-15T09:14:36Z",
       "id": "2110656938530717890",
-      "last_updated": "2026-10-15T09:14:36Z",
+      "last_updated": "2026-10-17T10:45:43Z",
       "participants": null,
       "seen_ids": [
-        "2110656938530717890"
+        "2110656938530717890",
+        "2111408207373721752"
       ],
       "site": "web",
       "src_handle": "@BDP_yumemita",
       "time": "12:00",
-      "title": "チケット一般発売決定！ #ゆめみた筋トレ部 〜輝け！上腕二頭筋〜 #バンドリ",
+      "title": "チケット一般発売 明日開始",
       "title_ko": "티켓 일반 판매 결정! #꿈꾸는근육부 〜빛나라! 상완이두근〜 #뱅드림",
-      "title_raw": "チケット一般発売決定",
-      "title_slug": "チケット一般発売決定",
-      "tweet_url": "https://x.com/i/status/2110656938530717890",
+      "title_raw": "チケット一般発売 明日開始",
+      "title_slug": "チケット一般発売明日開始",
+      "tweet_url": "https://x.com/i/status/2111408207373721752",
       "url": "https://bang-dream.com/events/yumemita_kinntorebu2026/"
     },
     {
