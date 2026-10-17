@@ -31,3 +31,4 @@
 {"detail": "retweet skip: 폰 원문이 @ene_rocket 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-17T06:53:14Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T06:53:19Z", "who": "千石ユノ"}
 {"detail": "retweet skip: 폰 원문이 @white_garand 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-17T06:53:14Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-17T06:53:23Z", "who": "千石ユノ"}
