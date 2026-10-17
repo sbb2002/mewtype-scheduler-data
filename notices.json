@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:55:45Z",
+  "generated_at": "2026-10-17T10:45:43Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -55,34 +55,6 @@
       "title_slug": "チケット一般発売開始",
       "tweet_url": "https://x.com/i/status/2106217694865379514",
       "url": "https://eplus.jp/yumemita-arale/"
-    },
-    {
-      "anchor_a": "YUB5qGbmzHs",
-      "anchor_b": "バンドリ！tvlive2026",
-      "body_for_llm": "【まもなく配信開始📢】 このあと 〜 生配信📺 「バンドリ！TV LIVE 2026」＃336 #ゆめみた より仲町あられが出演🛸 📺配信URLはこちら お見逃しなく✨ #バンドリTVLIVE",
-      "body_ko": "곧 방송 시작📢\n\n오늘 22:00부터 생방송📺\n「뱅드림! TV LIVE 2026」#336\n\n#유메미타 에서 나카마치 아라레가 출연🛸\n\n📺 방송 URL은 여기\nhttps://www.youtube.com/live/YUB5qGbmzHs\n\n놓치지 마세요✨\n\n#뱅드림 TVLIVE",
-      "body_raw": "【まもなく配信開始📢】\n\nこのあと22:00〜 生配信📺\n「バンドリ！TV LIVE 2026」＃336\n\n#ゆめみた より仲町あられが出演🛸\n\n📺配信URLはこちら\nhttps://www.youtube.com/live/YUB5qGbmzHs\n\nお見逃しなく✨\n\n#バンドリTVLIVE",
-      "category": "live",
-      "date": "2026-10-15",
-      "deadline": false,
-      "expires_at": "2026-10-15T15:00:00Z",
-      "first_seen": "2026-10-15T11:32:32Z",
-      "id": "2110693398952968218",
-      "last_updated": "2026-10-15T12:55:45Z",
-      "participants": null,
-      "seen_ids": [
-        "2110693398952968218",
-        "2110715569620337127"
-      ],
-      "site": "youtube",
-      "src_handle": "@BDP_yumemita",
-      "time": "22:00",
-      "title": "「バンドリ！TV LIVE 2026」",
-      "title_ko": "오늘 출연! 뱅드림에서 나카마치 아라레 등장",
-      "title_raw": "「バンドリ！TV LIVE 2026」",
-      "title_slug": "バンドリtvlive2026",
-      "tweet_url": "https://x.com/i/status/2110715569620337127",
-      "url": "https://www.youtube.com/live/YUB5qGbmzHs"
     },
     {
       "anchor_a": null,
