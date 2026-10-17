@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:32:05Z",
+  "generated_at": "2026-10-17T13:45:50Z",
   "tweets": {
     "arale": [
       {
@@ -466,6 +466,21 @@
         "text": "髪ちょっと切ったのです……！！！！！！\nどうかな〜！？",
         "text_ko": "머리 조금 잘랐어요……!!!!!! 어때~!?",
         "url": "https://x.com/i/status/2111400992067776730"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-19T13:45:49Z",
+        "handle": "ritsu_yumemita",
+        "id": "2111453630381568476",
+        "media": [
+          "https://pbs.twimg.com/media/HU1j4jGaIAAQrmU.jpg"
+        ],
+        "posted_at": "2026-10-17T13:45:49Z",
+        "quote": null,
+        "received_at": "2026-10-17T13:45:50Z",
+        "text": "「これはぼくたちの生存のあらすじ」\nリリースイベントありがとうございました！\n全身はこんな感じでした！！\nいつもと雰囲気を変えてみた☆。.:＊・゜",
+        "text_ko": "이건 우리들의 생존 이야기야\n릴리스 이벤트 감사합니다!\n전신은 이렇게 생겼어요!!\n평소와 분위기를 바꿔봤어☆。.:＊・゜",
+        "url": "https://x.com/i/status/2111453630381568476"
       }
     ],
     "yuno": [
