@@ -2,3 +2,4 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_87f0d973", "result": "ok", "title": "【朝活】冬用毛布を出しましょう🧶【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "live", "ts": "2026-10-18T22:02:00Z", "video_id": "RPmJREMAKyc", "who": "miyako"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-18T22:34:51Z", "who": "/admin"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T22:35:28Z", "tweet_id": "2111940700921282830", "via": "ops", "who": "miyako"}
+{"detail": "retweet skip: 폰 원문이 @P_ism_ 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-18T22:39:39Z", "via": "ingest", "who": "miyako"}
