@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:44:36Z",
+  "generated_at": "2026-10-18T06:34:33Z",
   "tweets": {
     "arale": [
       {
@@ -683,6 +683,21 @@
         "text": "本日リリイベです！\nよろしくお願いします✌️✌️✌️\n\nユノちゃんのでぃめらぷネイルとエクステは今日で見納めです😌",
         "text_ko": "오늘 릴리 이벤트입니다!\n잘 부탁드립니다✌️✌️✌️\n\n유노짱의 디메라프 네일과 익스텐션은 오늘로 마지막입니다😌",
         "url": "https://x.com/i/status/2111694892825256375"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-20T06:34:30Z",
+        "handle": "yuno_yumemita",
+        "id": "2111707474848051637",
+        "media": [
+          "https://pbs.twimg.com/media/HU5KwD5agAA-qCq.jpg"
+        ],
+        "posted_at": "2026-10-18T06:34:30Z",
+        "quote": null,
+        "received_at": "2026-10-18T06:34:33Z",
+        "text": "#ばばんばばんばんばんドリーム",
+        "text_ko": "#바반바반바반바드림",
+        "url": "https://x.com/i/status/2111707474848051637"
       }
     ]
   }
