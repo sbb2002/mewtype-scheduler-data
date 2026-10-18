@@ -100,3 +100,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_410de574", "result": "ok", "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-18T13:32:00Z", "video_id": "o0YLKEhlr7Y", "who": "yuno"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-18T13:39:42Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T14:22:04Z", "tweet_id": "2111823981011742770", "via": "ingest", "who": "miyako"}
+{"detail": "broadcast-change none · 게시물은 10/19(월) 아침 7시부터 7시30분까지의 방송을 예고하고 있으며, 취소나 일정 변경을 언급하지 않았기 때문에 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-18T14:22:04Z", "via": "ingest", "who": "miyako"}
