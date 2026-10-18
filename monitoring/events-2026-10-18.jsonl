@@ -71,3 +71,4 @@
 {"detail": "banner mode: none · 게임 서비스 장애 및 사과 안내는 행사·가챠가 아니므로 none 처리한다.", "flow": "notice", "result": "ok", "ts": "2026-10-18T09:13:01Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T09:13:07Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-18T09:46:39Z", "who": "[장재훈] 지옥에서 누가 돌아왔게"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T09:59:49Z", "tweet_id": "2111759134974734474", "via": "ingest", "who": "miyako"}
