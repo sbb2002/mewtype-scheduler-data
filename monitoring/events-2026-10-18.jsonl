@@ -22,3 +22,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T03:05:24Z", "who": "宮永ののか🐰🩹"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T03:05:18Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T03:30:00Z", "tweet_id": "2111661027817623751", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T03:30:12Z", "who": "峰月律"}
