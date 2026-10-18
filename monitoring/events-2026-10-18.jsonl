@@ -76,3 +76,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T10:29:45Z", "tweet_id": "2111766651616325655", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_333dc7b6", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-18T10:29:45Z", "video_id": null, "who": "arale"}
 {"detail": "broadcast-change edit · 게시물에서 오늘 22:00에 예정된 방송을 10/23 22:00으로 연기한다는 내용이 명시되어 있어 해당 방송 일정이 변경됨을 알렸다. · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-10-18T10:29:45Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T10:30:26Z", "who": "仲町あられ"}
