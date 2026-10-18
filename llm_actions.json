@@ -2171,6 +2171,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_d90ad2c057",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "一家Dumb Rock!のオリジナル楽曲『ジャイアント・キラー・チューン』にMVを追加いたしました✌️\n\nぜひMVモードでプレイしてみてくださいね✨\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111700553935843806"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "MV 추가 공지이며 행사·가챠와 관련된 내용이 없으므로 none으로 판정한다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-18T06:07:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
