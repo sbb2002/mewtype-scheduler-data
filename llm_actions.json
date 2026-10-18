@@ -2108,6 +2108,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_fc01e6653f",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "メンテナンスが終了いたしました。\nご協力いただき、誠にありがとうございました。\n\nご協力のお礼として、「スター×100」を皆さまへ配布いたしました。\n10月25日(日)23:59までにログインし、プレゼントボックスよりお受け取りください。\n\n引き続き #アワーノーツ をお楽しみください✨\n\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2111699262438592769"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "메인테넌스 종료 및 스타×100 배포 안내는 일반 공지이며 행사·가챠와 관련되지 않아 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-18T06:01:59Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
