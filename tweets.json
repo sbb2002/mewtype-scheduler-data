@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:04:58Z",
+  "generated_at": "2026-10-18T03:05:02Z",
   "tweets": {
     "arale": [
       {
@@ -378,6 +378,19 @@
         "text": "人間ていっぱい住んでてすごい😱",
         "text_ko": "사람이 너무 많이 살고 있어서 대단해😱",
         "url": "https://x.com/i/status/2111654103592141032"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-20T03:03:00Z",
+        "handle": "nonoka_yumemita",
+        "id": "2111654248274633014",
+        "media": [],
+        "posted_at": "2026-10-18T03:03:00Z",
+        "quote": null,
+        "received_at": "2026-10-18T03:05:02Z",
+        "text": "お家っていっぱいあってすごい",
+        "text_ko": "집이 많이 있어서 대단해",
+        "url": "https://x.com/i/status/2111654248274633014"
       }
     ],
     "ritsu": [
