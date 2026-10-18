@@ -2359,6 +2359,58 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_38731937ba",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/19（月）あさ7:00-7:30☀️朝活\n縦型配信につきURLは直前にぽしらせ🔔\n\nあしたの朝にお会いしましょう♪\nぽやしみなさい🐶💤\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2111823981011742770"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n10/19（月）あさ7:00-7:30☀️朝活\n縦型配信につきU",
+      "ts": "2026-10-18T14:22:04Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "miyako",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-19T01:00:00Z",
+            "first_seen": "2026-10-18T04:00:15Z",
+            "host": null,
+            "id": "pv_f7122ac0",
+            "info_at": "2026-10-18T04:00:15Z",
+            "info_source": "x-relay",
+            "kind": "morning",
+            "last_updated": "2026-10-18T04:00:15Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-18T22:00:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2111668595486859421",
+            "state": "announced",
+            "state_since": "2026-10-18T04:00:15Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
