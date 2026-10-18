@@ -2284,6 +2284,33 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c330ac956e",
+      "input": {
+        "channel_key": "arale",
+        "quote": "／\n🛸#ゆめみた\n10/18(日)の配信スケジュール🌟\n＼\n\n✨22:00～ 仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n✨22:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n☀明日朝7:00～藤都子\nhttps://www.youtube.com/@miyako_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "【配信延期します】\n本日22:00~予定していた歌枠を延期させていただきます…🙏\n\n帰宅途中なのですが、色々対処してもまだ頭痛が酷く…。万全の状態で臨ませていただきたい為、延期させていただきます💦\n楽しみにしてくれていた皆さま…ごめんなさい…！！！！！\n\n10/23㈮ 22:00~に変更予定です",
+        "tag": "p#https://x.com/#1tweet-2111766651616325655"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 예고로 등록 — 22:00 JST · 【配信延期します】\n本日22:00~予定していた歌枠を延期させていただきます…🙏",
+      "ts": "2026-10-18T10:29:45Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_333dc7b6"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
