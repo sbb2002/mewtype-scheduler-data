@@ -52,3 +52,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T06:03:35Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 게시글 내용이 기존 배너와 동일한 기간과 정보를 제공하므로 변경 사항이 없음", "flow": "notice", "result": "ok", "ts": "2026-10-18T06:05:02Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T06:05:10Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · MV 추가 공지이며 행사·가챠와 관련된 내용이 없으므로 none으로 판정한다.", "flow": "notice", "result": "ok", "ts": "2026-10-18T06:07:02Z", "via": "ingest", "who": "bang_dream_on"}
