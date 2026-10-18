@@ -39,3 +39,4 @@
 {"action": "rss_empty", "detail": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-18T05:00:02Z", "who": "group"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T05:00:55Z", "tweet_id": "2111683912934236433", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T05:01:03Z", "who": "藤都子"}
+{"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-18T05:05:02Z", "via": "ingest", "who": "miyako"}
