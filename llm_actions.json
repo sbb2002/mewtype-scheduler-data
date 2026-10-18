@@ -2190,6 +2190,62 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_165899a8aa",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HU4-xf6agAEsVZm.jpg"
+        ],
+        "raw": "10月18日(日)15:00より開催中✨\n「はじめてを奏でる光彩讃歌ガチャ」\n\n下記のメンバーとスナップが新登場！\n\n【メンバー】\n・SSR四宮 寧月\n・SSR須賀 蕾叶\n\n【スナップ】\n・SSR四宮 寧月\n・SSR蓬咲&ちえり&寧月\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111701057239654556"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 가챠이지만 종료일이 연장되어 업데이트 필요",
+      "summary": "행사 배너 갱신 — はじめてを奏でる光彩讃歌ガチャ",
+      "ts": "2026-10-18T06:09:01Z",
+      "undo": {
+        "before": {
+          "end_at": "2026-10-26T05:59:00Z",
+          "first_seen": "2026-10-17T12:40:01Z",
+          "gachas": [
+            {
+              "end_at": "2026-10-28T05:59:00Z",
+              "id": "gc_e33a9595",
+              "image_urls": [],
+              "start_at": "2026-10-18T06:00:00Z",
+              "title_ja": "はじめてを奏でる光彩讃歌ガチャ",
+              "title_ko": "처음을 연주하는 광채 찬가 가챠"
+            }
+          ],
+          "hold": null,
+          "id": "bn_16b9bd4d",
+          "image_urls": [
+            "https://pbs.twimg.com/media/HUzvj1aaAAARaXs.jpg"
+          ],
+          "last_updated": "2026-10-17T12:40:01Z",
+          "match_keys": [
+            "shakeyour魂baby",
+            "はじめてを奏でる光彩讃歌ガチャ"
+          ],
+          "name_ja": "Shake Your 魂, Baby!!",
+          "name_ko": "Shake Your 영혼, Baby!!",
+          "src_ids": [
+            "2111381718116540885"
+          ],
+          "start_at": "2026-10-18T06:00:00Z",
+          "start_time_tbd": null
+        },
+        "id": "bn_16b9bd4d",
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
