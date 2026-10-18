@@ -4,19 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-18T13:37:58Z",
-        "handle": "arale_yumemita",
-        "id": "2111089267028238409",
-        "media": [],
-        "posted_at": "2026-10-16T13:37:58Z",
-        "quote": null,
-        "received_at": "2026-10-16T13:37:59Z",
-        "text": "一瞬、メン限がメン限じゃなくなってました！\n枠立て直しの時に設定ミスしたみたいです...すみません😭",
-        "text_ko": "순간, 멤버십 한정이 멤버십 한정이 아니게 됐어요! 틀 다시 잡을 때 설정을 잘못한 것 같아요...죄송합니다😭",
-        "url": "https://x.com/i/status/2111089267028238409"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-19T05:19:35Z",
         "handle": "arale_yumemita",
         "id": "2111326235817296044",
@@ -368,21 +355,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-10-18T13:46:41Z",
-        "handle": "nonoka_yumemita",
-        "id": "2111091462188482931",
-        "media": [
-          "https://pbs.twimg.com/media/HUwafpmbEAEtUtZ.jpg"
-        ],
-        "posted_at": "2026-10-16T13:46:41Z",
-        "quote": null,
-        "received_at": "2026-10-16T13:46:44Z",
-        "text": "儚い.....",
-        "text_ko": "덧없다.....",
-        "url": "https://x.com/i/status/2111091462188482931"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-10-19T10:42:52Z",
         "handle": "nonoka_yumemita",
         "id": "2111407590941053353",
@@ -487,25 +459,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-18T14:01:24Z",
-        "handle": "ritsu_yumemita",
-        "id": "2111095164177625418",
-        "media": [],
-        "posted_at": "2026-10-16T14:01:24Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HUvFWYMaIAAYH6r.jpg"
-          ],
-          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜23:00~\n怪しすぎる峰月社長の配信\n\n↻ ＵＲＬ\n https://www.youtube.com/live/4Qg5SkkDuMI?si=dxRfnsSF0VPFCzI9\n\n🩵 ･･････････････････････ 🩵",
-          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵 \n\n오늘 밤 23:00~\n너무 수상한 미네츠키 사장의 방송\n\n↻ ＵＲＬ\n https://www.youtube.com/live/4Qg5SkkDuMI?si=dxRfnsSF0VPFCzI9\n\n🩵 ･･････････････････････ 🩵"
-        },
-        "received_at": "2026-10-16T14:02:57Z",
-        "text": "謎配信、始まり",
-        "text_ko": "미스테리 방송, 시작",
-        "url": "https://x.com/i/status/2111095164177625418"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-18T15:28:44Z",
