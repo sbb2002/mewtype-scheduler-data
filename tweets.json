@@ -195,21 +195,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-10-18T10:00:02Z",
-        "handle": "miyako_yumemita",
-        "id": "2111034423592276104",
-        "media": [
-          "https://pbs.twimg.com/amplify_video_thumb/2106885301373444096/img/xvfoYBQiy_s0hrXh.jpg"
-        ],
-        "posted_at": "2026-10-16T10:00:02Z",
-        "quote": null,
-        "received_at": "2026-10-16T10:05:46Z",
-        "text": "はじめてのハンモック\n#ばばんばばんばんばんドリーム",
-        "text_ko": "처음 해보는 해먹\n#ばばんばばんばんばんドリーム",
-        "url": "https://x.com/i/status/2111034423592276104"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-10-19T02:32:47Z",
         "handle": "miyako_yumemita",
         "id": "2111284257297662208",
