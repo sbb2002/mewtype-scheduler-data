@@ -104,3 +104,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T14:22:31Z", "who": "藤都子"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-18T14:55:00Z", "who": "o0YLKEhlr7Y"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_410de574", "result": "ok", "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-18T14:55:00Z", "video_id": "o0YLKEhlr7Y", "who": "yuno"}
+{"detail": "banner mode: none · 접속 장애 안내는 일반 공지에 해당하므로 배너에 아무 조치도 하지 않는다.", "flow": "notice", "result": "ok", "ts": "2026-10-18T15:09:59Z", "via": "ingest", "who": "bang_dream_on"}
