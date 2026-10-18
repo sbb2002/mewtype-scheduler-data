@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:30:01Z",
+  "generated_at": "2026-10-18T04:00:15Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -85,6 +85,33 @@
       "title_slug": "本日まで発売中",
       "tweet_url": "https://x.com/i/status/2111661044150198460",
       "url": "https://eplus.jp/13th-live/st/"
+    },
+    {
+      "anchor_a": "miyako-birthday2026",
+      "anchor_b": null,
+      "body_for_llm": "＼バースデーグッズ 本日受付終了📢／ 💜藤都子 バースデーグッズ2026💜 描き下ろしイラストを使用した特製グッズが ブシロード オンラインストアにて受注販売❣ ⏰受付期間:本日 まで 🛒ご購入はこちら お見逃しなく✨ #バンドリ #ゆめみた",
+      "body_ko": "＼생일 굿즈 오늘 접수 종료📢／\n\n💜후지 미야코 생일 굿즈2026💜\n\n새로 그린 일러스트를 사용한 특제 굿즈가\n부시로드 온라인 스토어에서 주문 판매❣\n\n⏰접수 기간: 오늘 23:59까지\n\n🛒구매는 여기\nhttps://bushiroad-store.com/collections/miyako-birthday2026\n\n놓치지 마세요✨\n\n#뱅드림 #유메미타",
+      "body_raw": "＼バースデーグッズ 本日受付終了📢／\n\n💜藤都子 バースデーグッズ2026💜\n\n描き下ろしイラストを使用した特製グッズが\nブシロード オンラインストアにて受注販売❣\n\n⏰受付期間:本日23:59まで\n\n🛒ご購入はこちら\nhttps://bushiroad-store.com/collections/miyako-birthday2026\n\nお見逃しなく✨\n\n#バンドリ #ゆめみた",
+      "category": "release",
+      "date": "2026-10-18",
+      "deadline": false,
+      "expires_at": "2026-10-18T15:00:00Z",
+      "first_seen": "2026-10-18T04:00:15Z",
+      "id": "2111668594828619918",
+      "last_updated": "2026-10-18T04:00:15Z",
+      "participants": null,
+      "seen_ids": [
+        "2111668594828619918"
+      ],
+      "site": "store",
+      "src_handle": "@BDP_yumemita",
+      "time": "23:59",
+      "title": "藤都子バースデーグッズ受付終了のお知らせ",
+      "title_ko": "藤都子 생일 굿즈 접수 종료 안내",
+      "title_raw": "描き下ろしイラストを使用した特製グッズが",
+      "title_slug": "描き下ろしイラストを使用した特製グッズが",
+      "tweet_url": "https://x.com/i/status/2111668594828619918",
+      "url": "https://bushiroad-store.com/collections/miyako-birthday2026"
     },
     {
       "anchor_a": null,
