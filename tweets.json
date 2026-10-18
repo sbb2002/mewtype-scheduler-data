@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:29:45Z",
+  "generated_at": "2026-10-18T11:40:48Z",
   "tweets": {
     "arale": [
       {
@@ -600,6 +600,22 @@
         "text": "やっぱりラーメンなんだよなあ\n\n#ばばんばばんばんばんドリーム",
         "text_ko": "역시 라멘이구나\n\n#ばばんばばんばんばんドリーム",
         "url": "https://x.com/i/status/2111735526990790839"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-20T11:32:44Z",
+        "handle": "ritsu_yumemita",
+        "id": "2111782529238028575",
+        "media": [
+          "https://pbs.twimg.com/media/HU6PA1WbwAE-p5p.jpg",
+          "https://pbs.twimg.com/media/HU6PA1AbsAAep-9.jpg"
+        ],
+        "posted_at": "2026-10-18T11:32:44Z",
+        "quote": null,
+        "received_at": "2026-10-18T11:40:48Z",
+        "text": "本日も、これぼくリリイベ＆お渡し会\nありがとうございました！\n土日2日間ありました！\n会いに来てくれるの嬉しかったです！\n今日は、赤いガーリー律さんでした🐻",
+        "text_ko": "오늘도, 이것은 나 리리이벤트&전달회\n감사했습니다!\n주말 이틀 있었어요!\n와 주러 와줘서 기뻤어요!\n오늘은, 빨간 가리 리츠 씨였어요🐻",
+        "url": "https://x.com/i/status/2111782529238028575"
       }
     ],
     "yuno": [
