@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "본인 예고 나카마치 아라레 (【配信延期します】\n本日22:00~予定していた歌枠を延期させていただきます…🙏)",
+    "action": "/edit preview pv_6d29e909",
     "at": "2026-10-18T10:29:45Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "6d8975c0a6eaa7e50ad9de9a42efba517cc50bcf",
+    "new_sha": "906e2a5b042f6ad739238f3781ed2d5cfccd03a2",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-18T04:00:15Z",
+      "generated_at": "2026-10-18T10:29:45Z",
       "items": [
         {
           "actual_start": null,
@@ -258,6 +258,35 @@
           "title": null,
           "title_ko": null,
           "url": null,
+          "video_id": null
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "arale",
+          "collab_with": [],
+          "concurrent_viewers": null,
+          "expires_at": "2026-10-23T16:00:00Z",
+          "first_seen": "2026-10-18T10:29:45Z",
+          "host": null,
+          "id": "pv_333dc7b6",
+          "info_at": "2026-10-18T10:29:39Z",
+          "info_source": "personal",
+          "kind": "song",
+          "last_updated": "2026-10-18T10:29:45Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-10-23T13:00:00Z",
+          "source": "personal",
+          "src_url": "https://x.com/i/status/2111766651616325655",
+          "state": "announced",
+          "state_since": "2026-10-18T10:29:45Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": "https://www.youtube.com/@arale_yumemita",
           "video_id": null
         }
       ]
