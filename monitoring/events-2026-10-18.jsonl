@@ -93,3 +93,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T11:59:28Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-18T13:20:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_410de574", "result": "ok", "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-18T13:20:02Z", "video_id": "o0YLKEhlr7Y", "who": "yuno"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T13:20:49Z", "tweet_id": "2111808448145097142", "via": "ingest", "who": "yuno"}
