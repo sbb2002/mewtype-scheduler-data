@@ -3,3 +3,4 @@
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-18T22:34:51Z", "who": "/admin"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T22:35:28Z", "tweet_id": "2111940700921282830", "via": "ops", "who": "miyako"}
 {"detail": "retweet skip: 폰 원문이 @P_ism_ 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-18T22:39:39Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T22:39:40Z", "who": "藤都子"}
