@@ -1,0 +1,938 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-10-18",
+  "downRanges": [],
+  "eventCount": 110,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "banner mode: none · 유지보수 공지이며 행사·가챠와 무관한 일반 안내이므로 none 처리한다.",
+      "nid": null,
+      "t": "12:04",
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:44Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "nid": "2111653505907794317",
+      "t": "12:04",
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:52Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: updated",
+      "nid": "2111661044150198460",
+      "t": "12:30",
+      "tone": "ok",
+      "ts": "2026-10-18T03:30:01Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "nid": "2111668594828619918",
+      "t": "13:00",
+      "tone": "ok",
+      "ts": "2026-10-18T04:00:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 메인테넌스 종료 및 스타×100 배포 안내는 일반 공지이며 행사·가챠와 관련되지 않아 none 처리합니다.",
+      "nid": null,
+      "t": "15:01",
+      "tone": "ok",
+      "ts": "2026-10-18T06:01:59Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 업데이트 안내 글은 행사·가챠가 아니므로 none 처리한다.",
+      "nid": null,
+      "t": "15:03",
+      "tone": "ok",
+      "ts": "2026-10-18T06:03:29Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 게시글 내용이 기존 배너와 동일한 기간과 정보를 제공하므로 변경 사항이 없음",
+      "nid": null,
+      "t": "15:05",
+      "tone": "ok",
+      "ts": "2026-10-18T06:05:02Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · MV 추가 공지이며 행사·가챠와 관련된 내용이 없으므로 none으로 판정한다.",
+      "nid": null,
+      "t": "15:07",
+      "tone": "ok",
+      "ts": "2026-10-18T06:07:02Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: updated · 갱신 — Shake Your 영혼, Baby!!",
+      "nid": null,
+      "t": "15:09",
+      "tone": "ok",
+      "ts": "2026-10-18T06:09:01Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 접속 불안정 안내는 일반 공지에 해당하므로 배너에 아무 조치도 하지 않는다.",
+      "nid": null,
+      "t": "15:22",
+      "tone": "ok",
+      "ts": "2026-10-18T06:22:55Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 게임 서비스 장애 및 사과 안내는 행사·가챠가 아니므로 none 처리한다.",
+      "nid": null,
+      "t": "18:13",
+      "tone": "ok",
+      "ts": "2026-10-18T09:13:01Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: recap",
+      "nid": "2111781839438573743",
+      "t": "20:40",
+      "tone": "ok",
+      "ts": "2026-10-18T11:40:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 접속 장애 안내는 일반 공지에 해당하므로 배너에 아무 조치도 하지 않는다.",
+      "nid": null,
+      "t": "00:09",
+      "tone": "ok",
+      "ts": "2026-10-18T15:09:59Z",
+      "via": "ingest"
+    }
+  ],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "19:29",
+          "id": "pv_333dc7b6",
+          "s": "announced",
+          "title": null,
+          "to": "30:00",
+          "vid": null
+        }
+      ],
+      "title": null
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "13:00",
+          "id": "pv_19582cce",
+          "s": "announced",
+          "title": null,
+          "to": "22:20",
+          "vid": null
+        },
+        {
+          "from": "22:20",
+          "id": "pv_410de574",
+          "s": "watching",
+          "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】",
+          "to": "22:32",
+          "vid": "o0YLKEhlr7Y"
+        },
+        {
+          "from": "22:32",
+          "id": "pv_410de574",
+          "s": "live",
+          "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】",
+          "to": "23:55",
+          "vid": "o0YLKEhlr7Y"
+        },
+        {
+          "from": "23:55",
+          "id": "pv_410de574",
+          "s": "end",
+          "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】",
+          "to": "00:25",
+          "vid": "o0YLKEhlr7Y"
+        },
+        {
+          "from": "00:25",
+          "id": "pv_410de574",
+          "s": "out",
+          "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】",
+          "to": "00:28",
+          "vid": "o0YLKEhlr7Y"
+        }
+      ],
+      "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "from": "13:00",
+          "id": "pv_f7122ac0",
+          "s": "announced",
+          "title": null,
+          "to": "30:00",
+          "vid": null
+        }
+      ],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "nid": null,
+      "t": "08:26",
+      "tone": "ok",
+      "ts": "2026-10-17T23:26:50Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:04",
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:44Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:04",
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:52Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:30",
+      "tone": "ok",
+      "ts": "2026-10-18T03:30:01Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "13:00",
+      "tone": "ok",
+      "ts": "2026-10-18T04:00:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 3건",
+      "nid": null,
+      "t": "13:00",
+      "tone": "ok",
+      "ts": "2026-10-18T04:00:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BUSHIM_ongaku 의 글",
+      "nid": null,
+      "t": "13:58",
+      "tone": "ok",
+      "ts": "2026-10-18T04:58:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "nid": null,
+      "t": "16:00",
+      "tone": "ok",
+      "ts": "2026-10-18T07:00:33Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BUSHIM_ongaku 의 글",
+      "nid": null,
+      "t": "17:13",
+      "tone": "ok",
+      "ts": "2026-10-18T08:13:51Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "20:40",
+      "tone": "ok",
+      "ts": "2026-10-18T11:40:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "20:40",
+      "tone": "ok",
+      "ts": "2026-10-18T11:40:48Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-10-18T21:10:07Z",
+  "song": [
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "10:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "12:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "13:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "14:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "토픽 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "15:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    }
+  ],
+  "ticks": [
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "19:40"
+    },
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:20"
+    },
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:32"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:55"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:25"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "10:03",
+      "tid": "2111621197956108357",
+      "tone": "ok",
+      "ts": "2026-10-18T01:03:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @HMV_Shinjuku 의 글",
+      "member": "miyako",
+      "t": "12:04",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:44Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "12:04",
+      "tid": "2111633599284003200",
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:44Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "12:04",
+      "tid": "2111646268539949081",
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "12:04",
+      "tid": "2111654103592141032",
+      "tone": "ok",
+      "ts": "2026-10-18T03:04:58Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "12:05",
+      "tid": "2111654248274633014",
+      "tone": "ok",
+      "ts": "2026-10-18T03:05:02Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "12:30",
+      "tid": "2111661027817623751",
+      "tone": "ok",
+      "ts": "2026-10-18T03:30:00Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "14:00",
+      "tid": "2111683912934236433",
+      "tone": "ok",
+      "ts": "2026-10-18T05:00:55Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @BushiM_info 의 글",
+      "member": "miyako",
+      "t": "14:05",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-18T05:05:02Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "14:13",
+      "tid": "2111685285499273344",
+      "tone": "ok",
+      "ts": "2026-10-18T05:13:40Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "14:44",
+      "tid": "2111694892825256375",
+      "tone": "ok",
+      "ts": "2026-10-18T05:44:36Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "15:34",
+      "tid": "2111707474848051637",
+      "tone": "ok",
+      "ts": "2026-10-18T06:34:33Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "15:59",
+      "tid": "2111713850659872825",
+      "tone": "ok",
+      "ts": "2026-10-18T06:59:57Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "17:26",
+      "tid": "2111735526990790839",
+      "tone": "ok",
+      "ts": "2026-10-18T08:26:12Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "18:59",
+      "tid": "2111759134974734474",
+      "tone": "ok",
+      "ts": "2026-10-18T09:59:49Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "19:29",
+      "tid": "2111766651616325655",
+      "tone": "ok",
+      "ts": "2026-10-18T10:29:45Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change edit · 게시물에서 오늘 22:00에 예정된 방송을 10/23 22:00으로 연기한다는 내용이 명시되어 있어 해당 방송 일정이 변경됨을 알렸다. · 대상 1건",
+      "member": "arale",
+      "t": "19:29",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-18T10:29:45Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "20:40",
+      "tid": "2111782529238028575",
+      "tone": "ok",
+      "ts": "2026-10-18T11:40:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "20:40",
+      "tid": "2111781166126870955",
+      "tone": "ok",
+      "ts": "2026-10-18T11:40:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "20:40",
+      "tid": "2111782329408712746",
+      "tone": "ok",
+      "ts": "2026-10-18T11:40:53Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "20:59",
+      "tid": "2111786998281515200",
+      "tone": "ok",
+      "ts": "2026-10-18T11:59:09Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "22:20",
+      "tid": "2111808448145097142",
+      "tone": "ok",
+      "ts": "2026-10-18T13:20:49Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 10/18 22:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.",
+      "member": "yuno",
+      "t": "22:20",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-18T13:20:49Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "23:22",
+      "tid": "2111823981011742770",
+      "tone": "ok",
+      "ts": "2026-10-18T14:22:04Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 10/19(월) 아침 7시부터 7시30분까지의 방송을 예고하고 있으며, 취소나 일정 변경을 언급하지 않았기 때문에 취소·변경이 아니다.",
+      "member": "miyako",
+      "t": "23:22",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-18T14:22:04Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "src": "x",
+      "t": "08:26",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "derived": true,
+      "src": "x",
+      "t": "08:26",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "10:03",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "12:04",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:04",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "12:04",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "12:05",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "12:05",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "12:05",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:05",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "12:05",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "12:30",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:30",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "13:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 3건",
+      "src": "x",
+      "t": "13:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BUSHIM_ongaku 의 글",
+      "src": "x",
+      "t": "13:58",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "14:01",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "14:05",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "14:13",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "14:44",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "15:02",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "15:03",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "15:05",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "15:07",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "15:09",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "15:23",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "15:34",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "16:00",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "src": "x",
+      "t": "16:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BUSHIM_ongaku 의 글",
+      "src": "x",
+      "t": "17:13",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "17:26",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "18:13",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "무시(반영 대상 아님)",
+      "src": "yt",
+      "t": "18:46",
+      "tone": "ok",
+      "who": "[장재훈] 지옥에서 누가 돌아왔게"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:00",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "19:30",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:40",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "20:41",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "20:41",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:41",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "20:41",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "20:59",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "22:21",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "22:39",
+      "tone": "ok",
+      "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "23:22",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "00:10",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 0,
+    "production": 0,
+    "total": 0
+  }
+}
