@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:25:00Z",
+  "generated_at": "2026-10-18T23:10:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3120,6 +3120,34 @@
       "title_ko": "【 #ヴァンガード 】유노짱이 쓰고 있는 덱을 소개！【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=o0YLKEhlr7Y",
       "video_id": "o0YLKEhlr7Y"
+    },
+    {
+      "actual_start": "2026-10-18T22:00:35Z",
+      "api_start_seen": "2026-10-18T22:00:21Z",
+      "archived_at": "2026-10-18T23:10:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 126,
+      "expires_at": "2026-10-19T01:00:21Z",
+      "first_seen": "2026-10-18T22:02:00Z",
+      "host": null,
+      "id": "pv_87f0d973",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-18T23:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-18T22:00:21Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-18T23:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/RPmJREMAKyc/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【朝活】冬用毛布を出しましょう🧶【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
+      "title_ko": "【아침 활동】겨울용 담요 꺼내요🧶【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
+      "url": "https://www.youtube.com/watch?v=RPmJREMAKyc",
+      "video_id": "RPmJREMAKyc"
     }
   ]
 }
