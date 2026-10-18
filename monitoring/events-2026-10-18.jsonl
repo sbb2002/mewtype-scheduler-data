@@ -95,3 +95,4 @@
 {"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_410de574", "result": "ok", "title": "【 #ヴァンガード 】ユノちゃんの使っているデッキをご紹介！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-18T13:20:02Z", "video_id": "o0YLKEhlr7Y", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T13:20:49Z", "tweet_id": "2111808448145097142", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 10/18 22:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-18T13:20:49Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T13:21:14Z", "who": "千石ユノ"}
