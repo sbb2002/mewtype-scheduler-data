@@ -2340,6 +2340,25 @@
       },
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6998fa52d5",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/18 22:30～ #ヴァンガード デッキ紹介\n\nあたしの使ってるデッキとか、サプライとかをご紹介～！\n参考になったら嬉しいな！\n\nhttps://www.youtube.com/live/o0YLKEhlr7Y?si=JbbFtgM3TrO-okI0",
+        "tag": "p#https://x.com/#1tweet-2111808448145097142"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/18 22:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-18T13:20:49Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
