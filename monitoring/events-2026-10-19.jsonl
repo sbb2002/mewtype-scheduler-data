@@ -8,3 +8,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_87f0d973", "result": "ok", "title": "【朝活】冬用毛布を出しましょう🧶【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "end", "ts": "2026-10-18T22:40:00Z", "video_id": "RPmJREMAKyc", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-18T22:42:50Z", "tweet_id": "2111951137893216443", "via": "ingest", "who": "miyako"}
 {"detail": "url-schedule skip: 이미 끝난 방송 RPmJREMAKyc", "flow": "tweet", "result": "ok", "ts": "2026-10-18T22:42:50Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T22:43:02Z", "who": "藤都子"}
