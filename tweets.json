@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:59:09Z",
+  "generated_at": "2026-10-18T13:20:49Z",
   "tweets": {
     "arale": [
       {
@@ -760,6 +760,21 @@
         "text": "#ばばんばばんばんばんドリーム",
         "text_ko": "#바반바반바반바드림",
         "url": "https://x.com/i/status/2111707474848051637"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-20T13:15:44Z",
+        "handle": "yuno_yumemita",
+        "id": "2111808448145097142",
+        "media": [
+          "https://pbs.twimg.com/media/HU6mlsAa8AAMXvr.jpg"
+        ],
+        "posted_at": "2026-10-18T13:15:44Z",
+        "quote": null,
+        "received_at": "2026-10-18T13:20:49Z",
+        "text": "〈配信のおしらせ〉\n10/18 22:30〜 #ヴァンガード デッキ紹介\n\nあたしの使ってるデッキとか、サプライとかをご紹介〜！\n参考になったら嬉しいな！\n\nhttps://www.youtube.com/live/o0YLKEhlr7Y?si=JbbFtgM3TrO-okI0",
+        "text_ko": "〈방송 안내〉\n10/18 22:30〜 #ヴァンガード 덱 소개\n\n내가 쓰는 덱이나 서플라이 등을 소개할게~!\n참고가 되면 좋겠어!\n\nhttps://www.youtube.com/live/o0YLKEhlr7Y?si=JbbFtgM3TrO-okI0",
+        "url": "https://x.com/i/status/2111808448145097142"
       }
     ]
   }
