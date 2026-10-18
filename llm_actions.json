@@ -2430,6 +2430,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e8f24effee",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "現在アクセス集中により、ゲームに繋がりにくい事象を確認しております。\n\n誠に恐れ入りますが、しばらくお時間を空けてからアクセスしていただきますようご協力をお願いいたします。\n\nご利用のお客さまにご迷惑をおかけしておりますこと、お詫び申し上げます。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111835861814001777"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "접속 장애 안내는 일반 공지에 해당하므로 배너에 아무 조치도 하지 않는다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-18T15:09:59Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
