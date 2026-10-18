@@ -55,3 +55,4 @@
 {"detail": "banner mode: none · MV 추가 공지이며 행사·가챠와 관련된 내용이 없으므로 none으로 판정한다.", "flow": "notice", "result": "ok", "ts": "2026-10-18T06:07:02Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T06:07:07Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: updated · 갱신 — Shake Your 영혼, Baby!!", "flow": "notice", "result": "ok", "ts": "2026-10-18T06:09:01Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-18T06:09:13Z", "who": "バンドリ！アワーノーツ"}
