@@ -2149,6 +2149,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4eaad789fe",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HU4-qfJbMAACd6G.jpg"
+        ],
+        "raw": "チャレンジライブイベント「Shake Your 魂, Baby!!」開催！\n\n本イベントは10月26日(月)14:59まで✨\n\n一家Dumb Rock!の新楽曲『アイライク・ユアライク』もチャレンジライブでプレイ可能です✌️ぜひチェックしてくださいね！\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2111700050883555549"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게시글 내용이 기존 배너와 동일한 기간과 정보를 제공하므로 변경 사항이 없음",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-18T06:05:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
