@@ -43,3 +43,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T06:12:47Z", "who": "千石ユノ"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T06:12:52Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T06:18:45Z", "tweet_id": "2112065346685534554", "via": "ingest", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물은 10/19 22:30에 진행될 새 방송을 알리는 내용이며, 목록에 있는 01/01 23:30 방송과 날짜·시간이 달라 취소·변경으로 판단할 근거가 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-19T06:18:45Z", "via": "ingest", "who": "yuno"}
