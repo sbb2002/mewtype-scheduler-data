@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:35:56Z",
+  "generated_at": "2026-10-19T13:41:26Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -300,6 +300,33 @@
       "title_slug": "アニメ・スタいしかわ2026",
       "tweet_url": "https://x.com/i/status/2105568407240544703",
       "url": "https://animest-ishikawa.com/event/"
+    },
+    {
+      "anchor_a": "yumemita_yunos_party_lv3",
+      "anchor_b": "yuno’spartylv.3",
+      "body_for_llm": "／ 千石ユノ主催DJイベント 「YUNO’s PARTY Lv.3」 開催決定！🎧 ＼ 日程:2026年 (土) 会場:duo MUSIC EXCHANGE 🔗詳細はこちら 出演者やチケットなどの詳細は後日公開いたします💡 お楽しみに💖 #バンドリ #ゆめみた",
+      "body_ko": "센고쿠 유노 주최 DJ 이벤트\n「YUNO’s PARTY Lv.3」\n　개최 확정!🎧\n\n일시:2026년 12월 5일(토)\n장소:duo MUSIC EXCHANGE\n\n🔗자세한 내용은 여기\nhttps://bang-dream.com/events/yumemita_yunos_party_lv3/\n\n출연자와 티켓 등 자세한 내용은 추후 공개합니다💡\n기대해 주세요💖\n\n#뱅드림 #유메미타",
+      "body_raw": "／\n千石ユノ主催DJイベント\n「YUNO’s PARTY Lv.3」\n　開催決定！🎧\n＼\n\n日程:2026年12月5日(土)\n会場:duo MUSIC EXCHANGE\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/yumemita_yunos_party_lv3/\n\n出演者やチケットなどの詳細は後日公開いたします💡\nお楽しみに💖\n\n#バンドリ #ゆめみた",
+      "category": "etc",
+      "date": "2026-12-05",
+      "deadline": false,
+      "expires_at": "2026-12-05T15:00:00Z",
+      "first_seen": "2026-10-19T13:41:26Z",
+      "id": "2112177293850550683",
+      "last_updated": "2026-10-19T13:41:26Z",
+      "participants": null,
+      "seen_ids": [
+        "2112177293850550683"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "YUNO’s PARTY Lv.3 開催決定！",
+      "title_ko": "YUNO’s PARTY Lv.3 개최 결정！",
+      "title_raw": "「YUNO’s PARTY Lv.3」",
+      "title_slug": "yunospartylv3",
+      "tweet_url": "https://x.com/i/status/2112177293850550683",
+      "url": "https://bang-dream.com/events/yumemita_yunos_party_lv3/"
     },
     {
       "anchor_a": null,
