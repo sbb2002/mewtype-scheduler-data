@@ -117,3 +117,6 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T13:41:41Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T14:05:00Z", "who": "JnJlOf2NEVs"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_468e54d3", "result": "ok", "title": "【#歌枠 】公式なのでBanG Dream!限定歌枠やるぞ！【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-10-19T14:05:00Z", "video_id": "JnJlOf2NEVs", "who": "ritsu"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T14:07:55Z", "who": "hkf-tlTW5Ms"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_bba3079f", "result": "ok", "title": "【 おしらせ 】おしらせです【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-19T14:07:55Z", "video_id": "hkf-tlTW5Ms", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · hkf-tlTW5Ms · 예고 end", "flow": "websub", "merge_key": "websub-notify:hkf-tlTW5Ms", "result": "ok", "title": "【 おしらせ 】おしらせです【 #千石ユノ / #バンドリ 】", "ts": "2026-10-19T14:07:55Z", "video_id": "hkf-tlTW5Ms", "who": "yuno"}
