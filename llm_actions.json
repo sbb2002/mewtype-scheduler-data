@@ -2668,7 +2668,11 @@
     {
       "by": "llm",
       "flow_id": null,
-      "followup": null,
+      "followup": {
+        "at": "2026-10-19T06:48:21Z",
+        "running": true,
+        "type": "rejudge"
+      },
       "id": "llm_f0618637fc",
       "input": {
         "channel_key": "yuno",
