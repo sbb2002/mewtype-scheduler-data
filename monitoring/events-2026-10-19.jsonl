@@ -57,3 +57,4 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_52770bdc", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-19T06:45:33Z", "video_id": null, "who": "yuno"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-19T06:47:35Z", "who": "/admin"}
 {"detail": "LLM 판단 반려 broadcast_change · 롤백 없음", "flow": "preview", "result": "ok", "ts": "2026-10-19T06:48:04Z", "via": "ops", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물은 10/19 22:30에 진행될 기존 방송을 알리는 내용이며 취소·변경을 나타내는 표현이 없기 때문", "flow": "tweet", "result": "ok", "ts": "2026-10-19T06:48:21Z", "via": "ops", "who": "yuno"}
