@@ -84,3 +84,4 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_b8ad83d5", "result": "ok", "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-19T12:06:04Z", "video_id": "GCVk1ZZTpJw", "who": "arale"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · GCVk1ZZTpJw · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:GCVk1ZZTpJw", "result": "ok", "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-19T12:06:04Z", "video_id": "GCVk1ZZTpJw", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T12:07:43Z", "tweet_id": "2112153627083276361", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물은 10/19 22:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-19T12:07:43Z", "via": "ingest", "who": "arale"}
