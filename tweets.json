@@ -670,6 +670,25 @@
       },
       {
         "channel_key": "yuno",
+        "expires_at": "2026-10-21T06:09:19Z",
+        "handle": "yuno_yumemita",
+        "id": "2112063525309030786",
+        "media": [],
+        "posted_at": "2026-10-19T06:09:19Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HU1gf0QbUAAm2jf.jpg"
+          ],
+          "text": "そうだね、 儚いね",
+          "text_ko": "그렇네, 허무하네"
+        },
+        "received_at": "2026-10-19T06:12:30Z",
+        "text": "2万…？",
+        "text_ko": "2만…?",
+        "url": "https://x.com/i/status/2112063525309030786"
+      },
+      {
+        "channel_key": "yuno",
         "expires_at": "2026-10-21T06:11:18Z",
         "handle": "yuno_yumemita",
         "id": "2112064025022628227",
