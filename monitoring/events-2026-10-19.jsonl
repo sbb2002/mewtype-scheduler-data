@@ -106,3 +106,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T13:31:29Z", "who": "hkf-tlTW5Ms"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_bba3079f", "result": "ok", "title": "【 おしらせ 】おしらせです【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-19T13:31:29Z", "video_id": "hkf-tlTW5Ms", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T13:33:56Z", "tweet_id": "2112175007921303564", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T13:34:19Z", "who": "千石ユノ"}
