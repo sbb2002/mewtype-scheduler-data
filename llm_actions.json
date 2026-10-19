@@ -2683,6 +2683,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_70246d8ab9",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜21:00~\n公式なのでBanG Dream！限定歌\n枠やるぞ！\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/JnJlOf2NEVs?si=V0x7B9x0py6sZqTx\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2112067284110131514"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:00에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-19T06:24:17Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
