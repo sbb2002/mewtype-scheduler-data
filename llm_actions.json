@@ -2775,6 +2775,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_913865b3b5",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/19(月) 22:00~┊#イ中田丁なう\n\n┊ 雑談 ┊最近のカバンの中身、知りたい？\n\n🔗 https://youtube.com/live/GCVk1ZZTpJw",
+        "tag": "p#https://x.com/#1tweet-2112153627083276361"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/19 22:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-19T12:07:43Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
