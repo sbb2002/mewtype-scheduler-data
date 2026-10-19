@@ -17,3 +17,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T04:41:08Z", "who": "宮永ののか"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T04:40:54Z", "tweet_id": "pbb531a72b371a55", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T04:41:15Z", "who": "峰月律"}
+{"action": "notify", "detail": "알림 수신 · JnJlOf2NEVs", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:44:15Z", "video_id": "JnJlOf2NEVs", "who": "ritsu"}
