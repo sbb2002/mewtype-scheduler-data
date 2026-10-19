@@ -30,14 +30,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (🎂生誕記念配信決定🎂)",
-    "at": "2026-10-19T13:35:56Z",
+    "action": "소식 added (「YUNO’s PARTY Lv.3」)",
+    "at": "2026-10-19T13:41:26Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "1077d5fe161d4f9c2f244d429ef2121a4471458e",
+    "new_sha": "a8944aaf6047fed4eda32c3077fd8b164a99d4c6",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-19T03:00:09Z",
+      "generated_at": "2026-10-19T13:35:56Z",
       "notices": [
         {
           "anchor_a": "20260913010000",
@@ -175,6 +175,33 @@
           "title_slug": "現在飲食店newvisionにて都内を中心に40",
           "tweet_url": "https://x.com/i/status/2105953493320347952",
           "url": null
+        },
+        {
+          "anchor_a": "@yuno_yumemita",
+          "anchor_b": null,
+          "body_for_llm": "＼🎂生誕記念配信決定🎂／ 📅 (水) 〜 千石ユノ生誕記念配信を バースデー当日に実施💖 📺千石ユノ 個人YouTubeチャンネルにて配信！ ぜひお祝いに来てくださいね🥳 #千石ユノ生誕祭2026 #バンドリ",
+          "body_ko": "＼🎂생일 기념 방송 결정🎂／\n\n📅11월 4일(수) 21:00〜\n\n센고쿠 유노 생일 기념 방송을\n생일 당일에 진행💖\n\n📺센고쿠 유노 개인 YouTube 채널에서 방송!\nhttps://youtube.com/@yuno_yumemita\n\n꼭 축하하러 와 주세요🥳\n\n#千石ユノ生誕祭2026\n#뱅드림",
+          "body_raw": "＼🎂生誕記念配信決定🎂／\n\n📅11月4日(水) 21:00〜\n\n千石ユノ生誕記念配信を\nバースデー当日に実施💖\n\n📺千石ユノ 個人YouTubeチャンネルにて配信！\nhttps://youtube.com/@yuno_yumemita\n\nぜひお祝いに来てくださいね🥳\n\n#千石ユノ生誕祭2026\n#バンドリ",
+          "category": "live",
+          "date": "2026-11-04",
+          "deadline": false,
+          "expires_at": "2026-11-04T15:00:00Z",
+          "first_seen": "2026-10-19T13:35:56Z",
+          "id": "2112175910661378122",
+          "last_updated": "2026-10-19T13:35:56Z",
+          "participants": null,
+          "seen_ids": [
+            "2112175910661378122"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": "21:00",
+          "title": "千石ユノ生誕記念配信決定！",
+          "title_ko": "센고쿠 유노 생일 기념 방송 결정!",
+          "title_raw": "🎂生誕記念配信決定🎂",
+          "title_slug": "生誕記念配信決定",
+          "tweet_url": "https://x.com/i/status/2112175910661378122",
+          "url": "https://youtube.com/@yuno_yumemita"
         },
         {
           "anchor_a": null,
