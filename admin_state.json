@@ -30,274 +30,706 @@
     }
   ],
   "undo": {
-    "action": "/del arale#1",
-    "at": "2026-10-03T12:06:13Z",
+    "action": "admin 트윗 수정 miyako",
+    "at": "2026-10-19T12:12:55Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "0a0d98dee90858f8a3a1b177bdab7e2a8b6437c0",
-    "path": "preview.json",
+    "new_sha": "66ab792fa689624e10bf654015208faaa8cf19c5",
+    "path": "tweets.json",
     "prev_content": {
-      "channel_order": [
-        "arale",
-        "yuno",
-        "nonoka",
-        "ritsu",
-        "miyako"
-      ],
-      "channels": {
-        "arale": {
-          "avatar": "https://yt3.ggpht.com/I0mwftAJiprbJyaBo_1UwcLlO1iWJvinlMdEQ3RlLQutvqZ0PRFH4Oyw1p1zHxRTp5QyAvLNkg8=s800-c-k-c0x00ffffff-no-rj",
-          "channel_id": "UCWfF0DB6m_t2CE3KcOOOX7g",
-          "channel_url": "https://www.youtube.com/@arale_yumemita",
-          "handle": "arale_yumemita",
-          "name": "仲町あられ -Nakamachi Arale-",
-          "name_ko": "나카마치 아라레",
-          "x_names": [
-            "仲町あられ"
-          ]
-        },
-        "miyako": {
-          "avatar": "https://yt3.ggpht.com/qsuSTaNiWOw_ddYcMRiHbSawpbhfVpKrwGnffmXBpEikilgiBfxOlZmlBlUu5de0r9McYYLo=s800-c-k-c0x00ffffff-no-rj",
-          "channel_id": "UCZXxRYaP7mfuglPnptnBBCA",
-          "channel_url": "https://www.youtube.com/@miyako_yumemita",
-          "handle": "miyako_yumemita",
-          "name": "藤都子 -Fuji Miyako-",
-          "name_ko": "후지 미야코",
-          "x_names": [
-            "藤都子"
-          ]
-        },
-        "nonoka": {
-          "avatar": "https://yt3.ggpht.com/nZ3SFdbhOcw4_GrJ3kUvQ98Oss8usOumquIRHOMrhdFWWAxiPkgRYXQA4TTnH8y6uUy6wLE0=s800-c-k-c0x00ffffff-no-rj",
-          "channel_id": "UCGeCnpimiSN5rgiKbJzHd3A",
-          "channel_url": "https://www.youtube.com/@nonoka_yumemita",
-          "handle": "nonoka_yumemita",
-          "name": "宮永ののか -Miyanaga Nonoka-",
-          "name_ko": "미야나가 노노카",
-          "x_names": [
-            "宮永ののか"
-          ]
-        },
-        "ritsu": {
-          "avatar": "https://yt3.ggpht.com/UD-po-IezRUMR-_k_Rgl9APp-W-CZfNEv1b3BJyztb4W_D6EJfeflpfEd9l3FekTbrEgg2Pi=s800-c-k-c0x00ffffff-no-rj",
-          "channel_id": "UCxc0MrPoACKTFlV24GqX2sg",
-          "channel_url": "https://www.youtube.com/@ritsu_yumemita",
-          "handle": "ritsu_yumemita",
-          "name": "峰月律 -Minetsuki Ritsu-",
-          "name_ko": "미네츠키 리츠",
-          "x_names": [
-            "峰月律"
-          ]
-        },
-        "yuno": {
-          "avatar": "https://yt3.ggpht.com/r9DwFMzCr4Df7o52ZpNgVvPlAdUD4wwsCbkhhyJTlGUCodEKQMH7axWtJf42bxo-5-M6HOwX0w=s800-c-k-c0x00ffffff-no-rj",
-          "channel_id": "UC99kOG6_9RD0mR3OG4EOfxw",
-          "channel_url": "https://www.youtube.com/@yuno_yumemita",
-          "handle": "yuno_yumemita",
-          "name": "千石ユノ -Sengoku Yuno-",
-          "name_ko": "센고쿠 유노",
-          "x_names": [
-            "千石ユノ"
-          ]
-        }
-      },
-      "generated_at": "2026-10-03T11:40:02Z",
-      "items": [
-        {
-          "actual_start": null,
-          "api_start_seen": "2026-10-03T06:00:00Z",
-          "assumed_live": false,
-          "channel_key": "miyako",
-          "collab_with": [
-            "arale"
-          ],
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-03T09:00:00Z",
-          "first_seen": "2026-10-03T11:34:56Z",
-          "host": null,
-          "id": "pv_832b0f12",
-          "info_at": "2026-10-03T11:34:56Z",
-          "info_source": "personal",
-          "kind": "collab",
-          "last_updated": "2026-10-03T11:34:56Z",
-          "membership": false,
-          "scheduled_start": "2026-10-03T06:00:00Z",
-          "source": "personal",
-          "state": "upcoming",
-          "state_since": "2026-10-03T11:34:56Z",
-          "thumbnail": "https://i.ytimg.com/vi/7sBzjBKAxFQ/maxresdefault.jpg",
-          "time_tbd": false,
-          "title": "【零 ～濡鴉ノ巫女～】＃８ 気が付くと目の前に、巨大な美女幽霊がいた。【ゆめみた/藤都子】",
-          "title_ko": "【零 ～濡鴉ノ巫女～】＃８ 눈을 떠보니 눈앞에 거대한 미녀 유령이 있었다. 【ゆめみた/藤都子】",
-          "url": "https://www.youtube.com/watch?v=7sBzjBKAxFQ",
-          "video_id": "7sBzjBKAxFQ"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": "2026-10-05T12:30:00Z",
-          "assumed_live": false,
-          "channel_key": "ritsu",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-05T15:30:00Z",
-          "first_seen": "2026-09-30T16:20:02Z",
-          "host": null,
-          "id": "pv_b9be6327",
-          "info_at": null,
-          "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
-          "membership": false,
-          "scheduled_start": "2026-10-05T12:30:00Z",
-          "source": "api",
-          "state": "upcoming",
-          "state_since": "2026-09-30T16:20:02Z",
-          "thumbnail": "https://i.ytimg.com/vi/jURR8qAZIM0/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "【８番出口】　関西弁縛り8番出口をやる【峰月律/ゆめみた】",
-          "title_ko": "【8번 출구】 간사이 사투리 제한 8번 출구를 진행【峰月律/ゆめ미타】",
-          "url": "https://www.youtube.com/watch?v=jURR8qAZIM0",
-          "video_id": "jURR8qAZIM0"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": "2026-12-24T14:59:00Z",
-          "assumed_live": false,
-          "channel_key": "arale",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2026-12-24T17:59:00Z",
-          "first_seen": "2026-09-09T15:38:42Z",
-          "host": null,
-          "id": "pv_30fc42dc",
-          "info_at": null,
-          "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
-          "membership": false,
-          "needs_tl": false,
-          "scheduled_start": "2026-12-24T14:59:00Z",
-          "source": "api",
-          "state": "upcoming",
-          "state_since": "2026-09-09T15:38:42Z",
-          "thumbnail": "https://i.ytimg.com/vi/h31Mi6AS7a0/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "🌟ライブ開催🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026年12月24日(木)　@大手町三井ホール",
-          "title_ko": "🌟라이브 개최🌟NAKAMACHI ARALE LIVE 2026「RESONEXT」 2026년 12월 24일(목)　@오오테마치 미쓰이 홀",
-          "url": "https://www.youtube.com/watch?v=h31Mi6AS7a0",
-          "video_id": "h31Mi6AS7a0"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": "2027-08-16T14:59:00Z",
-          "assumed_live": false,
-          "channel_key": "arale",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2027-08-16T17:59:00Z",
-          "first_seen": "2026-09-29T11:29:57Z",
-          "host": null,
-          "id": "pv_770d82c6",
-          "info_at": null,
-          "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
-          "membership": false,
-          "scheduled_start": "2027-08-16T14:59:00Z",
-          "source": "api",
-          "state": "upcoming",
-          "state_since": "2026-09-29T11:29:57Z",
-          "thumbnail": "https://i.ytimg.com/vi/3tQbs-OKrys/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "🌟誕生日グッズ2026🌟9/15〆完全受注生産 発売中！【 仲町あられ / 夢限大みゅーたいぷ 】",
-          "title_ko": "🌟생일 굿즈 2026🌟9/15 마감 완전 주문 생산 판매 중!【 仲町아라레 / 무겐다이 뮤타입 】",
-          "url": "https://www.youtube.com/watch?v=3tQbs-OKrys",
-          "video_id": "3tQbs-OKrys"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": "2028-01-01T14:30:00Z",
-          "assumed_live": false,
-          "channel_key": "yuno",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2028-01-01T17:30:00Z",
-          "first_seen": "2026-09-29T11:29:52Z",
-          "host": null,
-          "id": "pv_2602679a",
-          "info_at": null,
-          "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-10-03T10:35:00Z",
-          "membership": false,
-          "scheduled_start": "2028-01-01T14:30:00Z",
-          "source": "api",
-          "state": "upcoming",
-          "state_since": "2026-09-29T11:29:52Z",
-          "thumbnail": "https://i.ytimg.com/vi/ZZMwYj6PM9o/maxresdefault_live.jpg",
-          "time_tbd": false,
-          "title": "🖤YUNO's free chat🩷",
-          "title_ko": "🖤YUNO의 자유 채팅🩷",
-          "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
-          "video_id": "ZZMwYj6PM9o"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": null,
-          "assumed_live": false,
-          "channel_key": "ritsu",
-          "collab_with": [],
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-05T15:00:00Z",
-          "first_seen": "2026-10-02T09:44:06Z",
-          "host": null,
-          "id": "pv_dfa7955d",
-          "info_at": "2026-10-02T09:31:13Z",
-          "info_source": "personal",
-          "kind": "unknown",
-          "last_updated": "2026-10-02T09:44:06Z",
-          "membership": false,
-          "needs_tl": false,
-          "scheduled_start": "2026-10-05T00:00:00Z",
-          "source": "personal",
-          "state": "announced",
-          "state_since": "2026-10-02T09:44:06Z",
-          "thumbnail": null,
-          "time_tbd": true,
-          "title": null,
-          "title_ko": null,
-          "url": "https://www.youtube.com/@ritsu_yumemita",
-          "video_id": null
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": null,
-          "assumed_live": false,
-          "channel_key": "miyako",
-          "collab_with": [],
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-11T15:00:00Z",
-          "first_seen": "2026-09-29T14:14:24Z",
-          "host": null,
-          "id": "pv_45bf18ca",
-          "info_at": "2026-09-29T14:12:34Z",
-          "info_source": "personal",
-          "kind": "game",
-          "last_updated": "2026-09-29T14:14:24Z",
-          "membership": false,
-          "needs_tl": false,
-          "scheduled_start": "2026-10-11T00:00:00Z",
-          "source": "personal",
-          "state": "announced",
-          "state_since": "2026-09-29T14:14:24Z",
-          "thumbnail": null,
-          "time_tbd": true,
-          "title": null,
-          "title_ko": null,
-          "url": "https://www.youtube.com/@miyako_yumemita",
-          "video_id": null
-        }
-      ]
+      "generated_at": "2026-10-19T12:07:43Z",
+      "tweets": {
+        "arale": [
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-19T13:04:51Z",
+            "handle": "arale_yumemita",
+            "id": "2111443322342650056",
+            "media": [],
+            "posted_at": "2026-10-17T13:04:51Z",
+            "quote": null,
+            "received_at": "2026-10-17T13:05:19Z",
+            "text": "はじまたよ〜〜〜！！！\n#イ中田丁なう\n\n【🟡歌枠】どようび！ハツラツに歌いたい気分！💪🏻✨【 仲町あられ / 夢限大みゅーたいぷ 】 https://www.youtube.com/live/bJcQqbOOXfo?si=VcPiY0luTi0J_5EH @YouTubeより",
+            "text_ko": "시작했어~!!!\n#イ中田丁なう\n\n【🟡노래 방송】토요일! 활기차게 노래하고 싶은 기분!💪🏻✨【 나카마치 아라레 / 무겐다이 뮤타입 】 https://www.youtube.com/live/bJcQqbOOXfo?si=VcPiY0luTi0J_5EH @YouTube보다",
+            "url": "https://x.com/i/status/2111443322342650056"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-19T14:58:45Z",
+            "handle": "arale_yumemita",
+            "id": "2111471984676941919",
+            "media": [
+              "https://pbs.twimg.com/media/HU10kvcbwAArp4p.jpg"
+            ],
+            "posted_at": "2026-10-17T14:58:45Z",
+            "quote": null,
+            "received_at": "2026-10-17T15:23:29Z",
+            "text": "儚……い……？",
+            "text_ko": "덧없...?",
+            "url": "https://x.com/i/status/2111471984676941919"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-20T00:51:40Z",
+            "handle": "arale_yumemita",
+            "id": "2111621197956108357",
+            "media": [],
+            "posted_at": "2026-10-18T00:51:40Z",
+            "quote": null,
+            "received_at": "2026-10-18T01:03:17Z",
+            "text": "おはようございます☀️ﾊｻﾞｽｯ\n\nちょっと昨夜の頭痛残り…💭ﾓﾔﾔ\n天気も良いし風も気持ち良いし、良くなるといいな〜☘ ̖́-",
+            "text_ko": "좋은 아침이에요☀️ㅎㅏㅈㅅ  \n어제 밤 두통이 조금 남아있어…💭모야모야  \n날씨도 좋고 바람도 상쾌하고, 나아지면 좋겠어~☘ ̖́-",
+            "url": "https://x.com/i/status/2111621197956108357"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-20T05:06:19Z",
+            "handle": "arale_yumemita",
+            "id": "2111685285499273344",
+            "media": [],
+            "posted_at": "2026-10-18T05:06:19Z",
+            "quote": {
+              "media": [],
+              "text": "昨日、あられちゃんが近づいてきて、\n｢りっちゃんのレイヤーカットかわいい！服もかわいい！｣って言ってくれて嬉しかったな",
+              "text_ko": "어제, 아라레짱이 다가와서, “리츠짱 레이어컷 귀여워! 옷도 귀여워!” 라고 말해줘서 기뻤다."
+            },
+            "received_at": "2026-10-18T05:13:40Z",
+            "text": "どタイプの女子(おなご)がそこにいたから\n気持ちを伝えました",
+            "text_ko": "그런 타입의 여자가 거기에 있었으니까 마음을 전했어요",
+            "url": "https://x.com/i/status/2111685285499273344"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-20T06:59:50Z",
+            "handle": "arale_yumemita",
+            "id": "2111713850659872825",
+            "media": [],
+            "posted_at": "2026-10-18T06:59:50Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HUuqxVOaIAAK7Lu.jpg"
+              ],
+              "text": "＼本日開催📢／\n\n🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nタワーレコード 川崎店様にて本日開催🎉\n\n▼詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお渡し会へのご参加はまだ間に合いますので、\nお見逃しなく✨\n\n#バンドリ #ゆめみた",
+              "text_ko": "＼오늘 개최📢／\n\n🛸무겐다이 뮤타입 5th Single\n「이건 우리 생존의 개요」\n릴리스 이벤트🛸\n\n타워레코드 가와사키점에서 오늘 개최🎉\n\n▼자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n전달회 참여는 아직도 가능하니,\n놓치지 마세요✨\n\n#뱅드림 #유메미타"
+            },
+            "received_at": "2026-10-18T06:59:57Z",
+            "text": "本日！！！\nリリイベ！このあとすぐ！✨️\n\nお渡し会は当日参加〇らしい^ ͈ᴗ̀ ̫ᴗ́ ͈^",
+            "text_ko": "오늘!!!\n릴리베! 이 뒤 바로!✨️\n전달회는 당일 참가 O인 듯 ^ ͈ᴗ̀ ̫ᴗ́ ͈^",
+            "url": "https://x.com/i/status/2111713850659872825"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-20T10:29:39Z",
+            "handle": "arale_yumemita",
+            "id": "2111766651616325655",
+            "media": [],
+            "posted_at": "2026-10-18T10:29:39Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HU4DnuibUAAMo4P.jpg",
+                "https://pbs.twimg.com/media/HU4DnuvaUAAoXtC.jpg",
+                "https://pbs.twimg.com/media/HU4DnufaAAILIYw.jpg"
+              ],
+              "text": "／\n🛸#ゆめみた\n10/18(日)の配信スケジュール🌟\n＼\n\n✨22:00～ 仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n✨22:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n☀明日朝7:00～藤都子\nhttps://www.youtube.com/@miyako_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+              "text_ko": "🛸#ゆめみた\n10/18(일) 방송 일정🌟\n✨22:00~ 나카마치 아라레\nhttps://www.youtube.com/@arale_yumemita\n✨22:30~ 센고쿠 유노\nhttps://www.youtube.com/@yuno_yumemita\n☀내일 아침 7:00~ 후지 미야코\nhttps://www.youtube.com/@miyako_yumemita\n※시간은 사전 예고 없이 변경될 수 있습니다.\n#뱅드림"
+            },
+            "received_at": "2026-10-18T10:29:45Z",
+            "text": "【配信延期します】\n本日22:00〜予定していた歌枠を延期させていただきます…🙏\n\n帰宅途中なのですが、色々対処してもまだ頭痛が酷く…。万全の状態で臨ませていただきたい為、延期させていただきます💦\n楽しみにしてくれていた皆さま…ごめんなさい…！！！！！\n\n10/23㈮ 22:00〜に変更予定です",
+            "text_ko": "【방송 연기합니다】\n오늘 22:00에 예정돼 있던 노래 방송을 연기합니다…🙏\n\n집에 가는 길인데, 여러 가지 처리해도 아직 두통이 심해서… 완벽한 상태로 진행하고 싶어 연기합니다💦\n기대해 주신 여러분… 죄송합니다…!!!!!\n\n10/23(월) 22:00으로 변경 예정입니다",
+            "url": "https://x.com/i/status/2111766651616325655"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-20T11:27:19Z",
+            "handle": "arale_yumemita",
+            "id": "2111781166126870955",
+            "media": [
+              "https://pbs.twimg.com/media/HU6Nw9-aAAA3-TB.jpg",
+              "https://pbs.twimg.com/media/HU6Nw96awAAQTLz.jpg"
+            ],
+            "posted_at": "2026-10-18T11:27:19Z",
+            "quote": null,
+            "received_at": "2026-10-18T11:40:48Z",
+            "text": "#ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🎉\nin タワーレコード川崎店 様\n\nありがとうございました✨️\n\nボンバーや演技…上手くいきましたかね？\n\n今日は、幼き黄色コーデ📛💛\nデカエリとトレーナーの併せが、セーラーにも見える…ね💭",
+            "text_ko": "#유메미타 5th Single\n\"이건 우리들의 생존 개요야\"\n릴리스 이벤트🎉\nin 타워레코드 가와사키점\n\n감사했습니다✨️\n\n폭탄과 연기… 잘 되었나요?\n\n오늘은, 어린 노란 코디📛💛\n큰 귀와 트레이너를 같이 입으면 세일러복처럼 보이네요…💭",
+            "url": "https://x.com/i/status/2111781166126870955"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-21T01:08:40Z",
+            "handle": "arale_yumemita",
+            "id": "2111987863181255139",
+            "media": [],
+            "posted_at": "2026-10-19T01:08:40Z",
+            "quote": null,
+            "received_at": "2026-10-19T01:09:16Z",
+            "text": "おはようございます☀️ﾊｻﾞｽｯ\n\nだいぶ治っている…！！！🥹✨\n夜もこの調子でいたい…！！いてくれ…！",
+            "text_ko": "좋은 아침이에요☀️ㅎㅏㅈㅅ\n꽤 나아졌어…!!!🥹✨\n밤에도 이렇게 지내고 싶어…!! 있어줘…!",
+            "url": "https://x.com/i/status/2111987863181255139"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-21T08:27:59Z",
+            "handle": "arale_yumemita",
+            "id": "2112098423889711419",
+            "media": [],
+            "posted_at": "2026-10-19T08:27:59Z",
+            "quote": null,
+            "received_at": "2026-10-19T08:30:51Z",
+            "text": "経過いい感じ🌀✨️\n…でも！だからこそ、昨日がよりにもよってピークだったのかと悔やんでしまう…ｳｳｯ",
+            "text_ko": "진행 상황 괜찮아🌀✨️  \n…하지만! 그래서일수록 어제가 바로 그 정점이었나 싶어 후회가…ㅜㅜ",
+            "url": "https://x.com/i/status/2112098423889711419"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-21T11:53:27Z",
+            "handle": "arale_yumemita",
+            "id": "2112150128589213889",
+            "media": [],
+            "posted_at": "2026-10-19T11:53:27Z",
+            "quote": null,
+            "received_at": "2026-10-19T11:54:49Z",
+            "text": "歌いたい気持ち、すごくある……。\nしかし！安静にもしたい…💭\nまったりお話してもええかい？",
+            "text_ko": "노래하고 싶은 마음, 정말 있어……. 하지만! 쉬고 싶기도…💭 편하게 얘기해도 될까?",
+            "url": "https://x.com/i/status/2112150128589213889"
+          },
+          {
+            "channel_key": "arale",
+            "expires_at": "2026-10-21T12:07:21Z",
+            "handle": "arale_yumemita",
+            "id": "2112153627083276361",
+            "media": [
+              "https://pbs.twimg.com/media/HU_gh0GbEAApOwR.jpg"
+            ],
+            "posted_at": "2026-10-19T12:07:21Z",
+            "quote": null,
+            "received_at": "2026-10-19T12:07:43Z",
+            "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/19(月) 22:00〜┊#イ中田丁なう\n\n┊ 雑談 ┊最近のカバンの中身、知りたい？\n\n🔗 https://youtube.com/live/GCVk1ZZTpJw",
+            "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 10/19(月) 22:00〜┊#イ中田丁なう\n\n┊ 잡담 ┊요즘 가방 안에 뭐가 들어있는지 알고 싶어?\n\n🔗 https://youtube.com/live/GCVk1ZZTpJw",
+            "url": "https://x.com/i/status/2112153627083276361"
+          }
+        ],
+        "miyako": [
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-19T13:20:06Z",
+            "handle": "miyako_yumemita",
+            "id": "2111447162529985019",
+            "media": [],
+            "posted_at": "2026-10-17T13:20:06Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HUk0J11aAAA7CO_.jpg"
+              ],
+              "text": "【受注終了まであと1⃣日！】\n\n＼💜藤都子バースデーグッズ2026💜／\n\n#夢限大みゅーたいぷ🛸\n藤都子バースデーグッズ2026\n受注受付中です🎵\n\n▼ご購入はこちら\nhttps://bushiroad-store.com/collections/miyako-birthday2026　\n\n#藤都子生誕祭2026\n#藤都子誕生祭2026\n#バンドリ #ゆめみた",
+              "text_ko": "【주문 마감까지 1일 남았습니다!】\n\n＼💜후지 미야코 생일 굿즈 2026💜／\n\n#무겐다이 뮤타입🛸\n후지 미야코 생일 굿즈 2026\n주문 접수 중입니다🎵\n\n▼구매는 여기서\nhttps://bushiroad-store.com/collections/miyako-birthday2026　\n\n#후지미야코생탄제2026\n#후지미야코탄생제2026\n#뱅드림 #유메미타"
+            },
+            "received_at": "2026-10-17T13:27:44Z",
+            "text": "ﾊｯ！！\nみやこ生誕グッズ受注〆切は⚠️あしたﾏﾃﾞ⚠️\n\nわたくし自身が描き下ろしたイラストのグッズでごぜえます♪\nこの機会を逃すともう買えない魔法少女みやこ🎀\nよろしゅうね✨🐶✨",
+            "text_ko": "핫!! 미야코 생일 굿즈 주문 마감은 ⚠️내일까지⚠️\n\n제가 직접 그린 일러스트 굿즈입니다♪\n이 기회를 놓치면 다시는 살 수 없는 마법소녀 미야코🎀\n잘 부탁해요✨🐶✨",
+            "url": "https://x.com/i/status/2111447162529985019"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-20T02:31:17Z",
+            "handle": "miyako_yumemita",
+            "id": "2111646268539949081",
+            "media": [],
+            "posted_at": "2026-10-18T02:31:17Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HUuqxVOaIAAK7Lu.jpg"
+              ],
+              "text": "＼本日開催📢／\n\n🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nタワーレコード 川崎店様にて本日開催🎉\n\n▼詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお渡し会へのご参加はまだ間に合いますので、\nお見逃しなく✨\n\n#バンドリ #ゆめみた",
+              "text_ko": "＼오늘 개최📢／\n\n🛸무겐다이 뮤타입 5th Single\n「이건 우리 생존의 개요」\n릴리스 이벤트🛸\n\n타워레코드 가와사키점에서 오늘 개최🎉\n\n▼자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n전달회 참여는 아직도 가능하니,\n놓치지 마세요✨\n\n#뱅드림 #유메미타"
+            },
+            "received_at": "2026-10-18T03:04:48Z",
+            "text": "こんにち🐶わん🍁\n本日はかわさ〜きにてリリイベでごわす♪\n\nお渡し会は当日受付ごぜえますのでお近くにお住まいのみなさまもあつまえ❣️🦆💨",
+            "text_ko": "안녕🐶와인🍁 오늘은 카와사키에서 릴리즈 이벤트야♪ 전달회는 당일 접수하니 근처에 사는 분들도 모여요❣️🦆💨",
+            "url": "https://x.com/i/status/2111646268539949081"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-20T05:00:52Z",
+            "handle": "miyako_yumemita",
+            "id": "2111683912934236433",
+            "media": [],
+            "posted_at": "2026-10-18T05:00:52Z",
+            "quote": {
+              "media": [],
+              "text": "こんにち🐶わん🍁\n本日はかわさ〜きにてリリイベでごわす♪\n\nお渡し会は当日受付ごぜえますのでお近くにお住まいのみなさまもあつまえ❣️🦆💨",
+              "text_ko": "안녕🐶와인🍁 오늘은 카와사키에서 릴리즈 이벤트야♪ 전달회는 당일 접수하니 근처에 사는 분들도 모여요❣️🦆💨"
+            },
+            "received_at": "2026-10-18T05:00:55Z",
+            "text": "おひるにくりーむスープパスタを食べたらスープが飛翔して服についた！！！！！！！！！\n\nリリイベみやこwithくりーむスープでお送りします🍼",
+            "text_ko": "점심에 크림 스프 파스타를 먹었는데 스프가 날아올라 옷에 묻었어!!!!!!!!!\n\n리리이벤트 미야코 with 크림 스프로 진행합니다🍼",
+            "url": "https://x.com/i/status/2111683912934236433"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-20T09:59:47Z",
+            "handle": "miyako_yumemita",
+            "id": "2111759134974734474",
+            "media": [],
+            "posted_at": "2026-10-18T09:59:47Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HUurGgLb0AA8dMl.jpg"
+              ],
+              "text": "＼チケット一般発売開始📢／\n\n11/21(土)開催\n💪集え！#ゆめみた筋トレ部 \n　～輝け！上腕二頭筋～💪\n\n🎫ご購入はこちら\nhttps://eplus.jp/yumemita_kinntorebu2026/\n※先着順・上限数に達し次第終了\n\nみなさんもご一緒に…LET'S トレーニング！\n\n#バンドリ",
+              "text_ko": "\\티켓 일반 판매 시작📢/\n\n11/21(토) 개최\n💪모여라! #유메미타근트레이닝부 \n　～빛나라! 상완 이두근～💪\n\n🎫구매는 여기\nhttps://eplus.jp/yumemita_kinntorebu2026/\n※선착순·한도에 도달하면 종료\n\n여러분도 함께…LET'S 트레이닝!\n\n#뱅드림"
+            },
+            "received_at": "2026-10-18T09:59:49Z",
+            "text": "筋トレ部イベントの\n一般発売が始まりましたぞ♪\n\n❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥\n\n君も部員にならないか❔\n\n❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥",
+            "text_ko": "근력 트레이닝부 이벤트 일반 판매가 시작되었습니다♪\n\n❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥\n\n너도 부원이 안 될래❔\n\n❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥",
+            "url": "https://x.com/i/status/2111759134974734474"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-20T11:31:57Z",
+            "handle": "miyako_yumemita",
+            "id": "2111782329408712746",
+            "media": [
+              "https://pbs.twimg.com/media/HU6O1bbbsAAFavH.jpg"
+            ],
+            "posted_at": "2026-10-18T11:31:57Z",
+            "quote": null,
+            "received_at": "2026-10-18T11:40:53Z",
+            "text": "ゆめみた5th singleリリイベ\n📍タワーレコード 川崎店さま\nありゃとうございました❣️🐶🎀\n\n夢が含まれる単語！はい！\n\n悪夢\n正夢\n夢うつつ\n夢幻戦隊むーたいぷ",
+            "text_ko": "유메미타5th single 릴리 이벤트\n📍타워레코드 가와사키점님\n감사했습니다❣️🐶🎀\n\n꿈이 들어간 단어! 네!\n\n악몽\n정몽\n꿈과 현실\n꿈환전대 무타입",
+            "url": "https://x.com/i/status/2111782329408712746"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-20T14:17:27Z",
+            "handle": "miyako_yumemita",
+            "id": "2111823981011742770",
+            "media": [
+              "https://pbs.twimg.com/media/HU60t5ua8AAR30H.jpg"
+            ],
+            "posted_at": "2026-10-18T14:17:27Z",
+            "quote": null,
+            "received_at": "2026-10-18T14:22:04Z",
+            "text": "💜配信よてい💜\n10/19（月）あさ7:00-7:30☀️朝活\n縦型配信につきURLは直前にぽしらせ🔔\n\nあしたの朝にお会いしましょう♪\nぽやしみなさい🐶💤\n#みるみやこ",
+            "text_ko": "💜방송 예정💜\n10/19(월) 아침 7:00-7:30☀️아침 활동\n세로형 방송이라 URL은 직전에 알려드릴게🔔\n\n내일 아침에 만나자♪\n잘 자요🐶💤\n#みるみやこ",
+            "url": "https://x.com/i/status/2111823981011742770"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-20T22:01:15Z",
+            "handle": "miyako_yumemita",
+            "id": "2111940700921282830",
+            "media": [],
+            "posted_at": "2026-10-18T22:01:15Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HU60t5ua8AAR30H.jpg"
+              ],
+              "text": "💜配信よてい💜\n10/19（月）あさ7:00-7:30☀️朝活\n縦型配信につきURLは直前にぽしらせ🔔\n\nあしたの朝にお会いしましょう♪\nぽやしみなさい🐶💤\n#みるみやこ",
+              "text_ko": "💜방송 예정💜\n10/19(월) 아침 7:00-7:30☀️아침 활동\n세로형 방송이라 URL은 직전에 알려드릴게🔔\n\n내일 아침에 만나자♪\n잘 자요🐶💤\n#みるみやこ"
+            },
+            "received_at": "2026-10-18T22:35:28Z",
+            "text": "ぽは〜よ☀はじまる❣\nhttps://www.youtube.com/watch?v=RPmJREMAKyc",
+            "text_ko": "포하~요☀시작❣",
+            "url": "https://x.com/i/status/2111940700921282830"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-20T22:42:44Z",
+            "handle": "miyako_yumemita",
+            "id": "2111951137893216443",
+            "media": [
+              "https://pbs.twimg.com/media/HU8niCxbMAAYwNa.jpg"
+            ],
+            "posted_at": "2026-10-18T22:42:44Z",
+            "quote": null,
+            "received_at": "2026-10-18T22:42:50Z",
+            "text": "朝活配信ありゃとうごぜえました☀\nくり〜むす〜ぷパスタの飛翔に気をつけろ❕\nスマホはあっぷで〜とするべし❕\n\n🔗https://www.youtube.com/watch?v=RPmJREMAKyc\n\nアプデでみやこのスマホ容量は果たして空くのか❔\nこうご期待♪\n＃みるみやこ",
+            "text_ko": "아침 활동 방송 했어요☀\n크림스프 파스타가 날아다니는 걸 조심해❕\n스마트폰은 업데이트 해야 해❕\nhttps://www.youtube.com/watch?v=RPmJREMAKyc\n업데이트로 미야코의 스마트폰 용량이 과연 비워질까❔\n많이 기대해 주세요♪\n#みるみやこ",
+            "url": "https://x.com/i/status/2111951137893216443"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-21T03:00:03Z",
+            "handle": "miyako_yumemita",
+            "id": "2112015895971426552",
+            "media": [
+              "https://pbs.twimg.com/media/HT0t25uasAAJSSr.jpg",
+              "https://pbs.twimg.com/media/HT0t25xawAA3clm.jpg"
+            ],
+            "posted_at": "2026-10-19T03:00:03Z",
+            "quote": null,
+            "received_at": "2026-10-19T03:00:09Z",
+            "text": "極楽湯 RAKU SPAコラボは\nあした10/20(火)まで♨🐶♨\n▷https://rakuspa.com/yumemita/\n\nコラボ風呂からごはん、グッズまで盛りだくさん♪\nぽかぽかぽふろにつかるべし♪\n#ばばんばばんばんばんドリーム",
+            "text_ko": "극락탕 RAKU SPA 콜라보는  \n내일 10/20(화)까지♨🐶♨  \n▷https://rakuspa.com/yumemita/\n\n콜라보 욕조부터 식사, 굿즈까지 가득♪  \n따뜻한 목욕을 즐겨보세요♪  \n#ばばんばばんばんばんドリーム",
+            "url": "https://x.com/i/status/2112015895971426552"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-21T10:00:03Z",
+            "handle": "miyako_yumemita",
+            "id": "2112121592075657554",
+            "media": [
+              "https://pbs.twimg.com/media/HU-8_l8aMAAmB5H.jpg"
+            ],
+            "posted_at": "2026-10-19T10:00:03Z",
+            "quote": null,
+            "received_at": "2026-10-19T10:00:07Z",
+            "text": "かわいいおんなのこ\n＃アワーノーツ",
+            "text_ko": "귀여운 소녀\n#아워노츠",
+            "url": "https://x.com/i/status/2112121592075657554"
+          },
+          {
+            "channel_key": "miyako",
+            "expires_at": "2026-10-21T10:04:32Z",
+            "handle": "miyako_yumemita",
+            "id": "2112122719752045022",
+            "media": [],
+            "posted_at": "2026-10-19T10:04:32Z",
+            "quote": null,
+            "received_at": "2026-10-19T10:04:33Z",
+            "text": "10月も後半になって街の装いもはろうぃんになってきましたな♪\n🎃🍭🐶ﾍﾟﾛｷｬﾝ",
+            "text_ko": "10월도 후반이 되고 거리의 분위기도 할로윈이 되네요♪  \n🎃🍭🐶ﾍﾟﾛｷｬﾝ",
+            "url": "https://x.com/i/status/2112122719752045022"
+          }
+        ],
+        "nonoka": [
+          {
+            "channel_key": "nonoka",
+            "expires_at": "2026-10-20T03:02:25Z",
+            "handle": "nonoka_yumemita",
+            "id": "2111654103592141032",
+            "media": [],
+            "posted_at": "2026-10-18T03:02:25Z",
+            "quote": null,
+            "received_at": "2026-10-18T03:04:58Z",
+            "text": "人間ていっぱい住んでてすごい😱",
+            "text_ko": "사람이 너무 많이 살고 있어서 대단해😱",
+            "url": "https://x.com/i/status/2111654103592141032"
+          },
+          {
+            "channel_key": "nonoka",
+            "expires_at": "2026-10-20T03:03:00Z",
+            "handle": "nonoka_yumemita",
+            "id": "2111654248274633014",
+            "media": [],
+            "posted_at": "2026-10-18T03:03:00Z",
+            "quote": null,
+            "received_at": "2026-10-18T03:05:02Z",
+            "text": "お家っていっぱいあってすごい",
+            "text_ko": "집이 많이 있어서 대단해",
+            "url": "https://x.com/i/status/2111654248274633014"
+          },
+          {
+            "channel_key": "nonoka",
+            "expires_at": "2026-10-20T11:50:30Z",
+            "handle": "nonoka_yumemita",
+            "id": "2111786998281515200",
+            "media": [
+              "https://pbs.twimg.com/media/HU6TFDbbUAE7kFw.jpg",
+              "https://pbs.twimg.com/media/HU6TFDvbQAAXekE.jpg"
+            ],
+            "posted_at": "2026-10-18T11:50:30Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HU6ODM2a0AAC9RE.jpg"
+              ],
+              "text": "🛸#ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nご参加・ご声援いただき、ありがとうございました✨\n\n次回は、10/24(土) タワーレコード 横浜ビブレ店様にて開催❕\n\n💿詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\n今後の開催もお楽しみに🛸\n\n#バンドリ",
+              "text_ko": "🛸#유메미타 5th Single\n「이건 우리들의 생존 스토리」\n릴리스 이벤트🛸\n\n참가와 응원해 주셔서 감사합니다✨\n\n다음은 10/24(토) 타워레코드 요코하마 비블레점에서 개최❕\n\n💿자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n앞으로의 개최도 기대해 주세요🛸\n\n#뱅드림"
+            },
+            "received_at": "2026-10-18T11:59:09Z",
+            "text": "リリースイベント、ありがとうございました‼️😍\n\nおねえさんのよそおい🤩でしたな🤩\n昨日ちょっと寒かったのでニットにしましたが、あつかったです💦\n\nお越しいただきありがとうございます！\nあたたか🥰❤️‍🔥",
+            "text_ko": "릴리스 이벤트, 감사합니다‼️😍  \n언니의 옷차림🤩였네요🤩  \n어제 좀 추워서 니트 입었는데, 더웠어요💦  \n와 주셔서 감사합니다!  \n따뜻해🥰❤️‍🔥",
+            "url": "https://x.com/i/status/2111786998281515200"
+          }
+        ],
+        "ritsu": [
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-19T13:45:49Z",
+            "handle": "ritsu_yumemita",
+            "id": "2111453630381568476",
+            "media": [
+              "https://pbs.twimg.com/media/HU1j4jGaIAAQrmU.jpg"
+            ],
+            "posted_at": "2026-10-17T13:45:49Z",
+            "quote": null,
+            "received_at": "2026-10-17T13:45:50Z",
+            "text": "「これはぼくたちの生存のあらすじ」\nリリースイベントありがとうございました！\n全身はこんな感じでした！！\nいつもと雰囲気を変えてみた☆。.:＊・゜",
+            "text_ko": "이건 우리들의 생존 이야기야\n릴리스 이벤트 감사합니다!\n전신은 이렇게 생겼어요!!\n평소와 분위기를 바꿔봤어☆。.:＊・゜",
+            "url": "https://x.com/i/status/2111453630381568476"
+          },
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-20T01:40:56Z",
+            "handle": "ritsu_yumemita",
+            "id": "2111633599284003200",
+            "media": [],
+            "posted_at": "2026-10-18T01:40:56Z",
+            "quote": null,
+            "received_at": "2026-10-18T03:04:44Z",
+            "text": "昨日、あられちゃんが近づいてきて、\n｢りっちゃんのレイヤーカットかわいい！服もかわいい！｣って言ってくれて嬉しかったな",
+            "text_ko": "어제, 아라레짱이 다가와서, “리츠짱 레이어컷 귀여워! 옷도 귀여워!” 라고 말해줘서 기뻤다.",
+            "url": "https://x.com/i/status/2111633599284003200"
+          },
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-20T03:29:56Z",
+            "handle": "ritsu_yumemita",
+            "id": "2111661027817623751",
+            "media": [],
+            "posted_at": "2026-10-18T03:29:56Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HUuqxVOaIAAK7Lu.jpg"
+              ],
+              "text": "＼本日開催📢／\n\n🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nタワーレコード 川崎店様にて本日開催🎉\n\n▼詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお渡し会へのご参加はまだ間に合いますので、\nお見逃しなく✨\n\n#バンドリ #ゆめみた",
+              "text_ko": "＼오늘 개최📢／\n\n🛸무겐다이 뮤타입 5th Single\n「이건 우리 생존의 개요」\n릴리스 이벤트🛸\n\n타워레코드 가와사키점에서 오늘 개최🎉\n\n▼자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n전달회 참여는 아직도 가능하니,\n놓치지 마세요✨\n\n#뱅드림 #유메미타"
+            },
+            "received_at": "2026-10-18T03:30:00Z",
+            "text": "今日は、\nタワーレコード川崎店さんにて\nリリイベとお渡し会です！\nお渡し会は当日も来れるよ〜！！！\n今日のコーデはガーリー。ガーリー峰月さんが参戦します。\nよろしくお願いします🍀",
+            "text_ko": "오늘은 타워레코드 가와사키점에서 릴리즈 이벤트와 전달회입니다! 전달회는 당일에도 올 수 있어요~~~! 오늘 코디는 걸리. 걸리 미네츠키 리츠 씨가 참여합니다. 잘 부탁드립니다🍀",
+            "url": "https://x.com/i/status/2111661027817623751"
+          },
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-20T08:25:58Z",
+            "handle": "ritsu_yumemita",
+            "id": "2111735526990790839",
+            "media": [
+              "https://pbs.twimg.com/media/HU5kMWRaYAA2D_l.jpg"
+            ],
+            "posted_at": "2026-10-18T08:25:58Z",
+            "quote": null,
+            "received_at": "2026-10-18T08:26:12Z",
+            "text": "やっぱりラーメンなんだよなあ\n\n#ばばんばばんばんばんドリーム",
+            "text_ko": "역시 라멘이구나\n\n#ばばんばばんばんばんドリーム",
+            "url": "https://x.com/i/status/2111735526990790839"
+          },
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-20T11:32:44Z",
+            "handle": "ritsu_yumemita",
+            "id": "2111782529238028575",
+            "media": [
+              "https://pbs.twimg.com/media/HU6PA1WbwAE-p5p.jpg",
+              "https://pbs.twimg.com/media/HU6PA1AbsAAep-9.jpg"
+            ],
+            "posted_at": "2026-10-18T11:32:44Z",
+            "quote": null,
+            "received_at": "2026-10-18T11:40:48Z",
+            "text": "本日も、これぼくリリイベ＆お渡し会\nありがとうございました！\n土日2日間ありました！\n会いに来てくれるの嬉しかったです！\n今日は、赤いガーリー律さんでした🐻",
+            "text_ko": "오늘도, 이것은 나 리리이벤트&전달회\n감사했습니다!\n주말 이틀 있었어요!\n와 주러 와줘서 기뻤어요!\n오늘은, 빨간 가리 리츠 씨였어요🐻",
+            "url": "https://x.com/i/status/2111782529238028575"
+          },
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-21T06:24:15Z",
+            "handle": "ritsu_yumemita",
+            "id": "2112067284110131514",
+            "media": [
+              "https://pbs.twimg.com/media/HU-R_8kbgAAc_3x.jpg"
+            ],
+            "posted_at": "2026-10-19T06:24:15Z",
+            "quote": null,
+            "received_at": "2026-10-19T06:24:17Z",
+            "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n今夜21:00〜\n公式なのでBanG Dream！限定歌\n枠やるぞ！\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/JnJlOf2NEVs?si=V0x7B9x0py6sZqTx\n\n🩵 ･･････････････････････ 🩵",
+            "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 21:00부터\n공식이라서 BanG Dream! 한정곡\n진행할게!\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/JnJlOf2NEVs?si=V0x7B9x0py6sZqTx\n\n🩵 ･･････････････････････ 🩵",
+            "url": "https://x.com/i/status/2112067284110131514"
+          },
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-21T06:36:10Z",
+            "handle": "ritsu_yumemita",
+            "id": "2112070283490394423",
+            "media": [
+              "https://pbs.twimg.com/media/HU-Uuc5acAAsv_X.jpg"
+            ],
+            "posted_at": "2026-10-19T06:36:10Z",
+            "quote": null,
+            "received_at": "2026-10-19T06:37:21Z",
+            "text": "ラーメンに唐揚げもプラスして温泉にも入って最高でこの顔に\n\n#ばばんばばんばんばんドリーム",
+            "text_ko": "라멘에 튀김도 넣고 온천도 들어서 최고라 이 표정 #ばばんばばんばんばんドリーム",
+            "url": "https://x.com/i/status/2112070283490394423"
+          },
+          {
+            "channel_key": "ritsu",
+            "expires_at": "2026-10-21T12:00:25Z",
+            "handle": "ritsu_yumemita",
+            "id": "2112151884891037753",
+            "media": [],
+            "posted_at": "2026-10-19T12:00:25Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HU-R_8kbgAAc_3x.jpg"
+              ],
+              "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜21:00~\n公式なのでBanG Dream！限定歌\n枠やるぞ！\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/JnJlOf2NEVs?si=V0x7B9x0py6sZqTx\n\n🩵 ･･････････････････････ 🩵",
+              "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵 \n\n오늘 밤 21:00~\n공식이라 BanG Dream! 한정곡\n방송 할게요!\n\n↻ URL\nhttps://www.youtube.com/live/JnJlOf2NEVs?si=V0x7B9x0py6sZqTx\n\n🩵 ･･････････････････････ 🩵"
+            },
+            "received_at": "2026-10-19T12:00:33Z",
+            "text": "はじめます🌸",
+            "text_ko": "시작합니다🌸",
+            "url": "https://x.com/i/status/2112151884891037753"
+          }
+        ],
+        "yuno": [
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-19T13:28:25Z",
+            "handle": "yuno_yumemita",
+            "id": "2111449255152132118",
+            "media": [
+              "https://pbs.twimg.com/media/HU1f6ARaEAAQJ8n.jpg"
+            ],
+            "posted_at": "2026-10-17T13:28:25Z",
+            "quote": null,
+            "received_at": "2026-10-17T13:32:05Z",
+            "text": "〈配信のおしらせ〉\n10/17 22:30〜 #アワーノーツ\n\n今日は！ビッグマウスを！いっぱいやります！\nみんな、ユノちゃんをたすけてー！！！\n\n https://www.youtube.com/live/wdxacW2m-6g?si=gXeDwywyER-sBOZ9",
+            "text_ko": "〈방송 안내〉\n10/17 22:30~ #아워노츠\n\n오늘! 빅마우스를! 많이 할 거예요!\n다들, 유노짱을 도와줘!!! \n\nhttps://www.youtube.com/live/wdxacW2m-6g?si=gXeDwywyER-sBOZ9",
+            "url": "https://x.com/i/status/2111449255152132118"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-19T13:31:00Z",
+            "handle": "yuno_yumemita",
+            "id": "2111449905168572882",
+            "media": [
+              "https://pbs.twimg.com/media/HU1gf0QbUAAm2jf.jpg"
+            ],
+            "posted_at": "2026-10-17T13:31:00Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HUwafpmbEAEtUtZ.jpg"
+              ],
+              "text": "儚い.....",
+              "text_ko": "덧없다....."
+            },
+            "received_at": "2026-10-17T13:32:05Z",
+            "text": "そうだね、 儚いね",
+            "text_ko": "그렇네, 허무하네",
+            "url": "https://x.com/i/status/2111449905168572882"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-19T15:07:03Z",
+            "handle": "yuno_yumemita",
+            "id": "2111474074837008431",
+            "media": [],
+            "posted_at": "2026-10-17T15:07:03Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HU01lXlagAAZDMN.jpg"
+              ],
+              "text": "🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nご参加・ご声援いただき、ありがとうございました✨\n\n明日はタワーレコード 川崎店様にて開催❕\n\n💿詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお楽しみに🛸\n\n#バンドリ #ゆめみた",
+              "text_ko": "🛸무겐다이 뮤타입 5번째 싱글\n「이건 우리들의 생존 이야기」\n발매 이벤트🛸\n\n참가와 응원에 감사드립니다✨\n\n내일 타워레코드 가와사키점에서 개최❕\n\n💿자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n많이 기대해주세요🛸\n\n#뱅드림 #유메미타"
+            },
+            "received_at": "2026-10-17T15:23:30Z",
+            "text": "リリイベありがとうございました！\nみんなと沢山お話できて楽しかったです！\n\nまた明日もリリイベあるので、是非会いに来てくださいね✌️✌️✌️✌️✌️✌️\n\nおやすみー🙌🙌🙌",
+            "text_ko": "릴리 이벤트 감사합니다!\n여러분과 많이 이야기해서 즐거웠어요!\n내일도 릴리 이벤트가 있으니 꼭 와 주세요✌️✌️✌️✌️✌️✌️\n잘 자요🙌🙌🙌",
+            "url": "https://x.com/i/status/2111474074837008431"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-20T05:44:30Z",
+            "handle": "yuno_yumemita",
+            "id": "2111694892825256375",
+            "media": [],
+            "posted_at": "2026-10-18T05:44:30Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HUuqxVOaIAAK7Lu.jpg"
+              ],
+              "text": "＼本日開催📢／\n\n🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nタワーレコード 川崎店様にて本日開催🎉\n\n▼詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお渡し会へのご参加はまだ間に合いますので、\nお見逃しなく✨\n\n#バンドリ #ゆめみた",
+              "text_ko": "＼오늘 개최📢／\n\n🛸무겐다이 뮤타입 5th Single\n「이건 우리 생존의 개요」\n릴리스 이벤트🛸\n\n타워레코드 가와사키점에서 오늘 개최🎉\n\n▼자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n전달회 참여는 아직도 가능하니,\n놓치지 마세요✨\n\n#뱅드림 #유메미타"
+            },
+            "received_at": "2026-10-18T05:44:36Z",
+            "text": "本日リリイベです！\nよろしくお願いします✌️✌️✌️\n\nユノちゃんのでぃめらぷネイルとエクステは今日で見納めです😌",
+            "text_ko": "오늘 릴리 이벤트입니다!\n잘 부탁드립니다✌️✌️✌️\n\n유노짱의 디메라프 네일과 익스텐션은 오늘로 마지막입니다😌",
+            "url": "https://x.com/i/status/2111694892825256375"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-20T06:34:30Z",
+            "handle": "yuno_yumemita",
+            "id": "2111707474848051637",
+            "media": [
+              "https://pbs.twimg.com/media/HU5KwD5agAA-qCq.jpg"
+            ],
+            "posted_at": "2026-10-18T06:34:30Z",
+            "quote": null,
+            "received_at": "2026-10-18T06:34:33Z",
+            "text": "#ばばんばばんばんばんドリーム",
+            "text_ko": "#바반바반바반바드림",
+            "url": "https://x.com/i/status/2111707474848051637"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-20T13:15:44Z",
+            "handle": "yuno_yumemita",
+            "id": "2111808448145097142",
+            "media": [
+              "https://pbs.twimg.com/media/HU6mlsAa8AAMXvr.jpg"
+            ],
+            "posted_at": "2026-10-18T13:15:44Z",
+            "quote": null,
+            "received_at": "2026-10-18T13:20:49Z",
+            "text": "〈配信のおしらせ〉\n10/18 22:30〜 #ヴァンガード デッキ紹介\n\nあたしの使ってるデッキとか、サプライとかをご紹介〜！\n参考になったら嬉しいな！\n\nhttps://www.youtube.com/live/o0YLKEhlr7Y?si=JbbFtgM3TrO-okI0",
+            "text_ko": "〈방송 안내〉\n10/18 22:30〜 #ヴァンガード 덱 소개\n\n내가 쓰는 덱이나 서플라이 등을 소개할게~!\n참고가 되면 좋겠어!\n\nhttps://www.youtube.com/live/o0YLKEhlr7Y?si=JbbFtgM3TrO-okI0",
+            "url": "https://x.com/i/status/2111808448145097142"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-21T06:09:19Z",
+            "handle": "yuno_yumemita",
+            "id": "2112063525309030786",
+            "media": [],
+            "posted_at": "2026-10-19T06:09:19Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HU1gf0QbUAAm2jf.jpg"
+              ],
+              "text": "そうだね、 儚いね",
+              "text_ko": "그렇네, 허무하네"
+            },
+            "received_at": "2026-10-19T06:12:30Z",
+            "text": "2万…？",
+            "text_ko": "2만…?",
+            "url": "https://x.com/i/status/2112063525309030786"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-21T06:11:18Z",
+            "handle": "yuno_yumemita",
+            "id": "2112064025022628227",
+            "media": [],
+            "posted_at": "2026-10-19T06:11:18Z",
+            "quote": {
+              "media": [
+                "https://pbs.twimg.com/media/HU6ODM2a0AAC9RE.jpg"
+              ],
+              "text": "🛸#ゆめみた 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nご参加・ご声援いただき、ありがとうございました✨\n\n次回は、10/24(土) タワーレコード 横浜ビブレ店様にて開催❕\n\n💿詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\n今後の開催もお楽しみに🛸\n\n#バンドリ",
+              "text_ko": "🛸#유메미타 5th Single\n「이건 우리들의 생존 스토리」\n릴리스 이벤트🛸\n\n참가와 응원해 주셔서 감사합니다✨\n\n다음은 10/24(토) 타워레코드 요코하마 비블레점에서 개최❕\n\n💿자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n앞으로의 개최도 기대해 주세요🛸\n\n#뱅드림"
+            },
+            "received_at": "2026-10-19T06:12:30Z",
+            "text": "リリイベありがとうございました！\n\nまた来週！\nみんなとお話できるの楽しみにしてます！\nいつもありがと✌️✌️✌️",
+            "text_ko": "릴리 이벤트 감사합니다!\n\n다음 주에 또!\n여러분과 이야기할 수 있길 기대하고 있어요!\n항상 고마워✌️✌️✌️",
+            "url": "https://x.com/i/status/2112064025022628227"
+          },
+          {
+            "channel_key": "yuno",
+            "expires_at": "2026-10-21T06:16:33Z",
+            "handle": "yuno_yumemita",
+            "id": "2112065346685534554",
+            "media": [],
+            "posted_at": "2026-10-19T06:16:33Z",
+            "quote": null,
+            "received_at": "2026-10-19T06:18:45Z",
+            "text": "〈配信のおしらせ〉\n10/19 22:30〜 #おしらせ (うれしいやつ)\n\nサムネとか用意してなくて顔ない\n\n30分くらいの予定です！\nよろしくお願いします！",
+            "text_ko": "〈방송 안내〉\n10/19 22:30〜 #おしらせ (기쁜 녀석)\n\n썸네일 같은 거 준비 안 했고 얼굴도 없어\n\n30분 정도 예정입니다!\n잘 부탁드립니다!",
+            "url": "https://x.com/i/status/2112065346685534554"
+          }
+        ]
+      }
     }
   }
 }
