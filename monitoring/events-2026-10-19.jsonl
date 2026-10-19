@@ -38,3 +38,4 @@
 {"action": "reject", "detail": "서명 헤더 없음 — 알림 무시", "flow": "websub", "result": "warn", "ts": "2026-10-19T05:21:12Z", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · JnJlOf2NEVs · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:JnJlOf2NEVs", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:21:42Z", "video_id": "JnJlOf2NEVs", "who": "ritsu"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-19T06:00:02Z", "who": "group"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T06:12:30Z", "tweet_id": "2112064025022628227", "via": "ingest", "who": "yuno"}
