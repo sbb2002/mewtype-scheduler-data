@@ -125,3 +125,6 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T14:33:48Z", "who": "峰月律"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T14:40:00Z", "who": "GCVk1ZZTpJw"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_bba3079f", "result": "ok", "title": "【 おしらせ 】おしらせです【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-10-19T14:40:00Z", "video_id": "hkf-tlTW5Ms", "who": "yuno"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T15:38:27Z", "who": "GCVk1ZZTpJw"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_b8ad83d5", "result": "ok", "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-19T15:38:27Z", "video_id": "GCVk1ZZTpJw", "who": "arale"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · GCVk1ZZTpJw · 예고 end", "flow": "websub", "merge_key": "websub-notify:GCVk1ZZTpJw", "result": "ok", "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-19T15:38:27Z", "video_id": "GCVk1ZZTpJw", "who": "arale"}
