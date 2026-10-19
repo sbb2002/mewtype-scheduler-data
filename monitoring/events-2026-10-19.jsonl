@@ -26,3 +26,4 @@
 {"detail": "broadcast-change none · 게시물은 오늘 밤 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-19T04:44:25Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T04:44:40Z", "who": "峰月律"}
 {"action": "notify", "detail": "알림 수신 · JnJlOf2NEVs", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:45:20Z", "video_id": "JnJlOf2NEVs", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · MyV9YKvFkrI · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:MyV9YKvFkrI", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:01:44Z", "video_id": "MyV9YKvFkrI", "who": "yuno"}
