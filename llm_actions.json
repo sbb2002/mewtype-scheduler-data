@@ -2731,6 +2731,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm_rejudge",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bc4571dd9a",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/19 22:30～ #おしらせ (うれしいやつ)\n\nサムネとか用意してなくて顔ない\n\n30分くらいの予定です！\nよろしくお願いします！",
+        "tag": "p#https://x.com/#1tweet-2112065346685534554"
+      },
+      "kind": "broadcast_change",
+      "parent_id": "llm_f0618637fc",
+      "reason": "게시물은 10/19 22:30에 진행될 기존 방송을 알리는 내용이며 취소·변경을 나타내는 표현이 없기 때문",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-19T06:48:21Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
