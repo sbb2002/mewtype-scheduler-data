@@ -4,21 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-19T09:07:41Z",
-        "handle": "arale_yumemita",
-        "id": "2111383635987447813",
-        "media": [
-          "https://pbs.twimg.com/amplify_video_thumb/2111383526033776640/img/Q_bJm9puDvMZVetl.jpg"
-        ],
-        "posted_at": "2026-10-17T09:07:41Z",
-        "quote": null,
-        "received_at": "2026-10-17T09:07:43Z",
-        "text": "#ばばんばばんばんばんドリーム\n\n1.2.3…Fire!!!🔥",
-        "text_ko": "#바반바반바반바반드림\n\n1.2.3…Fire!!!🔥",
-        "url": "https://x.com/i/status/2111383635987447813"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-19T10:58:34Z",
         "handle": "arale_yumemita",
         "id": "2111411540767461761",
@@ -190,21 +175,6 @@
       }
     ],
     "miyako": [
-      {
-        "channel_key": "miyako",
-        "expires_at": "2026-10-19T10:00:02Z",
-        "handle": "miyako_yumemita",
-        "id": "2111396813030990038",
-        "media": [
-          "https://pbs.twimg.com/media/HT0tTN2boAAPk3A.jpg"
-        ],
-        "posted_at": "2026-10-17T10:00:02Z",
-        "quote": null,
-        "received_at": "2026-10-17T10:00:11Z",
-        "text": "みやこが3匹\n🐶🐶🐶\n👘♨🤏\n#ばばんばばんばんばんドリーム",
-        "text_ko": "미야코가 3마리 🐶🐶🐶 👘♨🤏 #ばばんばばんばんばんドリーム",
-        "url": "https://x.com/i/status/2111396813030990038"
-      },
       {
         "channel_key": "miyako",
         "expires_at": "2026-10-19T10:18:28Z",
