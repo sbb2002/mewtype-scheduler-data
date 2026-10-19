@@ -20,3 +20,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T03:00:09Z", "tweet_id": "2112015895971426552", "via": "ingest", "who": "miyako"}
 {"detail": "banner mode: none · 기존 배너와 동일한 가챠이며 새로운 일정·정보가 없으므로 none 처리", "flow": "notice", "result": "ok", "ts": "2026-10-19T03:00:09Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T03:00:24Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T03:00:31Z", "who": "藤都子"}
