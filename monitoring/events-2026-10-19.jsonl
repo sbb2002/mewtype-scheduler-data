@@ -31,3 +31,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · s69JQ8Bielo · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:s69JQ8Bielo", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:01:52Z", "video_id": "s69JQ8Bielo", "who": "arale"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T05:01:56Z", "who": "峰月律"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · RPmJREMAKyc · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:RPmJREMAKyc", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:01:56Z", "video_id": "RPmJREMAKyc", "who": "miyako"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T05:01:52Z", "who": "宮永ののか"}
