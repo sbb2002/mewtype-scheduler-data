@@ -131,3 +131,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T15:50:00Z", "who": "GCVk1ZZTpJw"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T15:57:42Z", "tweet_id": "2112211573410529462", "via": "ingest", "who": "arale"}
 {"detail": "url-schedule skip: 이미 끝난 방송 GCVk1ZZTpJw", "flow": "tweet", "result": "ok", "ts": "2026-10-19T15:57:42Z", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물은 방송에 대한 감사와 인사, 피드백 요청 내용만 포함하고 있어 일정 취소나 변경을 알리는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-19T15:57:42Z", "via": "ingest", "who": "arale"}
