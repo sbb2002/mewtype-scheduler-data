@@ -72,3 +72,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T10:00:27Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T10:04:33Z", "tweet_id": "2112122719752045022", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T10:04:43Z", "who": "藤都子"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-19T11:33:36Z", "who": "【#歌枠 】公式なのでBanG Dream!限定歌枠やるぞ！【峰月律/ゆめみた】"}
