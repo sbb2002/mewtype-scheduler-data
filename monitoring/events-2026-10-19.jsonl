@@ -34,3 +34,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T05:01:52Z", "who": "宮永ののか"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · yglP1E_ZPtc · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:yglP1E_ZPtc", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:02:00Z", "video_id": "yglP1E_ZPtc", "who": "arale"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · MC3JSnTXTd8 · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:MC3JSnTXTd8", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:02:03Z", "video_id": "MC3JSnTXTd8", "who": "arale"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · 7hRUpcIIi88 · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:7hRUpcIIi88", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:02:06Z", "video_id": "7hRUpcIIi88", "who": "ritsu"}
