@@ -42,3 +42,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · 65Lq4jg4JmM · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:65Lq4jg4JmM", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:02:25Z", "video_id": "65Lq4jg4JmM", "who": "miyako"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · U7x_Y-PPd4c · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:U7x_Y-PPd4c", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:02:28Z", "video_id": "U7x_Y-PPd4c", "who": "yuno"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · JnJlOf2NEVs · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:JnJlOf2NEVs", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:05:09Z", "video_id": "JnJlOf2NEVs", "who": "ritsu"}
+{"detail": "broadcast-change none · 게시물은 오늘 밤 스트리밍을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-19T05:05:09Z", "via": "ingest", "who": "ritsu"}
