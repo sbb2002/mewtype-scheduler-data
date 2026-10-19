@@ -2449,6 +2449,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_195756a294",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HU0k291a0AAkDzR.jpg"
+        ],
+        "raw": "10月18日より開催中🎉\n「はじめてを奏でる光彩讃歌ガチャ」\n\n新登場したSSRメンバー、四宮 寧月を紹介✌️\n\nSSRメンバーには、リズムゲーム画面などで表示されるアニメーション演出がつきます💫\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2112015890313298094"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 가챠이며 새로운 일정·정보가 없으므로 none 처리",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-19T03:00:09Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
