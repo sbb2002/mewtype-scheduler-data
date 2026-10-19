@@ -10,3 +10,4 @@
 {"action": "notify", "detail": "알림 수신 · 7hRUpcIIi88", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:48Z", "video_id": "7hRUpcIIi88", "who": "ritsu"}
 {"action": "notify", "detail": "알림 수신 · MyV9YKvFkrI", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:38Z", "video_id": "MyV9YKvFkrI", "who": "yuno"}
 {"action": "notify", "detail": "알림 수신 · 65Lq4jg4JmM", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:50Z", "video_id": "65Lq4jg4JmM", "who": "miyako"}
+{"action": "notify", "detail": "알림 수신 · RPmJREMAKyc", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:50Z", "video_id": "RPmJREMAKyc", "who": "miyako"}
