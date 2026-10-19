@@ -123,3 +123,5 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T14:10:00Z", "who": "GCVk1ZZTpJw"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T14:33:33Z", "tweet_id": "2112190398789759156", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T14:33:48Z", "who": "峰月律"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T14:40:00Z", "who": "GCVk1ZZTpJw"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_bba3079f", "result": "ok", "title": "【 おしらせ 】おしらせです【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-10-19T14:40:00Z", "video_id": "hkf-tlTW5Ms", "who": "yuno"}
