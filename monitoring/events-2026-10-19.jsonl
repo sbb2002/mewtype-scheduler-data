@@ -7,3 +7,4 @@
 {"assumed_live": false, "detail": "announced→out", "flow": "preview", "from_state": "announced", "item_id": "pv_dfa7955d", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-19T04:40:36Z", "video_id": null, "who": "ritsu"}
 {"assumed_live": false, "detail": "announced→out", "flow": "preview", "from_state": "announced", "item_id": "pv_45bf18ca", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-19T04:40:36Z", "video_id": null, "who": "miyako"}
 {"action": "notify", "detail": "알림 수신 · YUB5qGbmzHs", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:45Z", "video_id": "YUB5qGbmzHs", "who": "arale"}
+{"action": "notify", "detail": "알림 수신 · 7hRUpcIIi88", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:48Z", "video_id": "7hRUpcIIi88", "who": "ritsu"}
