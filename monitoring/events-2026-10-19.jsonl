@@ -66,3 +66,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T09:00:21Z", "who": "バンドリ！アワーノーツ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_98a53cca", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-19T10:00:07Z", "video_id": null, "who": "arale"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_1820af60", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-19T10:00:07Z", "video_id": null, "who": "yuno"}
+{"detail": "mode: added · 파싱 3건", "flow": "relay", "result": "ok", "ts": "2026-10-19T10:00:07Z", "via": "ingest", "who": ""}
