@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-19T10:00:07Z",
+  "generated_at": "2026-10-19T11:33:34Z",
   "items": [
     {
       "actual_start": null,
@@ -95,19 +95,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "song",
-      "last_updated": "2026-10-19T10:00:07Z",
+      "last_updated": "2026-10-19T11:33:34Z",
       "membership": false,
       "scheduled_start": "2026-10-19T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2112067284110131514",
-      "state": "upcoming",
-      "state_since": "2026-10-19T01:40:02Z",
+      "state": "watching",
+      "state_since": "2026-10-19T11:33:34Z",
       "thumbnail": "https://i.ytimg.com/vi/JnJlOf2NEVs/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【#歌枠 】公式なのでBanG Dream!限定歌枠やるぞ！【峰月律/ゆめみた】",
       "title_ko": "【#노래 방송】공식이라서 BanG Dream! 한정 노래 방송 할게!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=JnJlOf2NEVs",
-      "video_id": "JnJlOf2NEVs"
+      "video_id": "JnJlOf2NEVs",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
