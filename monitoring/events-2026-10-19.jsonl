@@ -61,3 +61,4 @@
 {"detail": "LLM 판단 재판단 broadcast_change · 방송 취소 · 변경 아님", "flow": "preview", "result": "ok", "ts": "2026-10-19T06:48:21Z", "via": "ops", "who": "yuno"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-19T07:00:02Z", "who": "group"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T08:30:51Z", "tweet_id": "2112098423889711419", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T08:31:02Z", "who": "仲町あられ"}
