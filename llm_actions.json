@@ -2645,6 +2645,25 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_514f49977c",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/19 22:30～ #おしらせ (うれしいやつ)\n\nサムネとか用意してなくて顔ない\n\n30分くらいの予定です！\nよろしくお願いします！",
+        "tag": "p#https://x.com/#1tweet-2112065346685534554"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 〈配信のおしらせ〉\n10/19 22:30～ #おしらせ (うれしいやつ)\n\nサムネとか用意してなくて顔ない\n\n30分く",
+      "ts": "2026-10-19T06:18:45Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
