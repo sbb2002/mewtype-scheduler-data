@@ -28,3 +28,4 @@
 {"action": "notify", "detail": "알림 수신 · JnJlOf2NEVs", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:45:20Z", "video_id": "JnJlOf2NEVs", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · MyV9YKvFkrI · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:MyV9YKvFkrI", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:01:44Z", "video_id": "MyV9YKvFkrI", "who": "yuno"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T05:01:51Z", "who": "藤都子"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · s69JQ8Bielo · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:s69JQ8Bielo", "result": "ok", "title": "burst test", "ts": "2026-10-19T05:01:52Z", "video_id": "s69JQ8Bielo", "who": "arale"}
