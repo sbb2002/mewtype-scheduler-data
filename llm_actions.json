@@ -2794,6 +2794,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_382866a6ea",
+      "input": {
+        "channel_key": "arale",
+        "raw": "配信ありがとう🌸\n感想とか、みんなからのライフハックもぜひ教えてね✨\nなんか役立つところとかあったら嬉しいな💪おやすみ〜！\n#イ中田丁なう",
+        "tag": "p#https://x.com/#1tweet-2112211573410529462"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 방송에 대한 감사와 인사, 피드백 요청 내용만 포함하고 있어 일정 취소나 변경을 알리는 표현이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-19T15:57:42Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
