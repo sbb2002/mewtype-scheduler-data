@@ -37,6 +37,24 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_eee5612959",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "今夜の配信はこちら！\nhttps://www.youtube.com/watch?v=JnJlOf2NEVs"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 밤 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-19T04:44:25Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
