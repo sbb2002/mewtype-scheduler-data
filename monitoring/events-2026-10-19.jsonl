@@ -13,3 +13,4 @@
 {"action": "notify", "detail": "알림 수신 · RPmJREMAKyc", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:50Z", "video_id": "RPmJREMAKyc", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T04:40:50Z", "tweet_id": "p249b51e0bc21256", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T04:41:02Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T04:40:52Z", "tweet_id": "pee9b36284be7246", "via": "ingest", "who": "nonoka"}
