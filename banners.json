@@ -37,7 +37,7 @@
       "first_seen": "2026-10-17T12:40:01Z",
       "gachas": [
         {
-          "end_at": "2026-10-28T05:59:00Z",
+          "end_at": "2026-10-26T05:59:00Z",
           "id": "gc_e33a9595",
           "image_urls": [],
           "start_at": "2026-10-18T06:00:00Z",
@@ -50,7 +50,7 @@
       "image_urls": [
         "https://pbs.twimg.com/media/HUzvj1aaAAARaXs.jpg"
       ],
-      "last_updated": "2026-10-18T06:09:01Z",
+      "last_updated": "2026-10-19T03:05:52Z",
       "match_keys": [
         "shakeyour魂baby",
         "はじめてを奏でる光彩讃歌ガチャ"
@@ -59,11 +59,12 @@
       "name_ko": "Shake Your 영혼, Baby!!",
       "src_ids": [
         "2111381718116540885",
-        "2111701057239654556"
+        "2111701057239654556",
+        "2112016385584812434"
       ],
       "start_at": "2026-10-18T06:00:00Z",
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-18T15:09:59Z"
+  "generated_at": "2026-10-19T03:05:52Z"
 }
