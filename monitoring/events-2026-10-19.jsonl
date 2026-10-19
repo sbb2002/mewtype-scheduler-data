@@ -41,3 +41,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T06:12:30Z", "tweet_id": "2112064025022628227", "via": "ingest", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T06:12:30Z", "tweet_id": "2112063525309030786", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T06:12:47Z", "who": "千石ユノ"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T06:12:52Z", "who": "千石ユノ"}
