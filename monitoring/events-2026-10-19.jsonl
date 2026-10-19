@@ -1,2 +1,3 @@
 {"action": "notify", "detail": "알림 수신 · _SrusVgYNog", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:33Z", "video_id": "_SrusVgYNog", "who": "ritsu"}
 {"action": "notify", "detail": "알림 수신 · s69JQ8Bielo", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:36Z", "video_id": "s69JQ8Bielo", "who": "arale"}
+{"action": "notify", "detail": "알림 수신 · U7x_Y-PPd4c", "flow": "websub", "result": "ok", "title": "burst test", "ts": "2026-10-19T04:40:33Z", "video_id": "U7x_Y-PPd4c", "who": "yuno"}
