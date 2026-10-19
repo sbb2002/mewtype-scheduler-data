@@ -98,3 +98,6 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-19T13:03:20Z", "who": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T13:04:11Z", "tweet_id": "2112167917999821129", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T13:04:38Z", "who": "仲町あられ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T13:27:35Z", "who": "hkf-tlTW5Ms"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_bba3079f", "result": "ok", "title": "【 おしらせ 】おしらせです【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-19T13:27:35Z", "video_id": "hkf-tlTW5Ms", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · hkf-tlTW5Ms · 예고 watching", "flow": "websub", "merge_key": "websub-notify:hkf-tlTW5Ms", "result": "ok", "title": "【 おしらせ 】おしらせです【 #千石ユノ / #バンドリ 】", "ts": "2026-10-19T13:27:35Z", "video_id": "hkf-tlTW5Ms", "who": "yuno"}
