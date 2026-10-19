@@ -2664,6 +2664,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f0618637fc",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/19 22:30～ #おしらせ (うれしいやつ)\n\nサムネとか用意してなくて顔ない\n\n30分くらいの予定です！\nよろしくお願いします！",
+        "tag": "p#https://x.com/#1tweet-2112065346685534554"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/19 22:30에 진행될 새 방송을 알리는 내용이며, 목록에 있는 01/01 23:30 방송과 날짜·시간이 달라 취소·변경으로 판단할 근거가 없습니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-19T06:18:45Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
