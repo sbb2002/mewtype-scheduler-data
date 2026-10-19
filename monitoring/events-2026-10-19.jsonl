@@ -133,3 +133,4 @@
 {"detail": "url-schedule skip: 이미 끝난 방송 GCVk1ZZTpJw", "flow": "tweet", "result": "ok", "ts": "2026-10-19T15:57:42Z", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 방송에 대한 감사와 인사, 피드백 요청 내용만 포함하고 있어 일정 취소나 변경을 알리는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-19T15:57:42Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T15:58:04Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T15:59:28Z", "tweet_id": "2112212034872049948", "via": "ingest", "who": "arale"}
