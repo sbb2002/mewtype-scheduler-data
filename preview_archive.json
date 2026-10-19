@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:40:36Z",
+  "generated_at": "2026-10-19T14:05:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -1920,6 +1920,35 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@miyako_yumemita",
       "video_id": null
+    },
+    {
+      "actual_start": "2026-10-19T12:00:15Z",
+      "api_start_seen": "2026-10-19T12:00:00Z",
+      "archived_at": "2026-10-19T14:05:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 512,
+      "expires_at": "2026-10-19T15:00:00Z",
+      "first_seen": "2026-10-19T04:44:15Z",
+      "host": null,
+      "id": "pv_4f790ecc",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-19T14:05:00Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-19T12:00:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-19T14:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/JnJlOf2NEVs/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【#歌枠 】公式なのでBanG Dream!限定歌枠やるぞ！【峰月律/ゆめみた】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=JnJlOf2NEVs",
+      "video_id": "JnJlOf2NEVs"
     }
   ]
 }
