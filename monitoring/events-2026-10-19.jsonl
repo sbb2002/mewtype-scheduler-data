@@ -51,3 +51,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T06:24:37Z", "who": "峰月律"}
 {"detail": "banner mode: none · 게임 접속 장애에 대한 사과 및 스타 보상 배포 공지로, 행사·가챠와 무관한 일반 공지이므로 none 처리한다.", "flow": "notice", "result": "ok", "ts": "2026-10-19T06:30:37Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T06:30:43Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T06:37:21Z", "tweet_id": "2112070283490394423", "via": "ingest", "who": "ritsu"}
