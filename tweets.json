@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:00:33Z",
+  "generated_at": "2026-10-19T12:07:43Z",
   "tweets": {
     "arale": [
       {
@@ -154,6 +154,21 @@
         "text": "歌いたい気持ち、すごくある……。\nしかし！安静にもしたい…💭\nまったりお話してもええかい？",
         "text_ko": "노래하고 싶은 마음, 정말 있어……. 하지만! 쉬고 싶기도…💭 편하게 얘기해도 될까?",
         "url": "https://x.com/i/status/2112150128589213889"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-21T12:07:21Z",
+        "handle": "arale_yumemita",
+        "id": "2112153627083276361",
+        "media": [
+          "https://pbs.twimg.com/media/HU_gh0GbEAApOwR.jpg"
+        ],
+        "posted_at": "2026-10-19T12:07:21Z",
+        "quote": null,
+        "received_at": "2026-10-19T12:07:43Z",
+        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/19(月) 22:00〜┊#イ中田丁なう\n\n┊ 雑談 ┊最近のカバンの中身、知りたい？\n\n🔗 https://youtube.com/live/GCVk1ZZTpJw",
+        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 10/19(月) 22:00〜┊#イ中田丁なう\n\n┊ 잡담 ┊요즘 가방 안에 뭐가 들어있는지 알고 싶어?\n\n🔗 https://youtube.com/live/GCVk1ZZTpJw",
+        "url": "https://x.com/i/status/2112153627083276361"
       }
     ],
     "miyako": [
