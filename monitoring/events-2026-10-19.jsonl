@@ -135,3 +135,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T15:58:04Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-19T15:59:28Z", "tweet_id": "2112212034872049948", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T15:59:37Z", "who": "仲町あられ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T16:10:00Z", "who": "GCVk1ZZTpJw"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_b8ad83d5", "result": "ok", "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-10-19T16:10:00Z", "video_id": "GCVk1ZZTpJw", "who": "arale"}
