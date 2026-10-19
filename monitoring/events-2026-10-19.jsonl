@@ -80,3 +80,6 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-19T12:00:45Z", "who": "【#歌枠 】公式なのでBanG Dream!限定歌枠やるぞ！【峰月律/ゆめみた】"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_468e54d3", "result": "ok", "title": "【#歌枠 】公式なのでBanG Dream!限定歌枠やるぞ！【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-19T12:00:33Z", "video_id": "JnJlOf2NEVs", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-19T12:00:54Z", "who": "峰月律"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-19T12:06:04Z", "who": "GCVk1ZZTpJw"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_b8ad83d5", "result": "ok", "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "upcoming", "ts": "2026-10-19T12:06:04Z", "video_id": "GCVk1ZZTpJw", "who": "arale"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · GCVk1ZZTpJw · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:GCVk1ZZTpJw", "result": "ok", "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-19T12:06:04Z", "video_id": "GCVk1ZZTpJw", "who": "arale"}
