@@ -2471,6 +2471,63 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c2c3d4547a",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HU0lLuoawAAfwCp.jpg"
+        ],
+        "raw": "10月18日より開催中🎉\n「はじめてを奏でる光彩讃歌ガチャ」\n\n新登場したSSRメンバー、須賀 蕾叶を紹介✌️\n\nSSRメンバーには、リズムゲーム画面などで表示されるアニメーション演出がつきます💫\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2112016385584812434"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "가챠 안내 글이므로 반드시 upsert 하며 기존 배너와 동일한 가챠이므로 해당 배너 ID를 사용한다.",
+      "summary": "행사 배너 갱신 — はじめてを奏でる光彩讃歌ガチャ",
+      "ts": "2026-10-19T03:05:52Z",
+      "undo": {
+        "before": {
+          "end_at": "2026-10-26T05:59:00Z",
+          "first_seen": "2026-10-17T12:40:01Z",
+          "gachas": [
+            {
+              "end_at": "2026-10-28T05:59:00Z",
+              "id": "gc_e33a9595",
+              "image_urls": [],
+              "start_at": "2026-10-18T06:00:00Z",
+              "title_ja": "はじめてを奏でる光彩讃歌ガチャ",
+              "title_ko": "처음을 연주하는 광채 찬가 가챠"
+            }
+          ],
+          "hold": null,
+          "id": "bn_16b9bd4d",
+          "image_urls": [
+            "https://pbs.twimg.com/media/HUzvj1aaAAARaXs.jpg"
+          ],
+          "last_updated": "2026-10-18T06:09:01Z",
+          "match_keys": [
+            "shakeyour魂baby",
+            "はじめてを奏でる光彩讃歌ガチャ"
+          ],
+          "name_ja": "Shake Your 魂, Baby!!",
+          "name_ko": "Shake Your 영혼, Baby!!",
+          "src_ids": [
+            "2111381718116540885",
+            "2111701057239654556"
+          ],
+          "start_at": "2026-10-18T06:00:00Z",
+          "start_time_tbd": null
+        },
+        "id": "bn_16b9bd4d",
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
