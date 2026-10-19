@@ -2670,7 +2670,10 @@
       "flow_id": null,
       "followup": {
         "at": "2026-10-19T06:48:21Z",
-        "running": true,
+        "new_ids": [
+          "llm_bc4571dd9a"
+        ],
+        "result": "방송 취소 · 변경 아님",
         "type": "rejudge"
       },
       "id": "llm_f0618637fc",
