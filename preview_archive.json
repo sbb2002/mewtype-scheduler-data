@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:10:00Z",
+  "generated_at": "2026-10-19T14:05:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3148,6 +3148,36 @@
       "title_ko": "【아침 활동】겨울용 담요 꺼내요🧶【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
       "url": "https://www.youtube.com/watch?v=RPmJREMAKyc",
       "video_id": "RPmJREMAKyc"
+    },
+    {
+      "actual_start": "2026-10-19T12:00:15Z",
+      "api_start_seen": "2026-10-19T12:00:00Z",
+      "archived_at": "2026-10-19T14:05:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 759,
+      "expires_at": "2026-10-19T15:00:00Z",
+      "first_seen": "2026-10-19T01:40:02Z",
+      "host": null,
+      "id": "pv_468e54d3",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "song",
+      "last_updated": "2026-10-19T14:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-19T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2112067284110131514",
+      "state": "out",
+      "state_since": "2026-10-19T14:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/JnJlOf2NEVs/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【#歌枠 】公式なのでBanG Dream!限定歌枠やるぞ！【峰月律/ゆめみた】",
+      "title_ko": "【#노래 방송】공식이라서 BanG Dream! 한정 노래 방송 할게!【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=JnJlOf2NEVs",
+      "video_id": "JnJlOf2NEVs",
+      "yt_tunein": true
     }
   ]
 }
