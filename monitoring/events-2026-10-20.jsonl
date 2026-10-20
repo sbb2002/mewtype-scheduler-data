@@ -22,3 +22,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T06:04:09Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-20T06:04:31Z", "tweet_id": "2112424692619649216", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T06:04:51Z", "who": "峰月律"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-10-20T06:10:02Z", "who": ""}
