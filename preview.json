@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-20T17:10:00Z",
+  "generated_at": "2026-10-20T17:35:00Z",
   "items": [
     {
       "actual_start": null,
@@ -95,7 +95,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-20T17:10:00Z",
+      "last_updated": "2026-10-20T17:35:00Z",
       "membership": false,
       "scheduled_start": "2026-10-21T12:30:00Z",
       "source": "api",
@@ -123,7 +123,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": "unknown",
-      "last_updated": "2026-10-20T17:10:00Z",
+      "last_updated": "2026-10-20T17:35:00Z",
       "membership": false,
       "scheduled_start": "2026-10-23T13:00:00Z",
       "source": "api",
@@ -151,7 +151,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-20T17:10:00Z",
+      "last_updated": "2026-10-20T17:35:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -179,7 +179,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-20T17:10:00Z",
+      "last_updated": "2026-10-20T17:35:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -191,35 +191,6 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
-    },
-    {
-      "actual_start": "2026-10-20T14:30:27Z",
-      "api_start_seen": "2026-10-20T14:30:00Z",
-      "assumed_live": false,
-      "channel_key": "ritsu",
-      "collab_with": null,
-      "concurrent_viewers": 877,
-      "expires_at": "2026-10-20T17:30:00Z",
-      "first_seen": "2026-10-20T06:00:53Z",
-      "host": null,
-      "id": "pv_673f3bad",
-      "info_at": null,
-      "info_source": "api",
-      "kind": "game",
-      "last_updated": "2026-10-20T17:10:00Z",
-      "membership": false,
-      "scheduled_start": "2026-10-20T14:30:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2112424479150485531",
-      "state": "end",
-      "state_since": "2026-10-20T17:01:20Z",
-      "thumbnail": "https://i.ytimg.com/vi/xY_kxK1_XMM/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【重大告知】人気女性VTuber、転生、壊れる・・・！？ホラーゲーム【峰月律/ゆめみた】",
-      "title_ko": "【중대 공지】인기 여성 VTuber, 환생, 부서진…!? 호러 게임【미네츠키 리츠/유메미타】",
-      "url": "https://www.youtube.com/watch?v=xY_kxK1_XMM",
-      "video_id": "xY_kxK1_XMM",
-      "yt_tunein": true
     }
   ]
 }
