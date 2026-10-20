@@ -2903,6 +2903,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_eb6c56e51d",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/21(水)21:30~おえかき配信🎨\nhttps://youtube.com/live/2h5SuCM4f1s\n\nミスド冬限定🍫ショコラどーなち\n全種食レポ＆どーなち美少女擬人化おえかき❣\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2112492059986936031"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/21 21:30에 진행될 예정인 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-20T10:32:12Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
