@@ -65,3 +65,4 @@
 {"detail": "broadcast-change none · 게시물은 10/20 22:30에 진행될 방송을 알리는 내용이며 취소·변경 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-20T12:15:54Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T12:16:23Z", "who": "千石ユノ"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-20T12:20:04Z", "who": ""}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-20T13:00:17Z", "who": "【 #ASMR 】誰も嬉しくないASMR【 #千石ユノ / #バンドリ 】"}
