@@ -4,25 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-20T06:59:50Z",
-        "handle": "arale_yumemita",
-        "id": "2111713850659872825",
-        "media": [],
-        "posted_at": "2026-10-18T06:59:50Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HUuqxVOaIAAK7Lu.jpg"
-          ],
-          "text": "＼本日開催📢／\n\n🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nタワーレコード 川崎店様にて本日開催🎉\n\n▼詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお渡し会へのご参加はまだ間に合いますので、\nお見逃しなく✨\n\n#バンドリ #ゆめみた",
-          "text_ko": "＼오늘 개최📢／\n\n🛸무겐다이 뮤타입 5th Single\n「이건 우리 생존의 개요」\n릴리스 이벤트🛸\n\n타워레코드 가와사키점에서 오늘 개최🎉\n\n▼자세한 내용은 여기\nhttps://bushiroad-music.com/topics/22079/\n\n전달회 참여는 아직도 가능하니,\n놓치지 마세요✨\n\n#뱅드림 #유메미타"
-        },
-        "received_at": "2026-10-18T06:59:57Z",
-        "text": "本日！！！\nリリイベ！このあとすぐ！✨️\n\nお渡し会は当日参加〇らしい^ ͈ᴗ̀ ̫ᴗ́ ͈^",
-        "text_ko": "오늘!!!\n릴리베! 이 뒤 바로!✨️\n전달회는 당일 참가 O인 듯 ^ ͈ᴗ̀ ̫ᴗ́ ͈^",
-        "url": "https://x.com/i/status/2111713850659872825"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-20T10:29:39Z",
         "handle": "arale_yumemita",
         "id": "2111766651616325655",
@@ -342,21 +323,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-10-20T08:25:58Z",
-        "handle": "ritsu_yumemita",
-        "id": "2111735526990790839",
-        "media": [
-          "https://pbs.twimg.com/media/HU5kMWRaYAA2D_l.jpg"
-        ],
-        "posted_at": "2026-10-18T08:25:58Z",
-        "quote": null,
-        "received_at": "2026-10-18T08:26:12Z",
-        "text": "やっぱりラーメンなんだよなあ\n\n#ばばんばばんばんばんドリーム",
-        "text_ko": "역시 라멘이구나\n\n#ばばんばばんばんばんドリーム",
-        "url": "https://x.com/i/status/2111735526990790839"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-10-20T11:32:44Z",
         "handle": "ritsu_yumemita",
         "id": "2111782529238028575",
@@ -471,21 +437,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-10-20T06:34:30Z",
-        "handle": "yuno_yumemita",
-        "id": "2111707474848051637",
-        "media": [
-          "https://pbs.twimg.com/media/HU5KwD5agAA-qCq.jpg"
-        ],
-        "posted_at": "2026-10-18T06:34:30Z",
-        "quote": null,
-        "received_at": "2026-10-18T06:34:33Z",
-        "text": "#ばばんばばんばんばんドリーム",
-        "text_ko": "#바반바반바반바드림",
-        "url": "https://x.com/i/status/2111707474848051637"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-10-20T13:15:44Z",
