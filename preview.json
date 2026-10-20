@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-20T12:20:04Z",
+  "generated_at": "2026-10-20T13:00:14Z",
   "items": [
     {
       "actual_start": "2026-10-20T11:26:43Z",
@@ -124,19 +124,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-20T12:15:54Z",
+      "last_updated": "2026-10-20T13:00:14Z",
       "membership": false,
       "scheduled_start": "2026-10-20T13:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2112518152701858024",
-      "state": "upcoming",
-      "state_since": "2026-10-20T12:11:22Z",
+      "state": "watching",
+      "state_since": "2026-10-20T13:00:14Z",
       "thumbnail": "https://i.ytimg.com/vi/E8Rsh-Av7Qk/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【 #ASMR 】誰も嬉しくないASMR【 #千石ユノ / #バンドリ 】",
       "title_ko": "【 #ASMR 】누구도 기뻐하지 않는 ASMR【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=E8Rsh-Av7Qk",
-      "video_id": "E8Rsh-Av7Qk"
+      "video_id": "E8Rsh-Av7Qk",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
