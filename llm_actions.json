@@ -2941,6 +2941,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_df895658f3",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/20 22:30～ 罰ゲーム #ASMR\n \nアワーノーツで見事(？)天井したユノちゃんは罰ゲームASMRをすることに！\n\nでも、ユノちゃんだけに罪を背負わせたりしないよね…\nみんなにも苦しんでもらいますからね…\n\nhttps://www.youtube.com/live/E8Rsh-Av7Qk?si=sehO1ij5sIV97-7t",
+        "tag": "p#https://x.com/#1tweet-2112518152701858024"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/20 22:30에 진행될 방송을 알리는 내용이며 취소·변경 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-20T12:15:54Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
