@@ -83,6 +83,7 @@
   "items": [
     {
       "actual_start": "2026-10-20T11:26:43Z",
+      "announced_start": "2026-10-20T11:00:00Z",
       "api_start_seen": "2026-10-20T11:26:26Z",
       "assumed_live": false,
       "channel_key": "nonoka",
