@@ -27,3 +27,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T06:32:41Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-20T08:29:03Z", "tweet_id": "2112460998229778603", "via": "ingest", "who": "nonoka"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_93c10e28", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-20T08:29:03Z", "video_id": null, "who": "nonoka"}
+{"detail": "broadcast-change none · 게시물은 오늘 20시에 방송이 있을 것이라고 알리는 내용이며, 취소나 일정 변경을 언급하지 않으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-20T08:29:03Z", "via": "ingest", "who": "nonoka"}
