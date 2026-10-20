@@ -33,3 +33,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T08:35:57Z", "who": "仲町あられ"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-20T09:28:10Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T09:28:12Z", "who": "宮永ののか🐰🩹"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_74b7a3c4", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-20T09:30:05Z", "video_id": null, "who": "nonoka"}
