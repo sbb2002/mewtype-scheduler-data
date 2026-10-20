@@ -74,3 +74,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-20T14:00:24Z", "who": "【重大告知】人気女性VTuber、転生、壊れる・・・！？ホラーゲーム【峰月律/ゆめみた】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_673f3bad", "result": "ok", "title": "【重大告知】人気女性VTuber、転生、壊れる・・・！？ホラーゲーム【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-20T14:00:23Z", "video_id": "xY_kxK1_XMM", "who": "ritsu"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-20T14:31:03Z", "who": "【重大告知】人気女性VTuber、転生、壊れる・・・！？ホラーゲーム【峰月律/ゆめみた】"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-20T14:30:52Z", "tweet_id": "2112552104976150829", "via": "ingest", "who": "ritsu"}
