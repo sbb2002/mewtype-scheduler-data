@@ -2858,6 +2858,32 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_37b16fd924",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "きょう20:00くらいから配信ありまつ！！(外出中なのでもしかしたら少し遅くなるかもしれません！！！！！)",
+        "tag": "p#https://x.com/#1tweet-2112460998229778603"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "오늘 20시경에 본인의 방송이 있을 것이라는 날짜·시각과 \"配信\"이라는 표현이 함께 있어 방송 일정 예고로 판단됩니다. (근거: 「きょう20:00くらいから配信ありまつ！！」)",
+      "summary": "본인 예고로 등록 — 20:00 JST · きょう20:00くらいから配信ありまつ！！(外出中なのでもしかしたら少し遅くなる",
+      "ts": "2026-10-20T08:29:03Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_93c10e28"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
