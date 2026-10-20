@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-20T13:32:00Z",
+  "generated_at": "2026-10-20T14:00:23Z",
   "items": [
     {
       "actual_start": "2026-10-20T11:26:43Z",
@@ -153,19 +153,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "game",
-      "last_updated": "2026-10-20T13:32:00Z",
+      "last_updated": "2026-10-20T14:00:23Z",
       "membership": false,
       "scheduled_start": "2026-10-20T14:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2112424479150485531",
-      "state": "upcoming",
-      "state_since": "2026-10-20T06:00:53Z",
+      "state": "watching",
+      "state_since": "2026-10-20T14:00:23Z",
       "thumbnail": "https://i.ytimg.com/vi/xY_kxK1_XMM/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【重大告知】人気女性VTuber、転生、壊れる・・・！？ホラーゲーム【峰月律/ゆめみた】",
       "title_ko": "【중대 공지】인기 여성 VTuber, 환생, 부서진…!? 호러 게임【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=xY_kxK1_XMM",
-      "video_id": "xY_kxK1_XMM"
+      "video_id": "xY_kxK1_XMM",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
