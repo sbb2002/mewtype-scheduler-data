@@ -2839,6 +2839,25 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_21ae0858ea",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 23:30～\n\nホラーゲームをやります\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/xY_kxK1_XMM\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2112424479150485531"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 23:30에 시작한다는 예고이며 취소·변경을 언급하지 않음",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-20T06:03:41Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
