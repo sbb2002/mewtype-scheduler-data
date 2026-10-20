@@ -56,3 +56,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · dqMd3swZP-k · 예고 live", "flow": "websub", "merge_key": "websub-notify:dqMd3swZP-k", "result": "ok", "title": "【弾き語り】ひさしぶりかも♪みんなやっほー【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-10-20T11:27:30Z", "video_id": "dqMd3swZP-k", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-20T11:28:09Z", "tweet_id": "2112506144677867725", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 현재 방송 시작을 알리는 내용이며, 기존에 예고된 10/20 20:26 방송을 취소하거나 일정 변경한다는 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-20T11:28:09Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T11:28:38Z", "who": "宮永ののか🐰🩹"}
