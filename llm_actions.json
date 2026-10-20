@@ -2922,6 +2922,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_53e47e0a76",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡配信開始🐰🩹\n\n⬆️これ今後つかおうとおもう\nはいしんよろしくお願いします🎶\nはじめます🎶\n\n【弾き語り】ひさしぶりかも♪みんなやっほー【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts https://www.youtube.com/live/dqMd3swZP-k?si=WTWZ_J6sUq8-Eb3j",
+        "tag": "p#https://x.com/#1tweet-2112506144677867725"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 현재 방송 시작을 알리는 내용이며, 기존에 예고된 10/20 20:26 방송을 취소하거나 일정 변경한다는 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-20T11:28:09Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
