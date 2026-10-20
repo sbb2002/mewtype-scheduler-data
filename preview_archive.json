@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:25:00Z",
+  "generated_at": "2026-10-20T17:35:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3296,6 +3296,36 @@
       "title_ko": "【 #ASMR 】누구도 기뻐하지 않는 ASMR【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=E8Rsh-Av7Qk",
       "video_id": "E8Rsh-Av7Qk",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-20T14:30:27Z",
+      "api_start_seen": "2026-10-20T14:30:00Z",
+      "archived_at": "2026-10-20T17:35:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 877,
+      "expires_at": "2026-10-20T17:30:00Z",
+      "first_seen": "2026-10-20T06:00:53Z",
+      "host": null,
+      "id": "pv_673f3bad",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "game",
+      "last_updated": "2026-10-20T17:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-20T14:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2112424479150485531",
+      "state": "out",
+      "state_since": "2026-10-20T17:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/xY_kxK1_XMM/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【重大告知】人気女性VTuber、転生、壊れる・・・！？ホラーゲーム【峰月律/ゆめみた】",
+      "title_ko": "【중대 공지】인기 여성 VTuber, 환생, 부서진…!? 호러 게임【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=xY_kxK1_XMM",
+      "video_id": "xY_kxK1_XMM",
       "yt_tunein": true
     }
   ]
