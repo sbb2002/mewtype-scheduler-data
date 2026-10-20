@@ -63,3 +63,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · E8Rsh-Av7Qk · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:E8Rsh-Av7Qk", "result": "ok", "title": "【 #ASMR 】誰も嬉しくないASMR【 #千石ユノ / #バンドリ 】", "ts": "2026-10-20T12:11:22Z", "video_id": "E8Rsh-Av7Qk", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-20T12:15:54Z", "tweet_id": "2112518152701858024", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 10/20 22:30에 진행될 방송을 알리는 내용이며 취소·변경 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-20T12:15:54Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-20T12:16:23Z", "who": "千石ユノ"}
