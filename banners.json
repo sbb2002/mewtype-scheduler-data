@@ -66,7 +66,28 @@
       ],
       "start_at": "2026-10-18T06:00:00Z",
       "start_time_tbd": null
+    },
+    {
+      "end_at": "2027-02-28T14:59:00Z",
+      "first_seen": "2026-10-20T05:44:34Z",
+      "gachas": [],
+      "hold": null,
+      "id": "bn_b1f2b1e8",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HVDRxhbacAIqYo_.jpg"
+      ],
+      "last_updated": "2026-10-20T05:44:34Z",
+      "match_keys": [
+        "あなたと紡ぐはじまりの旅"
+      ],
+      "name_ja": "あなたと紡ぐ はじまりの旅",
+      "name_ko": "당신과 엮는 시작의 여행",
+      "src_ids": [
+        "2112419038190281019"
+      ],
+      "start_at": "2026-11-29T15:00:00Z",
+      "start_time_tbd": true
     }
   ],
-  "generated_at": "2026-10-19T05:46:48Z"
+  "generated_at": "2026-10-20T05:44:34Z"
 }
