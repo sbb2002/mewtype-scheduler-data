@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:14:31Z",
+  "generated_at": "2026-10-21T14:18:39Z",
   "tweets": {
     "arale": [
       {
@@ -162,6 +162,29 @@
         "text": "🍫",
         "text_ko": null,
         "url": "https://x.com/i/status/2112910400396353890"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-10-23T14:17:41Z",
+        "handle": "miyako_yumemita",
+        "id": "2112911202699669789",
+        "media": [
+          "https://pbs.twimg.com/card_img/2112846373355667456/3sQWOsMf?format=jpg&name=800x419"
+        ],
+        "needs_tl": true,
+        "posted_at": "2026-10-21T14:17:41Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVKQyX5bwAAE7VQ.jpg"
+          ],
+          "needs_tl": true,
+          "text": "🍫",
+          "text_ko": null
+        },
+        "received_at": "2026-10-21T14:18:39Z",
+        "text": "ミスド🍩ショコラドーナツ全種食レポ＆\n擬人化お絵描き配信ありゃとうございました❣\n🔗https://www.youtube.com/watch?v=2h5SuCM4f1s\n\nあま〜いけど芯は真面目で、\nあかるくはきはきとしたおんなのこが\nそこにはいました。\n＃みるみやこ",
+        "text_ko": null,
+        "url": "https://x.com/i/status/2112911202699669789"
       }
     ],
     "nonoka": [
