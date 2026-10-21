@@ -1506,7 +1506,10 @@
       "flow_id": null,
       "followup": {
         "at": "2026-10-21T13:06:48Z",
-        "running": true,
+        "new_ids": [
+          "llm_3ef500ee00"
+        ],
+        "result": "행사 판정: 행사 배너 — 해당 없음 — 뽑을 이벤트 · 가챠 없음",
         "type": "rejudge"
       },
       "id": "llm_e3b96157f3",
