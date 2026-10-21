@@ -74,3 +74,4 @@
 {"detail": "LLM 판단 재판단 banner_judge · 행사 판정: 행사 배너 — 해당 없음 — 뽑을 이벤트 · 가챠 없음", "flow": "preview", "result": "ok", "ts": "2026-10-21T13:06:48Z", "via": "ops", "who": "bang_dream_on"}
 {"detail": "mode: added", "flow": "notice", "notice_id": "2112419038190281019", "result": "ok", "ts": "2026-10-21T13:07:07Z", "via": "ingest", "who": ""}
 {"detail": "banner mode: notice · 소식 added", "flow": "notice", "result": "ok", "ts": "2026-10-21T13:07:07Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "LLM 판단 재판단 banner_judge · 행사 판정: 행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 — 소식 added", "flow": "preview", "result": "ok", "ts": "2026-10-21T13:07:07Z", "via": "ops", "who": "bang_dream_on"}
