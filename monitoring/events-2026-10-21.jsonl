@@ -70,3 +70,4 @@
 {"detail": "LLM 판단 되돌리기 banner_judge · 행사 배너 되돌림 — bn_935879aa", "flow": "notice", "result": "ok", "ts": "2026-10-21T13:06:14Z", "via": "ops", "who": "bang_dream_on"}
 {"detail": "banner mode: added · 가챠 「Ave Mujicaピックアップガチャ」(2026-10-16 15:00 ~ 2026-10-25 23:59) 붙을 이벤트 없음 → 가챠 단독 배너 → added", "flow": "notice", "result": "ok", "ts": "2026-10-21T13:06:25Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "LLM 판단 재판단 banner_judge · 행사 판정: 행사 배너 추가 — 가챠 「Ave Mujicaピックアップガチャ」(2026-10-16 15:00 ~ 2026-10-25 23:59) 붙을 이벤트 없음 → 가챠 단독 배너 → added", "flow": "preview", "result": "ok", "ts": "2026-10-21T13:06:25Z", "via": "ops", "who": "bang_dream_on"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-21T13:06:48Z", "via": "ingest", "who": "bang_dream_on"}
