@@ -1539,7 +1539,13 @@
         "id": "bn_935879aa",
         "type": "restore_banner"
       },
-      "undone": null,
+      "undone": {
+        "applied": [
+          "행사 배너 되돌림 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념"
+        ],
+        "at": "2026-10-21T13:06:04Z",
+        "skipped": []
+      },
       "who": "bang_dream_on"
     },
     {
