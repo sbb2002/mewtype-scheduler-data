@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:07:41Z",
+  "generated_at": "2026-10-21T15:07:42Z",
   "tweets": {
     "arale": [
       {
@@ -113,6 +113,20 @@
         "text": "ゆ、夢の中で…するか…^ᴗ ·̫ ᴗ^",
         "text_ko": "유, 꿈속에서… 할까…^ᴗ ·̫ ᴗ^",
         "url": "https://x.com/i/status/2112923095078150415"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-23T15:05:24Z",
+        "handle": "arale_yumemita",
+        "id": "2112923212627771617",
+        "media": [],
+        "needs_tl": true,
+        "posted_at": "2026-10-21T15:05:24Z",
+        "quote": null,
+        "received_at": "2026-10-21T15:07:42Z",
+        "text": "おやすみ！！！ぐんないっ！🌃",
+        "text_ko": null,
+        "url": "https://x.com/i/status/2112923212627771617"
       }
     ],
     "miyako": [
