@@ -1467,7 +1467,10 @@
       "flow_id": null,
       "followup": {
         "at": "2026-10-21T13:06:25Z",
-        "running": true,
+        "new_ids": [
+          "llm_95b43ff0d1"
+        ],
+        "result": "행사 판정: 행사 배너 추가 — 가챠 「Ave Mujicaピックアップガチャ」(2026-10-16 15:00 ~ 2026-10-25 23:59) 붙을 이벤트 없음 → 가챠 단독 배너 → added",
         "type": "rejudge"
       },
       "id": "llm_129da55056",
