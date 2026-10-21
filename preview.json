@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-21T12:31:16Z",
+  "generated_at": "2026-10-21T12:37:42Z",
   "items": [
     {
       "actual_start": "2026-10-21T12:30:12Z",
@@ -87,7 +87,7 @@
       "assumed_live": false,
       "channel_key": "miyako",
       "collab_with": null,
-      "concurrent_viewers": 230,
+      "concurrent_viewers": 623,
       "expires_at": "2026-10-21T15:30:00Z",
       "first_seen": "2026-10-20T10:31:19Z",
       "host": null,
@@ -95,7 +95,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": "unknown",
-      "last_updated": "2026-10-21T12:31:16Z",
+      "last_updated": "2026-10-21T12:37:42Z",
       "membership": false,
       "scheduled_start": "2026-10-21T12:30:00Z",
       "source": "api",
