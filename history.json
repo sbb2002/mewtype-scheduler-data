@@ -3,6 +3,16 @@
     {
       "action": "undo_llm_action",
       "error": null,
+      "id": "5985c5a134",
+      "job_id": null,
+      "ok": true,
+      "summary": "행사 배너 되돌림 — bn_935879aa",
+      "target": "llm_129da55056",
+      "ts": "2026-10-21T13:06:23Z"
+    },
+    {
+      "action": "undo_llm_action",
+      "error": null,
       "id": "042a6af6d5",
       "job_id": null,
       "ok": true,
