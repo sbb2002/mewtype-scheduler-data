@@ -1,6 +1,26 @@
 {
   "banners": [
     {
+      "end_at": "2026-10-25T14:59:00Z",
+      "first_seen": "2026-10-21T13:06:25Z",
+      "gacha_only": true,
+      "gachas": [],
+      "hold": null,
+      "id": "bn_5d03e77a",
+      "image_urls": [],
+      "last_updated": "2026-10-21T13:06:25Z",
+      "match_keys": [
+        "avemujicaピックアップガチャ"
+      ],
+      "name_ja": "Ave Mujicaピックアップガチャ",
+      "name_ko": "Ave Mujica 픽업 가챠",
+      "src_ids": [
+        "2110728110891282447"
+      ],
+      "start_at": "2026-10-16T06:00:00Z",
+      "start_time_tbd": null
+    },
+    {
       "end_at": "2026-10-26T05:59:00Z",
       "first_seen": "2026-10-17T12:40:01Z",
       "gachas": [
@@ -36,5 +56,5 @@
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-21T13:06:14Z"
+  "generated_at": "2026-10-21T13:06:25Z"
 }
