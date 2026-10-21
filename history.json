@@ -3,6 +3,16 @@
     {
       "action": "undo_llm_action",
       "error": null,
+      "id": "042a6af6d5",
+      "job_id": null,
+      "ok": true,
+      "summary": "행사 배너 되돌림 — 영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념",
+      "target": "llm_e3b96157f3",
+      "ts": "2026-10-21T13:06:13Z"
+    },
+    {
+      "action": "undo_llm_action",
+      "error": null,
       "id": "cd777b5694",
       "job_id": null,
       "ok": true,
