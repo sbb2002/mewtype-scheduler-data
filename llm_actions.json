@@ -3061,6 +3061,28 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm_rejudge",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_3ef500ee00",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUrGsTlbAAAzR-v.jpg"
+        ],
+        "raw": "📢開催決定！\n映画「BanG Dream! Ave Mujica prima aurora」\n公開記念 限定ミッション🌙\n\n期間中はミッションの項目に「限定ミッション」が登場し、ミッション達成で「映画版ステッカー交換チケット」をGET！\n\nチケット1枚で好きなメンバーのステッカー1枚と交換可能となっており、ミッションをすべてクリアすることでメンバー全員分のステッカーを獲得できます✨\n\n#アワーノーツ #バンドリTVLIVE",
+        "tag": "p#https://x.com/#1tweet-2110728388940083441"
+      },
+      "kind": "banner_judge",
+      "parent_id": "llm_e3b96157f3",
+      "reason": "게임 안 — 게임 내에서 미션을 수행해 스티커 교환 티켓을 얻는 이벤트이므로 게임 앱 안에서 이루어지는 활동이다. (근거: 「期間中はミッションの項目に「限定ミッション」が登場し、ミッション達成で「映画版ス」 「チケット1枚で好きなメンバーのステッカー1枚と交換可能となっており、ミッションを」) / 본문과 이미지에 인게임 이벤트와 가챠 이름이 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-21T13:06:48Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
