@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "edit_banner",
+      "error": null,
+      "id": "61e839f868",
+      "job_id": null,
+      "ok": true,
+      "summary": "{'image_urls': ['https://pbs.twimg.com/media/HUrGsTlbAAAzR-v.jpg']}",
+      "target": "bn_5d03e77a",
+      "ts": "2026-10-21T13:16:43Z"
+    },
+    {
       "action": "rejudge_llm_action",
       "error": null,
       "id": "c20f467aee",
