@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:18:39Z",
+  "generated_at": "2026-10-21T15:00:33Z",
   "tweets": {
     "arale": [
       {
@@ -155,12 +155,11 @@
         "media": [
           "https://pbs.twimg.com/media/HVKQyX5bwAAE7VQ.jpg"
         ],
-        "needs_tl": true,
         "posted_at": "2026-10-21T14:14:30Z",
         "quote": null,
         "received_at": "2026-10-21T14:14:31Z",
         "text": "🍫",
-        "text_ko": null,
+        "text_ko": "🍫",
         "url": "https://x.com/i/status/2112910400396353890"
       },
       {
@@ -171,19 +170,17 @@
         "media": [
           "https://pbs.twimg.com/card_img/2112846373355667456/3sQWOsMf?format=jpg&name=800x419"
         ],
-        "needs_tl": true,
         "posted_at": "2026-10-21T14:17:41Z",
         "quote": {
           "media": [
             "https://pbs.twimg.com/media/HVKQyX5bwAAE7VQ.jpg"
           ],
-          "needs_tl": true,
           "text": "🍫",
-          "text_ko": null
+          "text_ko": "🍫"
         },
         "received_at": "2026-10-21T14:18:39Z",
         "text": "ミスド🍩ショコラドーナツ全種食レポ＆\n擬人化お絵描き配信ありゃとうございました❣\n🔗https://www.youtube.com/watch?v=2h5SuCM4f1s\n\nあま〜いけど芯は真面目で、\nあかるくはきはきとしたおんなのこが\nそこにはいました。\n＃みるみやこ",
-        "text_ko": null,
+        "text_ko": "미스드🍩쇼코라 도넛 전종 식리포 &  \n가인화 오에카키 방송 감사했습니다❣  \n🔗https://www.youtube.com/watch?v=2h5SuCM4f1s  \n\n달콤하지만 실은 진지하고,  \n밝고 깔끔한 여자아이 같은 존재가  \n그곳에 있었습니다.  \n#미루미야코",
         "url": "https://x.com/i/status/2112911202699669789"
       }
     ],
