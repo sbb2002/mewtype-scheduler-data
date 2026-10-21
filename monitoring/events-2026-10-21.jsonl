@@ -44,3 +44,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-21T10:23:48Z", "tweet_id": "2112852337626841564", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T10:24:12Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-21T10:50:38Z", "tweet_id": "2112859077193937226", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T10:50:46Z", "who": "宮永ののか🐰🩹"}
