@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-21T10:00:09Z",
+  "generated_at": "2026-10-21T12:00:22Z",
   "items": [
     {
       "actual_start": null,
@@ -95,19 +95,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "unknown",
-      "last_updated": "2026-10-21T10:00:09Z",
+      "last_updated": "2026-10-21T12:00:22Z",
       "membership": false,
       "scheduled_start": "2026-10-21T12:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2112492059986936031",
-      "state": "upcoming",
-      "state_since": "2026-10-20T10:31:19Z",
+      "state": "watching",
+      "state_since": "2026-10-21T12:00:22Z",
       "thumbnail": "https://i.ytimg.com/vi/2h5SuCM4f1s/maxresdefault_live.jpg",
       "time_tbd": false,
       "title": "【おえかき】ミスド期間限定🍩ショコラ全種たべたべ＆擬人化おえかき♪【ゆめみた/藤都子】",
       "title_ko": "【그림그리기】미스도 기간 한정🍩초콜라 전종 먹어먹 & 의인화 그림그리기♪【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=2h5SuCM4f1s",
-      "video_id": "2h5SuCM4f1s"
+      "video_id": "2h5SuCM4f1s",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
