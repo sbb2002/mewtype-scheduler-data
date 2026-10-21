@@ -79,3 +79,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_268f11b5", "result": "ok", "title": "【おえかき】ミスド期間限定🍩ショコラ全種たべたべ＆擬人化おえかき♪【ゆめみた/藤都子】", "to_state": "end", "ts": "2026-10-21T14:13:26Z", "video_id": "2h5SuCM4f1s", "who": "miyako"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 2h5SuCM4f1s · 예고 end", "flow": "websub", "merge_key": "websub-notify:2h5SuCM4f1s", "result": "ok", "title": "【おえかき】ミスド期間限定🍩ショコラ全種たべたべ＆擬人化おえかき♪【ゆめみた/藤都子】", "ts": "2026-10-21T14:13:26Z", "video_id": "2h5SuCM4f1s", "who": "miyako"}
 {"detail": "mode: added, needs_tl=true", "flow": "tweet", "result": "warn", "ts": "2026-10-21T14:14:31Z", "tweet_id": "2112910400396353890", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T14:14:52Z", "who": "藤都子"}
