@@ -3090,6 +3090,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm_rejudge",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bcf415131f",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVDRxhbacAIqYo_.jpg"
+        ],
+        "raw": "📢#推し旅 コラボ開催決定！🚅\nJR東海×『BanG Dream! Our Notes』\n\nここだけのコンテンツを盛りだくさんでお届け✨\n・オリジナルボイスドラマ\n・キャストクロストークムービー\n・東海道新幹線乗車特典\n\n📅開催期間\n2026年11月30日(月)〜2027年2月28日(日)\n\n▼詳細はこちら",
+        "tag": "p#https://x.com/#1tweet-2112419038190281019"
+      },
+      "kind": "banner_judge",
+      "parent_id": "llm_1cef1cba59",
+      "reason": "게임 밖 — JR東海와의 콜라보 및 신칸센 승차 특전 등 게임 외부에서 진행되는 오프라인 행사이므로 outside이다. (근거: 「JR東海×『BanG Dream! Our Notes』」 「オリジナルボイスドラマ」 「キャストクロストークムービー」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 added)",
+      "ts": "2026-10-21T13:07:07Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
