@@ -77,6 +77,19 @@
       },
       {
         "channel_key": "arale",
+        "expires_at": "2026-10-23T14:57:22Z",
+        "handle": "arale_yumemita",
+        "id": "2112921190843195723",
+        "media": [],
+        "posted_at": "2026-10-21T14:57:22Z",
+        "quote": null,
+        "received_at": "2026-10-21T15:07:41Z",
+        "text": "明日は朝活6:30〜からするよ〜🌱",
+        "text_ko": "내일 아침 활동 6:30~부터 할 거야~🌱",
+        "url": "https://x.com/i/status/2112921190843195723"
+      },
+      {
+        "channel_key": "arale",
         "expires_at": "2026-10-23T15:04:36Z",
         "handle": "arale_yumemita",
         "id": "2112923009275330716",
