@@ -7,8 +7,10 @@
       "gachas": [],
       "hold": null,
       "id": "bn_5d03e77a",
-      "image_urls": [],
-      "last_updated": "2026-10-21T13:06:25Z",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HUrGsTlbAAAzR-v.jpg"
+      ],
+      "last_updated": "2026-10-21T13:16:40Z",
       "match_keys": [
         "avemujicaピックアップガチャ"
       ],
@@ -56,5 +58,5 @@
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-21T13:06:25Z"
+  "generated_at": "2026-10-21T13:16:40Z"
 }
