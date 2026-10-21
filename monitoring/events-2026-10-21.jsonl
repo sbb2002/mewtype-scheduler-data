@@ -63,3 +63,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_268f11b5", "result": "ok", "title": "【おえかき】ミスド期間限定🍩ショコラ全種たべたべ＆擬人化おえかき♪【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-10-21T12:31:16Z", "video_id": "2h5SuCM4f1s", "who": "miyako"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 2h5SuCM4f1s · 예고 live", "flow": "websub", "merge_key": "websub-notify:2h5SuCM4f1s", "result": "ok", "title": "【おえかき】ミスド期間限定🍩ショコラ全種たべたべ＆擬人化おえかき♪【ゆめみた/藤都子】", "ts": "2026-10-21T12:31:16Z", "video_id": "2h5SuCM4f1s", "who": "miyako"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-21T12:37:42Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-21T12:37:42Z", "tweet_id": "2112882759383568884", "via": "ingest", "who": "miyako"}
