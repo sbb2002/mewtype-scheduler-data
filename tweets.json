@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T10:00:08Z",
+  "generated_at": "2026-10-21T10:23:48Z",
   "tweets": {
     "arale": [
       {
@@ -339,6 +339,19 @@
         "text": "はじめます！",
         "text_ko": "시작합니다!",
         "url": "https://x.com/i/status/2112552104976150829"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-23T10:23:46Z",
+        "handle": "ritsu_yumemita",
+        "id": "2112852337626841564",
+        "media": [],
+        "posted_at": "2026-10-21T10:23:46Z",
+        "quote": null,
+        "received_at": "2026-10-21T10:23:48Z",
+        "text": "おやすみだったので、ユノさんとデートしてきたよ",
+        "text_ko": "휴일이라서, 유노 씨와 데이트하고 왔어.",
+        "url": "https://x.com/i/status/2112852337626841564"
       }
     ],
     "yuno": [
