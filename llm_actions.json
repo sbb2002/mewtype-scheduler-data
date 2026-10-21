@@ -2979,6 +2979,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5e56c87bf6",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVIfPsPaUAALRR3.jpg"
+        ],
+        "raw": "Ave Mujica ミニAlbum「神の名を」\n発売記念プレゼント！🌙\n\n「スター×50」をプレゼント✨\n\n※10月28日(水)23:59までにログインし、プレゼントボックスよりお受け取りください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2112786204186055127"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글은 단순히 출시 기념 선물 안내이며, 행사나 가챠에 대한 새로운 정보가 없으므로 none 처리",
+      "summary": "행사 배너 — 해당 없음 — Ave Mujica ミニAlbum「神の名を」発売記念プレゼント！",
+      "ts": "2026-10-21T06:01:16Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
