@@ -82,3 +82,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T14:14:52Z", "who": "藤都子"}
 {"detail": "mode: added, needs_tl=true", "flow": "tweet", "result": "warn", "ts": "2026-10-21T14:18:39Z", "tweet_id": "2112911202699669789", "via": "ingest", "who": "miyako"}
 {"detail": "url-schedule skip: 이미 끝난 방송 2h5SuCM4f1s", "flow": "tweet", "result": "ok", "ts": "2026-10-21T14:18:39Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T14:19:08Z", "who": "藤都子"}
