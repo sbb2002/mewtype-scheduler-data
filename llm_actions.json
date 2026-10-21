@@ -2837,7 +2837,13 @@
         "id": "bn_b1f2b1e8",
         "type": "restore_banner"
       },
-      "undone": null,
+      "undone": {
+        "applied": [
+          "행사 배너 되돌림 — bn_b1f2b1e8"
+        ],
+        "at": "2026-10-21T13:05:54Z",
+        "skipped": []
+      },
       "who": "bang_dream_on"
     },
     {
