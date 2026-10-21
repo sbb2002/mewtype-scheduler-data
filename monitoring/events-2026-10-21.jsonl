@@ -65,3 +65,4 @@
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-21T12:37:42Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-21T12:37:42Z", "tweet_id": "2112882759383568884", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T12:38:04Z", "who": "藤都子"}
+{"detail": "LLM 판단 되돌리기 banner_judge · 행사 배너 되돌림 — bn_b1f2b1e8", "flow": "notice", "result": "ok", "ts": "2026-10-21T13:05:54Z", "via": "ops", "who": "bang_dream_on"}
