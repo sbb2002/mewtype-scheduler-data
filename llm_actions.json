@@ -1465,7 +1465,11 @@
     {
       "by": "llm",
       "flow_id": null,
-      "followup": null,
+      "followup": {
+        "at": "2026-10-21T13:06:25Z",
+        "running": true,
+        "type": "rejudge"
+      },
       "id": "llm_129da55056",
       "input": {
         "acct": "bang_dream_on",
