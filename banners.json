@@ -1,35 +1,6 @@
 {
   "banners": [
     {
-      "end_at": "2026-10-25T14:59:00Z",
-      "first_seen": "2026-10-15T13:42:53Z",
-      "gachas": [
-        {
-          "end_at": "2026-10-25T14:59:00Z",
-          "id": "gc_5d03e77a",
-          "image_urls": [],
-          "start_at": "2026-10-16T06:00:00Z",
-          "title_ja": "Ave Mujicaピックアップガチャ",
-          "title_ko": "Ave Mujica 픽업 가챠"
-        }
-      ],
-      "hold": null,
-      "id": "bn_935879aa",
-      "image_urls": [],
-      "last_updated": "2026-10-15T13:42:53Z",
-      "match_keys": [
-        "bangdreamavemujicaprimaaurora",
-        "avemujicaピックアップガチャ"
-      ],
-      "name_ja": "映画「BanG Dream! Ave Mujica prima aurora」公開記念",
-      "name_ko": "영화 \"BanG Dream! Ave Mujica prima aurora\" 공개 기념",
-      "src_ids": [
-        "2110728110891282447"
-      ],
-      "start_at": "2026-10-16T06:00:00Z",
-      "start_time_tbd": null
-    },
-    {
       "end_at": "2026-10-26T05:59:00Z",
       "first_seen": "2026-10-17T12:40:01Z",
       "gachas": [
@@ -65,5 +36,5 @@
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-21T13:06:04Z"
+  "generated_at": "2026-10-21T13:06:14Z"
 }
