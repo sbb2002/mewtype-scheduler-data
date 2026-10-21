@@ -77,6 +77,19 @@
       },
       {
         "channel_key": "arale",
+        "expires_at": "2026-10-23T15:04:36Z",
+        "handle": "arale_yumemita",
+        "id": "2112923009275330716",
+        "media": [],
+        "posted_at": "2026-10-21T15:04:36Z",
+        "quote": null,
+        "received_at": "2026-10-21T15:07:41Z",
+        "text": "ライブしたいな…",
+        "text_ko": "라이브 하고 싶어...",
+        "url": "https://x.com/i/status/2112923009275330716"
+      },
+      {
+        "channel_key": "arale",
         "expires_at": "2026-10-23T15:04:56Z",
         "handle": "arale_yumemita",
         "id": "2112923095078150415",
