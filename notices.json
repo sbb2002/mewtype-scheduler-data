@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:41:26Z",
+  "generated_at": "2026-10-21T13:07:07Z",
   "notices": [
     {
       "anchor_a": "20260913010000",
@@ -300,6 +300,33 @@
       "title_slug": "アニメ・スタいしかわ2026",
       "tweet_url": "https://x.com/i/status/2105568407240544703",
       "url": "https://animest-ishikawa.com/event/"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "bangdream!ournotes",
+      "body_for_llm": "📢#推し旅 コラボ開催決定！🚅 JR東海×『BanG Dream! Our Notes』 ここだけのコンテンツを盛りだくさんでお届け✨ ・オリジナルボイスドラマ ・キャストクロストークムービー ・東海道新幹線乗車特典 📅開催期間 2026年 (月)〜2027年 (日) ▼詳細はこちら",
+      "body_ko": "📢#오시여행 콜라보 개최 결정!🚅\nJR동해×『BanG Dream! Our Notes』\n\n여기서만 볼 수 있는 콘텐츠를 가득 담아 전해드려요✨\n・오리지널 보이스드라마\n・캐스트 크로스토크 무비\n・동해도 신칸센 탑승 특전\n\n📅 개최 기간\n2026년 11월 30일(월)〜2027년 2월 28일(일)\n\n▼ 자세한 내용은 여기",
+      "body_raw": "📢#推し旅 コラボ開催決定！🚅\nJR東海×『BanG Dream! Our Notes』\n\nここだけのコンテンツを盛りだくさんでお届け✨\n・オリジナルボイスドラマ\n・キャストクロストークムービー\n・東海道新幹線乗車特典\n\n📅開催期間\n2026年11月30日(月)〜2027年2月28日(日)\n\n▼詳細はこちら",
+      "category": "etc",
+      "date": "2026-11-30",
+      "deadline": false,
+      "expires_at": "2026-11-30T15:00:00Z",
+      "first_seen": "2026-10-21T13:07:07Z",
+      "id": "2112419038190281019",
+      "last_updated": "2026-10-21T13:07:07Z",
+      "participants": null,
+      "seen_ids": [
+        "2112419038190281019"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "JR東海×『BanG Dream! Our Notes』 コラボ開催決定！",
+      "title_ko": "JR동해×『BanG Dream! Our Notes』 콜라보 개최 결정!",
+      "title_raw": "JR東海×『BanG Dream! Our Notes』",
+      "title_slug": "jr東海bangdreamournotes",
+      "tweet_url": "https://x.com/i/status/2112419038190281019",
+      "url": null
     },
     {
       "anchor_a": "yumemita_yunos_party_lv3",
