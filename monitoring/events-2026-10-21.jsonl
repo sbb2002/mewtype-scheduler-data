@@ -50,3 +50,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-21T12:00:24Z", "who": "【おえかき】ミスド期間限定🍩ショコラ全種たべたべ＆擬人化おえかき♪【ゆめみた/藤都子】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_268f11b5", "result": "ok", "title": "【おえかき】ミスド期間限定🍩ショコラ全種たべたべ＆擬人化おえかき♪【ゆめみた/藤都子】", "to_state": "watching", "ts": "2026-10-21T12:00:22Z", "video_id": "2h5SuCM4f1s", "who": "miyako"}
 {"detail": "banner skip: 리트윗 폰 원문이 @bang_dream_info 의 글", "flow": "notice", "result": "ok", "ts": "2026-10-21T12:06:07Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "무시(반영 대상 아님) · 게임 계정 리트윗 — 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T12:06:09Z", "who": "バンドリ！アワーノーツ"}
