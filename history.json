@@ -3,6 +3,16 @@
     {
       "action": "rejudge_llm_action",
       "error": null,
+      "id": "c20f467aee",
+      "job_id": null,
+      "ok": true,
+      "summary": "행사 판정: 행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 — 소식 added",
+      "target": "llm_1cef1cba59",
+      "ts": "2026-10-21T13:07:36Z"
+    },
+    {
+      "action": "rejudge_llm_action",
+      "error": null,
       "id": "456ae143d7",
       "job_id": null,
       "ok": true,
