@@ -120,21 +120,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-10-21T10:00:03Z",
-        "handle": "miyako_yumemita",
-        "id": "2112121592075657554",
-        "media": [
-          "https://pbs.twimg.com/media/HU-8_l8aMAAmB5H.jpg"
-        ],
-        "posted_at": "2026-10-19T10:00:03Z",
-        "quote": null,
-        "received_at": "2026-10-19T10:00:07Z",
-        "text": "かわいいおんなのこ\n＃アワーノーツ",
-        "text_ko": "귀여운 소녀\n#아워노츠",
-        "url": "https://x.com/i/status/2112121592075657554"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-10-21T10:04:32Z",
         "handle": "miyako_yumemita",
         "id": "2112122719752045022",
