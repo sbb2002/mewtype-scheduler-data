@@ -2960,6 +2960,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_3eedde01ee",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "【不正ツールの利用に関するお問い合わせについて】\n現在、不正にゲームをプレイするアカウントに関して多数のお問い合わせをいただいております。\n\n本件につきましては運営チームにおきましても事象を検知・把握しており、現在ログの調査および対象アカウントの特定を進めております。\n\n利用規約に違反する行為が確認されたアカウントに対しては、アカウント停止措置を含め順次厳正に対処してまいります。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2112780513362808962"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "불법 도구 사용 관련 공지로 행사·가챠와 무관",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-21T05:44:44Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
