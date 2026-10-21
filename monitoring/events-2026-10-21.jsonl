@@ -18,3 +18,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-21T05:33:48Z", "tweet_id": "2112779056202780976", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T05:34:22Z", "who": "藤都子"}
 {"detail": "banner mode: none · 불법 도구 사용 관련 공지로 행사·가챠와 무관", "flow": "notice", "result": "ok", "ts": "2026-10-21T05:44:44Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-21T05:44:56Z", "who": "バンドリ！アワーノーツ"}
