@@ -3,6 +3,16 @@
     {
       "action": "edit_banner",
       "error": null,
+      "id": "e166c11562",
+      "job_id": null,
+      "ok": true,
+      "summary": "{'image_urls': ['https://pbs.twimg.com/media/HUrGkyYbUAAUne0.jpg']}",
+      "target": "bn_5d03e77a",
+      "ts": "2026-10-21T13:18:09Z"
+    },
+    {
+      "action": "edit_banner",
+      "error": null,
       "id": "61e839f868",
       "job_id": null,
       "ok": true,
