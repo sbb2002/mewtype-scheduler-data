@@ -4,19 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-21T13:04:08Z",
-        "handle": "arale_yumemita",
-        "id": "2112167917999821129",
-        "media": [],
-        "posted_at": "2026-10-19T13:04:08Z",
-        "quote": null,
-        "received_at": "2026-10-19T13:04:11Z",
-        "text": "はじまたよ〜〜！！！\n\n【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】 https://www.youtube.com/live/GCVk1ZZTpJw?si=5a7n9TJ6rCJ_dz36 @YouTubeより",
-        "text_ko": "시작했어~!!!\n\n【🟡소지품 체크】최근 나카마치 씨의 가방 안은…？【 나카마치 아라레 / 무겐다이 뮤타입 】 https://www.youtube.com/live/GCVk1ZZTpJw?si=5a7n9TJ6rCJ_dz36 @YouTube보다",
-        "url": "https://x.com/i/status/2112167917999821129"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-21T15:57:36Z",
         "handle": "arale_yumemita",
         "id": "2112211573410529462",
@@ -345,23 +332,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-10-21T13:32:18Z",
-        "handle": "yuno_yumemita",
-        "id": "2112175007921303564",
-        "media": [],
-        "posted_at": "2026-10-19T13:32:18Z",
-        "quote": {
-          "media": [],
-          "text": "〈配信のおしらせ〉\n10/19 22:30～ #おしらせ (うれしいやつ)\n\nサムネとか用意してなくて顔ない\n\n30分くらいの予定です！\nよろしくお願いします！",
-          "text_ko": "〈방송 안내〉\n10/19 22:30～ #공지 (기쁜 거)\n\n썸네일도 준비 안 했고 얼굴도 없어\n\n30분 정도 예정입니다!\n잘 부탁드립니다!"
-        },
-        "received_at": "2026-10-19T13:33:56Z",
-        "text": "はじめます\nhttps://youtube.com/live/hkf-tlTW5Ms?feature=share",
-        "text_ko": "시작합니다",
-        "url": "https://x.com/i/status/2112175007921303564"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-10-22T12:15:50Z",
