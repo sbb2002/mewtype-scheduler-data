@@ -107,3 +107,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-22T12:47:15Z", "tweet_id": "2113250576377237517", "via": "ingest", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-22T12:47:15Z", "tweet_id": "2113249884996599833", "via": "ingest", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-22T12:47:16Z", "tweet_id": "2113250832242397201", "via": "ingest", "who": "yuno"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_3e396443", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-22T12:47:15Z", "video_id": null, "who": "yuno"}
