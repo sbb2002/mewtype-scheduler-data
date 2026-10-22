@@ -69,3 +69,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T10:23:19Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-22T10:32:04Z", "who": "【メン限】りっちゃんズ集会🌸10月"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_191bbba2", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "watching", "ts": "2026-10-22T10:32:02Z", "video_id": "7BZnLmuPqzc", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · 7BZnLmuPqzc · 예고 watching", "flow": "websub", "merge_key": "websub-notify:7BZnLmuPqzc", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "ts": "2026-10-22T10:55:02Z", "video_id": "7BZnLmuPqzc", "who": "ritsu"}
