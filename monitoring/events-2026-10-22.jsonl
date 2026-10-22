@@ -115,3 +115,5 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T12:48:10Z", "who": "千石ユノ"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T12:48:14Z", "who": "千石ユノ"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-22T12:50:25Z", "who": "バンドリ！TV LIVE 2026 #337"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-22T13:00:03Z", "who": ""}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f0d9d441", "result": "ok", "title": "【もにょもにょ】橘リルリの続きと、雑談・・・・・・！【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-10-22T13:00:03Z", "video_id": "TX6A6bCGqvk", "who": "ritsu"}
