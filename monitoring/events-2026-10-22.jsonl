@@ -74,3 +74,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_191bbba2", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "live", "ts": "2026-10-22T11:03:00Z", "video_id": "7BZnLmuPqzc", "who": "ritsu"}
 {"detail": "retweet skip: 폰 원문이 @bang_dream_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-22T11:03:15Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T11:03:17Z", "who": "峰月律"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-22T11:30:30Z", "who": "【もにょもにょ】橘リルリの続きと、雑談・・・・・・！【峰月律/ゆめみた】"}
