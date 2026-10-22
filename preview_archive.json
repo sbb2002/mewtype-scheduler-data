@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:50:00Z",
+  "generated_at": "2026-10-22T12:20:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3387,6 +3387,36 @@
       "title_ko": "【🟡아침활동】정말 좋은 온도라 푹 잤어...！！🌟 #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=Oul-xJOLBys",
       "video_id": "Oul-xJOLBys"
+    },
+    {
+      "actual_start": "2026-10-22T11:00:32Z",
+      "api_start_seen": "2026-10-22T11:00:00Z",
+      "archived_at": "2026-10-22T12:20:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-22T14:00:00Z",
+      "first_seen": "2026-10-21T12:13:34Z",
+      "host": null,
+      "id": "pv_191bbba2",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "unknown",
+      "last_updated": "2026-10-22T12:20:00Z",
+      "membership": true,
+      "scheduled_start": "2026-10-22T11:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2113193644370923796",
+      "state": "out",
+      "state_since": "2026-10-22T12:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/7BZnLmuPqzc/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【メン限】りっちゃんズ集会🌸10月",
+      "title_ko": "【멤버십 한정】리츠짱즈 모임🌸10월",
+      "url": "https://www.youtube.com/watch?v=7BZnLmuPqzc",
+      "video_id": "7BZnLmuPqzc",
+      "yt_tunein": true
     }
   ]
 }
