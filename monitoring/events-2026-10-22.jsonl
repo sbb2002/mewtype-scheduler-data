@@ -90,3 +90,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T11:49:45Z", "who": "峰月律"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-22T11:50:00Z", "who": "c5nKH98CfRM"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_191bbba2", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "end", "ts": "2026-10-22T11:50:00Z", "video_id": "7BZnLmuPqzc", "who": "ritsu"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-22T11:50:07Z", "who": ""}
