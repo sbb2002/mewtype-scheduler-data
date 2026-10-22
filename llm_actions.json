@@ -3175,6 +3175,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e9c53decc0",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日は、2回行動Day！🌟\n\n20:00~メン限🧸りっちゃんズ集会\n21:00~リルリのつづきと、おはなし…\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/TX6A6bCGqvk?si=45e3BjnFkRBGBApL\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2113155431313158254"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 기존 일정 그대로 안내하고 있어 취소·변경이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-22T06:31:15Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
