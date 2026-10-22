@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:43:09Z",
+  "generated_at": "2026-10-22T11:49:25Z",
   "tweets": {
     "arale": [
       {
@@ -409,6 +409,21 @@
         "text": "！？",
         "text_ko": "！？",
         "url": "https://x.com/i/status/2113212572996644986"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-24T11:49:22Z",
+        "handle": "ritsu_yumemita",
+        "id": "2113236266028618087",
+        "media": [
+          "https://pbs.twimg.com/media/HVO5Ls3akAE9usX.jpg"
+        ],
+        "posted_at": "2026-10-22T11:49:22Z",
+        "quote": null,
+        "received_at": "2026-10-22T11:49:25Z",
+        "text": "骨付き肉、食べました",
+        "text_ko": "뼈 있는 고기, 먹었어요",
+        "url": "https://x.com/i/status/2113236266028618087"
       }
     ],
     "yuno": [
