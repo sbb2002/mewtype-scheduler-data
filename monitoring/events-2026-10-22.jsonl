@@ -87,3 +87,4 @@
 {"detail": "broadcast-change none · 게시물은 현재 스트리밍 시작을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경한다는 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-22T11:43:09Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T11:43:36Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-22T11:49:25Z", "tweet_id": "2113236266028618087", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T11:49:45Z", "who": "峰月律"}
