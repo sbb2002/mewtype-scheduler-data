@@ -78,3 +78,5 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_f0d9d441", "result": "ok", "title": "【もにょもにょ】橘リルリの続きと、雑談・・・・・・！【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-22T11:30:28Z", "video_id": "TX6A6bCGqvk", "who": "ritsu"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-22T11:32:00Z", "who": ""}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-22T11:42:23Z", "who": "【ギター重ね録り】うちゅうのふしぎをアコギかばー！れつらご【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-22T11:42:23Z", "who": "c5nKH98CfRM"}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_c55aae4a", "result": "ok", "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー！れつらご【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "live", "ts": "2026-10-22T11:42:23Z", "video_id": "c5nKH98CfRM", "who": "nonoka"}
