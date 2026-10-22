@@ -56,3 +56,4 @@
 {"detail": "retweet skip: 폰 원문이 @BUSHIASIA_KR 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-22T09:37:34Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T09:37:35Z", "who": "仲町あられ"}
 {"detail": "retweet skip: 폰 원문이 @kuunerin 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-22T09:45:37Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T09:45:39Z", "who": "宮永ののか🐰🩹"}
