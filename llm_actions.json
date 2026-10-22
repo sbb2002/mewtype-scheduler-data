@@ -3247,6 +3247,25 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4107bfd2ff",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "【配信予定】\n\n今日 20:30- ギター重ね録り🎶\n\n久しぶりに重ね録り欲、たかまってます😍\nうちゅうのふしぎ予定🥹🎶",
+        "tag": "p#https://x.com/#1tweet-2113196648180637922"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 20:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-22T09:12:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
