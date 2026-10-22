@@ -3285,6 +3285,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7fb6d01d26",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信予定変更のおしらせ〉\n本日23:30からの配信をお休みさせて頂きます…！\n\nまた明日会おうね…！\nみんなゆっくり寝てね…！",
+        "tag": "p#https://x.com/#1tweet-2113250832242397201"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "예정된 방송을 취소·휴식한다는 내용이므로 향후 방송 일정 알림이 아니다. (근거: 「本日23:30からの配信をお休みさせて頂きます…！」)",
+      "summary": "본인 방송 예고 아님 — 〈配信予定変更のおしらせ〉\n本日23:30からの配信をお休みさせて頂きます…！\n\nまた明日会おうね…！\nみんなゆっくり寝",
+      "ts": "2026-10-22T12:47:16Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
