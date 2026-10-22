@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (TX6A6bCGqvk)",
-    "at": "2026-10-22T12:01:38Z",
+    "action": "본인 예고 센고쿠 유노 (〈配信のおしらせ〉\n10/23 10:30～ #ヴァンガード 開封\n\n今回はペル)",
+    "at": "2026-10-22T12:47:15Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "17c41b91a48ba01467514c3484eef5b3db4d7ae9",
+    "new_sha": "4c45bdb760a6f6a7998d7a59e5d8a2cbd72bc557",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-22T12:01:40Z",
+      "generated_at": "2026-10-22T12:20:00Z",
       "items": [
         {
           "actual_start": "2026-10-22T11:42:02Z",
@@ -126,7 +126,7 @@
           "assumed_live": false,
           "channel_key": "nonoka",
           "collab_with": null,
-          "concurrent_viewers": 541,
+          "concurrent_viewers": 589,
           "expires_at": "2026-10-22T14:41:44Z",
           "first_seen": "2026-10-22T11:42:23Z",
           "host": null,
@@ -134,7 +134,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-22T12:01:40Z",
+          "last_updated": "2026-10-22T12:20:00Z",
           "membership": false,
           "scheduled_start": "2026-10-22T11:41:44Z",
           "source": "api",
@@ -154,7 +154,7 @@
           "assumed_live": false,
           "channel_key": "ritsu",
           "collab_with": null,
-          "concurrent_viewers": 129,
+          "concurrent_viewers": 518,
           "expires_at": "2026-10-22T15:00:00Z",
           "first_seen": "2026-10-21T12:18:30Z",
           "host": null,
@@ -162,7 +162,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": "talk",
-          "last_updated": "2026-10-22T12:01:40Z",
+          "last_updated": "2026-10-22T12:20:00Z",
           "membership": false,
           "scheduled_start": "2026-10-22T12:00:00Z",
           "source": "api",
@@ -191,7 +191,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": "unknown",
-          "last_updated": "2026-10-22T12:01:40Z",
+          "last_updated": "2026-10-22T12:20:00Z",
           "membership": false,
           "scheduled_start": "2026-10-23T13:00:00Z",
           "source": "api",
@@ -219,7 +219,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-22T12:01:40Z",
+          "last_updated": "2026-10-22T12:20:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -247,7 +247,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-22T12:01:40Z",
+          "last_updated": "2026-10-22T12:20:00Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -288,35 +288,6 @@
           "title_ko": null,
           "url": null,
           "video_id": null
-        },
-        {
-          "actual_start": "2026-10-22T11:00:32Z",
-          "api_start_seen": "2026-10-22T11:00:00Z",
-          "assumed_live": false,
-          "channel_key": "ritsu",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-22T14:00:00Z",
-          "first_seen": "2026-10-21T12:13:34Z",
-          "host": null,
-          "id": "pv_191bbba2",
-          "info_at": null,
-          "info_source": "api",
-          "kind": "unknown",
-          "last_updated": "2026-10-22T12:01:40Z",
-          "membership": true,
-          "scheduled_start": "2026-10-22T11:00:00Z",
-          "source": "api",
-          "src_url": "https://x.com/i/status/2113193644370923796",
-          "state": "end",
-          "state_since": "2026-10-22T11:50:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/7BZnLmuPqzc/maxresdefault.jpg?v=6ad8ac30",
-          "time_tbd": false,
-          "title": "【メン限】りっちゃんズ集会🌸10月",
-          "title_ko": "【멤버십 한정】리츠짱즈 모임🌸10월",
-          "url": "https://www.youtube.com/watch?v=7BZnLmuPqzc",
-          "video_id": "7BZnLmuPqzc",
-          "yt_tunein": true
         }
       ]
     }
