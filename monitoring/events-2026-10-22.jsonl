@@ -113,3 +113,4 @@
 {"detail": "broadcast-change none · 게시물은 10/23 10:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-22T12:47:15Z", "via": "ingest", "who": "yuno"}
 {"collab_with": null, "detail": "yuno 방송 취소(LLM) · announced→out", "flow": "preview", "from_state": "announced", "id": "pv_db0f591b", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-22T12:47:16Z", "video_id": null, "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T12:48:10Z", "who": "千石ユノ"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T12:48:14Z", "who": "千石ユノ"}
