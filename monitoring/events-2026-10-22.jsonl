@@ -145,3 +145,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-22T14:25:06Z", "tweet_id": "2113275451078836498", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T14:25:16Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @kuunerin 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-22T15:12:01Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T15:12:03Z", "who": "藤都子"}
