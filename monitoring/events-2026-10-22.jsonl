@@ -81,3 +81,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-22T11:42:23Z", "who": "c5nKH98CfRM"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_c55aae4a", "result": "ok", "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー！れつらご【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "live", "ts": "2026-10-22T11:42:23Z", "video_id": "c5nKH98CfRM", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · c5nKH98CfRM · 예고 live", "flow": "websub", "merge_key": "websub-notify:c5nKH98CfRM", "result": "ok", "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー！れつらご【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-10-22T11:42:47Z", "video_id": "c5nKH98CfRM", "who": "nonoka"}
+{"detail": "retweet skip: 폰 원문이 @ShionShiino_ 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-22T11:43:11Z", "via": "ingest", "who": "nonoka"}
