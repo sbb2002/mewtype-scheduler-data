@@ -41,3 +41,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T06:01:35Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-22T06:31:15Z", "tweet_id": "2113155431313158254", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물에 기존 일정 그대로 안내하고 있어 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-22T06:31:15Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T06:31:40Z", "who": "峰月律"}
