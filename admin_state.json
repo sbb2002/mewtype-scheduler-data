@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (TX6A6bCGqvk)",
-    "at": "2026-10-22T06:31:15Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-10-22T09:00:08Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "5fe5f55258a69ff39ba89b101a7f19464f35c69b",
+    "new_sha": "54c6585192d8f6657be069ed26375833bc47dd79",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-21T23:50:00Z",
+      "generated_at": "2026-10-22T06:31:15Z",
       "items": [
         {
           "actual_start": null,
@@ -160,10 +160,11 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-21T23:50:00Z",
+          "last_updated": "2026-10-22T06:31:15Z",
           "membership": false,
           "scheduled_start": "2026-10-22T12:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2113155431313158254",
           "state": "upcoming",
           "state_since": "2026-10-21T12:18:30Z",
           "thumbnail": "https://i.ytimg.com/vi/TX6A6bCGqvk/maxresdefault.jpg?v=6ad8ad5a",
