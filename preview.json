@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-22T09:12:00Z",
+  "generated_at": "2026-10-22T10:32:02Z",
   "items": [
     {
       "actual_start": null,
@@ -95,19 +95,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "unknown",
-      "last_updated": "2026-10-22T09:00:08Z",
+      "last_updated": "2026-10-22T10:32:02Z",
       "membership": true,
       "scheduled_start": "2026-10-22T11:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2113193644370923796",
-      "state": "upcoming",
-      "state_since": "2026-10-21T12:13:34Z",
+      "state": "watching",
+      "state_since": "2026-10-22T10:32:02Z",
       "thumbnail": "https://i.ytimg.com/vi/7BZnLmuPqzc/maxresdefault.jpg?v=6ad8ac30",
       "time_tbd": false,
       "title": "【メン限】りっちゃんズ集会🌸10月",
       "title_ko": "【멤버십 한정】리츠짱즈 모임🌸10월",
       "url": "https://www.youtube.com/watch?v=7BZnLmuPqzc",
-      "video_id": "7BZnLmuPqzc"
+      "video_id": "7BZnLmuPqzc",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
