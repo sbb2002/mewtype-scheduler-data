@@ -101,3 +101,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_191bbba2", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸10月", "to_state": "out", "ts": "2026-10-22T12:20:00Z", "video_id": "7BZnLmuPqzc", "who": "ritsu"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-22T12:30:15Z", "who": "バンドリ！TV LIVE 2026 #337"}
 {"detail": "retweet skip: 폰 원문이 @BUSHIASIA_KR 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-22T12:47:15Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T12:47:17Z", "who": "千石ユノ"}
