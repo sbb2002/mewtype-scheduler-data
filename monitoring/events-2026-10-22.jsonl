@@ -75,3 +75,4 @@
 {"detail": "retweet skip: 폰 원문이 @bang_dream_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-22T11:03:15Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-22T11:03:17Z", "who": "峰月律"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-22T11:30:30Z", "who": "【もにょもにょ】橘リルリの続きと、雑談・・・・・・！【峰月律/ゆめみた】"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_f0d9d441", "result": "ok", "title": "【もにょもにょ】橘リルリの続きと、雑談・・・・・・！【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-22T11:30:28Z", "video_id": "TX6A6bCGqvk", "who": "ritsu"}
