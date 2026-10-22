@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:49:25Z",
+  "generated_at": "2026-10-22T12:01:38Z",
   "tweets": {
     "arale": [
       {
@@ -424,6 +424,25 @@
         "text": "骨付き肉、食べました",
         "text_ko": "뼈 있는 고기, 먹었어요",
         "url": "https://x.com/i/status/2113236266028618087"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-24T12:01:35Z",
+        "handle": "ritsu_yumemita",
+        "id": "2113239338402373999",
+        "media": [],
+        "posted_at": "2026-10-22T12:01:35Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVNvqhTakAAX84e.jpg"
+          ],
+          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日は、2回行動Day！🌟\n\n20:00~メン限🧸りっちゃんズ集会\n21:00~リルリのつづきと、おはなし…\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/TX6A6bCGqvk?si=45e3BjnFkRBGBApL\n\n🩵 ･･････････････････････ 🩵",
+          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵 \n\n오늘은 2회 행동Day!🌟\n\n20:00~멤버십 한정🧸리츠짱 모임\n21:00~릴리 이어서와 이야기…\n\n↻ URL\nhttps://www.youtube.com/live/TX6A6bCGqvk?si=45e3BjnFkRBGBApL\n\n🩵 ･･････････････････････ 🩵"
+        },
+        "received_at": "2026-10-22T12:01:38Z",
+        "text": "ﾊｼﾞﾒﾏｽ",
+        "text_ko": "시작합니다",
+        "url": "https://x.com/i/status/2113239338402373999"
       }
     ],
     "yuno": [
