@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T14:24:46Z",
+  "generated_at": "2026-10-22T14:25:06Z",
   "tweets": {
     "arale": [
       {
@@ -415,6 +415,25 @@
         "text": "とぅーびーこんてにゅーど",
         "text_ko": "To be continued",
         "url": "https://x.com/i/status/2113254846052925590"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-24T14:25:04Z",
+        "handle": "nonoka_yumemita",
+        "id": "2113275451078836498",
+        "media": [],
+        "posted_at": "2026-10-22T14:25:04Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/amplify_video_thumb/2113199176792285184/img/iKjKDQ7vWVI243S2.jpg"
+          ],
+          "text": "▶▶▶ ᶜᴼᴹᴵᴺᴳ ˢᴼᴼᴺ ◀◀◀\n\n#バンドリ #ゆめみた",
+          "text_ko": "▶▶▶ 곧 공개 ◀◀◀\n\n#뱅드림 #유메미타"
+        },
+        "received_at": "2026-10-22T14:25:06Z",
+        "text": "こゆのだいすきワクワク‼️🥰",
+        "text_ko": "코유노 너무 좋아 설레여‼️🥰",
+        "url": "https://x.com/i/status/2113275451078836498"
       }
     ],
     "ritsu": [
