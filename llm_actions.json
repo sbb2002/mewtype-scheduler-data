@@ -3194,6 +3194,59 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_cd938af62f",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n10/22(木)の配信スケジュール🌟\n＼\n\n【メン限】20:00～／💭21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n🎸20:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n✨23:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "【配信予定】\n\n今日 20:30- ギター重ね録り🎶\n\n久しぶりに重ね録り欲、たかまってます😍\nうちゅうのふしぎ予定🥹🎶",
+        "tag": "p#https://x.com/#1tweet-2113196648180637922"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信予定’와 오늘 20:30이라는 날짜·시각이 함께 있어 작성자의 앞으로 할 방송 예고이다. (근거: 「【配信予定】\n\n今日 20:30- ギター重ね録り🎶」)",
+      "summary": "본인 예고로 등록 — 20:30 JST · 【配信予定】\n\n今日 20:30- ギター重ね録り🎶\n\n久しぶりに重ね録り欲、た",
+      "ts": "2026-10-22T09:12:00Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "nonoka",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-22T14:30:00Z",
+            "first_seen": "2026-10-22T09:00:08Z",
+            "host": null,
+            "id": "pv_aa33e7c0",
+            "info_at": "2026-10-22T09:00:08Z",
+            "info_source": "x-relay",
+            "kind": "unknown",
+            "last_updated": "2026-10-22T09:00:08Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-22T11:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2113193644370923796",
+            "state": "announced",
+            "state_since": "2026-10-22T09:00:08Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
