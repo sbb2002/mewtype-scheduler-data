@@ -4,19 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-22T08:35:45Z",
-        "handle": "arale_yumemita",
-        "id": "2112462766510670266",
-        "media": [],
-        "posted_at": "2026-10-20T08:35:45Z",
-        "quote": null,
-        "received_at": "2026-10-20T08:35:48Z",
-        "text": "今日は天気ﾄﾞﾖﾝﾄﾞﾖﾝで、ﾓﾔﾓﾔ〜ですね…🫠\n\n「おはよう」ポストを書いたまま、閉じていたためみんなに届いてなかったし…ぴぇぇ",
-        "text_ko": "오늘은 날씨가 흐리고 흐리네, 답답하네…🫠\n\n「좋은 아침」 포스트를 쓴 채로 닫아두어서 모두에게 전달되지 않았고…피에에",
-        "url": "https://x.com/i/status/2112462766510670266"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-23T03:33:31Z",
         "handle": "arale_yumemita",
         "id": "2112749093877637483",
@@ -218,19 +205,6 @@
       }
     ],
     "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-10-22T08:28:44Z",
-        "handle": "nonoka_yumemita",
-        "id": "2112460998229778603",
-        "media": [],
-        "posted_at": "2026-10-20T08:28:44Z",
-        "quote": null,
-        "received_at": "2026-10-20T08:29:03Z",
-        "text": "きょう20:00くらいから配信ありまつ！！(外出中なのでもしかしたら少し遅くなるかもしれません！！！！！)",
-        "text_ko": "오늘 20시쯤부터 방송 있어요!!(외출 중이라 조금 늦을 수도 있어요!!!!!)",
-        "url": "https://x.com/i/status/2112460998229778603"
-      },
       {
         "channel_key": "nonoka",
         "expires_at": "2026-10-22T10:54:57Z",
