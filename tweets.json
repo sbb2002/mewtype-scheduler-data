@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T12:01:38Z",
+  "generated_at": "2026-10-22T12:47:15Z",
   "tweets": {
     "arale": [
       {
@@ -460,6 +460,25 @@
         "text": "〈配信のおしらせ〉\n10/20 22:30〜 罰ゲーム #ASMR\n\nアワーノーツで見事(？)天井したユノちゃんは罰ゲームASMRをすることに！\n\nでも、ユノちゃんだけに罪を背負わせたりしないよね…\nみんなにも苦しんでもらいますからね…\n\nhttps://www.youtube.com/live/E8Rsh-Av7Qk?si=sehO1ij5sIV97-7t",
         "text_ko": "〈방송 안내〉\n10/20 22:30~ 벌칙 게임 #ASMR\n\n아워노츠에서 멋지게(?) 천장을 달성한 유노짱이 벌칙 게임 ASMR을 할 거야!\n\n하지만 유노짱에게만 죄를 떠맡기지는 않을 거야…\n모두에게도 고통을 느끼게 할 테니까…\n\nhttps://www.youtube.com/live/E8Rsh-Av7Qk?si=sehO1ij5sIV97-7t",
         "url": "https://x.com/i/status/2112518152701858024"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-24T12:41:46Z",
+        "handle": "yuno_yumemita",
+        "id": "2113249450978414851",
+        "media": [],
+        "posted_at": "2026-10-22T12:41:46Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVO5Ls3akAE9usX.jpg"
+          ],
+          "text": "骨付き肉、食べました",
+          "text_ko": "뼈 있는 고기, 먹었어요"
+        },
+        "received_at": "2026-10-22T12:47:15Z",
+        "text": "峰月律、こんなに可愛いのにジェットコースターでちょこっとだけ落ちた時「うおw」って言ってた",
+        "text_ko": "미네츠키 리츠, 이렇게 귀여운데 롤러코스터에서 살짝만 떨어졌을 때 “우오 w”라고 했어",
+        "url": "https://x.com/i/status/2113249450978414851"
       }
     ]
   }
