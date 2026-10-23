@@ -7,3 +7,4 @@
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-22T21:20:12Z", "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_b7271dfe", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-23T00:00:13Z", "video_id": null, "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_69d2068f", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-23T00:00:13Z", "video_id": null, "who": "ritsu"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_463b30d3", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-23T00:00:13Z", "video_id": null, "who": "nonoka"}
