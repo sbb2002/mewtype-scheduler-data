@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:41:18Z",
+  "generated_at": "2026-10-23T04:07:47Z",
   "notices": [
     {
       "anchor_a": null,
@@ -135,6 +135,36 @@
       "title_slug": "生誕記念配信決定",
       "tweet_url": "https://x.com/i/status/2112175910661378122",
       "url": "https://youtube.com/@yuno_yumemita"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": null,
+      "body_for_llm": "📢本日より開催！ アニメイト池袋本店 北館1F広場にて、#アワーノーツ の特別展示を実施中です✨ 📅開催期間 (木)まで お近くにお越しの際はぜひご覧ください💫 #バンドリ",
+      "body_ko": "📢오늘부터 개최!\n\n아키하바라 아마이트 이케부쿠로 본점 북관 1층 광장에 #아워노츠 특별 전시 진행 중✨\n\n📅전시 기간\n11월 5일(목)까지\n\n근처에 오실 때 꼭 확인해주세요💫\n\n#뱅드림",
+      "body_raw": "📢本日より開催！\n\nアニメイト池袋本店 北館1F広場にて、#アワーノーツ の特別展示を実施中です✨\n\n📅開催期間\n11月5日(木)まで\n\nお近くにお越しの際はぜひご覧ください💫\n\n#バンドリ",
+      "categories": [
+        "game"
+      ],
+      "category": "etc",
+      "date": "2026-11-05",
+      "deadline": true,
+      "expires_at": "2026-11-05T15:00:00Z",
+      "first_seen": "2026-10-23T04:07:47Z",
+      "id": "2113482033259577715",
+      "last_updated": "2026-10-23T04:07:47Z",
+      "participants": null,
+      "seen_ids": [
+        "2113482033259577715"
+      ],
+      "site": "x",
+      "src_handle": "@bang_dream_on",
+      "time": null,
+      "title": "本日開催！アワーノーツ特別展示 #バンドリ",
+      "title_ko": "오늘 개최! 아워노츠 특별 전시 #뱅드림",
+      "title_raw": "本日より開催",
+      "title_slug": "本日より開催",
+      "tweet_url": "https://x.com/i/status/2113482033259577715",
+      "url": null
     },
     {
       "anchor_a": null,
