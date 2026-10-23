@@ -118,3 +118,5 @@
 {"candidates": 80, "detail": "candidates=80 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-23T14:10:06Z", "who": ""}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-23T15:04:21Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T15:04:31Z", "who": "バンドリ！アワーノーツ"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-23T16:00:00Z", "who": "GXE-zeOD3nc"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_6d29e909", "result": "ok", "title": "【🟡歌枠】#バンドリ ！歌枠✨️全１２バンドの曲を歌うよ～～～～～～～！！！！【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-23T16:00:00Z", "video_id": "GXE-zeOD3nc", "who": "arale"}
