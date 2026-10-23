@@ -30,14 +30,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (韓国でのリリースイベントが決定)",
+    "action": "소식 added (📍BLUESQUARE Woori WON Banking )",
     "at": "2026-10-23T11:18:41Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "d110ba6411ebe6c4de2f4d85f7ece7ce34c55047",
+    "new_sha": "0ba634b4203ecee571e14d1d71d16cf1bf09f9ad",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-23T10:00:53Z",
+      "generated_at": "2026-10-23T11:18:41Z",
       "notices": [
         {
           "anchor_a": "c_T1QlWWsOE",
@@ -672,6 +672,37 @@
           "title_slug": "チケット一般発売明日開始",
           "tweet_url": "https://x.com/i/status/2105960991897080077",
           "url": "https://bang-dream.com/events/nakamachiarale_live2026/"
+        },
+        {
+          "anchor_a": null,
+          "anchor_b": null,
+          "body_for_llm": "＼🎉韓国でのリリースイベントが決定🎉／ 夢限大みゅーたいぷ \"初”❗ 韓国・ソウルでの リリースイベントの開催が決定🛸✨ ⏰:2027年 (日) 📍:ソウル市内某所 参加方法やイベントの詳細は後日公開いたします💡 開催をおたのしみに🎶 #バンドリ #ゆめみた",
+          "body_ko": "＼🎉한국에서 릴리즈 이벤트가 결정🎉／\n\n무겐다이 뮤타입 \"초”❗\n한국·서울에서의\n릴리즈 이벤트 개최가 결정🛸✨\n\n⏰:2027년 1월 24일(일)\n📍:서울시내 어느 곳\n\n참가 방법과 이벤트 상세는 추후 공개합니다💡\n개최를 기대해 주세요🎶\n\n#뱅드림 #유메미타",
+          "body_raw": "＼🎉韓国でのリリースイベントが決定🎉／\n\n夢限大みゅーたいぷ \"初”❗\n韓国・ソウルでの\nリリースイベントの開催が決定🛸✨\n\n⏰:2027年1月24日(日)\n📍:ソウル市内某所\n\n参加方法やイベントの詳細は後日公開いたします💡\n開催をおたのしみに🎶\n\n#バンドリ #ゆめみた",
+          "categories": [
+            "event",
+            "goods"
+          ],
+          "category": "release",
+          "date": "2027-01-24",
+          "deadline": false,
+          "expires_at": "2027-01-24T15:00:00Z",
+          "first_seen": "2026-10-23T11:18:41Z",
+          "id": "2113590268029247835",
+          "last_updated": "2026-10-23T11:18:41Z",
+          "participants": null,
+          "seen_ids": [
+            "2113590268029247835"
+          ],
+          "site": "x",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "韓国・ソウルでのリリースイベント開催決定",
+          "title_ko": "한국·서울 릴리스 이벤트 개최 확정",
+          "title_raw": "韓国でのリリースイベントが決定",
+          "title_slug": "韓国でのリリースイベントが決定",
+          "tweet_url": "https://x.com/i/status/2113590268029247835",
+          "url": null
         },
         {
           "anchor_a": "23448",
