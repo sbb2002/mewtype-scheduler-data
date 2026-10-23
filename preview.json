@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-23T12:39:15Z",
+  "generated_at": "2026-10-23T12:40:02Z",
   "items": [
     {
       "actual_start": null,
@@ -189,7 +189,6 @@
       "kind": null,
       "last_updated": "2026-10-23T12:39:15Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-31T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -197,7 +196,7 @@
       "thumbnail": "https://i.ytimg.com/vi/HO4WIRTTnUs/maxresdefault.jpg?v=6adb5537",
       "time_tbd": false,
       "title": "【歌枠】秋のミニミニうたわく♪う～たうたうた♪【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【노래 방송】가을 미니미니 노래하고♪우~노래노래♪【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=HO4WIRTTnUs",
       "video_id": "HO4WIRTTnUs"
     },
