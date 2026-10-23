@@ -91,3 +91,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-23T12:35:51Z", "tweet_id": "2113608578250821658", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T12:36:12Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-23T12:35:51Z", "tweet_id": "2113609190069715142", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T12:36:18Z", "who": "藤都子"}
