@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "edit_preview",
+      "error": null,
+      "id": "bb85e76e22",
+      "job_id": null,
+      "ok": true,
+      "summary": "ritsu 【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】 ← {'scheduled_start': '2026-10-24T14:30:00Z'}",
+      "target": "pv_ebb0298b",
+      "ts": "2026-10-23T17:07:17Z"
+    },
+    {
       "action": "edit_tweet",
       "error": null,
       "id": "7dba7a2851",
