@@ -10,3 +10,6 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_463b30d3", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-23T00:00:13Z", "video_id": null, "who": "nonoka"}
 {"detail": "mode: added · 파싱 4건", "flow": "relay", "result": "ok", "ts": "2026-10-23T00:00:13Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 4건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T00:00:30Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-23T01:28:32Z", "who": "RrWC5DtJbyU"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_9790144d", "result": "ok", "title": "【 #ヴァンガード 】「Persona 30th Anniversary」開封の儀！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-23T01:28:32Z", "video_id": "RrWC5DtJbyU", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · RrWC5DtJbyU · 예고 watching", "flow": "websub", "merge_key": "websub-notify:RrWC5DtJbyU", "result": "ok", "title": "【 #ヴァンガード 】「Persona 30th Anniversary」開封の儀！【 #千石ユノ / #バンドリ 】", "ts": "2026-10-23T01:28:32Z", "video_id": "RrWC5DtJbyU", "who": "yuno"}
