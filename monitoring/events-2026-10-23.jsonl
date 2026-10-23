@@ -130,3 +130,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · GXE-zeOD3nc · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:GXE-zeOD3nc", "result": "ok", "title": "【🟡歌枠】#バンドリ ！歌枠✨️全１２バンドの曲を歌うよ～～～～～～～！！！！【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-23T17:00:36Z", "video_id": "GXE-zeOD3nc", "who": "arale"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-23T17:05:00Z", "who": "_P5EIkEjYhk"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_621d9e0a", "result": "ok", "title": "【でかいぬしゅうかい】来月の配信よていきめる# 25【宮永ののか/夢限大みゅーたいぷ】", "to_state": "end", "ts": "2026-10-23T17:05:00Z", "video_id": "_P5EIkEjYhk", "who": "nonoka"}
+{"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-23T17:06:27Z", "who": "/admin"}
