@@ -32,3 +32,4 @@
 {"detail": "banner mode: notice · 소식 added", "flow": "notice", "result": "ok", "ts": "2026-10-23T04:07:47Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T04:08:06Z", "who": "バンドリ！アワーノーツ"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-23T05:00:01Z", "who": "group"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-23T06:02:16Z", "via": "ingest", "who": "bang_dream_on"}
