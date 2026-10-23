@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 nonoka (_P5EIkEjYhk)",
-    "at": "2026-10-23T14:05:23Z",
+    "action": "회원 전용 라이브 nonoka (updated)",
+    "at": "2026-10-23T14:06:33Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "783fee1fa1c7764e6e1c0a3ab916139c7fcffdde",
+    "new_sha": "bcd7a214c93a94fe2435d357b9961eef5ee157ee",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-23T14:02:00Z",
+      "generated_at": "2026-10-23T14:05:23Z",
       "items": [
         {
           "actual_start": "2026-10-23T13:18:39Z",
@@ -322,6 +322,35 @@
           "title_ko": null,
           "url": null,
           "video_id": null
+        },
+        {
+          "actual_start": "2026-10-23T14:03:04Z",
+          "api_start_seen": "2026-10-23T14:00:00Z",
+          "assumed_live": false,
+          "channel_key": "nonoka",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-10-23T17:00:00Z",
+          "first_seen": "2026-10-23T14:05:23Z",
+          "host": null,
+          "id": "pv_621d9e0a",
+          "info_at": "2026-10-23T14:05:23Z",
+          "info_source": "personal",
+          "kind": null,
+          "last_updated": "2026-10-23T14:05:23Z",
+          "membership": false,
+          "needs_tl": true,
+          "scheduled_start": "2026-10-23T14:00:00Z",
+          "source": "personal",
+          "src_url": "https://x.com/i/status/2113632861014327425",
+          "state": "live",
+          "state_since": "2026-10-23T14:05:23Z",
+          "thumbnail": "https://i.ytimg.com/vi/_P5EIkEjYhk/maxresdefault.jpg?v=6adb61b3",
+          "time_tbd": false,
+          "title": "【でかいぬしゅうかい】来月の配信よていきめる# 25【宮永ののか/夢限大みゅーたいぷ】",
+          "title_ko": null,
+          "url": "https://www.youtube.com/watch?v=_P5EIkEjYhk",
+          "video_id": "_P5EIkEjYhk"
         }
       ]
     }
