@@ -81,3 +81,4 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_7f8aaed9", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸", "to_state": "upcoming", "ts": "2026-10-23T12:00:51Z", "video_id": "3kxGlR9CzWA", "who": "arale"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-23T12:00:51Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T12:01:21Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-23T12:10:01Z", "who": ""}
