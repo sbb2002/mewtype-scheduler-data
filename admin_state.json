@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "소식 added (📍BLUESQUARE Woori WON Banking )",
-    "at": "2026-10-23T11:18:41Z",
+    "action": "소식 added (ゆめみた ハロウィンパーティ生配信)",
+    "at": "2026-10-23T12:00:51Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "0ba634b4203ecee571e14d1d71d16cf1bf09f9ad",
+    "new_sha": "a241fffcbe6aa42d30e97a7ba25563f270455cff",
     "path": "notices.json",
     "prev_content": {
       "generated_at": "2026-10-23T11:18:41Z",
@@ -672,6 +672,38 @@
           "title_slug": "チケット一般発売明日開始",
           "tweet_url": "https://x.com/i/status/2105960991897080077",
           "url": "https://bang-dream.com/events/nakamachiarale_live2026/"
+        },
+        {
+          "anchor_a": "kimchikura",
+          "anchor_b": null,
+          "body_for_llm": "＼📣出演決定❗／ 2027年 (土)・24日(日)開催 KIMCHIKURA×ANISAMA SEOUL 2027 に 夢限大みゅーたいぷの出演が決定🛸✨ 📍BLUESQUARE Woori WON Banking Hall #ゆめみた はDAY1に出演いたします🌟 イベント詳細は公式Xを✔ #キムチクラ #アニサマ",
+          "body_ko": "＼📣출연 결정❗／\n\n2027년 1월 23일(토)·24일(일) 개최  \nKIMCHIKURA×ANISAMA SEOUL 2027 에  \n무겐다이 뮤타입의 출연이 결정🛸✨\n\n📍BLUESQUARE Woori WON Banking Hall\n\n#유메미타 는 DAY1에 출연합니다🌟\n\n이벤트 상세는 공식 X를✔  \nhttps://x.com/kimchikura\n\n#키무치클라 #아니사마",
+          "body_raw": "＼📣出演決定❗／\n\n2027年1月23日(土)・24日(日)開催\nKIMCHIKURA×ANISAMA SEOUL 2027 に\n夢限大みゅーたいぷの出演が決定🛸✨\n\n📍BLUESQUARE Woori WON Banking Hall\n\n#ゆめみた はDAY1に出演いたします🌟\n\nイベント詳細は公式Xを✔\nhttps://x.com/kimchikura\n\n#キムチクラ #アニサマ",
+          "categories": [
+            "live",
+            "event"
+          ],
+          "category": "etc",
+          "date": "2027-01-23",
+          "deadline": false,
+          "expires_at": "2027-01-23T15:00:00Z",
+          "first_seen": "2026-10-23T11:18:41Z",
+          "id": "2113589627122761929",
+          "last_updated": "2026-10-23T11:18:41Z",
+          "live_name": "KIMCHIKURA×ANISAMA SEOUL 2027",
+          "participants": null,
+          "seen_ids": [
+            "2113589627122761929"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "KIMCHIKURA×ANISAMA SEOUL 2027で夢限大みゅーたいぷが出演決定！",
+          "title_ko": "KIMCHIKURA×ANISAMA SEOUL 2027에서 무겐다이 뮤타입 출연 확정!",
+          "title_raw": "📍BLUESQUARE Woori WON Banking Hall",
+          "title_slug": "bluesquarewooriwonbankin",
+          "tweet_url": "https://x.com/i/status/2113589627122761929",
+          "url": "https://x.com/kimchikura"
         },
         {
           "anchor_a": null,
