@@ -111,3 +111,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-23T14:05:23Z", "tweet_id": "2113632861014327425", "via": "ingest", "who": "nonoka"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_621d9e0a", "result": "ok", "title": "【でかいぬしゅうかい】来月の配信よていきめる# 25【宮永ののか/夢限大みゅーたいぷ】", "to_state": "live", "ts": "2026-10-23T14:05:23Z", "video_id": "_P5EIkEjYhk", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 새로운 방송을 알리거나 일정 결정을 예고하는 내용이며, 기존에 나열된 방송을 취소하거나 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-23T14:05:23Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T14:05:51Z", "who": "宮永ののか🐰🩹"}
