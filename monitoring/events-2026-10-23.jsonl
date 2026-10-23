@@ -103,3 +103,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-23T13:28:10Z", "tweet_id": "2113621599815696513", "via": "ingest", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-23T13:28:10Z", "tweet_id": "2113622927551926671", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 23:00에 진행될 방송을 알리는 예고이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-23T13:28:10Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T13:28:33Z", "who": "宮永ののか🐰🩹"}
