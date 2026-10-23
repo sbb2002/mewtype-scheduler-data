@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:45:59Z",
+  "generated_at": "2026-10-23T07:53:16Z",
   "tweets": {
     "arale": [
       {
@@ -128,6 +128,21 @@
         "text": "YMMT♪\nYMMT♪\n\nやまもと ｼﾞｬﾅｲﾖ\nゆめみた ﾀﾞﾖｰ🤟",
         "text_ko": "YMMT♪\nYMMT♪\n\n야마모토 아니야\n유메미타다요🤟",
         "url": "https://x.com/i/status/2113271343227756696"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-25T07:47:04Z",
+        "handle": "arale_yumemita",
+        "id": "2113537678214103298",
+        "media": [
+          "https://pbs.twimg.com/media/HVTLUMKacAAKXnl.jpg"
+        ],
+        "posted_at": "2026-10-23T07:47:04Z",
+        "quote": null,
+        "received_at": "2026-10-23T07:53:16Z",
+        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/23(金) 22:00〜┊#イ中田丁なう\n\n┊ 歌枠 ┊バンドリ歌枠！！！！楽しみ！！\n\n🔗 https://www.youtube.com/live/GXE-zeOD3nc",
+        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 10/23(金) 22:00〜┊#イ中田丁なう\n\n┊ 노래 방송 ┊뱅드림노래 방송!!!! 기대돼!!\n\n🔗 https://www.youtube.com/live/GXE-zeOD3nc",
+        "url": "https://x.com/i/status/2113537678214103298"
       }
     ],
     "miyako": [
