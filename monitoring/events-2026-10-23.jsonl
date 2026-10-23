@@ -78,3 +78,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-23T11:30:17Z", "who": "【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_ebb0298b", "result": "ok", "title": "【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-23T11:30:15Z", "video_id": "ZJU3LBeTIRk", "who": "ritsu"}
 {"detail": "mode: added", "flow": "notice", "notice_id": "2113601342438785499", "result": "ok", "ts": "2026-10-23T12:00:51Z", "via": "ingest", "who": ""}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_7f8aaed9", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸", "to_state": "upcoming", "ts": "2026-10-23T12:00:51Z", "video_id": "3kxGlR9CzWA", "who": "arale"}
