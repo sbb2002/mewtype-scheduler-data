@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:20:00Z",
+  "generated_at": "2026-10-23T16:30:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3507,6 +3507,36 @@
       "title_ko": "【 #ヴァンガード 】「Persona 30th Anniversary」개봉식!【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=RrWC5DtJbyU",
       "video_id": "RrWC5DtJbyU"
+    },
+    {
+      "actual_start": "2026-10-23T13:18:39Z",
+      "api_start_seen": "2026-10-23T13:00:00Z",
+      "archived_at": "2026-10-23T16:30:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 3829,
+      "expires_at": "2026-10-18T16:00:00Z",
+      "first_seen": "2026-10-17T14:30:00Z",
+      "host": null,
+      "id": "pv_6d29e909",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "unknown",
+      "last_updated": "2026-10-23T16:30:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-23T13:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2111668595486859421",
+      "state": "out",
+      "state_since": "2026-10-23T16:30:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/GXE-zeOD3nc/maxresdefault.jpg?v=6ad263c4",
+      "time_tbd": false,
+      "title": "【🟡歌枠】#バンドリ ！歌枠✨️全１２バンドの曲を歌うよ～～～～～～～！！！！【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡노래 방송】#뱅드림 ！노래 방송✨️전 12밴드 곡을 부를게~！！！！【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=GXE-zeOD3nc",
+      "video_id": "GXE-zeOD3nc",
+      "yt_tunein": true
     }
   ]
 }
