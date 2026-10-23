@@ -113,3 +113,4 @@
 {"detail": "broadcast-change none · 게시물은 새로운 방송을 알리거나 일정 결정을 예고하는 내용이며, 기존에 나열된 방송을 취소하거나 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-23T14:05:23Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T14:05:51Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: yt-member-live updated", "flow": "relay", "result": "ok", "ts": "2026-10-23T14:06:33Z", "via": "ingest", "who": "nonoka"}
+{"detail": "회원 방송 시작 · nonoka (updated)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-23T14:06:42Z", "who": "宮永ののか -Miyanaga Nonoka- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【でかいぬしゅうかい】"}
