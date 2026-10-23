@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:26:56Z",
+  "generated_at": "2026-10-23T09:15:12Z",
   "notices": [
     {
       "anchor_a": null,
@@ -120,6 +120,36 @@
       "title_slug": "現在飲食店newvisionにて都内を中心に40",
       "tweet_url": "https://x.com/i/status/2105953493320347952",
       "url": null
+    },
+    {
+      "anchor_a": "ournotes",
+      "anchor_b": "bangdream!ournotes",
+      "body_for_llm": "📢『BanG Dream! Our Notes』×SWEETS PARADISE コラボカフェ続報🎉 コラボメニューやグッズの詳細を発表✨ (月)からの開催をぜひお楽しみに！ ▼詳細はこちら #バンドリ #アワーノーツ",
+      "body_ko": "📢『BanG Dream! Our Notes』×SWEETS PARADISE\n콜라보 카페 추가 소식🎉\n\n콜라보 메뉴와 굿즈 상세 발표✨\n11월 2일(월)부터 진행, 꼭 기대해 주세요!\n\n▼자세히 보기\nhttps://sweets-paradise.jp/collaboration/ournotes\n\n#뱅드림 #아워노츠",
+      "body_raw": "📢『BanG Dream! Our Notes』×SWEETS PARADISE\nコラボカフェ続報🎉\n\nコラボメニューやグッズの詳細を発表✨\n11月2日(月)からの開催をぜひお楽しみに！\n\n▼詳細はこちら\nhttps://sweets-paradise.jp/collaboration/ournotes\n\n#バンドリ #アワーノーツ",
+      "categories": [
+        "game"
+      ],
+      "category": "release",
+      "date": "2026-11-02",
+      "deadline": false,
+      "expires_at": "2026-11-02T15:00:00Z",
+      "first_seen": "2026-10-23T09:15:12Z",
+      "id": "2113559844963967263",
+      "last_updated": "2026-10-23T09:15:12Z",
+      "participants": null,
+      "seen_ids": [
+        "2113559844963967263"
+      ],
+      "site": "web",
+      "src_handle": "@bang_dream_on",
+      "time": null,
+      "title": "『BanG Dream! Our Notes』×SWEETS PARADISE コラボカフェ続報",
+      "title_ko": "『BanG Dream! Our Notes』×SWEETS PARADISE 콜라보 카페 추가 소식",
+      "title_raw": "コラボメニューやグッズの詳細を発表",
+      "title_slug": "コラボメニューやグッズの詳細を発表",
+      "tweet_url": "https://x.com/i/status/2113559844963967263",
+      "url": "https://sweets-paradise.jp/collaboration/ournotes"
     },
     {
       "anchor_a": "@yuno_yumemita",
