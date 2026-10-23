@@ -3547,6 +3547,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8d3de2dd0e",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "【配信予定】\n\n23:00- でかいぬメン限‼️\n\nこのあと、でかいぬメン限！\nよろしくお願いいたします🎶",
+        "tag": "p#https://x.com/#1tweet-2113622927551926671"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 23:00에 진행될 방송을 알리는 예고이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-23T13:28:10Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
