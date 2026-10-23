@@ -287,19 +287,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-10-22T15:00:07Z",
-        "handle": "nonoka_yumemita",
-        "id": "2112559495671083201",
-        "media": [],
-        "posted_at": "2026-10-20T15:00:07Z",
-        "quote": null,
-        "received_at": "2026-10-20T15:00:12Z",
-        "text": "たのしかった🎶\nおやすみ🎶😆",
-        "text_ko": "재밌었어🎶\n잘 자🎶😆",
-        "url": "https://x.com/i/status/2112559495671083201"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-10-23T10:50:33Z",
         "handle": "nonoka_yumemita",
         "id": "2112859077193937226",
@@ -437,25 +424,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-22T14:30:45Z",
-        "handle": "ritsu_yumemita",
-        "id": "2112552104976150829",
-        "media": [],
-        "posted_at": "2026-10-20T14:30:45Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HVDWvznaIAEy36z.jpg"
-          ],
-          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 23:30～\n\nホラーゲームをやります\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/xY_kxK1_XMM\n\n🩵 ･･････････････････････ 🩵",
-          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵\n\n　START 23:30～\n\n호러 게임 할게요\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/xY_kxK1_XMM\n\n🩵 ･･････････････････････ 🩵"
-        },
-        "received_at": "2026-10-20T14:30:52Z",
-        "text": "はじめます！",
-        "text_ko": "시작합니다!",
-        "url": "https://x.com/i/status/2112552104976150829"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-23T10:23:46Z",
