@@ -30,15 +30,46 @@
     }
   ],
   "undo": {
-    "action": "소식 added (✔https://youtu.be/c_T1QlWWsOE)",
-    "at": "2026-10-23T10:00:53Z",
+    "action": "소식 added (韓国でのリリースイベントが決定)",
+    "at": "2026-10-23T11:18:41Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "7dbc84047ca853f13170220d29a9b529f7fd5030",
+    "new_sha": "d110ba6411ebe6c4de2f4d85f7ece7ce34c55047",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-23T10:00:12Z",
+      "generated_at": "2026-10-23T10:00:53Z",
       "notices": [
+        {
+          "anchor_a": "c_T1QlWWsOE",
+          "anchor_b": null,
+          "body_for_llm": "▶▶▶夢限大みゅーたいぷ ◀◀◀ 𝟮𝟬𝟮𝟲.𝟭𝟬.𝟮𝟳(𝗧𝘂𝗲.) ✔ 𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 ▶▶▶ 夢我夢中 ◀◀◀ #バンドリ #ゆめみた",
+          "body_ko": "▶▶▶무겐다이 뮤타입 ◀◀◀\n\n2026.10.27(Tue.) 23:00\n\n✔https://youtu.be/c_T1QlWWsOE\n\n곧 공개\n\n▶▶▶　　 꿈에 빠진 나　　 ◀◀◀\n\n#뱅드림 #유메미타",
+          "body_raw": "▶▶▶夢限大みゅーたいぷ ◀◀◀\n\n　　   𝟮𝟬𝟮𝟲.𝟭𝟬.𝟮𝟳(𝗧𝘂𝗲.) 𝟮𝟯:𝟬𝟬\n\n✔https://youtu.be/c_T1QlWWsOE\n\n　　        𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡\n\n▶▶▶　　  夢我夢中  　　 ◀◀◀\n\n#バンドリ #ゆめみた",
+          "categories": [
+            "live"
+          ],
+          "category": "etc",
+          "date": "2026-10-23",
+          "deadline": false,
+          "expires_at": "2026-10-23T15:00:00Z",
+          "first_seen": "2026-10-23T10:00:53Z",
+          "id": "2113571347322593469",
+          "last_updated": "2026-10-23T10:00:53Z",
+          "live_date": "2026-10-27",
+          "participants": null,
+          "seen_ids": [
+            "2113571347322593469"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": "23:00",
+          "title": "2026.10.27（火）COMING SOON",
+          "title_ko": "2026.10.27 (화) COMING SOON",
+          "title_raw": "✔https://youtu.be/c_T1QlWWsOE",
+          "title_slug": "httpsyoutubect1qlwwsoe",
+          "tweet_url": "https://x.com/i/status/2113571347322593469",
+          "url": "https://youtu.be/c_T1QlWWsOE"
+        },
         {
           "anchor_a": null,
           "anchor_b": "virtus",
