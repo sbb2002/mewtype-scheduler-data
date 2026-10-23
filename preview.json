@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-23T14:10:00Z",
+  "generated_at": "2026-10-23T14:10:06Z",
   "items": [
     {
       "actual_start": "2026-10-23T13:18:39Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-10-23T14:10:00Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-10-23T14:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2113632861014327425",
@@ -136,7 +135,7 @@
       "thumbnail": "https://i.ytimg.com/vi/_P5EIkEjYhk/maxresdefault.jpg?v=6adb61b3",
       "time_tbd": false,
       "title": "【でかいぬしゅうかい】来月の配信よていきめる# 25【宮永ののか/夢限大みゅーたいぷ】",
-      "title_ko": null,
+      "title_ko": "【대규모 회의】다음 달 방송 일정 정하기 # 25【미야나가 노노카/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=_P5EIkEjYhk",
       "video_id": "_P5EIkEjYhk"
     },
