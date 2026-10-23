@@ -107,3 +107,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T13:28:43Z", "who": "仲町あられ"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-23T14:00:00Z", "who": "GXE-zeOD3nc"}
 {"assumed_live": false, "detail": "watching→upcoming", "flow": "preview", "from_state": "watching", "item_id": "pv_ebb0298b", "result": "ok", "title": "【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-23T14:00:00Z", "video_id": "ZJU3LBeTIRk", "who": "ritsu"}
+{"candidates": 79, "detail": "candidates=79 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-10-23T14:02:00Z", "who": ""}
