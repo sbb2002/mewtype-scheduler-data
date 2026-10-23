@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:15:12Z",
+  "generated_at": "2026-10-23T10:00:12Z",
   "notices": [
     {
       "anchor_a": null,
@@ -120,6 +120,36 @@
       "title_slug": "現在飲食店newvisionにて都内を中心に40",
       "tweet_url": "https://x.com/i/status/2105953493320347952",
       "url": null
+    },
+    {
+      "anchor_a": "y2jXT9dAvCo",
+      "anchor_b": "〜bangdream!ournotes〜だんらんtv！",
+      "body_for_llm": "📺 (月) より生配信✌ 「〜BanG Dream! Our Notes〜 だんらんTV！」 今回の出演者を発表！お楽しみに✨ 【MC】 橘 めいさん、涼泉 桜花さん 【ゲスト】 林 鼓子さん、渡瀬 結月さん、菱川 花菜さん ▼URL #アワーノーツ #だんらんTV",
+      "body_ko": "📺10월 26일(월) 20:00부터 생방송✌\n「〜BanG Dream! Our Notes〜 댄란TV！」\n\n이번 출연진 발표! 기대해 주세요✨\n\n【MC】\n타치바나 메이 씨, 료센 사쿠라카 씨\n\n【게스트】\n하야시 고코 씨, 와세 유즈키 씨, 히시카와 하나나 씨\n\n▼URL\nhttps://www.youtube.com/live/y2jXT9dAvCo\n\n#아워노트 #댄란TV",
+      "body_raw": "📺10月26日(月)20:00より生配信✌\n「〜BanG Dream! Our Notes〜 だんらんTV！」\n\n今回の出演者を発表！お楽しみに✨\n\n【MC】\n橘 めいさん、涼泉 桜花さん\n\n【ゲスト】\n林 鼓子さん、渡瀬 結月さん、菱川 花菜さん\n\n▼URL\nhttps://www.youtube.com/live/y2jXT9dAvCo\n\n#アワーノーツ #だんらんTV",
+      "categories": [
+        "game"
+      ],
+      "category": "live",
+      "date": "2026-10-26",
+      "deadline": false,
+      "expires_at": "2026-10-26T15:00:00Z",
+      "first_seen": "2026-10-23T10:00:12Z",
+      "id": "2113571141373870451",
+      "last_updated": "2026-10-23T10:00:12Z",
+      "participants": null,
+      "seen_ids": [
+        "2113571141373870451"
+      ],
+      "site": "youtube",
+      "src_handle": "@bang_dream_on",
+      "time": "20:00",
+      "title": "BanG Dream! Our Notes だんらんTV 出演者発表",
+      "title_ko": "BanG Dream! Our Notes 단란TV 출연진 발표",
+      "title_raw": "10月26日(月)20:00より生配信✌",
+      "title_slug": "月より生配信",
+      "tweet_url": "https://x.com/i/status/2113571141373870451",
+      "url": "https://www.youtube.com/live/y2jXT9dAvCo"
     },
     {
       "anchor_a": "ournotes",
