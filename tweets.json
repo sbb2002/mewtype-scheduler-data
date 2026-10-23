@@ -270,19 +270,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-10-23T10:50:33Z",
-        "handle": "nonoka_yumemita",
-        "id": "2112859077193937226",
-        "media": [],
-        "posted_at": "2026-10-21T10:50:33Z",
-        "quote": null,
-        "received_at": "2026-10-21T10:50:38Z",
-        "text": "ぎょうざはおいしいよ🥹🥟",
-        "text_ko": "만두 맛있어🥹🥟",
-        "url": "https://x.com/i/status/2112859077193937226"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-10-23T16:09:40Z",
         "handle": "nonoka_yumemita",
         "id": "2112939386291802436",
@@ -407,19 +394,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-23T10:23:46Z",
-        "handle": "ritsu_yumemita",
-        "id": "2112852337626841564",
-        "media": [],
-        "posted_at": "2026-10-21T10:23:46Z",
-        "quote": null,
-        "received_at": "2026-10-21T10:23:48Z",
-        "text": "おやすみだったので、ユノさんとデートしてきたよ",
-        "text_ko": "휴일이라서, 유노 씨와 데이트하고 왔어.",
-        "url": "https://x.com/i/status/2112852337626841564"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-24T06:28:10Z",
