@@ -42,3 +42,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T06:46:27Z", "who": "峰月律"}
 {"candidates": 19, "detail": "candidates=19 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-10-23T06:50:01Z", "who": ""}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-23T07:00:02Z", "who": "group"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-23T07:53:16Z", "tweet_id": "2113537678214103298", "via": "ingest", "who": "arale"}
