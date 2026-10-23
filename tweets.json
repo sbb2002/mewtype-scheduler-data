@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:34:28Z",
+  "generated_at": "2026-10-23T06:45:59Z",
   "tweets": {
     "arale": [
       {
@@ -491,6 +491,21 @@
         "text": "ﾊｼﾞﾒﾏｽ",
         "text_ko": "시작합니다",
         "url": "https://x.com/i/status/2113239338402373999"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-25T06:45:55Z",
+        "handle": "ritsu_yumemita",
+        "id": "2113522289522380935",
+        "media": [
+          "https://pbs.twimg.com/media/HVS9UW0aMAANH1-.jpg"
+        ],
+        "posted_at": "2026-10-23T06:45:55Z",
+        "quote": null,
+        "received_at": "2026-10-23T06:45:59Z",
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 21:00〜\n\n優等生、言葉を学ぶ ゲーム\n\n↻ ＵＲＬ\nhttps://youtube.com/live/ZJU3LBeTIRk?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n　START 21:00〜\n\n우등생, 말을 배우는 게임\n\n↻ URL\nhttps://youtube.com/live/ZJU3LBeTIRk?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2113522289522380935"
       }
     ],
     "yuno": [
