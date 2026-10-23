@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:28:36Z",
+  "generated_at": "2026-10-23T03:34:28Z",
   "tweets": {
     "arale": [
       {
@@ -591,6 +591,25 @@
         "text": "ヴァンガード開けるよー！！！！！\nhttps://youtube.com/live/RrWC5DtJbyU?feature=share",
         "text_ko": "밴가드 열어줄게!!!!!",
         "url": "https://x.com/i/status/2113442279193194828"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-25T03:34:05Z",
+        "handle": "yuno_yumemita",
+        "id": "2113474009962791230",
+        "media": [],
+        "posted_at": "2026-10-23T03:34:05Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVSQkcRaYAEQthJ.jpg"
+          ],
+          "text": "このあと15:00より、夢限大みゅーたいぷのオリジナル楽曲『新人類は仮想世界の夢を見るか？』を追加✨\n\nぜひお楽しみに！\n\n#バンドリ #アワーノーツ",
+          "text_ko": "이후 15:00부터, 무겐다이 뮤타입의 오리지널 곡『新人類は仮想世界の夢を見るか？』를 추가✨\n\n꼭 기대해 주세요!\n\n#뱅드림 #アワーノーツ"
+        },
+        "received_at": "2026-10-23T03:34:28Z",
+        "text": "えっ！！！！！！！！！！",
+        "text_ko": "엥!!!!!!!!!!",
+        "url": "https://x.com/i/status/2113474009962791230"
       }
     ]
   }
