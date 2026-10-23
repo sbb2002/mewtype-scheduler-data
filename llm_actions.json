@@ -3462,6 +3462,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_626008f858",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 21:00～\n\n優等生、言葉を学ぶ ゲーム\n\n↻ ＵＲＬ\nhttps://youtube.com/live/ZJU3LBeTIRk?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2113522289522380935"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 21:00에 시작하는 방송을 알리는 예고일 뿐, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-23T06:45:59Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
