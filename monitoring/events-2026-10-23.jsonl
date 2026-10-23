@@ -51,3 +51,4 @@
 {"detail": "banner mode: notice · 소식 added", "flow": "notice", "result": "ok", "ts": "2026-10-23T09:15:12Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T09:15:33Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-23T09:27:31Z", "tweet_id": "2113562943396966404", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-23T09:28:05Z", "who": "峰月律"}
