@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-23T11:30:15Z",
+  "generated_at": "2026-10-23T12:00:51Z",
   "items": [
     {
       "actual_start": null,
@@ -138,6 +138,40 @@
       "title_ko": "【🟡노래 방송】#뱅드림 ！노래 방송✨️전 12밴드 곡을 부를게~！！！！【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=GXE-zeOD3nc",
       "video_id": "GXE-zeOD3nc"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-10-27T12:30:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [
+        "yuno",
+        "nonoka",
+        "ritsu",
+        "miyako"
+      ],
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-23T15:00:51Z",
+      "first_seen": "2026-10-23T12:00:51Z",
+      "host": "group",
+      "id": "pv_7f8aaed9",
+      "info_at": "2026-10-23T12:00:51Z",
+      "info_source": "api",
+      "kind": "collab",
+      "last_updated": "2026-10-23T12:00:51Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-27T12:30:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2113601342438785499",
+      "state": "upcoming",
+      "state_since": "2026-10-23T12:00:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/3kxGlR9CzWA/maxresdefault.jpg?v=6ad9be86",
+      "time_tbd": false,
+      "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=3kxGlR9CzWA",
+      "video_id": "3kxGlR9CzWA"
     },
     {
       "actual_start": null,
