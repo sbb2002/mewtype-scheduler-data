@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "ingest_tweet",
+      "error": null,
+      "id": "74352b6ee5",
+      "job_id": null,
+      "ok": true,
+      "summary": "tweet-2113851579740963041",
+      "target": "nonoka",
+      "ts": "2026-10-24T04:43:29Z"
+    },
+    {
       "action": "edit_preview",
       "error": null,
       "id": "bb85e76e22",
