@@ -59,3 +59,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T07:16:45Z", "tweet_id": "2113264023919865890", "via": "ingest", "who": "miyako"}
 {"detail": "gap-fill: 폰 알림이 빠진 트윗 보충 · 2113264023919865890 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-24T07:16:45Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T07:17:03Z", "who": "藤都子"}
+{"detail": "live_info: 공연일 못 정함 — 「공연일 미정」 으로 올라감 · ✔https://youtu.be/c_T1QlWWsOE", "flow": "notice", "result": "warn", "ts": "2026-10-24T08:02:05Z", "via": "ingest", "who": ""}
