@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:35:00Z",
+  "generated_at": "2026-10-24T15:30:11Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3567,6 +3567,36 @@
       "title_ko": "【대규모 회의】다음 달 방송 일정 정하기 # 25【미야나가 노노카/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=_P5EIkEjYhk",
       "video_id": "_P5EIkEjYhk"
+    },
+    {
+      "actual_start": "2026-10-24T12:58:27Z",
+      "announced_start": "2026-10-24T13:00:00Z",
+      "api_start_seen": "2026-10-24T13:00:00Z",
+      "archived_at": "2026-10-24T15:30:11Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 988,
+      "expires_at": "2026-10-24T16:00:00Z",
+      "first_seen": "2026-10-24T12:37:50Z",
+      "host": null,
+      "id": "pv_09e54285",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-24T15:30:11Z",
+      "membership": false,
+      "scheduled_start": "2026-10-24T13:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2113979237040529725",
+      "state": "out",
+      "state_since": "2026-10-24T15:30:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/NxafIkzTAZQ/maxresdefault.jpg?v=6adca660",
+      "time_tbd": false,
+      "title": "【🟡嬉お知らせ】みんなびっくりするかも…？【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡기쁜 소식】다들 깜짝 놀랄지도…?【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=NxafIkzTAZQ",
+      "video_id": "NxafIkzTAZQ"
     }
   ]
 }
