@@ -120,3 +120,5 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T13:29:29Z", "who": "千石ユノ"}
 {"candidates": 80, "detail": "candidates=80 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-24T13:30:03Z", "who": ""}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-24T13:35:20Z", "who": "【 再来 】リピーター続出！ゆのちゃんカードショップ【 #千石ユノ / #バンドリ 】"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-24T13:35:20Z", "who": "2qfD7gPInG8"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_39eb83fb", "result": "ok", "title": "【 再来 】リピーター続出！ゆのちゃんカードショップ【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-24T13:35:20Z", "video_id": "2qfD7gPInG8", "who": "yuno"}
