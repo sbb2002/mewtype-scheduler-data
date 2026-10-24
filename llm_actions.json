@@ -3835,6 +3835,26 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bb7eb9bf4b",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 21:00～\n\n優等生、言葉を学ぶ ゲーム\n\n↻ ＵＲＬ\nhttps://youtube.com/live/ZJU3LBeTIRk?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "こちらの配信をはじめます！",
+        "tag": "p#https://x.com/#1tweet-2114001682128621825"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 \"こちらの配信をはじめます！\" 라고 현재 방송 시작을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-24T14:30:58Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
