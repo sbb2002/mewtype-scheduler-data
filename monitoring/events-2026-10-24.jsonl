@@ -23,3 +23,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T03:36:32Z", "tweet_id": "2113836948477669615", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T03:36:44Z", "who": "峰月律"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-24T03:36:44Z", "who": "/admin"}
+{"detail": "mode: none · 공식 글 아님 · 다른 계정 글: 작성자 @ritsu_yumemita", "flow": "relay", "result": "ok", "ts": "2026-10-24T03:44:26Z", "via": "ingest", "who": ""}
