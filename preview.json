@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-24T12:40:00Z",
+  "generated_at": "2026-10-24T12:40:06Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-10-24T12:40:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-24T13:00:00Z",
       "source": "api",
       "state": "watching",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/NxafIkzTAZQ/maxresdefault.jpg?v=6adca660",
       "time_tbd": false,
       "title": "【🟡嬉お知らせ】みんなびっくりするかも…？【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡기쁜 소식】다들 깜짝 놀랄지도…?【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=NxafIkzTAZQ",
       "video_id": "NxafIkzTAZQ"
     },
