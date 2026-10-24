@@ -3716,6 +3716,26 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_726dc6da7c",
+      "input": {
+        "channel_key": "yuno",
+        "quote": "【2026年10月 配信スケジュール】   \nバンドリ！夢限大みゅーたいぷ DJ & Mp. 千石ユノです🖤🩷  \n\nエゴサ▶︎ #みてユノ\n配信▶︎ #ユノの生存報告\nFA▶︎ #ユノ展\nVG▶︎ #ユノちとヴァンガード \n\nYouTube : https://youtube.com/@yuno_yumemita",
+        "raw": "〈配信予定変更のおしらせ〉\n\n10/24 22:30～ 内容変更\n10/25 23:30～ 内容、時間変更\n10/27 23:30～ 時間変更\n\nよろしくお願いします！",
+        "tag": "p#https://x.com/#1tweet-2113942650722418923"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信予定変更のおしらせ’는 기존 방송 일정의 변경을 알리는 글이며, 새로운 방송 예고가 아니므로 false로 판단했습니다. (근거: 「〈配信予定変更のおしらせ〉\n10/24 22:30～ 内容変更\n10/25 23:30～ 内容、時間変更\n10/27 23:30～ 時間変更」)",
+      "summary": "본인 방송 예고 아님 — 〈配信予定変更のおしらせ〉\n\n10/24 22:30～ 内容変更\n10/25 23:30～ 内容、時間変更\n10/27 ",
+      "ts": "2026-10-24T10:38:26Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
