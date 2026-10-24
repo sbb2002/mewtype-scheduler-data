@@ -3775,6 +3775,28 @@
       "undo": null,
       "undone": null,
       "who": "notice"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4546ebf2eb",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVO8ltla0AAA6rO.jpg"
+        ],
+        "raw": "Ave Mujica 7th LIVE「Virtus」\n開催記念 特別ログインボーナス🌙\n\nライブの開催を記念し「スター×50」「ライブロゴステッカー」をプレゼント✨\n\n※11月1日(日)20:59までにログインし、プレゼントボックスよりお受け取りください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2113963726831247375"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내 로그인 보너스로, 앱 안에서 아이템을 수령하도록 안내하고 있기 때문에 in_game이다. (근거: 「ライブの開催を記念し「スター×50」「ライブロゴステッカー」をプレゼント✨」 「※11月1日(日)20:59までにログインし、プレゼントボックスよりお受け取りく」) / 본문과 이미지에 인게임 이벤트와 가챠가 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-24T12:03:56Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
