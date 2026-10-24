@@ -3756,6 +3756,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2c78268723",
+      "input": {
+        "raw": "🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nご参加・ご声援いただき、ありがとうございました✨\n\n次回は、10/31(土) HMV&BOOKS SHIBUYA様にて開催❕\n\n💿詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお楽しみに🛸\n\n#バンドリ #ゆめみた",
+        "tag": "p#https://x.com/#1tweet-2113962592062624239",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "notice_timing",
+      "parent_id": null,
+      "reason": "오늘 있는 일(夢限大みゅーたいぷ 5th Single 「これはぼくたちの生存のあらすじ」リリースイベント)의 소감 — 다음 일정만 올림 / 글의 첫머리가 감사·보고 내용이며, 다음 일정 안내가 포함되어 있어 report로 판단한다. (근거: 「ご参加・ご声援いただき、ありがとうございました✨」)",
+      "summary": "소감 — 다음 일정만 소식으로 · 次回は、10/31(土) HMV&BOOKS SHIBUYA様にて開催",
+      "ts": "2026-10-24T12:03:56Z",
+      "undo": null,
+      "undone": null,
+      "who": "notice"
     }
   ]
 }
