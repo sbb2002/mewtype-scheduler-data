@@ -57,3 +57,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T06:28:57Z", "tweet_id": "2113880323520102481", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T06:29:11Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T07:16:45Z", "tweet_id": "2113264023919865890", "via": "ingest", "who": "miyako"}
+{"detail": "gap-fill: 폰 알림이 빠진 트윗 보충 · 2113264023919865890 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-24T07:16:45Z", "via": "ingest", "who": "miyako"}
