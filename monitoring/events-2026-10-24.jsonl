@@ -43,3 +43,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T04:43:47Z", "tweet_id": "2113851584719561114", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T04:43:56Z", "who": "宮永ののか🐰🩹"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-24T05:00:01Z", "who": "group"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T05:03:51Z", "tweet_id": "2113857562299007391", "via": "ingest", "who": "nonoka"}
