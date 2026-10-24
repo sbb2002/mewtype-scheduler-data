@@ -75,3 +75,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T10:39:01Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T10:53:31Z", "tweet_id": "2113946119688606074", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T10:53:53Z", "who": "峰月律"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T11:13:55Z", "tweet_id": "2113947857967567346", "via": "ingest", "who": "yuno"}
