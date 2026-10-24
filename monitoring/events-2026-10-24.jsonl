@@ -65,3 +65,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T08:02:28Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-24T09:52:09Z", "who": "愛美「AIM STAR」発売記念 オンライン大抽選会"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T10:01:23Z", "tweet_id": "2113933520112652778", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T10:01:38Z", "who": "藤都子"}
