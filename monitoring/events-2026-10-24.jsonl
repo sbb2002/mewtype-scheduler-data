@@ -135,3 +135,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T14:30:58Z", "tweet_id": "2114001682128621825", "via": "ingest", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · ZJU3LBeTIRk · 예고 live", "flow": "websub", "merge_key": "websub-notify:ZJU3LBeTIRk", "result": "ok", "title": "【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】", "ts": "2026-10-24T14:31:22Z", "video_id": "ZJU3LBeTIRk", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 \"こちらの配信をはじめます！\" 라고 현재 방송 시작을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-24T14:30:58Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T14:31:43Z", "who": "峰月律"}
