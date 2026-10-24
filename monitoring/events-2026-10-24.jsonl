@@ -103,3 +103,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · NxafIkzTAZQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:NxafIkzTAZQ", "result": "ok", "title": "【🟡嬉お知らせ】みんなびっくりするかも…？【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-24T12:37:50Z", "video_id": "NxafIkzTAZQ", "who": "arale"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-24T12:40:00Z", "who": "NxafIkzTAZQ"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_09e54285", "result": "ok", "title": "【🟡嬉お知らせ】みんなびっくりするかも…？【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-10-24T12:40:00Z", "video_id": "NxafIkzTAZQ", "who": "arale"}
+{"candidates": 80, "detail": "candidates=80 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-24T12:40:06Z", "who": ""}
