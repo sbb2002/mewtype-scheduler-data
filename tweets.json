@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:01:23Z",
+  "generated_at": "2026-10-24T10:38:26Z",
   "tweets": {
     "arale": [
       {
@@ -308,6 +308,26 @@
         "text": "ぺろきゃん もらた🎃",
         "text_ko": "페로캔 받았다🎃",
         "url": "https://x.com/i/status/2113933520112652778"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-10-26T10:34:16Z",
+        "handle": "miyako_yumemita",
+        "id": "2113942141345128899",
+        "media": [],
+        "posted_at": "2026-10-24T10:34:16Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVYv63RbMAANNdH.jpg",
+            "https://pbs.twimg.com/media/HVYv63Va4AAkQHc.jpg"
+          ],
+          "text": "◤#ヴァイスシュヴァルツ今日のカード◢\n\nブースターパック BanG Dream! [夢限大みゅーたいぷ]\n\n収録パラレルカードを公開✨\n・SEC「夢限大みゅーたいぷ」\n・SR＊「まるくん」\n\n商品情報はこちら\nhttps://ws-tcg.com/products/bdy_bp/\n\n#ゆめみた #バンドリ",
+          "text_ko": "◤#바이스슈바르츠 오늘의 카드◢\n\n부스터팩 BanG Dream! [무겐다이 뮤타입]\n\n수록된 패럴 카드 공개✨\n・SEC「무겐다이 뮤타입」\n・SR＊「마루군」\n\n상품 정보는 여기\nhttps://ws-tcg.com/products/bdy_bp/\n\n#유메미타 #뱅드림"
+        },
+        "received_at": "2026-10-24T10:38:26Z",
+        "text": "ฅ∬꒰ ◠ ᴥ ◠꙳꒱ﾎﾞｸﾉ ｶｰﾄﾞ❣️",
+        "text_ko": "내 카드❣️",
+        "url": "https://x.com/i/status/2113942141345128899"
       }
     ],
     "nonoka": [
