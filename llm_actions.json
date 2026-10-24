@@ -3626,6 +3626,36 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e22638583e",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n　𝗦𝗧𝗔𝗥𝗧 21:00～\n\n優等生、言葉を学ぶ ゲーム\n\n↻ ＵＲＬ\nhttps://youtube.com/live/ZJU3LBeTIRk?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "予定変更💥\n\nごめんなさい、機材が今日は不機嫌モードのようで、明日の夜23:30からに変更いたします…！！；；",
+        "tag": "p#https://x.com/#1tweet-2113562943396966404"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에서 오늘(10/23) 방송을 내일 밤 23:30으로 변경한다는 내용이 명시되어 있어 해당 방송 일정이 수정된 것으로 판단했습니다.",
+      "summary": "방송 시각 변경 1건 → 10/24 23:30",
+      "ts": "2026-10-24T03:44:51Z",
+      "undo": {
+        "changes": [
+          {
+            "field": "scheduled_start",
+            "from": "2026-10-23T12:00:00Z",
+            "id": "pv_ebb0298b",
+            "to": "2026-10-24T14:30:00Z"
+          }
+        ],
+        "type": "restore_fields"
+      },
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
