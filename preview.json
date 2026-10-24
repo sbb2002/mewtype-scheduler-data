@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-24T14:30:59Z",
+  "generated_at": "2026-10-24T14:30:58Z",
   "items": [
     {
       "actual_start": "2026-10-24T12:58:27Z",
@@ -146,7 +146,7 @@
       "assumed_live": false,
       "channel_key": "ritsu",
       "collab_with": null,
-      "concurrent_viewers": 113,
+      "concurrent_viewers": 140,
       "expires_at": "2026-10-23T15:00:00Z",
       "first_seen": "2026-10-23T06:45:20Z",
       "host": null,
@@ -154,7 +154,7 @@
       "info_at": "2026-10-24T14:00:00Z",
       "info_source": "api",
       "kind": "game",
-      "last_updated": "2026-10-24T14:30:59Z",
+      "last_updated": "2026-10-24T14:30:58Z",
       "membership": false,
       "scheduled_start": "2026-10-24T14:30:00Z",
       "source": "api",
