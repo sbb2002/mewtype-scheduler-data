@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:01:42Z",
+  "generated_at": "2026-10-24T13:29:00Z",
   "tweets": {
     "arale": [
       {
@@ -753,6 +753,21 @@
         "text": "#ののらー",
         "text_ko": "#노노라",
         "url": "https://x.com/i/status/2113947857967567346"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-26T13:28:57Z",
+        "handle": "yuno_yumemita",
+        "id": "2113986102092824974",
+        "media": [
+          "https://pbs.twimg.com/media/HVZjJu1bQAE47Ij.jpg"
+        ],
+        "posted_at": "2026-10-24T13:28:57Z",
+        "quote": null,
+        "received_at": "2026-10-24T13:29:00Z",
+        "text": "〈配信のおしらせ〉\n10/24 22:30〜 カドショ\n\n久しぶりだね✋\n\nhttps://www.youtube.com/live/2qfD7gPInG8?si=c7HvlGRVVwGMXJwS",
+        "text_ko": "〈방송 안내〉\n10/24 22:30~ 카도쇼\n\n오랜만이네✋\n\nhttps://www.youtube.com/live/2qfD7gPInG8?si=c7HvlGRVVwGMXJwS",
+        "url": "https://x.com/i/status/2113986102092824974"
       }
     ]
   }
