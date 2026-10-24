@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "/edit preview pv_ebb0298b",
-    "at": "2026-10-23T17:07:12Z",
+    "action": "URL 확정 예고 ritsu (ZJU3LBeTIRk)",
+    "at": "2026-10-24T03:44:51Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f57aa16c93a74c1ef5eefca1bb65a316766bd17a",
+    "new_sha": "b13117d6a537a2984f2e38a17b820efc37602f3b",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-23T17:05:00Z",
+      "generated_at": "2026-10-23T17:35:00Z",
       "items": [
         {
           "actual_start": null,
@@ -134,7 +134,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-23T17:05:00Z",
+          "last_updated": "2026-10-23T17:35:00Z",
           "membership": false,
           "scheduled_start": "2026-10-23T12:00:00Z",
           "source": "api",
@@ -168,7 +168,7 @@
           "info_at": "2026-10-23T12:00:51Z",
           "info_source": "api",
           "kind": "collab",
-          "last_updated": "2026-10-23T17:05:00Z",
+          "last_updated": "2026-10-23T17:35:00Z",
           "membership": false,
           "scheduled_start": "2026-10-27T12:30:00Z",
           "source": "x-relay",
@@ -196,7 +196,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-23T17:05:00Z",
+          "last_updated": "2026-10-23T17:35:00Z",
           "membership": false,
           "scheduled_start": "2026-10-31T12:30:00Z",
           "source": "api",
@@ -223,7 +223,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-23T17:05:00Z",
+          "last_updated": "2026-10-23T17:35:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -251,7 +251,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-23T17:05:00Z",
+          "last_updated": "2026-10-23T17:35:00Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -263,35 +263,6 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
-        },
-        {
-          "actual_start": "2026-10-23T14:03:04Z",
-          "announced_start": "2026-10-23T14:00:00Z",
-          "api_start_seen": "2026-10-23T14:00:00Z",
-          "assumed_live": false,
-          "channel_key": "nonoka",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-23T17:00:00Z",
-          "first_seen": "2026-10-23T14:05:23Z",
-          "host": null,
-          "id": "pv_621d9e0a",
-          "info_at": "2026-10-23T14:05:23Z",
-          "info_source": "personal",
-          "kind": null,
-          "last_updated": "2026-10-23T17:05:00Z",
-          "membership": true,
-          "scheduled_start": "2026-10-23T14:00:00Z",
-          "source": "personal",
-          "src_url": "https://x.com/i/status/2113632861014327425",
-          "state": "end",
-          "state_since": "2026-10-23T17:05:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/_P5EIkEjYhk/maxresdefault.jpg?v=6adb61b3",
-          "time_tbd": false,
-          "title": "【でかいぬしゅうかい】来月の配信よていきめる# 25【宮永ののか/夢限大みゅーたいぷ】",
-          "title_ko": "【대규모 회의】다음 달 방송 일정 정하기 # 25【미야나가 노노카/무겐다이 뮤타입】",
-          "url": "https://www.youtube.com/watch?v=_P5EIkEjYhk",
-          "video_id": "_P5EIkEjYhk"
         }
       ]
     }
