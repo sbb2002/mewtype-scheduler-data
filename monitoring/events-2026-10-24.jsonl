@@ -158,3 +158,4 @@
 {"detail": "broadcast-change none · 게시물 내용이 방송 취소나 일정 변경을 언급하지 않고 단순 인사·후기이므로", "flow": "tweet", "result": "ok", "ts": "2026-10-24T16:46:58Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T16:47:15Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T16:48:37Z", "tweet_id": "2114036335841542356", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T16:48:49Z", "who": "仲町あられ"}
