@@ -7,3 +7,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T01:19:38Z", "tweet_id": "2113802540651569337", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T01:19:55Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T01:29:03Z", "tweet_id": "2113804920772338154", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물은 1월 23일 행사 참여 안내이며, 제시된 10월 27일과 12월 24일 방송과는 관련이 없으므로 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-24T01:29:03Z", "via": "ingest", "who": "arale"}
