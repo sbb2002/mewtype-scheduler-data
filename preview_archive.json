@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:35:00Z",
+  "generated_at": "2026-10-24T16:10:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3627,6 +3627,37 @@
       "title_ko": "【 재방 】리피터 연속 등장! 유노짱 카드 샵【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=2qfD7gPInG8",
       "video_id": "2qfD7gPInG8"
+    },
+    {
+      "actual_start": "2026-10-24T14:30:20Z",
+      "announced_start": "2026-10-23T12:00:00Z",
+      "api_start_seen": "2026-10-24T14:30:00Z",
+      "archived_at": "2026-10-24T16:10:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 809,
+      "expires_at": "2026-10-23T15:00:00Z",
+      "first_seen": "2026-10-23T06:45:20Z",
+      "host": null,
+      "id": "pv_ebb0298b",
+      "info_at": "2026-10-24T14:00:00Z",
+      "info_source": "api",
+      "kind": "game",
+      "last_updated": "2026-10-24T16:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-24T14:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2113522289522380935",
+      "state": "out",
+      "state_since": "2026-10-24T16:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZJU3LBeTIRk/maxresdefault.jpg?v=6adb0240",
+      "time_tbd": false,
+      "title": "【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】",
+      "title_ko": "【모지피탄 앙코르】우등생, 말을 배우다【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=ZJU3LBeTIRk",
+      "video_id": "ZJU3LBeTIRk",
+      "yt_tunein": true
     }
   ]
 }
