@@ -45,6 +45,19 @@
       },
       {
         "channel_key": "arale",
+        "expires_at": "2026-10-25T12:54:13Z",
+        "handle": "arale_yumemita",
+        "id": "2113614974916727224",
+        "media": [],
+        "posted_at": "2026-10-23T12:54:13Z",
+        "quote": null,
+        "received_at": "2026-10-24T12:23:54Z",
+        "text": "用事です！！！！！！誤字...",
+        "text_ko": "볼일이에요!!!!!! 오타...",
+        "url": "https://x.com/i/status/2113614974916727224"
+      },
+      {
+        "channel_key": "arale",
         "expires_at": "2026-10-25T13:20:33Z",
         "handle": "arale_yumemita",
         "id": "2113621599815696513",
