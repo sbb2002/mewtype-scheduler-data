@@ -109,3 +109,4 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-24T12:58:42Z", "who": "【🟡嬉お知らせ】みんなびっくりするかも…？【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-24T12:58:42Z", "who": "NxafIkzTAZQ"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_09e54285", "result": "ok", "title": "【🟡嬉お知らせ】みんなびっくりするかも…？【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-24T12:58:42Z", "video_id": "NxafIkzTAZQ", "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T13:01:42Z", "tweet_id": "2113979237040529725", "via": "ingest", "who": "arale"}
