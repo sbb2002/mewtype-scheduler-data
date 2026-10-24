@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (ZJU3LBeTIRk)",
+    "action": "/edit preview pv_ebb0298b",
     "at": "2026-10-24T03:44:51Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "b13117d6a537a2984f2e38a17b820efc37602f3b",
+    "new_sha": "15b4d194e2eee179d3560cbebac85a43a92608c0",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-23T17:35:00Z",
+      "generated_at": "2026-10-24T03:44:51Z",
       "items": [
         {
           "actual_start": null,
@@ -134,7 +134,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-23T17:35:00Z",
+          "last_updated": "2026-10-24T03:44:51Z",
           "membership": false,
           "scheduled_start": "2026-10-23T12:00:00Z",
           "source": "api",
