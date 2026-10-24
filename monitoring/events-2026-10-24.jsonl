@@ -13,3 +13,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-24T02:00:11Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T02:00:14Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner skip: 리트윗 폰 원문이 @hinano_sak122 의 글", "flow": "notice", "result": "ok", "ts": "2026-10-24T03:01:56Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "무시(반영 대상 아님) · 게임 계정 리트윗 — 폰 원문이 @hinano_sak122 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T03:01:58Z", "who": "バンドリ！アワーノーツ"}
