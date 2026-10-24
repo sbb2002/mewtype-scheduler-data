@@ -68,3 +68,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T10:01:38Z", "who": "藤都子"}
 {"detail": "banner mode: none · 가챠 「和泉朋花 Happy Birthday 26-27 ガチャ」 버림 — 시작 일자가 적혀 있지 않고 붙을 배너도 없음", "flow": "notice", "result": "ok", "ts": "2026-10-24T10:01:23Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T10:01:42Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T10:38:26Z", "tweet_id": "2113942141345128899", "via": "ingest", "who": "miyako"}
