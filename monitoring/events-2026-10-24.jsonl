@@ -74,3 +74,4 @@
 {"detail": "broadcast-change none · 게시물에 언급된 날짜와 시간(10/24, 10/25, 10/27)이 현재 제공된 방송 목록의 01/01 방송과 일치하지 않아 어떤 방송을 취소하거나 변경하는지 알 수 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-24T10:38:26Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T10:39:01Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T10:53:31Z", "tweet_id": "2113946119688606074", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T10:53:53Z", "who": "峰月律"}
