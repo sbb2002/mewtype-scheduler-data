@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-24T13:29:00Z",
+  "generated_at": "2026-10-24T13:30:03Z",
   "items": [
     {
       "actual_start": "2026-10-24T12:58:27Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-10-24T13:29:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-24T13:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2113986102092824974",
@@ -136,7 +135,7 @@
       "thumbnail": "https://i.ytimg.com/vi/2qfD7gPInG8/maxresdefault.jpg?v=6adcb252",
       "time_tbd": false,
       "title": "【 再来 】リピーター続出！ゆのちゃんカードショップ【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 재방 】리피터 연속 등장! 유노짱 카드 샵【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=2qfD7gPInG8",
       "video_id": "2qfD7gPInG8"
     },
