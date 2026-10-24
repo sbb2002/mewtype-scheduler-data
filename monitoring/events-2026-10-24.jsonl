@@ -111,3 +111,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_09e54285", "result": "ok", "title": "【🟡嬉お知らせ】みんなびっくりするかも…？【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-24T12:58:42Z", "video_id": "NxafIkzTAZQ", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T13:01:42Z", "tweet_id": "2113979237040529725", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 10/24 22:00에 시작하는 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-24T13:01:42Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T13:02:26Z", "who": "仲町あられ"}
