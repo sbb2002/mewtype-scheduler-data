@@ -124,3 +124,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_39eb83fb", "result": "ok", "title": "【 再来 】リピーター続出！ゆのちゃんカードショップ【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-24T13:35:20Z", "video_id": "2qfD7gPInG8", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T13:38:16Z", "tweet_id": "2113988435610579423", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T13:38:33Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-24T13:43:57Z", "via": "ingest", "who": ""}
