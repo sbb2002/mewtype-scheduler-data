@@ -96,3 +96,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T12:23:54Z", "tweet_id": "2113614974916727224", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill: 폰 알림이 빠진 트윗 보충 · 2113614974916727224 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-24T12:23:54Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T12:24:26Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T12:29:38Z", "tweet_id": "2113971017291059477", "via": "ingest", "who": "miyako"}
