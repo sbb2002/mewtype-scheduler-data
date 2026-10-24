@@ -10,3 +10,4 @@
 {"detail": "broadcast-change none · 게시물은 1월 23일 행사 참여 안내이며, 제시된 10월 27일과 12월 24일 방송과는 관련이 없으므로 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-24T01:29:03Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T01:29:19Z", "who": "仲町あられ"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-24T02:00:02Z", "who": "group"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-24T02:00:11Z", "via": "ingest", "who": ""}
