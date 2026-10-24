@@ -61,3 +61,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T07:17:03Z", "who": "藤都子"}
 {"detail": "live_info: 공연일 못 정함 — 「공연일 미정」 으로 올라감 · ✔https://youtu.be/c_T1QlWWsOE", "flow": "notice", "result": "warn", "ts": "2026-10-24T08:02:05Z", "via": "ingest", "who": ""}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2113903321341903015", "result": "ok", "ts": "2026-10-24T08:02:05Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-24T08:02:05Z", "via": "ingest", "who": ""}
