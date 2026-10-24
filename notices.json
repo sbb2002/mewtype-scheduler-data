@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:02:05Z",
+  "generated_at": "2026-10-24T12:03:56Z",
   "notices": [
     {
       "anchor_a": null,
@@ -181,6 +181,37 @@
       "title_slug": "ゆめみたハロウィンパーティ生配信",
       "tweet_url": "https://x.com/i/status/2113601342438785499",
       "url": "https://youtube.com/live/3kxGlR9CzWA"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": null,
+      "body_for_llm": "次回は、 (土) HMV&BOOKS SHIBUYA様にて開催❕",
+      "body_ko": "다음 방송은 10/31(토) HMV&BOOKS SHIBUYA에서 개최!",
+      "body_raw": "次回は、10/31(土) HMV&BOOKS SHIBUYA様にて開催❕",
+      "categories": [
+        "live"
+      ],
+      "category": "etc",
+      "date": "2026-10-31",
+      "deadline": false,
+      "expires_at": "2026-10-31T15:00:00Z",
+      "first_seen": "2026-10-24T12:03:56Z",
+      "id": "2113962592062624239",
+      "last_updated": "2026-10-24T12:03:56Z",
+      "live_date": "2026-10-31",
+      "participants": null,
+      "seen_ids": [
+        "2113962592062624239"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "次回は、 (土) HMV&BOOKS SHIBUYA様にて開催❕",
+      "title_ko": "다음은 (토) HMV&BOOKS SHIBUYA에서 개최❕",
+      "title_raw": "次回は、10/31(土) HMV&BOOKS SHIBUYA様にて開催",
+      "title_slug": "次回は土hmvbooksshibuya様にて開催",
+      "tweet_url": "https://x.com/i/status/2113962592062624239",
+      "url": null
     },
     {
       "anchor_a": "ournotes",
