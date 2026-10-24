@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "/edit preview pv_ebb0298b",
-    "at": "2026-10-24T03:44:51Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-10-24T12:03:56Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "15b4d194e2eee179d3560cbebac85a43a92608c0",
+    "new_sha": "bae5cac31f3e8955e830af8f7ce717184d686fc6",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -131,12 +131,12 @@
           "first_seen": "2026-10-23T06:45:20Z",
           "host": null,
           "id": "pv_ebb0298b",
-          "info_at": null,
-          "info_source": "api",
+          "info_at": "2026-10-24T03:44:51Z",
+          "info_source": "personal",
           "kind": null,
           "last_updated": "2026-10-24T03:44:51Z",
           "membership": false,
-          "scheduled_start": "2026-10-23T12:00:00Z",
+          "scheduled_start": "2026-10-24T14:30:00Z",
           "source": "api",
           "src_url": "https://x.com/i/status/2113522289522380935",
           "state": "upcoming",
