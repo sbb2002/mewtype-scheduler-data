@@ -155,3 +155,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T16:17:08Z", "tweet_id": "2114028397819310533", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-24T16:17:19Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-24T16:46:58Z", "tweet_id": "2114035917279375469", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물 내용이 방송 취소나 일정 변경을 언급하지 않고 단순 인사·후기이므로", "flow": "tweet", "result": "ok", "ts": "2026-10-24T16:46:58Z", "via": "ingest", "who": "arale"}
