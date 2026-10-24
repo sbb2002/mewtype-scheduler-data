@@ -129,3 +129,4 @@
 {"candidates": 79, "detail": "candidates=79 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-24T14:00:00Z", "who": ""}
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-24T14:10:00Z", "who": "ZJU3LBeTIRk"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_ebb0298b", "result": "ok", "title": "【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-24T14:10:00Z", "video_id": "ZJU3LBeTIRk", "who": "ritsu"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-24T14:30:59Z", "who": "【もじぴったんアンコール】優等生、言葉を学ぶ【峰月律/ゆめみた】"}
