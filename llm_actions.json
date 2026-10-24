@@ -3816,6 +3816,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_72a11d983e",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/24 22:30～ カドショ\n\n久しぶりだね✋\n\nhttps://www.youtube.com/live/2qfD7gPInG8?si=c7HvlGRVVwGMXJwS",
+        "tag": "p#https://x.com/#1tweet-2113986102092824974"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/24 22:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-24T13:29:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
