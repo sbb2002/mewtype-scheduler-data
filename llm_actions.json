@@ -3678,6 +3678,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_235382a9d6",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "🐶週間予定🐶\n来週のミヤコさんは～？\n\n火曜日には全体配信もごえます❣️\n土曜日はリリイベinや〜しぶ🕶️\n\n💜総合 #みるみやこ #藤都子\n🎨FA #かくみやこ\n✂切り抜きなど #オキニみやこ",
+        "tag": "p#https://x.com/#1tweet-2113852167513948571"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 다음 주 일정 안내이며 취소나 변경을 언급하지 않아 해당 방송을 취소하거나 연기하는 내용이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-24T04:36:46Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
