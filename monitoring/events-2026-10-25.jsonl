@@ -101,3 +101,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T13:40:17Z", "who": "仲町あられ"}
 {"detail": "mode: yt-member-live created", "flow": "relay", "result": "ok", "ts": "2026-10-25T14:04:27Z", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_ba021d7c", "result": "ok", "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-25T14:04:27Z", "video_id": "MYtO9vHJ77I", "who": "arale"}
+{"detail": "회원 방송 시작 · arale (created)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-25T14:04:37Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限】振り返りも"}
