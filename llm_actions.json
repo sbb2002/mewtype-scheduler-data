@@ -3874,6 +3874,68 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e0f41b23a7",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "チャレンジライブイベント「Shake Your 魂, Baby!!」開催中！\n\nイベントptの累計報酬として、SRメンバー馬橋 心玖が登場！\nまた交換所ではイベントバッジを使用し、梅里 ちえりのSRスナップと交換できますよ💫\n\nイベントは明日の14:59まで！お見逃しなく✨\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2114190222355263957"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 이벤트와 보상 교환에 관한 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「チャレンジライブイベント「Shake Your 魂, Baby!!」開催中！」 「イベントptの累計報酬として、SRメンバー馬橋 心玖が登場！」 「また交換所ではイベントバッジを使用し、梅里 ちえりのSRスナップと交換できますよ」) / 본문에 인게임 이벤트인 ‘Shake Your 魂, Baby!!’가 명시되어 있어 추출했습니다.",
+      "summary": "행사 배너 갱신 — Shake Your 魂, Baby!!",
+      "ts": "2026-10-25T03:00:15Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-10-26T05:59:00Z",
+              "first_seen": "2026-10-17T12:40:01Z",
+              "gachas": [
+                {
+                  "end_at": "2026-10-28T05:59:00Z",
+                  "id": "gc_e33a9595",
+                  "image_urls": [],
+                  "start_at": "2026-10-18T06:00:00Z",
+                  "title_ja": "はじめてを奏でる光彩讃歌ガチャ",
+                  "title_ko": "처음을 연주하는 광채 찬가 가챠"
+                }
+              ],
+              "hold": null,
+              "id": "bn_16b9bd4d",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HUzvj1aaAAARaXs.jpg"
+              ],
+              "last_updated": "2026-10-19T05:46:48Z",
+              "match_keys": [
+                "shakeyour魂baby",
+                "はじめてを奏でる光彩讃歌ガチャ"
+              ],
+              "name_ja": "Shake Your 魂, Baby!!",
+              "name_ko": "Shake Your 영혼, Baby!!",
+              "src_ids": [
+                "2111381718116540885",
+                "2111701057239654556",
+                "2112016385584812434",
+                "2112023935059431453",
+                "2112023432711856495"
+              ],
+              "start_at": "2026-10-18T06:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_16b9bd4d",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
