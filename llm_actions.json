@@ -3962,6 +3962,25 @@
       },
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4abfc15869",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/26（月）7:00〜朝活☀️\nふぁしょんしょ〜の感想なんかも\nしゃべしゃべ💬\n\n縦型につきURLは直前にぽしらせ🔔\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2114190217766694977"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/26 07:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-25T03:00:10Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
