@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:35:00Z",
+  "generated_at": "2026-10-25T23:10:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3686,6 +3686,36 @@
       "title_ko": "[🟡멤버십 한정] 회고도! 얘기하고 싶은 기분이야【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=MYtO9vHJ77I",
       "video_id": "MYtO9vHJ77I"
+    },
+    {
+      "actual_start": "2026-10-25T21:59:31Z",
+      "announced_start": "2026-10-25T22:00:00Z",
+      "api_start_seen": "2026-10-25T21:59:12Z",
+      "archived_at": "2026-10-25T23:10:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 245,
+      "expires_at": "2026-10-26T00:59:12Z",
+      "first_seen": "2026-10-25T21:59:48Z",
+      "host": null,
+      "id": "pv_4008e7b4",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-25T23:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-25T21:59:12Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2114477094508069020",
+      "state": "out",
+      "state_since": "2026-10-25T23:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/bk1WPnGDPhU/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【朝活】ふぁっしょんしょ～のランウェイを歩いたよ❕【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
+      "title_ko": "【아침 활동】패션쇼의 런웨이를 걸었어❕【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
+      "url": "https://www.youtube.com/watch?v=bk1WPnGDPhU",
+      "video_id": "bk1WPnGDPhU"
     }
   ]
 }
