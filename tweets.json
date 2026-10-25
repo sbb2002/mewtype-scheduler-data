@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T03:00:10Z",
+  "generated_at": "2026-10-25T03:32:41Z",
   "tweets": {
     "arale": [
       {
@@ -782,6 +782,23 @@
         "text": "〈配信のおしらせ〉\n10/24 22:30〜 カドショ\n\n久しぶりだね✋\n\nhttps://www.youtube.com/live/2qfD7gPInG8?si=c7HvlGRVVwGMXJwS",
         "text_ko": "〈방송 안내〉\n10/24 22:30~ 카도쇼\n\n오랜만이네✋\n\nhttps://www.youtube.com/live/2qfD7gPInG8?si=c7HvlGRVVwGMXJwS",
         "url": "https://x.com/i/status/2113986102092824974"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-10-27T03:32:38Z",
+        "handle": "yuno_yumemita",
+        "id": "2114198423553658972",
+        "media": [],
+        "posted_at": "2026-10-25T03:32:38Z",
+        "quote": {
+          "media": [],
+          "text": "＼本日開催📢／\n\n💫Bushiroad Fashion Journey💫\n　📍Shibuya Hikarie\n\nバンドリ！より、\n夢限大みゅーたいぷが出演🛸\n\n公式HPはこちら\nhttps://bushiroad.com/fashionjourney\n\nお楽しみに✨\n\n#バンドリ #ゆめみた",
+          "text_ko": "오늘 개최📢\n\n💫Bushiroad Fashion Journey💫\n　📍시부야 히카리\n\n뱅드림!보다,\n무겐다이 뮤타입가 출연🛸\n\n공식 HP는 여기\nhttps://bushiroad.com/fashionjourney\n\n많이 기대해요✨\n\n#뱅드림 #유메미타"
+        },
+        "received_at": "2026-10-25T03:32:41Z",
+        "text": "今日は𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐒𝐡𝐨𝐰✨\nBushiroad Fashion Journeyに出演させて頂きます！\n\n✨🕺🎶💃 🪩🕺🎶💃✨\n✨✨𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐒𝐡𝐨𝐰✨✨\n✨🕺🎶💃 🪩🕺🎶💃✨\n\n楽しもうねー！",
+        "text_ko": "오늘은 Fashion Show✨\nBushiroad Fashion Journey에 출연하게 됩니다！\n\n✨🕺🎶💃 🪩🕺🎶💃✨\n✨✨Fashion Show✨✨\n✨🕺🎶💃 🪩🕺🎶💃✨\n\n재미있게 놀자!",
+        "url": "https://x.com/i/status/2114198423553658972"
       }
     ]
   }
