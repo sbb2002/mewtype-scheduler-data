@@ -32,3 +32,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T04:13:21Z", "tweet_id": "2114206909742125103", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T04:13:31Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T04:25:09Z", "tweet_id": "2114209126683430988", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T04:25:19Z", "who": "仲町あられ"}
