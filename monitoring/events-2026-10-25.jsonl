@@ -53,3 +53,4 @@
 {"detail": "gap-fill: 폰 알림이 빠진 트윗 보충 · 2114021622588002339 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-25T06:24:51Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T06:25:11Z", "who": "峰月律"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-25T07:00:02Z", "who": "group"}
+{"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-25T10:08:56Z", "who": "코페 성우님과 뽑기 & 스토리"}
