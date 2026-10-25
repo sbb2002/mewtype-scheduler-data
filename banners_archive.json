@@ -71,6 +71,30 @@
       ],
       "start_at": "2026-10-09T06:00:00Z",
       "start_time_tbd": null
+    },
+    {
+      "archived_at": "2026-10-25T15:17:39Z",
+      "archived_reason": "ended",
+      "end_at": "2026-10-25T14:59:00Z",
+      "first_seen": "2026-10-21T13:06:25Z",
+      "gacha_only": true,
+      "gachas": [],
+      "hold": null,
+      "id": "bn_5d03e77a",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HUrGkyYbUAAUne0.jpg"
+      ],
+      "last_updated": "2026-10-21T13:18:06Z",
+      "match_keys": [
+        "avemujicaピックアップガチャ"
+      ],
+      "name_ja": "Ave Mujicaピックアップガチャ",
+      "name_ko": "Ave Mujica 픽업 가챠",
+      "src_ids": [
+        "2110728110891282447"
+      ],
+      "start_at": "2026-10-16T06:00:00Z",
+      "start_time_tbd": null
     }
   ]
 }
