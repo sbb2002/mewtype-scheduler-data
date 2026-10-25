@@ -15,3 +15,6 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-25T22:02:05Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T22:18:50Z", "tweet_id": "2114477094508069020", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T22:19:14Z", "who": "藤都子"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-25T22:39:24Z", "who": "bk1WPnGDPhU"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_4008e7b4", "result": "ok", "title": "【朝活】ふぁっしょんしょ～のランウェイを歩いたよ❕【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "end", "ts": "2026-10-25T22:39:24Z", "video_id": "bk1WPnGDPhU", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · bk1WPnGDPhU · 예고 end", "flow": "websub", "merge_key": "websub-notify:bk1WPnGDPhU", "result": "ok", "title": "【朝活】ふぁっしょんしょ～のランウェイを歩いたよ❕【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "ts": "2026-10-25T22:39:24Z", "video_id": "bk1WPnGDPhU", "who": "miyako"}
