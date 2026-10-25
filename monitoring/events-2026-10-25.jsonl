@@ -43,3 +43,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T06:06:43Z", "tweet_id": "2114236843336331540", "via": "ingest", "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_ebe9b2cd", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-25T06:06:43Z", "video_id": null, "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_6ef115b2", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-25T06:06:43Z", "video_id": null, "who": "miyako"}
+{"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-10-25T06:06:43Z", "via": "ingest", "who": ""}
