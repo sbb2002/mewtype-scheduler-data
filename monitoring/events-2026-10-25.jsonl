@@ -120,3 +120,4 @@
 {"detail": "retweet skip: 폰 원문이 @gekirock 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-25T15:30:16Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T15:30:19Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T15:38:31Z", "tweet_id": "2114380630020804871", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T15:38:53Z", "who": "宮永ののか🐰🩹"}
