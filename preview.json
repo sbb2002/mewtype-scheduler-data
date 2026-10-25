@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-25T21:59:48Z",
+  "generated_at": "2026-10-25T22:00:01Z",
   "items": [
     {
       "actual_start": "2026-10-25T21:59:31Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-10-25T21:59:48Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-25T21:59:12Z",
       "source": "api",
       "state": "live",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/bk1WPnGDPhU/maxresdefault.jpg?v=6ade7bb4",
       "time_tbd": false,
       "title": "【朝活】ふぁっしょんしょ～のランウェイを歩いたよ❕【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
-      "title_ko": null,
+      "title_ko": "【아침 활동】패션쇼의 런웨이를 걸었어❕【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
       "url": "https://www.youtube.com/watch?v=bk1WPnGDPhU",
       "video_id": "bk1WPnGDPhU"
     },
