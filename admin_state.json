@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "yuno 방송 취소(LLM)",
-    "at": "2026-10-25T06:06:43Z",
+    "action": "회원 전용 라이브 arale (created)",
+    "at": "2026-10-25T14:04:27Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "5c461dbe1f4ba467c565b18110b4bc00ef19840d",
+    "new_sha": "c6ea6f2331a0c2c4b0399350e01df3dcbfd5e147",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -233,35 +233,6 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": null,
-          "assumed_live": false,
-          "channel_key": "yuno",
-          "collab_with": null,
-          "concurrent_viewers": null,
-          "expires_at": "2026-10-25T17:30:00Z",
-          "first_seen": "2026-10-25T06:06:43Z",
-          "host": null,
-          "id": "pv_ebe9b2cd",
-          "info_at": "2026-10-25T06:06:43Z",
-          "info_source": "x-relay",
-          "kind": "game",
-          "last_updated": "2026-10-25T06:06:43Z",
-          "membership": false,
-          "needs_tl": false,
-          "scheduled_start": "2026-10-25T14:30:00Z",
-          "source": "x-relay",
-          "src_url": "https://x.com/i/status/2114235507442172022",
-          "state": "announced",
-          "state_since": "2026-10-25T06:06:43Z",
-          "thumbnail": null,
-          "time_tbd": false,
-          "title": null,
-          "title_ko": null,
-          "url": null,
-          "video_id": null
         },
         {
           "actual_start": null,
