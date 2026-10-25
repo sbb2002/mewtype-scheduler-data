@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:48:37Z",
+  "generated_at": "2026-10-25T00:51:33Z",
   "tweets": {
     "arale": [
       {
@@ -517,6 +517,25 @@
         "text": "今気づいたけどなんかののちゃん離れてておもしろい",
         "text_ko": "지금 깨달았는데 뭔가 노노카가 떨어져 있어서 재밌네",
         "url": "https://x.com/i/status/2114028397819310533"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-27T00:22:18Z",
+        "handle": "nonoka_yumemita",
+        "id": "2114150524639748461",
+        "media": [],
+        "posted_at": "2026-10-25T00:22:18Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVZAXugaoAARMwS.jpg"
+          ],
+          "text": "#ののらー",
+          "text_ko": "#노노라"
+        },
+        "received_at": "2026-10-25T00:51:33Z",
+        "text": "#ののゆのこらぼ の\"ながの\"の部分泣",
+        "text_ko": "#노노유노코라보 '나가노' 부분 눈물",
+        "url": "https://x.com/i/status/2114150524639748461"
       }
     ],
     "ritsu": [
