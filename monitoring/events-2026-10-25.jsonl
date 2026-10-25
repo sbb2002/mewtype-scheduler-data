@@ -48,3 +48,4 @@
 {"detail": "broadcast-change del · 게시물에 오늘(10/25) 방송을 쉬겠다고 명시했기 때문에 · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-10-25T06:06:43Z", "via": "ingest", "who": "yuno"}
 {"collab_with": null, "detail": "yuno 방송 취소(LLM) · announced→out", "flow": "preview", "from_state": "announced", "id": "pv_ebe9b2cd", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-25T06:06:43Z", "video_id": null, "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T06:07:26Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T06:24:51Z", "tweet_id": "2114240614120432074", "via": "ingest", "who": "ritsu"}
