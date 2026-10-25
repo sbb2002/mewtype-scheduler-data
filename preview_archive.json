@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:10:00Z",
+  "generated_at": "2026-10-25T17:35:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3658,6 +3658,34 @@
       "url": "https://www.youtube.com/watch?v=ZJU3LBeTIRk",
       "video_id": "ZJU3LBeTIRk",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-25T14:01:17Z",
+      "api_start_seen": "2026-10-25T14:00:00Z",
+      "archived_at": "2026-10-25T17:35:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-25T19:04:27Z",
+      "first_seen": "2026-10-25T14:04:27Z",
+      "host": null,
+      "id": "pv_ba021d7c",
+      "info_at": null,
+      "info_source": "yt-notif",
+      "kind": null,
+      "last_updated": "2026-10-25T17:35:00Z",
+      "membership": true,
+      "scheduled_start": "2026-10-25T14:00:00Z",
+      "source": "yt-notif",
+      "state": "out",
+      "state_since": "2026-10-25T17:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/MYtO9vHJ77I/maxresdefault.jpg?v=6ade089e",
+      "time_tbd": false,
+      "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "[🟡멤버십 한정] 회고도! 얘기하고 싶은 기분이야【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=MYtO9vHJ77I",
+      "video_id": "MYtO9vHJ77I"
     }
   ]
 }
