@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-10-25T14:10:01Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-10-25T14:00:00Z",
       "source": "yt-notif",
       "state": "live",
@@ -105,7 +104,7 @@
       "thumbnail": "https://i.ytimg.com/vi/MYtO9vHJ77I/maxresdefault.jpg?v=6ade089e",
       "time_tbd": false,
       "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "[🟡멤버십 한정] 회고도! 얘기하고 싶은 기분이야【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=MYtO9vHJ77I",
       "video_id": "MYtO9vHJ77I"
     },
