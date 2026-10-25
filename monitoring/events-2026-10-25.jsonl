@@ -12,3 +12,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T03:00:10Z", "tweet_id": "2114190217766694977", "via": "ingest", "who": "miyako"}
 {"detail": "banner mode: updated · 이벤트 「Shake Your 魂, Baby!!」(시작? ~ 2026-10-26 14:59) 기존 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-10-25T03:00:15Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T03:00:36Z", "who": "バンドリ！アワーノーツ"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_f5c7d803", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-25T03:00:10Z", "video_id": null, "who": "miyako"}
