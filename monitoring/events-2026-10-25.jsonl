@@ -105,3 +105,4 @@
 {"candidates": 80, "detail": "candidates=80 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-10-25T14:10:01Z", "who": ""}
 {"detail": "retweet skip: 폰 원문이 @gekirock 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-25T14:38:33Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T14:38:35Z", "who": "仲町あられ"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-25T15:17:39Z", "via": "ingest", "who": "bang_dream_on"}
