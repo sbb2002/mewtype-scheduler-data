@@ -117,3 +117,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T15:28:28Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T15:28:17Z", "tweet_id": "2114377843509785010", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T15:28:36Z", "who": "宮永ののか🐰🩹"}
+{"detail": "retweet skip: 폰 원문이 @gekirock 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-25T15:30:16Z", "via": "ingest", "who": "ritsu"}
