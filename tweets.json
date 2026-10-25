@@ -747,6 +747,19 @@
       },
       {
         "channel_key": "ritsu",
+        "expires_at": "2026-10-26T15:50:06Z",
+        "handle": "ritsu_yumemita",
+        "id": "2114021622588002339",
+        "media": [],
+        "posted_at": "2026-10-24T15:50:06Z",
+        "quote": null,
+        "received_at": "2026-10-25T06:24:51Z",
+        "text": "仲町あられさん撮影📸📸📸",
+        "text_ko": "나카마치 아라레 씨 촬영📸📸📸",
+        "url": "https://x.com/i/status/2114021622588002339"
+      },
+      {
+        "channel_key": "ritsu",
         "expires_at": "2026-10-27T06:20:17Z",
         "handle": "ritsu_yumemita",
         "id": "2114240614120432074",
