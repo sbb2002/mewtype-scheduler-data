@@ -3936,6 +3936,32 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_68cd18d989",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/26（月）7:00〜朝活☀️\nふぁしょんしょ〜の感想なんかも\nしゃべしゃべ💬\n\n縦型につきURLは直前にぽしらせ🔔\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2114190217766694977"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信よてい\"와 구체적인 날짜·시간(10/26 7:00)을 제시해 앞으로 할 방송을 알리는 예고이므로 true이다. (근거: 「配信よてい\n10/26（月）7:00〜朝活」)",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n10/26（月）7:00〜朝活☀️\nふぁしょんしょ〜の感想なんか",
+      "ts": "2026-10-25T03:00:10Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_f5c7d803"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
