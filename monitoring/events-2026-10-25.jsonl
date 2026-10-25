@@ -110,3 +110,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T15:21:59Z", "tweet_id": "2114376922813845894", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T15:22:17Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @bang_dream_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-25T15:28:17Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T15:28:18Z", "who": "宮永ののか🐰🩹"}
