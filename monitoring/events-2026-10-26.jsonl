@@ -14,3 +14,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · mWbF-51F3ZQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:mWbF-51F3ZQ", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】", "ts": "2026-10-25T22:01:59Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-25T22:02:05Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-25T22:18:50Z", "tweet_id": "2114477094508069020", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T22:19:14Z", "who": "藤都子"}
