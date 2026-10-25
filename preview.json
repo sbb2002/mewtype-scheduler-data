@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-25T06:06:43Z",
+  "generated_at": "2026-10-25T14:04:27Z",
   "items": [
     {
       "actual_start": null,
@@ -224,6 +224,34 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_start": "2026-10-25T14:04:27Z",
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-25T19:04:27Z",
+      "first_seen": "2026-10-25T14:04:27Z",
+      "host": null,
+      "id": "pv_ba021d7c",
+      "info_at": null,
+      "info_source": "yt-notif",
+      "kind": null,
+      "last_updated": "2026-10-25T14:04:27Z",
+      "membership": true,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-25T14:04:27Z",
+      "source": "yt-notif",
+      "state": "live",
+      "state_since": "2026-10-25T14:04:27Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=MYtO9vHJ77I",
+      "video_id": "MYtO9vHJ77I"
     }
   ]
 }
