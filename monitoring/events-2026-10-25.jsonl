@@ -73,3 +73,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T12:32:44Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "retweet skip: 폰 원문이 @bfj_official 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-25T12:32:55Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T12:32:57Z", "who": "峰月律"}
+{"detail": "retweet skip: 폰 원문이 @bang_dream_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-25T12:32:58Z", "via": "ingest", "who": "ritsu"}
