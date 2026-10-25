@@ -1,0 +1,1019 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-10-25",
+  "downRanges": [],
+  "eventCount": 127,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "live_info: 공연일 못 정함 — 「공연일 미정」 으로 올라감 · ✔https://youtu.be/c_T1QlWWsOE",
+      "nid": null,
+      "t": "12:00",
+      "tone": "warn",
+      "ts": "2026-10-25T03:00:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: recap",
+      "nid": "2114190221315088742",
+      "t": "12:00",
+      "tone": "ok",
+      "ts": "2026-10-25T03:00:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: updated · 이벤트 「Shake Your 魂, Baby!!」(시작? ~ 2026-10-26 14:59) 기존 배너 갱신 → updated",
+      "nid": null,
+      "t": "12:00",
+      "tone": "ok",
+      "ts": "2026-10-25T03:00:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: recap",
+      "nid": "2114311020231770273",
+      "t": "20:00",
+      "tone": "ok",
+      "ts": "2026-10-25T11:00:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 뽑을 이벤트 · 가챠 없음",
+      "nid": null,
+      "t": "21:00",
+      "tone": "ok",
+      "ts": "2026-10-25T12:00:12Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 뽑을 이벤트 · 가챠 없음",
+      "nid": null,
+      "t": "00:17",
+      "tone": "ok",
+      "ts": "2026-10-25T15:17:39Z",
+      "via": "ingest"
+    }
+  ],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "from": "23:04",
+          "id": "pv_ba021d7c",
+          "s": "live",
+          "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "02:05",
+          "vid": "MYtO9vHJ77I"
+        },
+        {
+          "from": "02:05",
+          "id": "pv_ba021d7c",
+          "s": "end",
+          "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "02:35",
+          "vid": "MYtO9vHJ77I"
+        },
+        {
+          "from": "02:35",
+          "id": "pv_ba021d7c",
+          "s": "out",
+          "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "02:38",
+          "vid": "MYtO9vHJ77I"
+        }
+      ],
+      "title": "【🟡メン限】振り返りも！お話したい気分なんだ【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "15:06",
+          "id": "pv_ebe9b2cd",
+          "s": "announced",
+          "title": null,
+          "to": "15:06",
+          "vid": null
+        },
+        {
+          "from": "15:06",
+          "id": "pv_ebe9b2cd",
+          "s": "out",
+          "title": null,
+          "to": "15:09",
+          "vid": null
+        }
+      ],
+      "title": null
+    },
+    {
+      "member": "nonoka",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "ritsu",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "miyako",
+      "segs": [
+        {
+          "from": "12:00",
+          "id": "pv_f5c7d803",
+          "s": "announced",
+          "title": null,
+          "to": "15:06",
+          "vid": null
+        },
+        {
+          "from": "15:06",
+          "id": "pv_6ef115b2",
+          "s": "announced",
+          "title": null,
+          "to": "30:00",
+          "vid": null
+        }
+      ],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:00",
+      "tone": "ok",
+      "ts": "2026-10-25T03:00:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "12:00",
+      "tone": "ok",
+      "ts": "2026-10-25T03:00:44Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "nid": null,
+      "t": "12:21",
+      "tone": "ok",
+      "ts": "2026-10-25T03:21:05Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "nid": null,
+      "t": "12:21",
+      "tone": "ok",
+      "ts": "2026-10-25T03:21:26Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @Bushi_goods 의 글",
+      "nid": null,
+      "t": "13:53",
+      "tone": "ok",
+      "ts": "2026-10-25T04:53:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @Bushi_goods 의 글",
+      "nid": null,
+      "t": "13:53",
+      "tone": "ok",
+      "ts": "2026-10-25T04:53:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 2건",
+      "nid": null,
+      "t": "15:06",
+      "tone": "ok",
+      "ts": "2026-10-25T06:06:43Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "20:00",
+      "tone": "ok",
+      "ts": "2026-10-25T11:00:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "nid": null,
+      "t": "20:31",
+      "tone": "ok",
+      "ts": "2026-10-25T11:31:19Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "nid": null,
+      "t": "20:32",
+      "tone": "ok",
+      "ts": "2026-10-25T11:32:24Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "nid": null,
+      "t": "21:28",
+      "tone": "ok",
+      "ts": "2026-10-25T12:28:08Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "nid": null,
+      "t": "21:30",
+      "tone": "ok",
+      "ts": "2026-10-25T12:30:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "nid": null,
+      "t": "21:32",
+      "tone": "ok",
+      "ts": "2026-10-25T12:32:12Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "nid": null,
+      "t": "21:32",
+      "tone": "ok",
+      "ts": "2026-10-25T12:32:42Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "21:33",
+      "tone": "ok",
+      "ts": "2026-10-25T12:33:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: yt-member-live created",
+      "nid": null,
+      "t": "23:04",
+      "tone": "ok",
+      "ts": "2026-10-25T14:04:27Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-10-25T21:10:07Z",
+  "song": [
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "12:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "13:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "14:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "16:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    }
+  ],
+  "ticks": [
+    {
+      "d": "candidates=80 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "23:10"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "02:05"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "02:35"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "09:51",
+      "tid": "2114150524639748461",
+      "tone": "ok",
+      "ts": "2026-10-25T00:51:33Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "12:00",
+      "tid": "2114190217766694977",
+      "tone": "ok",
+      "ts": "2026-10-25T03:00:10Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 10/26 07:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "member": "miyako",
+      "t": "12:00",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T03:00:10Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "12:32",
+      "tid": "2114198423553658972",
+      "tone": "ok",
+      "ts": "2026-10-25T03:32:41Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "12:49",
+      "tid": "2114202587511878019",
+      "tone": "ok",
+      "ts": "2026-10-25T03:49:16Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "13:13",
+      "tid": "2114206909742125103",
+      "tone": "ok",
+      "ts": "2026-10-25T04:13:21Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "13:25",
+      "tid": "2114209126683430988",
+      "tone": "ok",
+      "ts": "2026-10-25T04:25:09Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "15:06",
+      "tid": "2114235514052325723",
+      "tone": "ok",
+      "ts": "2026-10-25T06:06:43Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "15:06",
+      "tid": "2114236843336331540",
+      "tone": "ok",
+      "ts": "2026-10-25T06:06:43Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change del · 게시물에 오늘(10/25) 방송을 쉬겠다고 명시했기 때문에 · 대상 1건",
+      "member": "yuno",
+      "t": "15:06",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T06:06:43Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "15:24",
+      "tid": "2114240614120432074",
+      "tone": "ok",
+      "ts": "2026-10-25T06:24:51Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "15:24",
+      "tid": "2114021622588002339",
+      "tone": "ok",
+      "ts": "2026-10-25T06:24:51Z",
+      "via": "ingest"
+    },
+    {
+      "d": "gap-fill: 폰 알림이 빠진 트윗 보충 · 2114021622588002339 · mode: added",
+      "member": "ritsu",
+      "t": "15:24",
+      "tid": null,
+      "tone": "warn",
+      "ts": "2026-10-25T06:24:51Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @bfj_official 의 글",
+      "member": "ritsu",
+      "t": "21:32",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T12:32:55Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @bang_dream_info 의 글",
+      "member": "ritsu",
+      "t": "21:32",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T12:32:58Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:56",
+      "tid": "2114340387485852081",
+      "tone": "ok",
+      "ts": "2026-10-25T12:56:51Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "22:06",
+      "tid": "2114342903229386958",
+      "tone": "ok",
+      "ts": "2026-10-25T13:06:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "22:17",
+      "tid": "2114345460681109509",
+      "tone": "ok",
+      "ts": "2026-10-25T13:17:00Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @ttisrn_0710 의 글",
+      "member": "ritsu",
+      "t": "22:22",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T13:22:46Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @ttisrn_0710 의 글",
+      "member": "miyako",
+      "t": "22:22",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T13:22:53Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "22:30",
+      "tid": "2114348641888722986",
+      "tone": "ok",
+      "ts": "2026-10-25T13:30:23Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "22:30",
+      "tid": "2114348675963232311",
+      "tone": "ok",
+      "ts": "2026-10-25T13:30:23Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @ttisrn_0710 의 글",
+      "member": "arale",
+      "t": "22:33",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T13:33:04Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "22:38",
+      "tid": "2114350770477060280",
+      "tone": "ok",
+      "ts": "2026-10-25T13:38:04Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "22:39",
+      "tid": "2114351155497390422",
+      "tone": "ok",
+      "ts": "2026-10-25T13:39:35Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "22:40",
+      "tid": "2114351290155421725",
+      "tone": "ok",
+      "ts": "2026-10-25T13:40:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @gekirock 의 글",
+      "member": "arale",
+      "t": "23:38",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T14:38:33Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "00:21",
+      "tid": "2114376922813845894",
+      "tone": "ok",
+      "ts": "2026-10-25T15:21:59Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @bang_dream_info 의 글",
+      "member": "nonoka",
+      "t": "00:28",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T15:28:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @ttisrn_0710 의 글",
+      "member": "nonoka",
+      "t": "00:28",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T15:28:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @bang_dream_info 의 글",
+      "member": "nonoka",
+      "t": "00:28",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T15:28:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "00:28",
+      "tid": "2114377843509785010",
+      "tone": "ok",
+      "ts": "2026-10-25T15:28:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @gekirock 의 글",
+      "member": "ritsu",
+      "t": "00:30",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-25T15:30:16Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "00:38",
+      "tid": "2114380630020804871",
+      "tone": "ok",
+      "ts": "2026-10-25T15:38:31Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "09:51",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · mode: added",
+      "derived": true,
+      "src": "x",
+      "t": "09:51",
+      "tone": "ok",
+      "who": "nonoka"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "12:00",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "12:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "12:01",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "src": "x",
+      "t": "12:21",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "src": "x",
+      "t": "12:21",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "12:32",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "12:49",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "13:13",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "13:25",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @Bushi_goods 의 글",
+      "src": "x",
+      "t": "13:53",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @Bushi_goods 의 글",
+      "src": "x",
+      "t": "13:53",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "15:06",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "공식 스케줄 · 예고 2건",
+      "src": "x",
+      "t": "15:07",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "15:07",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "15:25",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "무시(반영 대상 아님)",
+      "src": "yt",
+      "t": "19:08",
+      "tone": "ok",
+      "who": "코페 성우님과 뽑기 & 스토리"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "20:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "src": "x",
+      "t": "20:31",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "src": "x",
+      "t": "20:32",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "21:00",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "src": "x",
+      "t": "21:28",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "src": "x",
+      "t": "21:30",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "src": "x",
+      "t": "21:32",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "src": "x",
+      "t": "21:32",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "21:32",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "21:33",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "21:33",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "21:57",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "22:07",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "22:17",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "22:22",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "22:22",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "22:30",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "22:30",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "22:33",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "22:38",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "22:39",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "22:40",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "회원 방송 시작 · arale (created)",
+      "src": "yt",
+      "t": "23:04",
+      "tone": "ok",
+      "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限】振り返りも"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:38",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "00:17",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "00:22",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "00:28",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "00:28",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "00:28",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "00:28",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "00:30",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "00:38",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 5,
+    "production": 6,
+    "total": 11
+  }
+}
