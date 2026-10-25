@@ -22,3 +22,5 @@
 {"detail": "url-schedule skip: 이미 끝난 방송 bk1WPnGDPhU", "flow": "tweet", "result": "ok", "ts": "2026-10-25T22:49:16Z", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 오늘 아침 방송 내용과 인사만 언급하고 있으며, 예고된 10/28·22:00와 10/31·21:30 방송의 취소나 일정 변경에 대한 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-25T22:49:16Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-25T22:49:46Z", "who": "藤都子"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-25T22:52:04Z", "who": "bk1WPnGDPhU"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · bk1WPnGDPhU · 예고 end", "flow": "websub", "merge_key": "websub-notify:bk1WPnGDPhU", "result": "ok", "title": "【朝活】ふぁっしょんしょ～のランウェイを歩いたよ❕【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "ts": "2026-10-25T22:52:04Z", "video_id": "bk1WPnGDPhU", "who": "miyako"}
