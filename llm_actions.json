@@ -3981,6 +3981,60 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a69f078b76",
+      "input": {
+        "channel_key": "yuno",
+        "quote": "／\n🛸#ゆめみた\n10/25(日)の配信スケジュール🌟\n＼\n\n🎮23:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n☀明日朝7:00～藤都子\nhttps://www.youtube.com/@miyako_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "今日の配信はお休みにさせて頂きます！\n𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐒𝐡𝐨𝐰に専念！\n\nよろしくお願いします👊",
+        "tag": "p#https://x.com/#1tweet-2114236843336331540"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 오늘(10/25) 방송을 쉬겠다고 명시했기 때문에",
+      "summary": "방송 취소 1건 — 10/25 23:30 ",
+      "ts": "2026-10-25T06:06:43Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "yuno",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-25T17:30:00Z",
+            "first_seen": "2026-10-25T06:06:43Z",
+            "host": null,
+            "id": "pv_ebe9b2cd",
+            "info_at": "2026-10-25T06:06:43Z",
+            "info_source": "x-relay",
+            "kind": "game",
+            "last_updated": "2026-10-25T06:06:43Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-25T14:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2114235507442172022",
+            "state": "announced",
+            "state_since": "2026-10-25T06:06:43Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "restore_items",
+        "unsuppress": []
+      },
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
