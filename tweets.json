@@ -4,19 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-25T13:20:33Z",
-        "handle": "arale_yumemita",
-        "id": "2113621599815696513",
-        "media": [],
-        "posted_at": "2026-10-23T13:20:33Z",
-        "quote": null,
-        "received_at": "2026-10-23T13:28:10Z",
-        "text": "開始少し遅れました！！！\nはじまってます！！！\n\n【🟡歌枠】#バンドリ ！歌枠✨️全12バンドの曲を歌うよ〜〜〜〜〜〜〜！！！！【 仲町あられ / 夢限大みゅーたいぷ 】 https://www.youtube.com/live/GXE-zeOD3nc?si=eKIPWJ2Ddg-iOoWr @YouTubeより",
-        "text_ko": "시작 조금 늦었어요!!!\n시작했어요!!!\n\n【🟡노래 방송】#뱅드림! 노래 방송✨️ 전 12밴드 곡을 부를게요〜!!!【 나카마치 아라레 / 무겐다이 뮤타입 】 https://www.youtube.com/live/GXE-zeOD3nc?si=eKIPWJ2Ddg-iOoWr @YouTube보다",
-        "url": "https://x.com/i/status/2113621599815696513"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-25T16:04:57Z",
         "handle": "arale_yumemita",
         "id": "2113662975261466852",
@@ -391,28 +378,6 @@
       }
     ],
     "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-10-25T13:25:49Z",
-        "handle": "nonoka_yumemita",
-        "id": "2113622927551926671",
-        "media": [],
-        "posted_at": "2026-10-23T13:25:49Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HVMrZU7bcAAFJw6.jpg",
-            "https://pbs.twimg.com/media/HVMraDyaYAEqzgh.jpg",
-            "https://pbs.twimg.com/media/HVMrbEnaYAAQlFN.jpg",
-            "https://pbs.twimg.com/media/HVMrb6MbcAAMZ-w.jpg"
-          ],
-          "text": "／\n🛸#ゆめみた\n10/23(金)の配信スケジュール🌟\n＼\n\n✨10:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n🎮21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n✨22:00～ 仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n【メン限】23:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n#バンドリ",
-          "text_ko": "🛸#유메미타\n10/23(금) 방송 일정🌟\n\n✨10:30～ 센고쿠 유노\nhttps://www.youtube.com/@yuno_yumemita\n\n🎮21:00～ 미네츠키 리츠\nhttps://www.youtube.com/@ritsu_yumemita\n\n✨22:00～ 나카마치 아라레\nhttps://www.youtube.com/@arale_yumemita\n\n【멤버십 한정】23:00～ 미야나가 노노카\nhttps://www.youtube.com/@nonoka_yumemita\n\n#뱅드림"
-        },
-        "received_at": "2026-10-23T13:28:10Z",
-        "text": "【配信予定】\n\n23:00- でかいぬメン限‼️\n\nこのあと、でかいぬメン限！\nよろしくお願いいたします🎶",
-        "text_ko": "【방송 예정】\n\n23:00- 대키이누 멤버십 한정‼️\n\n이후, 대키이누 멤버십 한정!\n잘 부탁드립니다🎶",
-        "url": "https://x.com/i/status/2113622927551926671"
-      },
       {
         "channel_key": "nonoka",
         "expires_at": "2026-10-25T14:05:18Z",
