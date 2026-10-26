@@ -156,3 +156,6 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T13:33:00Z", "tweet_id": "2114711885237063956", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 현재 10/26 22:30에 시작하는 방송을 알리는 내용이며 일정 변경이나 취소에 대한 언급이 없기 때문이다.", "flow": "tweet", "result": "ok", "ts": "2026-10-26T13:33:00Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T13:33:33Z", "who": "仲町あられ"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-26T14:30:30Z", "who": "CujtCeV3xp0"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_e7460b3c", "result": "ok", "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-10-26T14:30:30Z", "video_id": "CujtCeV3xp0", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · CujtCeV3xp0 · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:CujtCeV3xp0", "result": "ok", "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】", "ts": "2026-10-26T14:30:30Z", "video_id": "CujtCeV3xp0", "who": "ritsu"}
