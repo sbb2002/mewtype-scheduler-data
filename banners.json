@@ -46,7 +46,7 @@
       "image_urls": [
         "https://pbs.twimg.com/media/HVjVjRaboAAz4Sr.jpg"
       ],
-      "last_updated": "2026-10-26T11:23:06Z",
+      "last_updated": "2026-10-26T11:24:32Z",
       "match_keys": [
         "晦冥のナイトウォカズガチャ"
       ],
@@ -54,7 +54,8 @@
       "name_ko": "암흑의 나이트워커즈 가챠",
       "src_ids": [
         "2114678842266914986",
-        "2114679200968048673"
+        "2114679200968048673",
+        "2114679561162014898"
       ],
       "start_at": "2026-10-27T15:00:00Z",
       "start_time_tbd": null
@@ -81,5 +82,5 @@
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-26T11:23:06Z"
+  "generated_at": "2026-10-26T11:24:32Z"
 }
