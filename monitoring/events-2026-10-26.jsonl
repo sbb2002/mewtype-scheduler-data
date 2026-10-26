@@ -70,3 +70,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T10:50:56Z", "who": "峰月律"}
 {"detail": "banner mode: notice · 소식 none", "flow": "notice", "result": "ok", "ts": "2026-10-26T10:52:07Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T10:52:14Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "notice timing: LLM 5회 실패 — 올림 · ✔https://youtu.be/c_T1QlWWsOE", "flow": "notice", "result": "warn", "ts": "2026-10-26T11:00:08Z", "via": "ingest", "who": ""}
