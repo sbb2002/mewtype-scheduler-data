@@ -177,3 +177,4 @@
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-26T15:30:08Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T15:41:13Z", "tweet_id": "2114743915828129803", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 인사와 안부 내용만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-26T15:41:13Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T15:41:34Z", "who": "仲町あられ"}
