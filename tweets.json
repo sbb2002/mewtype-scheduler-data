@@ -475,21 +475,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-10-26T15:39:40Z",
-        "handle": "ritsu_yumemita",
-        "id": "2114018998665023578",
-        "media": [
-          "https://pbs.twimg.com/media/HVaBEwXa8AAi77P.jpg"
-        ],
-        "posted_at": "2026-10-24T15:39:40Z",
-        "quote": null,
-        "received_at": "2026-10-24T15:47:06Z",
-        "text": "✌️",
-        "text_ko": "✌️",
-        "url": "https://x.com/i/status/2114018998665023578"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-10-26T15:50:06Z",
         "handle": "ritsu_yumemita",
         "id": "2114021622588002339",
