@@ -4,21 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-26T13:01:40Z",
-        "handle": "arale_yumemita",
-        "id": "2113979237040529725",
-        "media": [
-          "https://pbs.twimg.com/media/HVZc5m7aoAAU2Xm.jpg"
-        ],
-        "posted_at": "2026-10-24T13:01:40Z",
-        "quote": null,
-        "received_at": "2026-10-24T13:01:42Z",
-        "text": "🔴 ━━━ 配信開始 ━━━ 🔴\n\n┊ 10/24(土) 22:00〜┊#イ中田丁なう\n\n┊ 嬉おしらせ ┊といいつつお話しメイン？\n...ﾁｮｲ緊張はしてる\n\n🔗 https://youtube.com/live/NxafIkzTAZQ",
-        "text_ko": "🔴 ━━━ 방송 시작 ━━━ 🔴\n\n┊ 10/24(土) 22:00〜┊#イ中田丁なう\n\n┊ 기쁜 소식 ┊그냥 말하기 메인?\n...좀 긴장하고 있어\n\n🔗 https://youtube.com/live/NxafIkzTAZQ",
-        "url": "https://x.com/i/status/2113979237040529725"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-26T16:46:54Z",
         "handle": "arale_yumemita",
         "id": "2114035917279375469",
@@ -615,21 +600,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-10-26T13:28:57Z",
-        "handle": "yuno_yumemita",
-        "id": "2113986102092824974",
-        "media": [
-          "https://pbs.twimg.com/media/HVZjJu1bQAE47Ij.jpg"
-        ],
-        "posted_at": "2026-10-24T13:28:57Z",
-        "quote": null,
-        "received_at": "2026-10-24T13:29:00Z",
-        "text": "〈配信のおしらせ〉\n10/24 22:30〜 カドショ\n\n久しぶりだね✋\n\nhttps://www.youtube.com/live/2qfD7gPInG8?si=c7HvlGRVVwGMXJwS",
-        "text_ko": "〈방송 안내〉\n10/24 22:30~ 카도쇼\n\n오랜만이네✋\n\nhttps://www.youtube.com/live/2qfD7gPInG8?si=c7HvlGRVVwGMXJwS",
-        "url": "https://x.com/i/status/2113986102092824974"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-10-27T03:32:38Z",
