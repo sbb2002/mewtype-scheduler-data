@@ -15,3 +15,4 @@
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-26T22:08:43Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T22:08:58Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "broadcast-change none · 게시물은 10월 27일 07:00 방송 시작을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-26T22:08:43Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T22:09:12Z", "who": "峰月律"}
