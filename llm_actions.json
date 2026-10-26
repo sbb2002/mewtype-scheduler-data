@@ -4178,6 +4178,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2dedbc3ae6",
+      "input": {
+        "raw": "▶▶▶夢限大みゅーたいぷ ◀◀◀\n\n　　          𝗙𝘂𝗷𝗶 𝗠𝗶𝘆𝗮𝗸𝗼\n\n✔️https://youtu.be/c_T1QlWWsOE\n\n　　𝟮𝟬𝟮𝟲.𝟭𝟬.𝟮𝟳(𝗧𝘂𝗲.) 𝟮𝟯:𝟬𝟬\n\n▶▶▶　　  夢我夢中  　　 ◀◀◀\n\n#バンドリ #ゆめみた",
+        "tag": "p#https://x.com/#1tweet-2114673401642012776",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "notice_timing",
+      "parent_id": null,
+      "reason": "시점 판정 실패 — 올림",
+      "summary": "소식 시점 판정 실패 — 올림 · ✔https://youtu.be/c_T1QlWWsOE",
+      "ts": "2026-10-26T11:00:08Z",
+      "undo": {
+        "id": "2114673401642012776",
+        "type": "remove_notice"
+      },
+      "undone": null,
+      "who": "notice"
     }
   ]
 }
