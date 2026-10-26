@@ -4344,6 +4344,37 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6ffbe412a5",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjVjRaboAAz4Sr.jpg"
+        ],
+        "raw": "📢ハロウィン期間限定ガチャの開催決定！🎃\n「晦冥のナイトウォーカーズガチャ」\n\n10月28日(水)0:00より開催🎉\n\n本ガチャからは初の期間限定SSRメンバーと期間限定SSRスナップが登場✨\n\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114678842266914986"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 기간 한정 가챠 이벤트를 알리는 내용이므로 in_game에 해당합니다. (근거: 「📢ハロウィン期間限定ガチャの開催決定！🎃」 「10月28日(水)0:00より開催🎉」 「本ガチャからは初の期間限定SSRメンバーと期間限定SSRスナップが登場✨」) / 본문과 이미지에서 가챠 정보를 추출했습니다.",
+      "summary": "행사 배너 추가 — 晦冥のナイトウォーカーズガチャ",
+      "ts": "2026-10-26T11:21:42Z",
+      "undo": {
+        "items": [
+          {
+            "before": null,
+            "id": "bn_06370f94",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
