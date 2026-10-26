@@ -4988,6 +4988,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_d73113975f",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n１０月２７日\n　𝗦𝗧𝗔𝗥𝗧 あさ7:00～\n\nおはようりっちゃん☀第8回目!\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/CujtCeV3xp0\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2114726484388856157"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10월 27일 07:00에 시작하는 방송을 알리는 예고이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-26T14:31:10Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
