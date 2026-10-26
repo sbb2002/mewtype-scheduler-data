@@ -176,3 +176,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_8d05ddb0", "result": "ok", "title": "【おまけパート】整体で骨の位置を治してもらった人のスクイーズで癒しを届けたい人の配信【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-26T15:30:00Z", "video_id": "VQM4ecBWZzI", "who": "arale"}
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-26T15:30:08Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T15:41:13Z", "tweet_id": "2114743915828129803", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물은 인사와 안부 내용만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-26T15:41:13Z", "via": "ingest", "who": "arale"}
