@@ -10,3 +10,4 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-26T22:01:10Z", "who": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-26T22:01:10Z", "who": "CujtCeV3xp0"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_e7460b3c", "result": "ok", "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-26T22:01:10Z", "video_id": "CujtCeV3xp0", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · CujtCeV3xp0 · 예고 live", "flow": "websub", "merge_key": "websub-notify:CujtCeV3xp0", "result": "ok", "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】", "ts": "2026-10-26T22:01:23Z", "video_id": "CujtCeV3xp0", "who": "ritsu"}
