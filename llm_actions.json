@@ -4095,6 +4095,28 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7a9163aef3",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVhXLq2asAAgWKj.jpg"
+        ],
+        "raw": "📢本日20:00より生配信！✌️\n「~BanG Dream! Our Notes~ だんらんTV！」\n\n配信ではアワーノーツの最新情報を盛りだくさんでお届けいたします！ぜひご覧ください💫\n\n▼YouTube Live\nhttps://www.youtube.com/live/y2jXT9dAvCo\n\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114567697140977819"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 밖 — 유튜브 생방송 등 게임 외부에서 진행되는 행사이므로 outside이다. (근거: 「📢本日20:00より生配信！✌️」 「「~BanG Dream! Our Notes~ だんらんTV！」」 「配信ではアワーノーツの最新情報を盛りだくさんでお届けいたします！ぜひご覧ください」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 updated)",
+      "ts": "2026-10-26T04:00:28Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
