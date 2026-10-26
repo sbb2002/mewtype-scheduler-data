@@ -125,3 +125,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:43:12Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "notice", "notice_id": "2114684528451309911", "result": "ok", "ts": "2026-10-26T11:44:17Z", "via": "ingest", "who": ""}
 {"detail": "banner mode: notice · 소식 added", "flow": "notice", "result": "ok", "ts": "2026-10-26T11:44:17Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:44:39Z", "who": "バンドリ！アワーノーツ"}
