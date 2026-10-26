@@ -166,3 +166,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T14:31:57Z", "who": "峰月律"}
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-26T14:40:03Z", "who": ""}
 {"detail": "mode: yt-member-live created", "flow": "relay", "result": "ok", "ts": "2026-10-26T15:11:49Z", "via": "ingest", "who": "arale"}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_8d05ddb0", "result": "ok", "title": "【🟡歌枠】整体で骨の位置を治してもらった人の歌枠【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-26T15:11:49Z", "video_id": "VQM4ecBWZzI", "who": "arale"}
