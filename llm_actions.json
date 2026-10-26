@@ -4322,6 +4322,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_fc0a11de74",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjVT0magAERVV_.jpg"
+        ],
+        "raw": "📢アイテムガチャ🎃\n\nイベントミッションをクリアして集めた「アイテムガチャチケット」を使って、育成素材やコインをGET✨\nさらにプロフィールカードに使用できるハロウィン限定のステッカーや背景のおまけ付き！\n\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114678550108492160"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내 이벤트 미션을 통해 얻은 티켓으로 아이템 가챠를 진행하는 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「アイテムガチャ🎃」 「イベントミッションをクリアして集めた「アイテムガチャチケット」を使って、育成素材」 「さらにプロフィールカードに使用できるハロウィン限定のステッカーや背景のおまけ付き」) / 본문과 이미지에서 아이템 가챠만 확인되어 추출함",
+      "summary": "행사 배너 — 해당 없음 — アイテムガチャ",
+      "ts": "2026-10-26T11:20:32Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
