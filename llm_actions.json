@@ -4723,6 +4723,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f158183c03",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjZXTSaEAABOo_.jpg"
+        ],
+        "raw": "📢特別カバー楽曲『Abracadabra』🎶\n\n本楽曲とMVが10月31日(土)15:00に追加決定！ぜひお楽しみに✨\n\n※本カバー楽曲およびMVは2027年9月22日までの期間限定追加となります。\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114683092120277021"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에 새로운 곡과 MV를 추가한다는 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「本楽曲とMVが10月31日(土)15:00に追加決定！ぜひお楽しみに✨」 「※本カバー楽曲およびMVは2027年9月22日までの期間限定追加となります。」) / 본문과 이미지에 인게임 이벤트나 가챠 정보가 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-26T11:38:34Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
