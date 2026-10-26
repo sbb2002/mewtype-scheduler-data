@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-26T14:40:03Z",
+  "generated_at": "2026-10-26T15:11:49Z",
   "items": [
     {
       "actual_start": "2026-10-26T13:29:47Z",
@@ -279,6 +279,34 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
+    },
+    {
+      "actual_start": "2026-10-26T15:11:49Z",
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-26T20:11:49Z",
+      "first_seen": "2026-10-26T15:11:49Z",
+      "host": null,
+      "id": "pv_8d05ddb0",
+      "info_at": null,
+      "info_source": "yt-notif",
+      "kind": null,
+      "last_updated": "2026-10-26T15:11:49Z",
+      "membership": true,
+      "needs_tl": true,
+      "scheduled_start": "2026-10-26T15:11:49Z",
+      "source": "yt-notif",
+      "state": "live",
+      "state_since": "2026-10-26T15:11:49Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": "【🟡歌枠】整体で骨の位置を治してもらった人の歌枠【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=VQM4ecBWZzI",
+      "video_id": "VQM4ecBWZzI"
     }
   ]
 }
