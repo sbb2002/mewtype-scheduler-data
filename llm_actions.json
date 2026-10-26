@@ -4375,6 +4375,58 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7c215f6495",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjV2r0aMAAb7jj.jpg"
+        ],
+        "raw": "「晦冥のナイトウォーカーズガチャ」より新登場する期間限定SSRメンバー、椎名 立希を紹介🧭\n\nSSRメンバーには、リズムゲーム画面などで表示されるアニメーション演出つき💫\n\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114679200968048673"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 가챠와 게임 화면 내 애니메이션 연출은 게임 앱 안에서 이루어지는 활동이므로 in_game이다. (근거: 「「晦冥のナイトウォーカーズガチャ」より新登場する期間限定SSRメンバー、椎名 立」 「SSRメンバーには、リズムゲーム画面などで表示されるアニメーション演出つき💫」) / 본문에 명시된 가챠 이름을 추출했습니다.",
+      "summary": "행사 배너 갱신 — 晦冥のナイトウォーカーズガチャ",
+      "ts": "2026-10-26T11:23:06Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-08T05:59:00Z",
+              "first_seen": "2026-10-26T11:21:42Z",
+              "gacha_only": true,
+              "gachas": [],
+              "hold": null,
+              "id": "bn_06370f94",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HVjVjRaboAAz4Sr.jpg"
+              ],
+              "last_updated": "2026-10-26T11:21:42Z",
+              "match_keys": [
+                "晦冥のナイトウォカズガチャ"
+              ],
+              "name_ja": "晦冥のナイトウォーカーズガチャ",
+              "name_ko": "암흑의 나이트워커즈 가챠",
+              "src_ids": [
+                "2114678842266914986"
+              ],
+              "start_at": "2026-10-27T15:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_06370f94",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
