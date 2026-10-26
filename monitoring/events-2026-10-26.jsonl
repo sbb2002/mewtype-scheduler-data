@@ -28,3 +28,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_4008e7b4", "result": "ok", "title": "【朝活】ふぁっしょんしょ～のランウェイを歩いたよ❕【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "out", "ts": "2026-10-25T23:10:00Z", "video_id": "bk1WPnGDPhU", "who": "miyako"}
 {"detail": "retweet skip: 폰 원문이 @monyonyo0_0 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-26T01:15:11Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T01:15:13Z", "who": "峰月律"}
+{"detail": "retweet skip: 폰 원문이 @La_Zsuyuri_n 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-26T01:15:14Z", "via": "ingest", "who": "ritsu"}
