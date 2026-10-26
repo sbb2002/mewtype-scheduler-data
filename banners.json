@@ -46,7 +46,7 @@
       "image_urls": [
         "https://pbs.twimg.com/media/HVjVjRaboAAz4Sr.jpg"
       ],
-      "last_updated": "2026-10-26T11:24:32Z",
+      "last_updated": "2026-10-26T11:26:27Z",
       "match_keys": [
         "晦冥のナイトウォカズガチャ"
       ],
@@ -55,7 +55,8 @@
       "src_ids": [
         "2114678842266914986",
         "2114679200968048673",
-        "2114679561162014898"
+        "2114679561162014898",
+        "2114680038243401781"
       ],
       "start_at": "2026-10-27T15:00:00Z",
       "start_time_tbd": null
@@ -82,5 +83,5 @@
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-26T11:24:32Z"
+  "generated_at": "2026-10-26T11:26:27Z"
 }
