@@ -178,3 +178,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T15:41:13Z", "tweet_id": "2114743915828129803", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 인사와 안부 내용만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-26T15:41:13Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T15:41:34Z", "who": "仲町あられ"}
+{"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-26T15:45:00Z", "who": "tHO5UZRO514"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_8d1a8737", "result": "ok", "title": "【🟡歌枠】整体で骨の位置を治してもらった人の歌枠【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-10-26T15:45:00Z", "video_id": "tHO5UZRO514", "who": "arale"}
