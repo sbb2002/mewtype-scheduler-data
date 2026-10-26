@@ -12,3 +12,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_e7460b3c", "result": "ok", "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-10-26T22:01:10Z", "video_id": "CujtCeV3xp0", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · CujtCeV3xp0 · 예고 live", "flow": "websub", "merge_key": "websub-notify:CujtCeV3xp0", "result": "ok", "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】", "ts": "2026-10-26T22:01:23Z", "video_id": "CujtCeV3xp0", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T22:08:43Z", "tweet_id": "2114839764851728839", "via": "ingest", "who": "ritsu"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-26T22:08:43Z", "via": "ingest", "who": "bang_dream_on"}
