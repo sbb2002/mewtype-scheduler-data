@@ -4633,6 +4633,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a15187e7f4",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjXCXPboAABkKa.jpg"
+        ],
+        "raw": "📢ハロウィン 特別ログインボーナス🎃\n\n開催期間中にログインすることで、ガチャチケットや楽曲チケット、強化素材などをプレゼント✨\n\n※全ての報酬を受け取っていただくには、11月8日(日)3:59までにログインし初日の報酬を受け取っていただく必要があります。\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114681428084765033"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 앱 안에서 로그인하면 보상을 받는 이벤트이므로 in_game이다. (근거: 「📢ハロウィン 特別ログインボーナス🎃」 「開催期間中にログインすることで、ガチャチケットや楽曲チケット、強化素材などをプレ」 「※全ての報酬を受け取っていただくには、11月8日(日)3:59までにログインし初」) / 본문과 이미지에 인게임 이벤트와 가챠 이름이 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-26T11:31:58Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
