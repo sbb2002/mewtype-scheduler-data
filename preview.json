@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-26T16:00:00Z",
+  "generated_at": "2026-10-26T21:36:05Z",
   "items": [
     {
       "actual_start": null,
@@ -96,19 +96,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-26T16:00:00Z",
+      "last_updated": "2026-10-26T21:36:05Z",
       "membership": false,
       "scheduled_start": "2026-10-26T22:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2114726484388856157",
-      "state": "upcoming",
-      "state_since": "2026-10-26T14:30:30Z",
+      "state": "watching",
+      "state_since": "2026-10-26T21:36:05Z",
       "thumbnail": "https://i.ytimg.com/vi/CujtCeV3xp0/maxresdefault.jpg?v=6adf63c4",
       "time_tbd": false,
       "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】",
       "title_ko": "【아침활동】안녕 리츠짱☀제8회!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=CujtCeV3xp0",
-      "video_id": "CujtCeV3xp0"
+      "video_id": "CujtCeV3xp0",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
