@@ -167,3 +167,4 @@
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-26T14:40:03Z", "who": ""}
 {"detail": "mode: yt-member-live created", "flow": "relay", "result": "ok", "ts": "2026-10-26T15:11:49Z", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_8d05ddb0", "result": "ok", "title": "【🟡歌枠】整体で骨の位置を治してもらった人の歌枠【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-26T15:11:49Z", "video_id": "VQM4ecBWZzI", "who": "arale"}
+{"detail": "회원 방송 시작 · arale (created)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-26T15:12:01Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡歌枠】整体で骨の位"}
