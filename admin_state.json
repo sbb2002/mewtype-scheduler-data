@@ -30,14 +30,14 @@
     }
   ],
   "undo": {
-    "action": "소식 added (FM NACK5『キラスタ』)",
-    "at": "2026-10-26T11:30:02Z",
+    "action": "소식 added (10月28日(水)0:00よりハロウィンイベントの特設サイト)",
+    "at": "2026-10-26T11:44:17Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "176da448d0e1aa8b0bbd65cbb281f72ac00c5920",
+    "new_sha": "6eda7e0f92cbeae6239bea68e86f9ab50c45ea3d",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-26T04:00:28Z",
+      "generated_at": "2026-10-26T11:30:02Z",
       "notices": [
         {
           "anchor_a": "y2jXT9dAvCo",
@@ -191,6 +191,36 @@
           "title_slug": "生誕記念配信決定",
           "tweet_url": "https://x.com/i/status/2112175910661378122",
           "url": "https://youtube.com/@yuno_yumemita"
+        },
+        {
+          "anchor_a": "kirasuta795",
+          "anchor_b": "キラスタ",
+          "body_for_llm": "＼ラジオ出演決定📻／ ⏰ (木) - FM NACK5『キラスタ』 夢限大みゅーたいぷより、 宮永ののか・峰月律・千石ユノが 生出演いたします📢 📻: お便りはこちらから✔ ✉: ぜひお聴きください💡 #キラスタ #ゆめみた",
+          "body_ko": "＼라디오 출연 확정📻／\n\n⏰11/5(목) 19:07-19:30\nFM NACK5『키라스타』\n\n무겐다이 뮤타입보다,\n미야나가 노노카·미네츠키 리츠·센고쿠 유노가\n생방송으로 출연합니다📢\n\n📻:https://nack5.co.jp/program/kirasuta795/\n\n편지는 여기서✔\n✉:https://nack5.co.jp/message/87/\n\n꼭 들어 주세요💡\n\n#키라스타 #유메미타",
+          "body_raw": "＼ラジオ出演決定📻／\n\n⏰11/5(木) 19:07-19:30\nFM NACK5『キラスタ』\n\n夢限大みゅーたいぷより、\n宮永ののか・峰月律・千石ユノが\n生出演いたします📢\n\n📻:https://nack5.co.jp/program/kirasuta795/\n\nお便りはこちらから✔\n✉:https://nack5.co.jp/message/87/\n\nぜひお聴きください💡\n\n#キラスタ #ゆめみた",
+          "categories": [
+            "broadcast"
+          ],
+          "category": "etc",
+          "date": "2026-11-05",
+          "deadline": false,
+          "expires_at": "2026-11-05T15:00:00Z",
+          "first_seen": "2026-10-26T11:30:02Z",
+          "id": "2114680943156019570",
+          "last_updated": "2026-10-26T11:30:02Z",
+          "participants": null,
+          "seen_ids": [
+            "2114680943156019570"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": "19:07",
+          "title": "ラジオ出演決定！FM NACK5『キラスタ』で宮永ののか・峰月律・千石ユノが生出演",
+          "title_ko": "라디오 출연 확정! FM NACK5 ‘키라스타’에서 미야나가 노노카·미네츠키 리츠·센고쿠 유노 생방송",
+          "title_raw": "FM NACK5『キラスタ』",
+          "title_slug": "fmnack5キラスタ",
+          "tweet_url": "https://x.com/i/status/2114680943156019570",
+          "url": "https://nack5.co.jp/program/kirasuta795/"
         },
         {
           "anchor_a": null,
