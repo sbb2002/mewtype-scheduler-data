@@ -4834,6 +4834,30 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_25564b0b04",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjZ8ijbMAApWZS.jpg",
+          "https://pbs.twimg.com/media/HVjZ90RaEAA2BsD.jpg",
+          "https://pbs.twimg.com/media/HVjZ_HYa8AEDQih.jpg"
+        ],
+        "raw": "📢Q&Aコーナー紹介！その①\n\n今SNSなどで皆さんが疑問に思っている点などを取り上げ、運営チームから回答！\n\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114685045042823294"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 Q&A 코너를 소개하는 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「📢Q&Aコーナー紹介！その①」 「今SNSなどで皆さんが疑問に思っている点などを取り上げ、運営チームから回答！」) / 본문과 이미지에 인게임 이벤트나 가챠 이름이 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-26T11:46:20Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
