@@ -65,3 +65,4 @@
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T10:30:17Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T10:49:29Z", "tweet_id": "2114670712346788257", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 10월 30일 파르월드 카드게임 방송에 대한 안내이며, 10월 27일 07:00에 예정된 방송과는 관련이 없으므로 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-26T10:49:29Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T10:49:52Z", "who": "峰月律"}
