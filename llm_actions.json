@@ -4969,6 +4969,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_21608ea8a9",
+      "input": {
+        "channel_key": "arale",
+        "raw": "おやすみなさい🌃\nいい夢見れますように🌙\nぐんな〜い！",
+        "tag": "p#https://x.com/#1tweet-2114743915828129803"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 인사와 안부 내용만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-26T15:41:13Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
