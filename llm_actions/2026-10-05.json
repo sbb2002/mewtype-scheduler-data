@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6c0ca63d43",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "おやすみをいただいておりましたが、\n無事に回復いたしました。\nみなさまご心配おかけしました…！！\nあたたかく優しいお言葉もありがとうございました…！\n明日から配信も復活していきます！\n(スケジュール少し変わってごめんね)\nライブも完璧な状態で頑張ります！\nよろしくお願いします！",
+        "tag": "p#https://x.com/#1tweet-2107094723341279485"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 일정이 바뀌었다는 언급은 있지만 새로운 날짜·시각이 제시되지 않아 기존 10/06 21:00 방송을 취소하거나 변경한다고 판단할 근거가 없습니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-05T13:08:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_661db62748",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/5(月) 23:30~┊#イ中田丁なう\n\n┊ すやバラ歌枠 ┊アコギでお届け安眠♬\n\n🔗 https://youtube.com/live/ldANhxUfUY4",
+        "tag": "p#https://x.com/#1tweet-2107106676440801443"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/5 23:30에 진행될 새 방송을 예고하고 있으며, 기존 일정의 취소나 변경을 알리는 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-05T13:54:38Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
+    }
+  ]
+}
