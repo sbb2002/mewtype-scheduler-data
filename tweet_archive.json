@@ -1,44 +1,6 @@
 {
   "tweets": [
     {
-      "archived_at": "2026-10-21T16:09:42Z",
-      "archived_reason": "expired",
-      "channel_key": "arale",
-      "expires_at": "2026-10-21T15:57:36Z",
-      "handle": "arale_yumemita",
-      "id": "2112211573410529462",
-      "media": [],
-      "posted_at": "2026-10-19T15:57:36Z",
-      "quote": {
-        "media": [
-          "https://pbs.twimg.com/media/HU_gh0GbEAApOwR.jpg"
-        ],
-        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/19(月) 22:00~┊#イ中田丁なう\n\n┊ 雑談 ┊最近のカバンの中身、知りたい？\n\n🔗 https://youtube.com/live/GCVk1ZZTpJw",
-        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 10/19(月) 22:00~┊#イ中田丁なう\n\n┊ 잡담 ┊요즘 가방 안에 뭐가 들어있는지 알고 싶어?\n\n🔗 https://youtube.com/live/GCVk1ZZTpJw"
-      },
-      "received_at": "2026-10-19T15:57:42Z",
-      "text": "配信ありがとう🌸\n感想とか、みんなからのライフハックもぜひ教えてね✨\nなんか役立つところとかあったら嬉しいな💪おやすみ〜！\n#イ中田丁なう",
-      "text_ko": "방송 고마워요🌸\n감상이나, 여러분의 생활 팁도 꼭 알려 주세요✨\n뭔가 도움이 되는 부분이 있으면 기쁠 것 같아요💪잘 자요~!\n#이중다정한우",
-      "url": "https://x.com/i/status/2112211573410529462"
-    },
-    {
-      "archived_at": "2026-10-21T16:09:42Z",
-      "archived_reason": "expired",
-      "channel_key": "arale",
-      "expires_at": "2026-10-21T15:59:26Z",
-      "handle": "arale_yumemita",
-      "id": "2112212034872049948",
-      "media": [
-        "https://pbs.twimg.com/media/HVAVlT8bYAA_6Th.jpg"
-      ],
-      "posted_at": "2026-10-19T15:59:26Z",
-      "quote": null,
-      "received_at": "2026-10-19T15:59:28Z",
-      "text": "〜喉ケアいつメン〜",
-      "text_ko": "목 관리 언제 멤버",
-      "url": "https://x.com/i/status/2112212034872049948"
-    },
-    {
       "archived_at": "2026-10-22T05:31:12Z",
       "archived_reason": "expired",
       "channel_key": "nonoka",
