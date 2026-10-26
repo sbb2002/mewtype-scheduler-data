@@ -39,3 +39,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T02:27:10Z", "tweet_id": "2114544324147089633", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T02:27:30Z", "who": "千石ユノ"}
 {"detail": "retweet skip: 폰 원문이 @ttisrn_0710 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-26T02:27:58Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T02:27:59Z", "who": "千石ユノ"}
