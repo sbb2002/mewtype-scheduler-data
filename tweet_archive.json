@@ -1650,6 +1650,23 @@
       "text": "こちらの配信をはじめます！",
       "text_ko": "이 방송을 시작합니다!",
       "url": "https://x.com/i/status/2114001682128621825"
+    },
+    {
+      "archived_at": "2026-10-26T15:41:13Z",
+      "archived_reason": "expired",
+      "channel_key": "ritsu",
+      "expires_at": "2026-10-26T15:39:40Z",
+      "handle": "ritsu_yumemita",
+      "id": "2114018998665023578",
+      "media": [
+        "https://pbs.twimg.com/media/HVaBEwXa8AAi77P.jpg"
+      ],
+      "posted_at": "2026-10-24T15:39:40Z",
+      "quote": null,
+      "received_at": "2026-10-24T15:47:06Z",
+      "text": "✌️",
+      "text_ko": "✌️",
+      "url": "https://x.com/i/status/2114018998665023578"
     }
   ]
 }
