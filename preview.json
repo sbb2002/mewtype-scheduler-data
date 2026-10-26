@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-26T15:12:38Z",
+  "generated_at": "2026-10-26T15:20:02Z",
   "items": [
     {
       "actual_start": "2026-10-26T15:11:43Z",
@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-10-26T15:12:38Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-10-26T15:11:34Z",
       "source": "yt-notif",
       "state": "live",
@@ -105,7 +104,7 @@
       "thumbnail": "https://i.ytimg.com/vi/VQM4ecBWZzI/maxresdefault.jpg?v=6adf6d6a",
       "time_tbd": false,
       "title": "【🟡歌枠】整体で骨の位置を治してもらった人の歌枠【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡노래 방송】 뼈 위치를 교정받은 사람의 노래 방송【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=VQM4ecBWZzI",
       "video_id": "VQM4ecBWZzI"
     },
