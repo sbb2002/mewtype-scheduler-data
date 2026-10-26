@@ -4269,6 +4269,37 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4608e51d4b",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjU2HKbkAA7xbn.jpg"
+        ],
+        "raw": "📢ハロウィンイベント開催決定🎃\n「A day〜#HalloweenSnap〜」\n\n本イベントは初のバンド混合イベント！そして初のイマーシブホーム獲得型イベントとなっております✨\n\nイベントを進めていくことで、イマーシブホームを合計4枚GETできますのでぜひお楽しみに💫\n\n※本イベントにはイベントストーリーはございません。\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114677715018383769"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 이벤트와 보상을 안내하고 있기 때문에 in_game이다. (근거: 「📢ハロウィンイベント開催決定🎃」 「イベントを進めていくことで、イマーシブホームを合計4枚GETできますのでぜひお楽」) / 본문과 이미지에서 확인된 할로윈 이벤트를 추출했습니다.",
+      "summary": "행사 배너 추가 — A day〜#HalloweenSnap〜",
+      "ts": "2026-10-26T11:17:12Z",
+      "undo": {
+        "items": [
+          {
+            "before": null,
+            "id": "bn_de1cf3d5",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
