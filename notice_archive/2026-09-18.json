@@ -1,0 +1,61 @@
+{
+  "notices": [
+    {
+      "anchor_a": null,
+      "anchor_b": "これはぼくたちの生存のあらすじ",
+      "archived_at": "2026-09-21T15:15:44Z",
+      "body_for_llm": "【お知らせ】 (月･祝)にanimate hall BLACK（アニメイト池袋本店 北館9F）にて開催予定の【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」リリースイベント】につきまして、台風25号の接近に伴い、お客様とメンバーの安全を最優先に考慮した結果、誠に残念ながら開催を中止させていただくこととなりました。 振替・返金につきましては決定次第、当公式Xにてご案内させていただきます。 何卒ご理解・ご了承の程よろしくお願いいたします。",
+      "body_ko": "【공지】\n\n9월 21일(월·휴일) 애니메이트 홀 BLACK(애니메이트 이케부쿠로 본점 북관 9층)에서 개최 예정이던 【무겐다이 뮤타입 5th Single “これはぼくたちの生存のあらすじ” 릴리스 이벤트】는 태풍 25호 접근으로 인해 고객과 멤버의 안전을 최우선으로 고려한 결과, 안타깝게도 개최를 취소하게 되었습니다.\n\n대체 일정·환불에 대해서는 결정되는 대로 공식 X에 안내드리겠습니다.\n\n부디 양해와 이해를 부탁드립니다.",
+      "body_raw": "【お知らせ】\n\n9月21日(月･祝)にanimate hall BLACK（アニメイト池袋本店 北館9F）にて開催予定の【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」リリースイベント】につきまして、台風25号の接近に伴い、お客様とメンバーの安全を最優先に考慮した結果、誠に残念ながら開催を中止させていただくこととなりました。\n\n振替・返金につきましては決定次第、当公式Xにてご案内させていただきます。\n\n何卒ご理解・ご了承の程よろしくお願いいたします。",
+      "category": "release",
+      "date": "2026-09-21",
+      "deadline": false,
+      "expires_at": "2026-09-21T15:00:00Z",
+      "first_seen": "2026-09-18T12:04:00Z",
+      "id": "2100917757571424645",
+      "last_updated": "2026-09-20T03:16:13Z",
+      "participants": null,
+      "seen_ids": [
+        "2100917757571424645",
+        "2101510654339531120"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "9月21日(月･祝)にanimate hall BLACK（アニメイト池袋本店 北館9F）にて開催予定の【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」",
+      "title_ko": "【무겐다이 뮤타입 5th Single \"これはぼくたちの生存のあらすじ\" 릴리즈 이벤트】 개최 여부 안내",
+      "title_raw": "9月21日(月･祝)にanimate hall BLACK（アニメイト池袋本店 北館9F）にて開催予定の【夢限大みゅーたいぷ 5th Single「これはぼくたちの生存のあらすじ」",
+      "title_slug": "月祝にanimatehallblackアニメイト",
+      "tweet_url": "https://x.com/i/status/2101510654339531120",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "nowroading♪♪",
+      "archived_at": "2026-09-24T18:40:20Z",
+      "body_for_llm": "RT @TAGLIVELABEL: ⭐BanG Dream! 13th☆LIVE⭐ Poppin’Party「Now Roading♪♪」 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 RAISE A SUILEN「EXTREME EXPRESS」 (…",
+      "body_ko": "RT @TAGLIVELABEL: ⭐BanG Dream! 13th☆LIVE⭐\nPoppin’Party「Now Roading♪♪」\n무겐다이 뮤타입「DIMENSIONAL OVERLAP」\nRAISE A SUILEN「EXTREME EXPRESS」",
+      "body_raw": "RT @TAGLIVELABEL: ⭐BanG Dream! 13th☆LIVE⭐\nPoppin’Party「Now Roading♪♪」\n夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\nRAISE A SUILEN「EXTREME EXPRESS」\n\n9/24(…",
+      "category": "etc",
+      "date": "2026-09-24",
+      "deadline": false,
+      "expires_at": "2026-09-24T15:00:00Z",
+      "first_seen": "2026-09-17T22:42:59Z",
+      "id": "2100717154031239438",
+      "last_updated": "2026-09-17T22:42:59Z",
+      "participants": null,
+      "seen_ids": [
+        "2100717154031239438"
+      ],
+      "site": "x",
+      "src_handle": "RT @TAGLIVELABEL",
+      "time": null,
+      "title": "BanG Dream! 第13回ライブ",
+      "title_ko": "BanG Dream! 제13회 라이브",
+      "title_raw": "RAISE A SUILEN「EXTREME EXPRESS」",
+      "title_slug": "raiseasuilenextremeexpre",
+      "tweet_url": "https://x.com/i/status/2100717154031239438",
+      "url": null
+    }
+  ]
+}
