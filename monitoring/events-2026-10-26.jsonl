@@ -128,3 +128,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:44:39Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-26T11:46:20Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:46:28Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-26T11:48:33Z", "via": "ingest", "who": "bang_dream_on"}
