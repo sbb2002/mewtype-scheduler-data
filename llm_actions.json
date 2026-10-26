@@ -4655,6 +4655,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_cbbdfe55ef",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjbn2DbIAAsigH.jpg"
+        ],
+        "raw": "📢撃奏アリーナ開幕！\n\n10月28日(水)0:00より「撃奏アリーナ Season 1」が開幕🎉\n約1ヶ月ごとにSeasonが切り替わる、シーズン制のイベント！\n\n撃奏ライブの勝敗によってもらえる「アリーナpt」をため、ランクを上げていく対戦型コンテンツです🔥\n\n※毎月3回程度実施されるストーリーイベントなどと並行して開催いたします。\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114681808251961415"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 시즌제 이벤트와 랭크 상승을 위한 대전 콘텐츠이므로 게임 앱 안의 활동이다. (근거: 「10月28日(水)0:00より「撃奏アリーナ Season 1」が開幕🎉」 「約1ヶ月ごとにSeasonが切り替わる、シーズン制のイベント！」 「撃奏ライブの勝敗によってもらえる「アリーナpt」をため、ランクを上げていく対戦型」) / 본문과 이미지에서 확인된 시즌제 이벤트 ‘撃奏アリーナ Season 1’만 추출했습니다. (이벤트 표지 없음 — 뺌: 撃奏アリーナ Season 1)",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-26T11:33:28Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
