@@ -4947,6 +4947,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_93971404e9",
+      "input": {
+        "channel_key": "arale",
+        "raw": "🔴 ━━━ 配信開始 ━━━ 🔴\n\n┊ 10/26(月) 22:30~┊#イ中田丁なう\n\n┊ 歌枠 ┊整体で整った人！！の本日\n\n🔗 https://youtube.com/live/tHO5UZRO514",
+        "tag": "p#https://x.com/#1tweet-2114711885237063956"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 현재 10/26 22:30에 시작하는 방송을 알리는 내용이며 일정 변경이나 취소에 대한 언급이 없기 때문이다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-26T13:33:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
