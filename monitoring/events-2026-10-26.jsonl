@@ -100,3 +100,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:26:38Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: updated · 가챠 「晦冥のナイトウォーカーズガチャ」(시작? ~ 종료?) 가챠 단독 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-10-26T11:27:34Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:27:46Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-26T11:29:11Z", "via": "ingest", "who": "bang_dream_on"}
