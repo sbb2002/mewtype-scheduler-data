@@ -4589,6 +4589,28 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_52eeb2bd5b",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjW4gZaMAAPoJO.jpg"
+        ],
+        "raw": "イベント「A day〜#HalloweenSnap〜」で獲得できる報酬メンバーとスナップイラストを紹介✨\n\nSRメンバー、要 楽奈のイラストはこちら🧭\n\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114680726872608979"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내 이벤트에서 얻을 수 있는 보상과 일러스트를 안내하고 있기 때문에 게임 앱 안에서 하는 일이다. (근거: 「イベント「A day〜#HalloweenSnap〜」で獲得できる報酬メンバーと」 「SRメンバー、要 楽奈のイラストはこちら🧭」) / 본문과 이미지에서 인게임 이벤트와 가챠 이름을 찾을 수 없었습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-26T11:29:11Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
