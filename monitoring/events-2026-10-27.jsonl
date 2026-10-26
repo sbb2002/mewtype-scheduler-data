@@ -5,3 +5,4 @@
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-26T21:20:13Z", "who": "yuno"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-26T21:20:13Z", "who": "nonoka"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-26T21:20:13Z", "who": "ritsu"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-26T21:36:06Z", "who": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】"}
