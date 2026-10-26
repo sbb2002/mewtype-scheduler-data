@@ -89,3 +89,4 @@
 {"detail": "banner mode: none · 가챠 「アイテムガチャ」 버림 — 시작 일자가 적혀 있지 않고 붙을 배너도 없음", "flow": "notice", "result": "ok", "ts": "2026-10-26T11:20:32Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:20:41Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T11:20:56Z", "tweet_id": "2114678650037518720", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:21:14Z", "who": "仲町あられ"}
