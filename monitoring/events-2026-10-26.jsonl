@@ -102,3 +102,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:27:46Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-26T11:29:11Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T11:29:19Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: added", "flow": "notice", "notice_id": "2114680943156019570", "result": "ok", "ts": "2026-10-26T11:30:02Z", "via": "ingest", "who": ""}
