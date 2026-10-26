@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T16:00:00Z",
+  "generated_at": "2026-10-26T23:05:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3773,6 +3773,37 @@
       "title_ko": "【부록 파트】전신 교정으로 뼈 위치를 고쳐준 사람의 스퀴즈로 힐링을 전하고 싶은 사람의 방송【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=VQM4ecBWZzI",
       "video_id": "VQM4ecBWZzI"
+    },
+    {
+      "actual_start": "2026-10-26T22:00:21Z",
+      "announced_start": "2026-10-26T22:00:00Z",
+      "api_start_seen": "2026-10-26T22:00:00Z",
+      "archived_at": "2026-10-26T23:05:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 373,
+      "expires_at": "2026-10-27T01:00:00Z",
+      "first_seen": "2026-10-26T14:30:30Z",
+      "host": null,
+      "id": "pv_e7460b3c",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-26T23:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-26T22:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2114726484388856157",
+      "state": "out",
+      "state_since": "2026-10-26T23:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/CujtCeV3xp0/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】",
+      "title_ko": "【아침활동】안녕 리츠짱☀제8회!【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=CujtCeV3xp0",
+      "video_id": "CujtCeV3xp0",
+      "yt_tunein": true
     }
   ]
 }
