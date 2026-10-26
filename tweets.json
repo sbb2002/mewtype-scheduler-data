@@ -489,21 +489,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-10-26T10:50:04Z",
-        "handle": "ritsu_yumemita",
-        "id": "2113946119688606074",
-        "media": [
-          "https://pbs.twimg.com/media/HVY-yiDbQAAikdI.jpg"
-        ],
-        "posted_at": "2026-10-24T10:50:04Z",
-        "quote": null,
-        "received_at": "2026-10-24T10:53:31Z",
-        "text": "今日は、ホラーゲームガールコーデ！\nありがとうございました☆。.:＊・゜",
-        "text_ko": "오늘은 호러 게임 걸 코디! 감사합니다☆..:＊・゜",
-        "url": "https://x.com/i/status/2113946119688606074"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-10-26T14:30:51Z",
         "handle": "ritsu_yumemita",
         "id": "2114001682128621825",
