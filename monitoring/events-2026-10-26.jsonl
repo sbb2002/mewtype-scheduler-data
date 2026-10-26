@@ -63,3 +63,4 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_da138256", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-26T10:30:04Z", "video_id": null, "who": "ritsu"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-26T10:30:04Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T10:30:17Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-26T10:49:29Z", "tweet_id": "2114670712346788257", "via": "ingest", "who": "ritsu"}
