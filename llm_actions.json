@@ -4811,6 +4811,29 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6605d2364d",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVjZxbKbYAErKQ6.jpg",
+          "https://pbs.twimg.com/media/HVjZyx6bwAMBQbi.jpg"
+        ],
+        "raw": "📢ポスターメーカー登場！🎉\n\n10月28日(水)0:00よりハロウィンイベントの特設サイトを公開予定🎃\n\nさらに特設サイトにて、自分だけのオリジナルポスターを作ることができる「ポスターメーカー」の登場が決定✨\n\nぜひ自分だけのポスターを作ってみてくださいね💫\n#アワーノーツ #だんらんTV",
+        "tag": "p#https://x.com/#1tweet-2114684528451309911"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 밖 — 특설 사이트와 포스터 제작은 게임 앱 외부에서 이루어지는 활동이므로 outside이다. (근거: 「10月28日(水)0:00よりハロウィンイベントの特設サイトを公開予定🎃」 「さらに特設サイトにて、自分だけのオリジナルポスターを作ることができる「ポスターメ」 「ぜひ自分だけのポスターを作ってみてくださいね💫」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 added)",
+      "ts": "2026-10-26T11:44:17Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
