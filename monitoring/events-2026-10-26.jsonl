@@ -180,3 +180,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-26T15:41:34Z", "who": "仲町あられ"}
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-26T15:45:00Z", "who": "tHO5UZRO514"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_8d1a8737", "result": "ok", "title": "【🟡歌枠】整体で骨の位置を治してもらった人の歌枠【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-10-26T15:45:00Z", "video_id": "tHO5UZRO514", "who": "arale"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-26T16:00:00Z", "who": "VQM4ecBWZzI"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_8d05ddb0", "result": "ok", "title": "【おまけパート】整体で骨の位置を治してもらった人のスクイーズで癒しを届けたい人の配信【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-10-26T16:00:00Z", "video_id": "VQM4ecBWZzI", "who": "arale"}
