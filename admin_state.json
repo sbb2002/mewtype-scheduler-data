@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (CujtCeV3xp0)",
-    "at": "2026-10-26T14:31:10Z",
+    "action": "회원 전용 라이브 arale (created)",
+    "at": "2026-10-26T15:11:49Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "0aac6d6cadb8f9da572496b27557bf9b5984ea0d",
+    "new_sha": "2109e89e32d5a7b51772aacb4f90e10f6acc8a72",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-26T14:30:30Z",
+      "generated_at": "2026-10-26T14:40:03Z",
       "items": [
         {
           "actual_start": "2026-10-26T13:29:47Z",
@@ -162,17 +162,17 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-26T14:30:30Z",
+          "last_updated": "2026-10-26T14:31:10Z",
           "membership": false,
-          "needs_tl": true,
           "scheduled_start": "2026-10-26T22:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2114726484388856157",
           "state": "upcoming",
           "state_since": "2026-10-26T14:30:30Z",
           "thumbnail": "https://i.ytimg.com/vi/CujtCeV3xp0/maxresdefault.jpg?v=6adf63c4",
           "time_tbd": false,
           "title": "【朝活】おはようりっちゃん☀第8回目!【峰月律/ゆめみた】",
-          "title_ko": null,
+          "title_ko": "【아침활동】안녕 리츠짱☀제8회!【미네츠키 리츠/유메미타】",
           "url": "https://www.youtube.com/watch?v=CujtCeV3xp0",
           "video_id": "CujtCeV3xp0"
         },
