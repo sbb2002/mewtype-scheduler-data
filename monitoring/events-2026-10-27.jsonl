@@ -163,3 +163,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:38:44Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:38:54Z", "tweet_id": "2115090847226323082", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:39:03Z", "who": "峰月律"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-27T14:49:32Z", "via": "ingest", "who": "bang_dream_on"}
