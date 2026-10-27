@@ -167,3 +167,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:49:41Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:50:13Z", "tweet_id": "2115093709507420196", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 10/28 22:00에 진행될 게임 방송을 알리는 예고이며, 취소나 일정 변경에 대한 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:50:13Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:50:48Z", "who": "藤都子"}
