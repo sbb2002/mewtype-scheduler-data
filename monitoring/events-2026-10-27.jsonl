@@ -128,3 +128,4 @@
 {"detail": "url-schedule skip: 이미 끝난 방송 3kxGlR9CzWA", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:17:04Z", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill(자기 답글) · 2115085165940924496 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:17:04Z", "tweet_id": "2115085165940924496", "via": "ingest", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:18:13Z", "tweet_id": "2115085655885971788", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:18:24Z", "who": "藤都子"}
