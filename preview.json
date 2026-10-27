@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-27T10:35:08Z",
+  "generated_at": "2026-10-27T10:47:07Z",
   "items": [
     {
       "actual_start": null,
@@ -222,6 +222,35 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-27T17:30:00Z",
+      "first_seen": "2026-10-27T10:47:07Z",
+      "host": null,
+      "id": "pv_5efebde4",
+      "info_at": "2026-10-27T10:47:05Z",
+      "info_source": "personal",
+      "kind": "unknown",
+      "last_updated": "2026-10-27T10:47:07Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-27T14:30:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2115032530542108767",
+      "state": "announced",
+      "state_since": "2026-10-27T10:47:07Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@yuno_yumemita",
+      "video_id": null
     }
   ]
 }
