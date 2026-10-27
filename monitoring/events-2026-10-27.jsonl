@@ -182,3 +182,4 @@
 {"detail": "banner mode: updated · 가챠 「晦冥のナイトウォーカーズガチャ」(2026-10-28 00:00 ~ 2026-11-08 14:59) 가챠 단독 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-10-27T15:10:33Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T15:10:46Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @yr_boubou 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-27T15:11:28Z", "via": "ingest", "who": ""}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @yr_boubou 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T15:11:30Z", "who": "夢限大みゅーたいぷ"}
