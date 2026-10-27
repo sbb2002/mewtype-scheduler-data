@@ -5131,6 +5131,32 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ff3b10e579",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "今日23:30からの個人配信をおやすみさせて頂きます！\n\nこのあと21時からの全体配信、よろしくお願いします！\n内容盛りだくさんだよ🫨楽しもうね！\n\nよろしくお願いします🙌🙌🙌",
+        "tag": "p#https://x.com/#1tweet-2115032530542108767"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "오늘 21시부터 진행될 전체 방송을 알리는 내용으로, 날짜·시각이 명시된 방송 예고이기 때문에 true로 판단했습니다. (근거: 「このあと21時からの全体配信、よろしくお願いします！」)",
+      "summary": "본인 예고로 등록 — 23:30 JST · 今日23:30からの個人配信をおやすみさせて頂きます！\n\nこのあと21時からの全",
+      "ts": "2026-10-27T10:47:07Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_5efebde4"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
