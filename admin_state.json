@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-10-27T10:35:08Z",
+    "action": "본인 예고 센고쿠 유노 (今日23:30からの個人配信をおやすみさせて頂きます！\n\nこのあと21時からの全)",
+    "at": "2026-10-27T10:47:07Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "4f9b858e8beb957a7659df007884faf3b940f4ec",
+    "new_sha": "fd0fe23924171c8dcee956f3c6d43c5939affe35",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-26T23:05:00Z",
+      "generated_at": "2026-10-27T10:35:08Z",
       "items": [
         {
           "actual_start": null,
@@ -138,7 +138,7 @@
           "info_at": "2026-10-23T12:00:51Z",
           "info_source": "api",
           "kind": "collab",
-          "last_updated": "2026-10-26T23:05:00Z",
+          "last_updated": "2026-10-27T10:35:08Z",
           "membership": false,
           "scheduled_start": "2026-10-27T12:30:00Z",
           "source": "x-relay",
