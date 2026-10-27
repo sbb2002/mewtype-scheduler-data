@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T23:05:00Z",
+  "generated_at": "2026-10-27T14:30:00Z",
   "items": [
     {
       "actual_start": "2026-09-09T14:34:34Z",
@@ -3803,6 +3803,41 @@
       "title_ko": "【아침활동】안녕 리츠짱☀제8회!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=CujtCeV3xp0",
       "video_id": "CujtCeV3xp0",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-10-27T12:29:13Z",
+      "api_start_seen": "2026-10-27T12:30:00Z",
+      "archived_at": "2026-10-27T14:30:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [
+        "yuno",
+        "nonoka",
+        "ritsu",
+        "miyako"
+      ],
+      "concurrent_viewers": 1040,
+      "expires_at": "2026-10-23T15:00:51Z",
+      "first_seen": "2026-10-23T12:00:51Z",
+      "host": "group",
+      "id": "pv_7f8aaed9",
+      "info_at": "2026-10-23T12:00:51Z",
+      "info_source": "api",
+      "kind": "collab",
+      "last_updated": "2026-10-27T14:30:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-27T12:30:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2113601342438785499",
+      "state": "out",
+      "state_since": "2026-10-27T14:30:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/3kxGlR9CzWA/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸",
+      "title_ko": "【뱅드림！】무겐다이 뮤타입 할로윈 파티 생방송!🛸",
+      "url": "https://www.youtube.com/watch?v=3kxGlR9CzWA",
+      "video_id": "3kxGlR9CzWA",
       "yt_tunein": true
     }
   ]
