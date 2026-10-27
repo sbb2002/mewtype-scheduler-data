@@ -50,3 +50,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T09:09:09Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: notice · 소식 none", "flow": "notice", "result": "ok", "ts": "2026-10-27T10:05:43Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T10:05:49Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-27T10:35:08Z", "via": "ingest", "who": ""}
