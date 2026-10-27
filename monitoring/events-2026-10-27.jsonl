@@ -100,3 +100,4 @@
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2115078934765441523", "result": "ok", "ts": "2026-10-27T13:51:31Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-27T13:51:31Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T13:51:48Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: added", "flow": "notice", "notice_id": "2115079238126833792", "result": "ok", "ts": "2026-10-27T13:52:43Z", "via": "ingest", "who": ""}
