@@ -5093,6 +5093,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_627d15e34b",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "映画「BanG Dream! Ave Mujica prima aurora」🎥\n\n入場者プレゼントに同梱！アワーノーツで使用できるシリアルコードも、引き続き配布しています✨\n\n※特典はなくなり次第終了となります。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115007833234350092"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 안에서 사용할 수 있는 시리얼 코드를 배포한다는 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「入場者プレゼントに同梱！アワーノーツで使用できるシリアルコードも、引き続き配布し」 「※特典はなくなり次第終了となります。」) / 본문과 이미지에 인게임 이벤트나 가챠 정보가 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-27T09:09:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
