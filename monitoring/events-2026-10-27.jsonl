@@ -84,3 +84,5 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-27T12:00:45Z", "who": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_7f8aaed9", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸", "to_state": "watching", "ts": "2026-10-27T12:00:45Z", "video_id": "3kxGlR9CzWA", "who": "arale"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-27T12:29:27Z", "who": "夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-27T12:29:27Z", "who": "3kxGlR9CzWA"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_7f8aaed9", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸", "to_state": "live", "ts": "2026-10-27T12:29:27Z", "video_id": "3kxGlR9CzWA", "who": "arale"}
