@@ -37,3 +37,4 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-27T06:00:02Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-10-27T07:00:01Z", "who": "group"}
 {"detail": "live_info: 공연일 못 정함 — 「공연일 미정」 으로 올라감 · 13th☆LIVE", "flow": "notice", "result": "warn", "ts": "2026-10-27T08:00:12Z", "via": "ingest", "who": ""}
+{"detail": "mode: updated", "flow": "notice", "notice_id": "2114990491725127774", "result": "ok", "ts": "2026-10-27T08:00:12Z", "via": "ingest", "who": ""}
