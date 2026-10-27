@@ -5510,6 +5510,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b347d03472",
+      "input": {
+        "channel_key": "arale",
+        "raw": "#ゆめみた交信中\nイベントストーリー＆13thでのライブ映像7曲！\nの同時視聴もこみこみで盛りだくさんな\n全体配信、ありがとうございました！✨\n\nこれからもゆめみたMUSICをみんなと楽しみたいな♬\nよろしくお願いします！\n\nもうすぐハロウィンだったので、仮装したよ🎃\nミイラ...🤕",
+        "tag": "p#https://x.com/#1tweet-2115087886269948174"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 감사 인사와 할로윈 코스튬 소개이며, 방송 일정 취소나 변경에 대한 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-27T14:27:04Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
