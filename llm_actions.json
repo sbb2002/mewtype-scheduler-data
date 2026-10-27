@@ -5431,6 +5431,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a4baf51de2",
+      "input": {
+        "channel_key": "arale",
+        "raw": "#ゆめみた交信中\nイベントストーリー＆13thでのライブ映像7曲！\nの同時視聴もこみこみで盛りだくさんな\n全体配信、ありがとうございました！✨️\n\nこれからもゆめみたMUSICをみんなと楽しみたいな♬\nよろしくお願いします！\n\nもうすぐハロウィンだったので、仮装したよ🎃\nミイラ...🤕",
+        "tag": "p#https://x.com/#1tweet-2115085054816944210"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 이벤트 영상 감사와 할로윈 코스튬 소개 등 일반 소감이며, 방송 취소나 일정 변경에 대한 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-27T14:15:50Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
