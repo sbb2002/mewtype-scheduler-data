@@ -30,21 +30,21 @@
     }
   ],
   "undo": {
-    "action": "소식 updated (ゆめみた ハロウィンパーティ生配信)",
-    "at": "2026-10-27T11:30:13Z",
+    "action": "소식 added (3周年記念配信決定)",
+    "at": "2026-10-27T13:52:43Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "4c8ee9c4039bdecd135d5acffcaafa54d85c3cd4",
+    "new_sha": "225395d90a53150be2b780c8b06e0c4194106abe",
     "path": "notices.json",
     "prev_content": {
-      "generated_at": "2026-10-27T08:00:12Z",
+      "generated_at": "2026-10-27T11:30:13Z",
       "notices": [
         {
           "anchor_a": "3kxGlR9CzWA",
           "anchor_b": null,
-          "body_for_llm": "＼本日配信📢／ ⏰ 〜 🛸#ゆめみた ハロウィンパーティ生配信🛸 📺配信URL 配信内では、13th☆LIVE DAY2のライブ映像をお届け🎸 お見逃しなく✨ #バンドリ",
-          "body_ko": "＼오늘 방송📢／\n\n⏰ 21:30〜\n🛸#유메미타 할로윈 파티 생방송🛸\n\n📺방송 URL\nhttps://youtube.com/live/3kxGlR9CzWA\n\n방송에서는 13th☆LIVE DAY2의 라이브 영상을 전해드립니다🎸\n\n놓치지 마세요✨\n\n#뱅드림",
-          "body_raw": "＼本日配信📢／\n\n⏰ 21:30〜\n🛸#ゆめみた ハロウィンパーティ生配信🛸\n\n📺配信URL\nhttps://youtube.com/live/3kxGlR9CzWA\n\n配信内では、13th☆LIVE DAY2のライブ映像をお届け🎸\n\nお見逃しなく✨\n\n#バンドリ",
+          "body_for_llm": "＼生配信まであと1⃣時間／ ⏰このあと 〜 🛸#ゆめみた ハロウィンパーティ生配信🛸 🔗 13th☆LIVE DAY2の振り返りも お見逃しなく✨ #バンドリ",
+          "body_ko": "＼생방송까지 1시간 남음／\n\n⏰이후 21:30부터\n\n🛸#유메미타 할로윈 파티 생방송🛸\n\n🔗https://youtube.com/live/3kxGlR9CzWA\n\n13th☆LIVE DAY2 회고도\n놓치지 마세요✨\n\n#뱅드림",
+          "body_raw": "＼生配信まであと1⃣時間／\n\n⏰このあと21:30〜\n\n🛸#ゆめみた ハロウィンパーティ生配信🛸\n\n🔗https://youtube.com/live/3kxGlR9CzWA\n\n13th☆LIVE DAY2の振り返りも\nお見逃しなく✨\n\n#バンドリ",
           "categories": [
             "live",
             "broadcast"
@@ -55,21 +55,22 @@
           "expires_at": "2026-10-27T15:00:00Z",
           "first_seen": "2026-10-23T12:00:51Z",
           "id": "2113601342438785499",
-          "last_updated": "2026-10-27T08:00:12Z",
-          "live_name": "13th☆LIVE",
+          "last_updated": "2026-10-27T11:30:13Z",
+          "live_name": "ハロウィンパーティ生配信",
           "participants": null,
           "seen_ids": [
             "2113601342438785499",
-            "2114990491725127774"
+            "2114990491725127774",
+            "2115043334024552875"
           ],
           "site": "youtube",
           "src_handle": "@BDP_yumemita",
           "time": "21:30",
-          "title": "ゆめみた ハロウィンパーティ生配信",
-          "title_ko": "유메미타 할로윈 파티 생방송",
+          "title": "＼生配信まであと1⃣時間／ #ゆめみた ハロウィンパーティ生配信 #バンドリ",
+          "title_ko": "생방송까지 1시간 남음 #ゆめみた 할로윈 파티 생방송 #뱅드림",
           "title_raw": "ゆめみた ハロウィンパーティ生配信",
           "title_slug": "ゆめみたハロウィンパーティ生配信",
-          "tweet_url": "https://x.com/i/status/2114990491725127774",
+          "tweet_url": "https://x.com/i/status/2115043334024552875",
           "url": "https://youtube.com/live/3kxGlR9CzWA"
         },
         {
