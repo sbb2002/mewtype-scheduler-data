@@ -161,3 +161,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @ara_itao 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:36:46Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:38:42Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:38:44Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:38:54Z", "tweet_id": "2115090847226323082", "via": "ingest", "who": "ritsu"}
