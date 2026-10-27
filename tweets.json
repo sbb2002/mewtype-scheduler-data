@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:18:13Z",
+  "generated_at": "2026-10-27T14:20:42Z",
   "tweets": {
     "arale": [
       {
@@ -123,6 +123,26 @@
         "text": "https://x.com/BDP_yumemita/status/2115058890010476949?s=20",
         "text_ko": "https://x.com/BDP_yumemita/status/2115058890010476949?s=20",
         "url": "https://x.com/i/status/2115085165940924496"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-29T14:20:40Z",
+        "handle": "arale_yumemita",
+        "id": "2115086281344762253",
+        "media": [],
+        "posted_at": "2026-10-27T14:20:40Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVosoPKaoAAF03I.jpg"
+          ],
+          "text": "◤　　Official Music Video　 　◥\n　  　  夢限大みゅーたいぷ\n◣　　　　「夢我夢中」　　　 　◢\n\n✔️https://youtu.be/c_T1QlWWsOE\n\n作詞・作曲：ケンモチヒデフミ\n編曲　　　：ケンモチヒデフミ\n　　　　　　Skye K\n\n#バンドリ #ゆめみた",
+          "text_ko": "◤　　공식 뮤직비디오　 　◥\n　  　  무겐다이 뮤타입\n◣　　　　「꿈이 나를 꿈속에」　　　 　◢\n\n✔️https://youtu.be/c_T1QlWWsOE\n\n작사·작곡：켄모치 히데후미\n편곡　　　：켄모치 히데후미\n　　　　　　Skye K\n\n#뱅드림 #유메미타"
+        },
+        "received_at": "2026-10-27T14:20:42Z",
+        "reply_to_id": null,
+        "text": "「夢我夢中」MV\nめちゃ良いので、いっぱい見て〜〜！！！",
+        "text_ko": "「夢我夢中」MV\n엄청 좋으니까 많이 봐줘~~~!!!",
+        "url": "https://x.com/i/status/2115086281344762253"
       }
     ],
     "miyako": [
