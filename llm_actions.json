@@ -5049,6 +5049,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_02861d1dfd",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVn0UJda0AAOAA5.jpg"
+        ],
+        "raw": "【重要なお知らせ】\nゲーム内の日付変更時刻について、0:00から4:00に変更いたします。\n\n▼0:00開始および切り替えのまま残るもの\n・未成年の課金上限のリセット\n・ショップに並んでいる商品のリセット\n・誕生日関連施策の開始\n・その他一部のログインボーナスなどの開始\n\n詳細は画像をご確認ください。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2114991204719005879"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내 날짜 변경 및 관련 리셋·보상은 모두 앱 안에서 이루어지는 내용이므로 in_game이다. (근거: 「ゲーム内の日付変更時刻について、0:00から4:00に変更いたします。」 「・未成年の課金上限のリセット」 「・ショップに並んでいる商品のリセット」) / 본문과 이미지에 이벤트나 가챠 정보가 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-27T08:07:33Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
