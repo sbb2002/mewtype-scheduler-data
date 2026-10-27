@@ -52,3 +52,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T10:05:49Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-10-27T10:35:08Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T10:35:20Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T10:47:07Z", "tweet_id": "2115032530542108767", "via": "ingest", "who": "yuno"}
