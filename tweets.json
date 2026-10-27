@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:23:29Z",
+  "generated_at": "2026-10-27T14:25:41Z",
   "tweets": {
     "arale": [
       {
@@ -362,6 +362,22 @@
         "text": "♡🐰配信開始🩹♡\n\n全体配信🎶\nハロウィンパーティー集合！",
         "text_ko": "♡🐰방송 시작🩹♡\n\n전체 방송🎶\n할로윈 파티 모여!",
         "url": "https://x.com/i/status/2115058520135782863"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-10-29T14:25:38Z",
+        "handle": "nonoka_yumemita",
+        "id": "2115087532908257405",
+        "media": [
+          "https://pbs.twimg.com/media/HVpM5oebYAAHSyt.jpg"
+        ],
+        "posted_at": "2026-10-27T14:25:38Z",
+        "quote": null,
+        "received_at": "2026-10-27T14:25:41Z",
+        "reply_to_id": null,
+        "text": "天使魔法少女いえい🎶",
+        "text_ko": "천사 마법소녀 이에이🎶",
+        "url": "https://x.com/i/status/2115087532908257405"
       }
     ],
     "ritsu": [
