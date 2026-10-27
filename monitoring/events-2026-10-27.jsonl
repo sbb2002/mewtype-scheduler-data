@@ -158,3 +158,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-27T14:30:00Z", "who": "3kxGlR9CzWA"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_7f8aaed9", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸", "to_state": "out", "ts": "2026-10-27T14:30:00Z", "video_id": "3kxGlR9CzWA", "who": "arale"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @ara_itao 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-27T14:36:44Z", "via": "ingest", "who": ""}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @ara_itao 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:36:46Z", "who": "夢限大みゅーたいぷ"}
