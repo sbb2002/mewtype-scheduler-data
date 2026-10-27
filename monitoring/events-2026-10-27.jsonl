@@ -59,3 +59,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T10:47:47Z", "who": "千石ユノ"}
 {"detail": "gap-fill(자기 답글) · 2115032626037948855 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T10:48:05Z", "tweet_id": "2115032626037948855", "via": "ingest", "who": "yuno"}
 {"detail": "banner mode: updated · 가챠 「晦冥のナイトウォーカーズガチャ」(2026-10-28 00:00 ~ 종료?) 가챠 단독 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-10-27T11:06:51Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T11:07:13Z", "who": "バンドリ！アワーノーツ"}
