@@ -55,3 +55,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T10:47:07Z", "tweet_id": "2115032530542108767", "via": "ingest", "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_5efebde4", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-27T10:47:07Z", "video_id": null, "who": "yuno"}
 {"detail": "broadcast-change del · ‘今日23:30からの個人配信をおやすみさせて頂きます！’ 라는 문구에서 오늘 23:30에 예정된 개인配信을 취소한다는 의미이므로 · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-10-27T10:47:07Z", "via": "ingest", "who": "yuno"}
+{"collab_with": [], "detail": "yuno 방송 취소(LLM) · announced→out", "flow": "preview", "from_state": "announced", "id": "pv_5efebde4", "result": "ok", "title": null, "to_state": "out", "ts": "2026-10-27T10:47:07Z", "video_id": null, "who": "yuno"}
