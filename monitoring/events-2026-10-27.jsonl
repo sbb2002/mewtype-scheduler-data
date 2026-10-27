@@ -94,3 +94,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T13:23:34Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-27T13:30:10Z", "who": "【Official Music Video】무겐다이 뮤타입「mugamuchu」"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-27T13:50:08Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T13:50:12Z", "who": "夢限大みゅーたいぷ"}
