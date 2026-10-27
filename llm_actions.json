@@ -5391,6 +5391,26 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ce06f60a39",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "＼生配信まであと1️⃣時間／\n\n⏰このあと21:30～\n\n🛸#ゆめみた ハロウィンパーティ生配信🛸\n\n🔗https://youtube.com/live/3kxGlR9CzWA\n\n13th☆LIVE DAY2の振り返りも\nお見逃しなく✨\n\n#バンドリ",
+        "raw": "今夜このあと21:30から❣\nゆめみた全体配信でごぜえます🛸\n\nアワーノーツゆめみたイベントストーリー同時視聴、そして13thLIVE振り返り✨\nよろしくおねがいします🎃",
+        "tag": "p#https://x.com/#1tweet-2115050697381343571"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:30에 진행될 유메미타 전체 생방송을 알리는 내용이며, 제시된 방송 목록의 10/28 22:00 및 10/31 21:30 방송과는 날짜·시간이 일치하지 않아 취소·변경으로 판단할 근거가 없습니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-27T11:59:19Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
