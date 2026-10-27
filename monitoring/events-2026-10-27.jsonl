@@ -138,3 +138,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @mimori_sora666 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:20:43Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:20:42Z", "tweet_id": "2115086281344762253", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:20:51Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:23:29Z", "tweet_id": "2115086977196564640", "via": "ingest", "who": "miyako"}
