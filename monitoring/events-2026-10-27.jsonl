@@ -122,3 +122,4 @@
 {"detail": "broadcast-change none · 게시물은 이벤트 영상 감사와 할로윈 코스튬 소개 등 일반 소감이며, 방송 취소나 일정 변경에 대한 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-27T14:15:50Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:16:06Z", "who": "仲町あられ"}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-27T14:16:48Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:16:56Z", "who": "バンドリ！アワーノーツ"}
