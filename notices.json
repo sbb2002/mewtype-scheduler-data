@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:30:13Z",
+  "generated_at": "2026-10-27T13:52:43Z",
   "notices": [
     {
       "anchor_a": "3kxGlR9CzWA",
@@ -305,6 +305,36 @@
       "title_slug": "新潟グランプリに千石ユノの出演が決定",
       "tweet_url": "https://x.com/i/status/2099836384936882682",
       "url": null
+    },
+    {
+      "anchor_a": "u7f5p223ByA",
+      "anchor_b": null,
+      "body_for_llm": "＼🎊3周年記念配信決定🎊／ 📅 (金) 〜 🛸夢限大みゅーたいぷ デビュー3周年記念配信🛸 #ゆめみた のこれまでとこれからを深掘り✨ 📺配信URLはこちら ぜひ一緒にお祝いしてくださいね🎂 #バンドリ",
+      "body_ko": "\\🎊3주년 기념 방송 결정🎊\n\n📅11/20(금) 21:00〜\n\n🛸무겐다이 뮤타입\n　데뷔 3주년 기념 방송🛸\n\n#유메미타 의 지금까지와 앞으로를 깊게 파헤치기✨\n\n📺방송 URL은 여기\nhttps://youtube.com/live/u7f5p223ByA\n\n함께 축하해주세요🎂\n\n#뱅드림",
+      "body_raw": "＼🎊3周年記念配信決定🎊／\n\n📅11/20(金) 21:00〜\n\n🛸夢限大みゅーたいぷ\n　デビュー3周年記念配信🛸\n\n#ゆめみた のこれまでとこれからを深掘り✨\n\n📺配信URLはこちら\nhttps://youtube.com/live/u7f5p223ByA\n\nぜひ一緒にお祝いしてくださいね🎂\n\n#バンドリ",
+      "categories": [
+        "broadcast"
+      ],
+      "category": "live",
+      "date": "2026-11-20",
+      "deadline": false,
+      "expires_at": "2026-11-20T15:00:00Z",
+      "first_seen": "2026-10-27T13:52:43Z",
+      "id": "2115079238126833792",
+      "last_updated": "2026-10-27T13:52:43Z",
+      "participants": null,
+      "seen_ids": [
+        "2115079238126833792"
+      ],
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:00",
+      "title": "3周年記念配信決定",
+      "title_ko": "3주년 기념 방송 결정",
+      "title_raw": "3周年記念配信決定",
+      "title_slug": "3周年記念配信決定",
+      "tweet_url": "https://x.com/i/status/2115079238126833792",
+      "url": "https://youtube.com/live/u7f5p223ByA"
     },
     {
       "anchor_a": "yumemita_kinntorebu2026",
