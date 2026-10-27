@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-27T10:47:07Z",
+  "generated_at": "2026-10-27T12:00:45Z",
   "items": [
     {
       "actual_start": null,
@@ -100,19 +100,20 @@
       "info_at": "2026-10-23T12:00:51Z",
       "info_source": "api",
       "kind": "collab",
-      "last_updated": "2026-10-27T10:35:08Z",
+      "last_updated": "2026-10-27T12:00:45Z",
       "membership": false,
       "scheduled_start": "2026-10-27T12:30:00Z",
       "source": "x-relay",
       "src_url": "https://x.com/i/status/2113601342438785499",
-      "state": "upcoming",
-      "state_since": "2026-10-23T12:00:51Z",
+      "state": "watching",
+      "state_since": "2026-10-27T12:00:45Z",
       "thumbnail": "https://i.ytimg.com/vi/3kxGlR9CzWA/maxresdefault.jpg?v=6ad9be86",
       "time_tbd": false,
       "title": "【バンドリ！】夢限大みゅーたいぷ ハロウィンパーティ生配信！🛸",
       "title_ko": "【뱅드림！】무겐다이 뮤타입 할로윈 파티 생방송!🛸",
       "url": "https://www.youtube.com/watch?v=3kxGlR9CzWA",
-      "video_id": "3kxGlR9CzWA"
+      "video_id": "3kxGlR9CzWA",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
