@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-10-27T07:58:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-28T13:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -105,7 +104,7 @@
       "thumbnail": "https://i.ytimg.com/vi/mWbF-51F3ZQ/maxresdefault.jpg?v=6adb5452",
       "time_tbd": false,
       "title": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【제로 ~누이까노 미코~】#9세이브를 믿지 마라【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=mWbF-51F3ZQ",
       "video_id": "mWbF-51F3ZQ"
     },
@@ -125,7 +124,6 @@
       "kind": null,
       "last_updated": "2026-10-27T07:58:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-31T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -133,7 +131,7 @@
       "thumbnail": "https://i.ytimg.com/vi/HO4WIRTTnUs/maxresdefault.jpg?v=6adb5537",
       "time_tbd": false,
       "title": "【歌枠】秋のミニミニうたわく♪う～たうたうた♪【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【노래 방송】가을 미니미니 유타와쿠♪우~타우타우타♪【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=HO4WIRTTnUs",
       "video_id": "HO4WIRTTnUs"
     },
