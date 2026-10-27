@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-27T03:00:12Z",
+  "generated_at": "2026-10-27T08:00:12Z",
   "notices": [
     {
       "anchor_a": "3kxGlR9CzWA",
       "anchor_b": null,
-      "body_for_llm": "＼🎊全体生配信決定🎊／ 📅 (火) 〜 🛸#ゆめみた ハロウィンパーティ生配信🛸 📺配信URL 配信内では、13th☆LIVE DAY2のライブ映像をお届け🎸 お見逃しなく✨ #バンドリ",
-      "body_ko": "＼🎊전원 생방송 결정🎊／\n\n📅10월 27일(화) 21:30〜\n\n🛸#유메미타 할로윈 파티 생방송🛸\n\n📺방송 URL\nhttps://youtube.com/live/3kxGlR9CzWA\n\n방송에서는 13th☆LIVE DAY2의 라이브 영상을 전해드려요🎸\n\n놓치지 마세요✨\n\n#뱅드림",
-      "body_raw": "＼🎊全体生配信決定🎊／\n\n📅10月27日(火) 21:30〜\n\n🛸#ゆめみた ハロウィンパーティ生配信🛸\n\n📺配信URL\nhttps://youtube.com/live/3kxGlR9CzWA\n\n配信内では、13th☆LIVE DAY2のライブ映像をお届け🎸\n\nお見逃しなく✨\n\n#バンドリ",
+      "body_for_llm": "＼本日配信📢／ ⏰ 〜 🛸#ゆめみた ハロウィンパーティ生配信🛸 📺配信URL 配信内では、13th☆LIVE DAY2のライブ映像をお届け🎸 お見逃しなく✨ #バンドリ",
+      "body_ko": "＼오늘 방송📢／\n\n⏰ 21:30〜\n🛸#유메미타 할로윈 파티 생방송🛸\n\n📺방송 URL\nhttps://youtube.com/live/3kxGlR9CzWA\n\n방송에서는 13th☆LIVE DAY2의 라이브 영상을 전해드립니다🎸\n\n놓치지 마세요✨\n\n#뱅드림",
+      "body_raw": "＼本日配信📢／\n\n⏰ 21:30〜\n🛸#ゆめみた ハロウィンパーティ生配信🛸\n\n📺配信URL\nhttps://youtube.com/live/3kxGlR9CzWA\n\n配信内では、13th☆LIVE DAY2のライブ映像をお届け🎸\n\nお見逃しなく✨\n\n#バンドリ",
       "categories": [
         "live",
         "broadcast"
@@ -17,19 +17,21 @@
       "expires_at": "2026-10-27T15:00:00Z",
       "first_seen": "2026-10-23T12:00:51Z",
       "id": "2113601342438785499",
-      "last_updated": "2026-10-23T12:00:51Z",
+      "last_updated": "2026-10-27T08:00:12Z",
+      "live_name": "13th☆LIVE",
       "participants": null,
       "seen_ids": [
-        "2113601342438785499"
+        "2113601342438785499",
+        "2114990491725127774"
       ],
       "site": "youtube",
       "src_handle": "@BDP_yumemita",
       "time": "21:30",
-      "title": "全体生配信決定！ゆめみたハロウィンパーティ生配信",
-      "title_ko": "전체 생방송 결정! 유메미타 할로윈 파티 생방송",
+      "title": "ゆめみた ハロウィンパーティ生配信",
+      "title_ko": "유메미타 할로윈 파티 생방송",
       "title_raw": "ゆめみた ハロウィンパーティ生配信",
       "title_slug": "ゆめみたハロウィンパーティ生配信",
-      "tweet_url": "https://x.com/i/status/2113601342438785499",
+      "tweet_url": "https://x.com/i/status/2114990491725127774",
       "url": "https://youtube.com/live/3kxGlR9CzWA"
     },
     {
