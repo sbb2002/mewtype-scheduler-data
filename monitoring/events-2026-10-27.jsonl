@@ -133,3 +133,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:18:31Z", "who": "バンドリ！アワーノーツ"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-27T14:20:00Z", "who": "3kxGlR9CzWA"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-27T14:20:02Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T14:20:09Z", "who": "夢限大みゅーたいぷ"}
