@@ -5266,6 +5266,57 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0e9b170efd",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVofWElakAAz9Jc.jpg"
+        ],
+        "raw": "明日12:00より開催🎉\nチャレンジライブイベント「A day〜#HalloweenSnap〜」\n\nイベント報酬で手に入る、SRメンバー要 楽奈のイラストを紹介🧭\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115037800735412645"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 챌린지 라이브 이벤트와 보상에 대한 안내이므로 in_game이다. (근거: 「明日12:00より開催🎉」 「チャレンジライブイベント「A day〜#HalloweenSnap〜」」 「イベント報酬で手に入る、SRメンバー要 楽奈のイラストを紹介🧭」) / 본문에 명시된 챌린지 라이브 이벤트만 추출했습니다.",
+      "summary": "행사 배너 갱신 — A day〜#HalloweenSnap〜",
+      "ts": "2026-10-27T11:19:42Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-07T05:59:00Z",
+              "first_seen": "2026-10-26T11:17:12Z",
+              "gachas": [],
+              "hold": null,
+              "id": "bn_de1cf3d5",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HVjU2HKbkAA7xbn.jpg"
+              ],
+              "last_updated": "2026-10-26T11:17:12Z",
+              "match_keys": [
+                "aday#halloweensnap"
+              ],
+              "name_ja": "A day〜#HalloweenSnap〜",
+              "name_ko": "A day〜#HalloweenSnap〜",
+              "src_ids": [
+                "2114677715018383769"
+              ],
+              "start_at": "2026-10-28T03:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_de1cf3d5",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
