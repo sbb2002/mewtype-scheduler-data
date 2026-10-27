@@ -76,3 +76,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T11:58:10Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-27T11:59:19Z", "tweet_id": "2115050697381343571", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 오늘 21:30에 진행될 유메미타 전체 생방송을 알리는 내용이며, 제시된 방송 목록의 10/28 22:00 및 10/31 21:30 방송과는 날짜·시간이 일치하지 않아 취소·변경으로 판단할 근거가 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-27T11:59:19Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-27T11:59:38Z", "who": "藤都子"}
