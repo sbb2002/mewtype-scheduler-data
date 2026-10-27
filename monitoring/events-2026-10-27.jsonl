@@ -1,3 +1,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "baseline", "preview_changed": true, "quota": 3, "result": "ok", "ts": "2026-10-27T07:58:00Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_0fbe75a8", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-10-27T07:58:00Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_eb28d8d1", "result": "ok", "title": "【歌枠】秋のミニミニうたわく♪う～たうたうた♪【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-10-27T07:58:00Z", "video_id": "HO4WIRTTnUs", "who": "miyako"}
+{"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "baseline", "preview_changed": false, "quota": 3, "result": "ok", "ts": "2026-10-27T07:58:44Z", "who": ""}
