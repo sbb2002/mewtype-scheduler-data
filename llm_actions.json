@@ -5411,6 +5411,26 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4c6c5bac93",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "▶▶▶夢限大みゅーたいぷ ◀◀◀\n\n　    𝟮𝟬𝟮𝟲.𝟭𝟬.𝟮𝟳(𝗧𝘂𝗲.) 𝟮𝟯:𝟬𝟬\n\n✔️https://youtu.be/c_T1QlWWsOE\n\n　　      𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡\n\n▶▶▶　　  夢我夢中  　　 ◀◀◀\n\n#バンドリ #ゆめみた",
+        "raw": "全体配信ありゃとうございました❣\n夢我夢中のプレミア公開が、はじまる❣\nあつまえ～～🎃🎃🎃💨💨💨💨",
+        "tag": "p#https://x.com/#1tweet-2115081400873521600"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 전체 방송에 대한 감사와 프리미어 시작 알림이며, 일정 변경이나 취소를 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-27T14:01:20Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
