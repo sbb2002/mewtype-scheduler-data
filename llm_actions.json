@@ -5586,6 +5586,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f5f2970dc9",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVpWHSUa8AAFHPt.jpg"
+        ],
+        "raw": "┎┈┈┈┈┈┈┈┈┈┈┈┒\n　　撃奏アリーナ開幕！\n┖┈┈┈┈┈┈┈┈┈┈┈┚ \n\n本日より「撃奏アリーナ Season 1」が開幕しました🎉\n撃奏ライブの勝敗によってもらえる「アリーナpt」をためて、ランクを上げていく対戦型コンテンツ！ぜひお楽しみください✨\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115097666996896130"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내 새로운 대전형 콘텐츠인 ‘撃奏アリーナ’를 소개하는 글이므로 게임 앱 안에서 하는 일이다. (근거: 「本日より「撃奏アリーナ Season 1」が開幕しました🎉」 「撃奏ライブの勝敗によってもらえる「アリーナpt」をためて、ランクを上げていく対戦」) / 본문과 이미지에 인게임 이벤트나 가챠 이름이 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-27T15:06:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
