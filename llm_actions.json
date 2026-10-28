@@ -5665,6 +5665,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_86cd39efaa",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信開始！ ━━━ ❑\n\n┊ 10/29(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 https://youtube.com/live/jp4tqcF9OB4",
+        "tag": "p#https://x.com/#1tweet-2115558427858763784"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/29 06:30에 시작하는 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-28T21:44:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
