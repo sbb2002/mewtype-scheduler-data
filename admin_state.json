@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-10-28T09:30:03Z",
+    "action": "URL 확정 예고 ritsu (iIrzY2DEiZ8)",
+    "at": "2026-10-28T09:50:38Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "c483e0a19cec9f3566523611e9e81d8a08eb2f44",
+    "new_sha": "79b9b17671276597905ccf9e571c4d95e028c00d",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-27T14:50:13Z",
+      "generated_at": "2026-10-28T09:30:03Z",
       "items": [
         {
           "actual_start": null,
@@ -132,8 +132,8 @@
           "id": "pv_9d14b916",
           "info_at": null,
           "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-10-27T14:50:13Z",
+          "kind": "game",
+          "last_updated": "2026-10-28T09:30:03Z",
           "membership": false,
           "scheduled_start": "2026-10-28T13:00:00Z",
           "source": "api",
@@ -228,6 +228,35 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "arale",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-10-29T00:30:00Z",
+          "first_seen": "2026-10-28T09:30:03Z",
+          "host": null,
+          "id": "pv_3570a54f",
+          "info_at": "2026-10-28T09:30:03Z",
+          "info_source": "x-relay",
+          "kind": "morning",
+          "last_updated": "2026-10-28T09:30:03Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-10-28T21:30:00Z",
+          "source": "x-relay",
+          "src_url": "https://x.com/i/status/2115375519814340881",
+          "state": "announced",
+          "state_since": "2026-10-28T09:30:03Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": null,
+          "video_id": null
         }
       ]
     }
