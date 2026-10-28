@@ -33,3 +33,4 @@
 {"detail": "banner mode: none · 이벤트 「初のイマーシブホーム獲得型イベント」 버림 — 시작 일자가 적혀 있지 않고 같은 이벤트 배너도 없음 · 가챠 「初の期間限定ハロウィンガチャ」 버림 — 시작 일자가 적혀 있지 않고 붙을 배너도 없음", "flow": "notice", "result": "ok", "ts": "2026-10-28T03:27:32Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T03:27:46Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T03:27:45Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-28T03:48:54Z", "via": "ingest", "who": ""}
