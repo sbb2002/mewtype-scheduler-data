@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:03:48Z",
+  "generated_at": "2026-10-28T13:17:23Z",
   "tweets": {
     "arale": [
       {
@@ -643,6 +643,22 @@
         "text": "本日！\nブシロードTCG戦略発表会2026 秋\n総合MCをつとめさせていただきます！\nよろしくお願いいたします🌸",
         "text_ko": "오늘! 부시로드 TCG 전략 발표회 2026 가을 종합 MC를 맡게 됩니다! 잘 부탁드립니다🌸",
         "url": "https://x.com/i/status/2115380699553574916"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-10-30T13:17:21Z",
+        "handle": "ritsu_yumemita",
+        "id": "2115432736907534451",
+        "media": [
+          "https://pbs.twimg.com/media/HVuG2_JaUAAtMBV.jpg"
+        ],
+        "posted_at": "2026-10-28T13:17:21Z",
+        "quote": null,
+        "received_at": "2026-10-28T13:17:23Z",
+        "reply_to_id": null,
+        "text": "ブシロードTCG戦略発表会2026 秋\n総合MCと、パルワールドにて出演させて頂きました！\nカードの魅力がたくさん……！！！！\nMCもさせて頂けて本当に嬉しかったです！\n\n#ブシの秋2026",
+        "text_ko": "버시로드 TCG 전략 발표회 2026 가을\n총 MC와 파르월드에서 출연하게 되었습니다!\n카드 매력이 가득……!!!!\nMC도 맡게 되어 정말 기뻤어요!\n\n#ブシの秋2026",
+        "url": "https://x.com/i/status/2115432736907534451"
       }
     ],
     "yuno": [
