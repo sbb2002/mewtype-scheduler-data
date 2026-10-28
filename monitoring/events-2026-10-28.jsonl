@@ -132,3 +132,5 @@
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bushi_PR 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-28T15:23:09Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bushi_PR 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T15:23:11Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-10-28T15:37:12Z", "who": "/admin"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-28T15:40:00Z", "who": "mWbF-51F3ZQ"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_9d14b916", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９多種多様なおばけからモテモテすぎて困っています【ゆめみた/藤都子】", "to_state": "out", "ts": "2026-10-28T15:40:00Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
