@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (iIrzY2DEiZ8)",
-    "at": "2026-10-28T09:59:31Z",
+    "action": "URL 확정 예고 nonoka (iIrzY2DEiZ8)",
+    "at": "2026-10-28T10:01:26Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "7879b2b91690a198e3351acfaa2a819da1662e21",
+    "new_sha": "bbd8d596d60838b1cb0e311eeba8b0070747f6a0",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,15 +117,15 @@
           ]
         }
       },
-      "generated_at": "2026-10-28T09:50:38Z",
+      "generated_at": "2026-10-28T10:00:02Z",
       "items": [
         {
-          "actual_start": null,
+          "actual_start": "2026-10-28T09:58:43Z",
           "api_start_seen": "2026-10-28T10:00:00Z",
           "assumed_live": false,
           "channel_key": "ritsu",
           "collab_with": null,
-          "concurrent_viewers": null,
+          "concurrent_viewers": 965,
           "expires_at": "2026-10-28T13:00:00Z",
           "first_seen": "2026-10-28T09:50:38Z",
           "host": null,
@@ -133,18 +133,17 @@
           "info_at": "2026-10-28T09:50:38Z",
           "info_source": "personal",
           "kind": null,
-          "last_updated": "2026-10-28T09:50:38Z",
+          "last_updated": "2026-10-28T09:59:31Z",
           "membership": false,
-          "needs_tl": true,
           "scheduled_start": "2026-10-28T10:00:00Z",
           "source": "personal",
           "src_url": "https://x.com/i/status/2115380699553574916",
-          "state": "watching",
-          "state_since": "2026-10-28T09:50:38Z",
+          "state": "live",
+          "state_since": "2026-10-28T09:59:31Z",
           "thumbnail": "https://i.ytimg.com/vi/iIrzY2DEiZ8/maxresdefault.jpg?v=6aab46fb",
           "time_tbd": false,
           "title": "ブシロードTCG戦略発表会2026 秋",
-          "title_ko": null,
+          "title_ko": "버시로드 TCG 전략 발표회 2026 가을",
           "url": "https://www.youtube.com/watch?v=iIrzY2DEiZ8",
           "video_id": "iIrzY2DEiZ8"
         },
