@@ -20,3 +20,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T22:06:06Z", "who": "仲町あられ"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +42분 · 2115555131207090422", "flow": "tweet", "result": "ok", "ts": "2026-10-28T22:06:03Z", "tweet_id": "2115555131207090422", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T22:06:11Z", "who": "仲町あられ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-28T22:50:00Z", "who": "jp4tqcF9OB4"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_e655679a", "result": "ok", "title": "【🟡朝活】さ、さむい！！！あさだ...🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-10-28T22:50:00Z", "video_id": "jp4tqcF9OB4", "who": "arale"}
