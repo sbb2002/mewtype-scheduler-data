@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:50:38Z",
+  "generated_at": "2026-10-28T09:59:31Z",
   "tweets": {
     "arale": [
       {
@@ -180,6 +180,26 @@
         "text": "おはようござい！☀️ﾊｻﾞｽｯ\n\n今日はいい天気過ぎてぽかぽか…風も気持ち良い…✨",
         "text_ko": "좋은 아침이에요!☀️하자스\n오늘은 날씨가 너무 좋아서 포카포카…바람도 기분 좋고…✨",
         "url": "https://x.com/i/status/2115329822511776253"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-30T09:59:28Z",
+        "handle": "arale_yumemita",
+        "id": "2115382936359014613",
+        "media": [],
+        "posted_at": "2026-10-28T09:59:28Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVtE0Vxa4AAIQGQ.jpg"
+          ],
+          "text": "＼\\📢本日19:00から‼️/／\n\n🍁ブシロードTCG戦略発表会2026 秋🍁\n\n総合MCは峰月律さんと千石ユノさん🛸\n\nさらに豪華ゲストをお迎えして\nブシロードTCGの最新情報をお届けします✨\n\n📺配信ページはこちら👀\nhttps://www.youtube.com/live/iIrzY2DEiZ8\n\n▼詳細はこちら\nhttps://bushiroad.com/presentation2026autumn\n\n#ブシロード",
+          "text_ko": "📢 오늘 19:00부터‼️\n\n🍁버시로드 TCG 전략 발표회 2026 가을🍁\n\n총 MC는 미네츠키 리츠 씨와 센고쿠 유노 씨🛸\n\n또한 화려한 게스트를 모시고\n버시로드 TCG 최신 정보를 전합니다✨\n\n📺 방송 페이지는 여기👀\nhttps://www.youtube.com/live/iIrzY2DEiZ8\n\n▼ 자세한 내용은 여기\nhttps://bushiroad.com/presentation2026autumn\n\n#ブシロード"
+        },
+        "received_at": "2026-10-28T09:59:31Z",
+        "reply_to_id": null,
+        "text": "本日は！このあと19:00〜\n#ブシの秋2026 出演させていただきます！\nよろしくお願いいたします！",
+        "text_ko": "오늘은! 이 뒤 19:00부터 #ブシの秋2026 출연하게 됩니다! 잘 부탁드립니다!",
+        "url": "https://x.com/i/status/2115382936359014613"
       }
     ],
     "miyako": [
