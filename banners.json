@@ -71,9 +71,10 @@
       "hold": null,
       "id": "bn_de1cf3d5",
       "image_urls": [
-        "https://pbs.twimg.com/media/HVjU2HKbkAA7xbn.jpg"
+        "https://pbs.twimg.com/media/HVjU2HKbkAA7xbn.jpg",
+        "https://pbs.twimg.com/media/HVr0ReJbAAACfnl.jpg"
       ],
-      "last_updated": "2026-10-27T11:19:43Z",
+      "last_updated": "2026-10-28T03:27:33Z",
       "match_keys": [
         "aday#halloweensnap"
       ],
@@ -82,11 +83,12 @@
       "src_ids": [
         "2114677715018383769",
         "2115037800735412645",
-        "2115038307025670524"
+        "2115038307025670524",
+        "2115280006775767155"
       ],
       "start_at": "2026-10-28T03:00:00Z",
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-10-27T15:10:33Z"
+  "generated_at": "2026-10-28T03:27:33Z"
 }
