@@ -5453,6 +5453,59 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_012987cde4",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVr0ReJbAAACfnl.jpg"
+        ],
+        "raw": "チャレンジライブイベント「A day〜#HalloweenSnap〜」開催！\n\n本イベントは11月7日(土)14:59まで✨\n\nMyGO!!!!!の歌うカバー楽曲『ノンブレス・オブリージュ』と、Ave Mujicaが歌うカバー楽曲『怪物』もチャレンジライブでプレイ可能です💫ぜひチェックしてくださいね！\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115280006775767155"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 챌린지 라이브 이벤트와 곡 플레이가 진행되는 내용이므로 게임 앱 안의 일이다. (근거: 「チャレンジライブイベント「A day〜#HalloweenSnap〜」開催！」 「本イベントは11月7日(土)14:59まで✨」 「MyGO!!!!!の歌うカバー楽曲『ノンブレス・オブリージュ』と、Ave Muj」) / 본문과 이미지에서 인게임 이벤트 하나를 추출했습니다.",
+      "summary": "행사 배너 갱신 — A day〜#HalloweenSnap〜",
+      "ts": "2026-10-28T03:27:33Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-07T05:59:00Z",
+              "first_seen": "2026-10-26T11:17:12Z",
+              "gachas": [],
+              "hold": null,
+              "id": "bn_de1cf3d5",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HVjU2HKbkAA7xbn.jpg"
+              ],
+              "last_updated": "2026-10-27T11:19:43Z",
+              "match_keys": [
+                "aday#halloweensnap"
+              ],
+              "name_ja": "A day〜#HalloweenSnap〜",
+              "name_ko": "A day〜#HalloweenSnap〜",
+              "src_ids": [
+                "2114677715018383769",
+                "2115037800735412645",
+                "2115038307025670524"
+              ],
+              "start_at": "2026-10-28T03:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_de1cf3d5",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
