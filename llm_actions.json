@@ -5576,6 +5576,60 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6394927adc",
+      "input": {
+        "channel_key": "arale",
+        "quote": "＼\\📢本日19:00から‼️/／\n\n🍁ブシロードTCG戦略発表会2026 秋🍁\n\n総合MCは峰月律さんと千石ユノさん🛸\n\nさらに豪華ゲストをお迎えして\nブシロードTCGの最新情報をお届けします✨\n\n📺配信ページはこちら👀\nhttps://www.youtube.com/live/iIrzY2DEiZ8\n\n▼詳細はこちら\nhttps://bushiroad.com/presentation2026autumn\n\n#ブシロード",
+        "raw": "本日は！このあと19:00~\n#ブシの秋2026 出演させていただきます！\nよろしくお願いいたします！",
+        "tag": "p#https://x.com/#1tweet-2115382936359014613",
+        "video_id": "iIrzY2DEiZ8"
+      },
+      "kind": "participation",
+      "parent_id": null,
+      "reason": "",
+      "summary": "외부 채널 영상에 참여로 판정 → 예고 등록 · ブシロードTCG戦略発表会2026 秋",
+      "ts": "2026-10-28T09:59:31Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": "2026-10-28T10:00:00Z",
+            "assumed_live": false,
+            "channel_key": "ritsu",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-28T13:00:00Z",
+            "first_seen": "2026-10-28T09:50:38Z",
+            "host": null,
+            "id": "pv_66828a0f",
+            "info_at": "2026-10-28T09:50:38Z",
+            "info_source": "personal",
+            "kind": null,
+            "last_updated": "2026-10-28T09:50:38Z",
+            "membership": false,
+            "needs_tl": true,
+            "scheduled_start": "2026-10-28T10:00:00Z",
+            "source": "personal",
+            "src_url": "https://x.com/i/status/2115380699553574916",
+            "state": "watching",
+            "state_since": "2026-10-28T09:50:38Z",
+            "thumbnail": "https://i.ytimg.com/vi/iIrzY2DEiZ8/maxresdefault.jpg?v=6aab46fb",
+            "time_tbd": false,
+            "title": "ブシロードTCG戦略発表会2026 秋",
+            "title_ko": null,
+            "url": "https://www.youtube.com/watch?v=iIrzY2DEiZ8",
+            "video_id": "iIrzY2DEiZ8"
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
