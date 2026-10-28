@@ -129,3 +129,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · mWbF-51F3ZQ · 예고 end", "flow": "websub", "merge_key": "websub-notify:mWbF-51F3ZQ", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９多種多様なおばけからモテモテすぎて困っています【ゆめみた/藤都子】", "ts": "2026-10-28T15:17:29Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T15:17:36Z", "who": "藤都子"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-28T15:20:02Z", "who": ""}
+{"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bushi_PR 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-28T15:23:09Z", "via": "ingest", "who": ""}
