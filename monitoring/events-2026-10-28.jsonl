@@ -104,3 +104,5 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-28T12:32:27Z", "who": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_9d14b916", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】", "to_state": "watching", "ts": "2026-10-28T12:32:27Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-28T12:39:00Z", "who": "mWbF-51F3ZQ"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-28T12:45:00Z", "who": "mWbF-51F3ZQ"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_66828a0f", "result": "ok", "title": "ブシロードTCG戦略発表会2026 秋", "to_state": "out", "ts": "2026-10-28T12:45:00Z", "video_id": "iIrzY2DEiZ8", "who": "ritsu"}
