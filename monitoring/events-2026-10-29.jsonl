@@ -16,3 +16,4 @@
 {"action": "notify", "count": 2, "detail": "알림 수신 · jp4tqcF9OB4 · 예고 live", "flow": "websub", "last_ts": "2026-10-28T21:35:20Z", "merge_key": "websub-notify:jp4tqcF9OB4", "result": "ok", "title": "【🟡朝活】さ、さむい！！！あさだ...🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-28T21:32:16Z", "video_id": "jp4tqcF9OB4", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 10/29 06:30에 시작하는 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-28T21:44:05Z", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2115558427858763784 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-28T21:44:05Z", "tweet_id": "2115558427858763784", "via": "ingest", "who": "arale"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +29분 · 2115558427858763784", "flow": "tweet", "result": "ok", "ts": "2026-10-28T22:06:03Z", "tweet_id": "2115558427858763784", "via": "ingest", "who": "arale"}
