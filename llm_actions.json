@@ -5683,6 +5683,26 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bfc57aed80",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "💜配信よてい💜\n10/28（水）22:00〜ゲーム👻\n零〜濡鴉ノ巫女〜\n\nhttps://www.youtube.com/live/mWbF-51F3ZQ?si=IO1aAV-ei9BXva9K\n\n前回の配信後に未セーブ部分をひとりでプレイしていたら回避の仕方を習得できたので、みやこは無敵❤️‍🔥\n幽霊全員に、勝つ❤️‍🔥\n#みるみやこ",
+        "raw": "零実況配信👻はじまる❣",
+        "tag": "p#https://x.com/#1tweet-2115428558776795576"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/28 22:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-28T13:03:48Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
