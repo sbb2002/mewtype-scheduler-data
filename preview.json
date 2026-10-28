@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-28T15:17:29Z",
+  "generated_at": "2026-10-28T15:20:02Z",
   "items": [
     {
       "actual_start": null,
@@ -208,7 +208,6 @@
       "kind": "game",
       "last_updated": "2026-10-28T15:17:29Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-28T13:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2115093709507420196",
@@ -217,7 +216,7 @@
       "thumbnail": "https://i.ytimg.com/vi/mWbF-51F3ZQ/maxresdefault.jpg?v=6adb5452",
       "time_tbd": false,
       "title": "【零 ～濡鴉ノ巫女～】＃９多種多様なおばけからモテモテすぎて困っています【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【零 ～濡鴉노 무녀～】#9 다양한 유령들에게 너무 인기가 많아 곤란합니다【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=mWbF-51F3ZQ",
       "video_id": "mWbF-51F3ZQ",
       "yt_tunein": true
