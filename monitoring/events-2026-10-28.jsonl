@@ -101,3 +101,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-28T12:32:12Z", "tweet_id": "2115421082077602055", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T12:32:10Z", "who": "宮永ののか🐰🩹"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T12:32:21Z", "who": "千石ユノ"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-28T12:32:27Z", "who": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】"}
