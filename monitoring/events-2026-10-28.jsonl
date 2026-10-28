@@ -120,3 +120,6 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-28T14:21:52Z", "tweet_id": "2115448958357262458", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 내일 6시30분에 방송한다는 안내이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-28T14:21:52Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T14:22:12Z", "who": "仲町あられ"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-28T15:05:57Z", "who": "mWbF-51F3ZQ"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_9d14b916", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】", "to_state": "end", "ts": "2026-10-28T15:05:57Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · mWbF-51F3ZQ · 예고 end", "flow": "websub", "merge_key": "websub-notify:mWbF-51F3ZQ", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】", "ts": "2026-10-28T15:05:57Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
