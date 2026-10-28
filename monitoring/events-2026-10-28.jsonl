@@ -51,3 +51,4 @@
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-28T06:39:24Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T06:39:27Z", "who": "峰月律"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @yk1021 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-28T06:39:31Z", "via": "ingest", "who": ""}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @yk1021 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T06:39:35Z", "who": "夢限大みゅーたいぷ"}
