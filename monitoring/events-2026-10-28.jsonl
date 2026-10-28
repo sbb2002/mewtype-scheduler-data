@@ -30,3 +30,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +13분 · 2115280892914704443", "flow": "tweet", "result": "ok", "ts": "2026-10-28T03:27:32Z", "tweet_id": "2115280892914704443", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T03:27:40Z", "who": "峰月律"}
 {"detail": "banner mode: updated · 이벤트 「A day〜#HalloweenSnap〜」(2026-10-28 12:00 ~ 2026-11-07 14:59) 기존 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-10-28T03:27:33Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "banner mode: none · 이벤트 「初のイマーシブホーム獲得型イベント」 버림 — 시작 일자가 적혀 있지 않고 같은 이벤트 배너도 없음 · 가챠 「初の期間限定ハロウィンガチャ」 버림 — 시작 일자가 적혀 있지 않고 붙을 배너도 없음", "flow": "notice", "result": "ok", "ts": "2026-10-28T03:27:32Z", "via": "ingest", "who": "bang_dream_on"}
