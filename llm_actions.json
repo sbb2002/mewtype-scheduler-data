@@ -5703,6 +5703,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2d74a94c98",
+      "input": {
+        "channel_key": "arale",
+        "raw": "明日は木曜日、あさかーつを6:30~するよ〜！\n今日は早めにおやすみ…🌃ぐんない！",
+        "tag": "p#https://x.com/#1tweet-2115448958357262458"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 내일 6시30분에 방송한다는 안내이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-28T14:21:52Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
