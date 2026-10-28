@@ -119,3 +119,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T13:17:31Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-28T14:21:52Z", "tweet_id": "2115448958357262458", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 내일 6시30분에 방송한다는 안내이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-28T14:21:52Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T14:22:12Z", "who": "仲町あられ"}
