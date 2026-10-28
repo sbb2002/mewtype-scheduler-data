@@ -69,3 +69,4 @@
 {"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_66828a0f", "result": "ok", "title": "ブシロードTCG戦略発表会2026 秋", "to_state": "watching", "ts": "2026-10-28T09:50:38Z", "video_id": "iIrzY2DEiZ8", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 오늘 19:00에 진행될 방송에 MC로 참여한다는 안내이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-28T09:50:38Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T09:51:18Z", "who": "峰月律"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-28T09:54:00Z", "who": "iIrzY2DEiZ8"}
