@@ -92,3 +92,4 @@
 {"detail": "retweet skip: 폰 원문이 @bushi_PR 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-28T12:31:55Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T12:31:57Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-28T12:31:55Z", "tweet_id": "2115420303195353247", "via": "ingest", "who": "arale"}
+{"detail": "retweet skip: 폰 원문이 @PalworldOCG 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-28T12:32:01Z", "via": "ingest", "who": "yuno"}
