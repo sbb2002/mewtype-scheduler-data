@@ -8,3 +8,4 @@
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-28T21:20:07Z", "who": "song-topic"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-28T21:20:02Z", "who": "yuno"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-28T21:20:04Z", "who": "ritsu"}
+{"detail": "gap-fill · 2115555131207090422 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-28T21:31:06Z", "tweet_id": "2115555131207090422", "via": "ingest", "who": "arale"}
