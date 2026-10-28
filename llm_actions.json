@@ -4,63 +4,6 @@
       "by": "llm",
       "flow_id": null,
       "followup": null,
-      "id": "llm_058e61dbc5",
-      "input": {
-        "acct": "bang_dream_on",
-        "raw": "チャレンジライブイベント「アイの奔流 AtoZ」開催中！\n\nイベントptの累計報酬として、SRメンバー峰月 律が登場！\nまた交換所ではイベントバッジを使用し、都子＆律のSRスナップと交換できますよ💫\n\nイベントは明日の20:59まで！お見逃しなく✨\n\n#バンドリ #アワーノーツ",
-        "tag": "p#https://x.com/#1tweet-2107667236945309914"
-      },
-      "kind": "banner_judge",
-      "parent_id": null,
-      "reason": "기존 배너와 동일한 행사이며 새로운 기간·가챠·곡 정보가 없으므로 none 처리합니다.",
-      "summary": "행사 배너 — 해당 없음 — アイの奔流 AtoZ",
-      "ts": "2026-10-07T03:09:26Z",
-      "undo": null,
-      "undone": null,
-      "who": "bang_dream_on"
-    },
-    {
-      "by": "llm",
-      "flow_id": null,
-      "followup": null,
-      "id": "llm_ac49a0332b",
-      "input": {
-        "channel_key": "miyako",
-        "raw": "💜配信よてい💜\n10/7(水)22:30～雑談\nくるくるしゃべ太郎が\nやってくるくる♪\n\n👄ガムトーク👄\n引いたカードのお題に沿って\nふり～と～きんぐ♪\n\n配信URLは直前についーよします🔔\n＃みるみやこ",
-        "tag": "p#https://x.com/#1tweet-2107667244830372262"
-      },
-      "kind": "own_broadcast",
-      "parent_id": null,
-      "reason": "",
-      "summary": "본인 방송 예고 아님 — 💜配信よてい💜\n10/7(水)22:30～雑談\nくるくるしゃべ太郎が\nやってくるくる♪\n\n👄ガムトーク👄\n引いたカードの",
-      "ts": "2026-10-07T03:09:25Z",
-      "undo": null,
-      "undone": null,
-      "who": "miyako"
-    },
-    {
-      "by": "llm",
-      "flow_id": null,
-      "followup": null,
-      "id": "llm_377062c979",
-      "input": {
-        "channel_key": "ritsu",
-        "raw": "【今日の配信】 \n🩵 ･･････････････････････ 🩵 \n\n今夜22:00~\n#アワーノーツ 峰月律を峰月律が完凸させたい！\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/gCuTCjPha8k?si=LMzghRPrWn2yBvAL\n\n🩵 ･･････････････････････ 🩵",
-        "tag": "p#https://x.com/#1tweet-2107697962944258397"
-      },
-      "kind": "broadcast_change",
-      "parent_id": null,
-      "reason": "게시물에 일정 변경이나 취소를 알리는 표현이 없고, 기존 방송 시간과 동일하게 22:00에 진행한다고만 안내하고 있다.",
-      "summary": "방송 취소 · 변경 아님",
-      "ts": "2026-10-07T05:21:26Z",
-      "undo": null,
-      "undone": null,
-      "who": "ritsu"
-    },
-    {
-      "by": "llm",
-      "flow_id": null,
-      "followup": null,
       "id": "llm_54b033f077",
       "input": {
         "channel_key": "arale",
