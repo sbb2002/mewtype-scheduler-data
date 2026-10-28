@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-28T09:59:31Z",
+  "generated_at": "2026-10-28T10:00:02Z",
   "items": [
     {
       "actual_start": "2026-10-28T09:58:43Z",
@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-10-28T09:59:31Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-28T10:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2115380699553574916",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/iIrzY2DEiZ8/maxresdefault.jpg?v=6aab46fb",
       "time_tbd": false,
       "title": "ブシロードTCG戦略発表会2026 秋",
-      "title_ko": null,
+      "title_ko": "버시로드 TCG 전략 발표회 2026 가을",
       "url": "https://www.youtube.com/watch?v=iIrzY2DEiZ8",
       "video_id": "iIrzY2DEiZ8"
     },
