@@ -27,3 +27,4 @@
 {"detail": "gap-fill · 2115280892914704443 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-28T03:21:04Z", "tweet_id": "2115280892914704443", "via": "ingest", "who": "ritsu"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-28T03:27:33Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T03:27:35Z", "who": "峰月律"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +13분 · 2115280892914704443", "flow": "tweet", "result": "ok", "ts": "2026-10-28T03:27:32Z", "tweet_id": "2115280892914704443", "via": "ingest", "who": "ritsu"}
