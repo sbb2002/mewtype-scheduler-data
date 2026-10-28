@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:17:16Z",
+  "generated_at": "2026-10-28T21:31:06Z",
   "tweets": {
     "arale": [
       {
@@ -189,6 +189,20 @@
         "text": "明日は木曜日、あさかーつを6:30〜するよ〜！\n今日は早めにおやすみ…🌃ぐんない！",
         "text_ko": "내일은 목요일, 아사카츠를 6:30부터 할 거야~!\n오늘은 일찍 잘게…🌃군내!",
         "url": "https://x.com/i/status/2115448958357262458"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-30T21:23:43Z",
+        "handle": "arale_yumemita",
+        "id": "2115555131207090422",
+        "media": [],
+        "posted_at": "2026-10-28T21:23:43Z",
+        "quote": null,
+        "received_at": "2026-10-28T21:31:06Z",
+        "reply_to_id": null,
+        "text": "おはようございます…さ、さむい…",
+        "text_ko": "좋은 아침입니다… 추, 추워요…",
+        "url": "https://x.com/i/status/2115555131207090422"
       }
     ],
     "miyako": [
