@@ -116,3 +116,4 @@
 {"detail": "retweet skip: 폰 원문이 @bushi_PR 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-28T13:17:02Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T13:17:03Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-28T13:17:23Z", "tweet_id": "2115432736907534451", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T13:17:31Z", "who": "峰月律"}
