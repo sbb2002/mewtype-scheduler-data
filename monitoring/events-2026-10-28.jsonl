@@ -125,3 +125,5 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · mWbF-51F3ZQ · 예고 end", "flow": "websub", "merge_key": "websub-notify:mWbF-51F3ZQ", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９セーブを信じるな【ゆめみた/藤都子】", "ts": "2026-10-28T15:05:57Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-28T15:17:16Z", "tweet_id": "2115462900454461627", "via": "ingest", "who": "miyako"}
 {"detail": "url-schedule skip: 이미 끝난 방송 mWbF-51F3ZQ", "flow": "tweet", "result": "ok", "ts": "2026-10-28T15:17:16Z", "via": "ingest", "who": "miyako"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-28T15:17:29Z", "who": "mWbF-51F3ZQ"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · mWbF-51F3ZQ · 예고 end", "flow": "websub", "merge_key": "websub-notify:mWbF-51F3ZQ", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃９多種多様なおばけからモテモテすぎて困っています【ゆめみた/藤都子】", "ts": "2026-10-28T15:17:29Z", "video_id": "mWbF-51F3ZQ", "who": "miyako"}
