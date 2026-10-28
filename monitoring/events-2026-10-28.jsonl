@@ -48,3 +48,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T06:28:03Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-28T06:28:27Z", "tweet_id": "2115329822511776253", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-28T06:28:35Z", "who": "仲町あられ"}
+{"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-28T06:39:24Z", "via": "ingest", "who": "ritsu"}
