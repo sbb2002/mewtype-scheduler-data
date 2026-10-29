@@ -5975,6 +5975,26 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_1178d593af",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n10/29(木)の配信スケジュール🌟\n＼\n\n🎤20:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n💭23:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "♡🐰今日の配信🩹♡\n\nこのあと20:30から！\n\nうたわくします🎶\nあたらしい自分に挑戦しているので、\n吉とでるか凶とでるか🥹\n\nれっつらごー🎶\n\n#ののちゃんたいむ",
+        "tag": "p#https://x.com/#1tweet-2115760735745917253"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 방송을 취소하거나 일정 변경한다는 내용이 없고 오히려 20:30에 진행한다는 언급이 있다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-29T11:01:19Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
