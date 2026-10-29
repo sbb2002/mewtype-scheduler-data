@@ -59,3 +59,4 @@
 {"detail": "gap-fill(자기 답글) · 2115726766979547318 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T08:46:05Z", "tweet_id": "2115726766979547318", "via": "ingest", "who": "arale"}
 {"detail": "retweet skip: 폰 원문이 @h_kenmochi 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-29T08:47:04Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T08:47:06Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T08:49:42Z", "tweet_id": "2115727755132493831", "via": "ingest", "who": "arale"}
