@@ -4,19 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-29T02:42:37Z",
-        "handle": "arale_yumemita",
-        "id": "2114910612262416474",
-        "media": [],
-        "posted_at": "2026-10-27T02:42:37Z",
-        "quote": null,
-        "received_at": "2026-10-27T02:42:56Z",
-        "text": "おはようございます☀️ﾊｻﾞｽｯ\n\n昨夜の夢は、マイクのスイートスポットを研究する夢を見た……(どんな夢？🤣)",
-        "text_ko": "좋은 아침이에요☀️하자스\n어젯밤 꿈은 마이크의 스위트스팟을 연구하는 꿈을 꿨다……(어떤 꿈?🤣)",
-        "url": "https://x.com/i/status/2114910612262416474"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-29T14:16:14Z",
         "handle": "arale_yumemita",
         "id": "2115085054816944210",
@@ -574,25 +561,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-28T22:01:06Z",
-        "handle": "ritsu_yumemita",
-        "id": "2114839764851728839",
-        "media": [],
-        "posted_at": "2026-10-26T22:01:06Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HVkEgrFaIAAiPn_.jpg"
-          ],
-          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n１０月２７日\n　𝗦𝗧𝗔𝗥𝗧 あさ7:00～\n\nおはようりっちゃん☀第8回目!\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/CujtCeV3xp0\n\n🩵 ･･････････････････････ 🩵",
-          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵\n\n10월 27일\n　START 아침 7:00～\n\n안녕 리츠짱☀제8회!\n\n↻ URL\nhttps://www.youtube.com/live/CujtCeV3xp0\n\n🩵 ･･････････････････････ 🩵"
-        },
-        "received_at": "2026-10-26T22:08:43Z",
-        "text": "はじめますっ",
-        "text_ko": "시작합니다!",
-        "url": "https://x.com/i/status/2114839764851728839"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-29T14:08:06Z",
