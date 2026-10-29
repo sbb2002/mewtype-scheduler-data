@@ -77,3 +77,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T10:23:20Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T11:01:19Z", "tweet_id": "2115760735745917253", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물에 방송을 취소하거나 일정 변경한다는 내용이 없고 오히려 20:30에 진행한다는 언급이 있다.", "flow": "tweet", "result": "ok", "ts": "2026-10-29T11:01:19Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T11:01:53Z", "who": "宮永ののか🐰🩹"}
