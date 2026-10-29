@@ -41,3 +41,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T04:49:25Z", "who": "千石ユノ"}
 {"detail": "gap-fill(자기 답글) · 2115666978228887759 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-10-29T04:49:05Z", "tweet_id": "2115666978228887759", "via": "ingest", "who": "yuno"}
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-29T04:50:45Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T04:50:46Z", "who": "千石ユノ"}
