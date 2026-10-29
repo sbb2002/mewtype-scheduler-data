@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "본인 예고 센고쿠 유노 (〈配信のおしらせ〉\n10/29 23:30～ 生存報告\n\nみんなは今月何してた？)",
-    "at": "2026-10-29T12:54:58Z",
+    "action": "본인 예고 센고쿠 유노 (〈配信のおしらせ〉\n10/30 23:00～ #パルワールドカードゲーム 開封)",
+    "at": "2026-10-29T12:57:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "7194870ec723010ca5a12921f3d07f7b56eaff62",
+    "new_sha": "08d762dd9e19fb7c7f7b7c4b7fb136eb99706d82",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-29T12:30:09Z",
+      "generated_at": "2026-10-29T12:54:58Z",
       "items": [
         {
           "actual_start": null,
@@ -212,10 +212,10 @@
           "first_seen": "2026-10-29T09:30:07Z",
           "host": null,
           "id": "pv_b53b42f5",
-          "info_at": "2026-10-29T09:30:07Z",
-          "info_source": "x-relay",
+          "info_at": "2026-10-29T12:54:48Z",
+          "info_source": "personal",
           "kind": "talk",
-          "last_updated": "2026-10-29T09:30:07Z",
+          "last_updated": "2026-10-29T12:54:58Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-10-29T14:30:00Z",
