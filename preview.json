@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-29T11:35:16Z",
+  "generated_at": "2026-10-29T11:40:02Z",
   "items": [
     {
       "actual_start": "2026-10-29T11:33:38Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-10-29T11:35:16Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-29T11:33:22Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2115769422027837885",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/W0bKqP-Eyj4/maxresdefault.jpg?v=6ae32f05",
       "time_tbd": false,
       "title": "【歌枠】ののうた♪さむい♪テーマなし♪【ゆめみた/夢限大みゅーたいぷ】  #shorts",
-      "title_ko": null,
+      "title_ko": "【노래 방송】노노카 노래♪추워♪주제 없음♪【유메미타/무겐다이 뮤타입】 #shorts",
       "url": "https://www.youtube.com/watch?v=W0bKqP-Eyj4",
       "video_id": "W0bKqP-Eyj4"
     },
