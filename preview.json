@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-29T11:01:19Z",
+  "generated_at": "2026-10-29T11:32:00Z",
   "items": [
     {
       "actual_start": null,
@@ -95,7 +95,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-28T23:20:00Z",
+      "last_updated": "2026-10-29T11:32:00Z",
       "membership": false,
       "scheduled_start": "2026-10-31T12:30:00Z",
       "source": "api",
@@ -122,7 +122,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-28T23:20:00Z",
+      "last_updated": "2026-10-29T11:32:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -150,7 +150,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-28T23:20:00Z",
+      "last_updated": "2026-10-29T11:32:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -177,10 +177,11 @@
       "info_at": "2026-10-29T11:00:42Z",
       "info_source": "personal",
       "kind": "song",
-      "last_updated": "2026-10-29T11:01:19Z",
+      "last_updated": "2026-10-29T11:32:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-10-29T11:30:00Z",
+      "search_checked": true,
       "source": "x-relay",
       "src_url": "https://x.com/i/status/2115737908095386012",
       "state": "announced",
