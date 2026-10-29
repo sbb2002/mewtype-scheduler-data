@@ -62,3 +62,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T08:49:42Z", "tweet_id": "2115727755132493831", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T08:49:52Z", "who": "仲町あられ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_b59c9bb2", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-29T09:30:07Z", "video_id": null, "who": "nonoka"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_b53b42f5", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-29T09:30:07Z", "video_id": null, "who": "yuno"}
