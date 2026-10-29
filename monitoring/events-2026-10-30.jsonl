@@ -2,3 +2,4 @@
 {"detail": "보관함 정리 notice · 5건 → notice_archive/2026-09-22.json, notice_archive/2026-09-24.json, notice_archive/2026-09-25.json · 캐시 130KB", "flow": "archive", "result": "ok", "ts": "2026-10-29T21:10:00Z", "who": ""}
 {"detail": "보관함 정리 llm · 15건 → llm_actions/2026-10-08.json · 캐시 290KB", "flow": "archive", "result": "ok", "ts": "2026-10-29T21:10:00Z", "who": ""}
 {"detail": "보관함 정리 preview · 3건 → preview_archive/2026-10-22.json · 캐시 21KB", "flow": "archive", "result": "ok", "ts": "2026-10-29T21:10:00Z", "who": ""}
+{"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-29T21:20:01Z", "who": "arale"}
