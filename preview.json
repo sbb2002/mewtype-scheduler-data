@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-29T09:30:07Z",
+  "generated_at": "2026-10-29T11:01:19Z",
   "items": [
     {
       "actual_start": null,
@@ -174,10 +174,10 @@
       "first_seen": "2026-10-29T09:30:07Z",
       "host": null,
       "id": "pv_b59c9bb2",
-      "info_at": "2026-10-29T09:30:07Z",
-      "info_source": "x-relay",
+      "info_at": "2026-10-29T11:00:42Z",
+      "info_source": "personal",
       "kind": "song",
-      "last_updated": "2026-10-29T09:30:07Z",
+      "last_updated": "2026-10-29T11:01:19Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-10-29T11:30:00Z",
