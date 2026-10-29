@@ -6111,6 +6111,25 @@
       },
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4a1e8beb60",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/30 23:00～ #パルワールドカードゲーム 開封\n⬆️時間変更になってます！\n\nついにブースターパック第2弾「目覚めし伝説」の発売日！\nゾーイとドンモップ(もちろんコモップも)狙いで開けていきます！",
+        "tag": "p#https://x.com/#1tweet-2115790018220609978"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 시간 변경을 알리지만, 목록에 있는 10/30 23:00 방송과 이미 일치하므로 일정 변경으로 판단할 근거가 없으며 취소도 아닌 일반 안내로 본다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-29T12:57:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
