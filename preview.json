@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-29T11:33:55Z",
+  "generated_at": "2026-10-29T11:35:16Z",
   "items": [
     {
       "actual_start": "2026-10-29T11:33:38Z",
@@ -88,7 +88,7 @@
       "assumed_live": false,
       "channel_key": "nonoka",
       "collab_with": null,
-      "concurrent_viewers": 2,
+      "concurrent_viewers": 187,
       "expires_at": "2026-10-29T14:33:22Z",
       "first_seen": "2026-10-29T11:33:55Z",
       "host": null,
@@ -96,11 +96,12 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-29T11:33:55Z",
+      "last_updated": "2026-10-29T11:35:16Z",
       "membership": false,
       "needs_tl": true,
       "scheduled_start": "2026-10-29T11:33:22Z",
       "source": "api",
+      "src_url": "https://x.com/i/status/2115769422027837885",
       "state": "live",
       "state_since": "2026-10-29T11:33:55Z",
       "thumbnail": "https://i.ytimg.com/vi/W0bKqP-Eyj4/maxresdefault.jpg?v=6ae32f05",
