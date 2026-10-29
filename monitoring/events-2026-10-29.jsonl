@@ -115,3 +115,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-29T13:30:01Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T13:42:00Z", "tweet_id": "2115801316371165668", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T13:42:10Z", "who": "藤都子"}
+{"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-29T13:47:18Z", "via": "ingest", "who": ""}
