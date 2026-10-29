@@ -129,3 +129,6 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T14:42:09Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T14:55:01Z", "tweet_id": "2115819689146544217", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T14:55:14Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-29T15:29:23Z", "who": "T9ZL5QzBXBM"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_13b248bc", "result": "ok", "title": "【月に一度の】ユノの生存報告 #52 【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-29T15:29:23Z", "video_id": "T9ZL5QzBXBM", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · T9ZL5QzBXBM · 예고 end", "flow": "websub", "merge_key": "websub-notify:T9ZL5QzBXBM", "result": "ok", "title": "【月に一度の】ユノの生存報告 #52 【 #千石ユノ / #バンドリ 】", "ts": "2026-10-29T15:29:23Z", "video_id": "T9ZL5QzBXBM", "who": "yuno"}
