@@ -57,3 +57,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T08:44:08Z", "who": "仲町あられ"}
 {"detail": "gap-fill(자기 답글) · 2115726429212307529 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T08:45:09Z", "tweet_id": "2115726429212307529", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill(자기 답글) · 2115726766979547318 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T08:46:05Z", "tweet_id": "2115726766979547318", "via": "ingest", "who": "arale"}
+{"detail": "retweet skip: 폰 원문이 @h_kenmochi 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-29T08:47:04Z", "via": "ingest", "who": "arale"}
