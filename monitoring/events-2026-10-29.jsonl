@@ -91,3 +91,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T11:35:49Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-29T11:40:02Z", "who": ""}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-29T12:00:12Z", "who": "バンドリ！TV LIVE 2026 #338"}
+{"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-29T12:20:45Z", "who": "バンドリちゃんねる☆ 실시간 스트리밍 시작"}
