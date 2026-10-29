@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "actual_start": "2026-10-19T13:01:09Z",
+      "api_start_seen": "2026-10-19T13:00:00Z",
+      "archived_at": "2026-10-19T16:10:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 1764,
+      "expires_at": "2026-10-19T16:00:00Z",
+      "first_seen": "2026-10-19T12:06:04Z",
+      "host": null,
+      "id": "pv_b8ad83d5",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-19T16:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-19T13:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2112153627083276361",
+      "state": "out",
+      "state_since": "2026-10-19T16:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/GCVk1ZZTpJw/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡持ち物チェック】最近の仲町さんのカバンの中身は…？【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡소지품 체크】최근 나카마치 씨의 가방 안에는…？【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=GCVk1ZZTpJw",
+      "video_id": "GCVk1ZZTpJw",
+      "yt_tunein": true
+    }
+  ]
+}

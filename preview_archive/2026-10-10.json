@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "actual_start": "2026-10-09T14:02:47Z",
+      "api_start_seen": "2026-10-09T14:00:00Z",
+      "archived_at": "2026-10-09T16:20:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-09T17:00:00Z",
+      "first_seen": "2026-10-09T14:07:14Z",
+      "host": null,
+      "id": "pv_5e4a25c1",
+      "info_at": "2026-10-09T14:07:14Z",
+      "info_source": "personal",
+      "kind": null,
+      "last_updated": "2026-10-09T16:20:00Z",
+      "membership": true,
+      "scheduled_start": "2026-10-09T14:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2108559899819172030",
+      "state": "out",
+      "state_since": "2026-10-09T16:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/P7RgSygNLek/maxresdefault_live.jpg",
+      "time_tbd": false,
+      "title": "【🟡メン限】1hだけおはなーし🌼🌸【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡메인 제한】1시간만 대화해요🌼🌸【 仲町아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=P7RgSygNLek",
+      "video_id": "P7RgSygNLek"
+    }
+  ]
+}
