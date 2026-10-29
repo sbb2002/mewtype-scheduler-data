@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-29T12:54:58Z",
+  "generated_at": "2026-10-29T12:57:06Z",
   "items": [
     {
       "actual_start": null,
@@ -220,6 +220,35 @@
       "title_ko": "【노래 방송】노노카 노래♪추워♪주제 없음♪【유메미타/무겐다이 뮤타입】 #shorts",
       "url": "https://www.youtube.com/watch?v=W0bKqP-Eyj4",
       "video_id": "W0bKqP-Eyj4"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-30T17:00:00Z",
+      "first_seen": "2026-10-29T12:57:06Z",
+      "host": null,
+      "id": "pv_a1e3e9c5",
+      "info_at": "2026-10-29T12:57:04Z",
+      "info_source": "personal",
+      "kind": "game",
+      "last_updated": "2026-10-29T12:57:06Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-10-30T14:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2115790018220609978",
+      "state": "announced",
+      "state_since": "2026-10-29T12:57:06Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@yuno_yumemita",
+      "video_id": null
     }
   ]
 }
