@@ -75,3 +75,4 @@
 {"detail": "retweet skip: 폰 원문이 @6HPMPLP6 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-29T10:23:02Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T10:23:20Z", "who": "藤都子"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T10:23:20Z", "who": "峰月律"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T11:01:19Z", "tweet_id": "2115760735745917253", "via": "ingest", "who": "nonoka"}
