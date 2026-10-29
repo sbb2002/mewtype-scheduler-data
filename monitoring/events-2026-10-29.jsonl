@@ -99,3 +99,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T12:38:28Z", "who": "藤都子"}
 {"detail": "retweet skip: 폰 원문이 @May_o_o_T 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-29T12:42:11Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T12:42:13Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-29T12:54:58Z", "tweet_id": "2115789448273412185", "via": "ingest", "who": "yuno"}
