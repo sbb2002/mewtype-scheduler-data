@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-29T13:30:01Z",
+  "generated_at": "2026-10-29T14:00:45Z",
   "items": [
     {
       "actual_start": null,
@@ -96,18 +96,19 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-10-29T13:27:47Z",
+      "last_updated": "2026-10-29T14:00:45Z",
       "membership": false,
       "scheduled_start": "2026-10-29T14:30:00Z",
       "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-10-29T13:27:47Z",
+      "state": "watching",
+      "state_since": "2026-10-29T14:00:45Z",
       "thumbnail": "https://i.ytimg.com/vi/T9ZL5QzBXBM/maxresdefault.jpg?v=6ae34996",
       "time_tbd": false,
       "title": "【月に一度の】ユノの生存報告 #52 【 #千石ユノ / #バンドリ 】",
       "title_ko": "【한 달에 한 번】유노의 생존 보고 #52 【 #千石ユ노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=T9ZL5QzBXBM",
-      "video_id": "T9ZL5QzBXBM"
+      "video_id": "T9ZL5QzBXBM",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
