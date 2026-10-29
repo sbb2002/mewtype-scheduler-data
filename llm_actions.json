@@ -5684,6 +5684,64 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_919a492401",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVr0zzLbsAEZDzh.jpg"
+        ],
+        "raw": "10月28日より開催中🎉\n「晦冥のナイトウォーカーズガチャ」\n\n新登場した期間限定SSRメンバー、椎名 立希を紹介🧭\n\nSSRメンバーには、リズムゲーム画面などで表示されるアニメーション演出がつきます💫\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115639771951448139"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 가챠와 게임 내 애니메이션 연출 등 게임 안에서 진행되는 내용이므로 in_game이다. (근거: 「10月28日より開催中🎉」 「「晦冥のナイトウォーカーズガチャ」」 「新登場した期間限定SSRメンバー、椎名 立希を紹介🧭」) / 본문에 명시된 가챠 이름과 시작일을 추출했습니다.",
+      "summary": "행사 배너 갱신 — 晦冥のナイトウォーカーズガチャ",
+      "ts": "2026-10-29T03:07:03Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-08T05:59:00Z",
+              "first_seen": "2026-10-26T11:21:42Z",
+              "gacha_only": true,
+              "gachas": [],
+              "hold": null,
+              "id": "bn_06370f94",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HVjVjRaboAAz4Sr.jpg"
+              ],
+              "last_updated": "2026-10-27T15:10:33Z",
+              "match_keys": [
+                "晦冥のナイトウォカズガチャ"
+              ],
+              "name_ja": "晦冥のナイトウォーカーズガチャ",
+              "name_ko": "암흑의 나이트워커즈 가챠",
+              "src_ids": [
+                "2114678842266914986",
+                "2114679200968048673",
+                "2114679561162014898",
+                "2114680038243401781",
+                "2114680324324229476",
+                "2115037294348685399",
+                "2115098820765995504"
+              ],
+              "start_at": "2026-10-27T15:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_06370f94",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
