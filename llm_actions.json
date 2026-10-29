@@ -6014,6 +6014,58 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bac64b2f43",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/29 23:30～ 生存報告\n\nみんなは今月何してた？\nあたしはあれやこれやとしてました\n\nそしてもうすぐ年に一度の「あの日」ですね…",
+        "tag": "p#https://x.com/#1tweet-2115789448273412185"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信のおしらせ’와 구체적인 날짜·시각 ‘10/29 23:30～’이 함께 있어 앞으로 할 방송을 알리는 예고이다. (근거: 「〈配信のおしらせ〉\n10/29 23:30～」)",
+      "summary": "본인 예고로 등록 — 23:30 JST · 〈配信のおしらせ〉\n10/29 23:30～ 生存報告\n\nみんなは今月何してた？",
+      "ts": "2026-10-29T12:54:58Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "yuno",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-29T17:30:00Z",
+            "first_seen": "2026-10-29T09:30:07Z",
+            "host": null,
+            "id": "pv_b53b42f5",
+            "info_at": "2026-10-29T09:30:07Z",
+            "info_source": "x-relay",
+            "kind": "talk",
+            "last_updated": "2026-10-29T09:30:07Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-29T14:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2115737908095386012",
+            "state": "announced",
+            "state_since": "2026-10-29T09:30:07Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
