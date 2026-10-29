@@ -80,3 +80,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T11:01:53Z", "who": "宮永ののか🐰🩹"}
 {"detail": "gap-fill · 2115761403961491460 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-29T11:11:06Z", "tweet_id": "2115761403961491460", "via": "ingest", "who": "nonoka"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2115761403961491460", "flow": "tweet", "result": "ok", "ts": "2026-10-29T11:12:10Z", "tweet_id": "2115761403961491460", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-29T11:12:14Z", "who": "宮永ののか🐰🩹"}
