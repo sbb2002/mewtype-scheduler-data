@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:05:00Z",
+  "generated_at": "2026-10-29T16:00:00Z",
   "items": [
     {
       "actual_start": "2026-10-22T11:00:32Z",
@@ -571,6 +571,36 @@
       "title_ko": "【노래 방송】노노카 노래♪추워♪주제 없음♪【유메미타/무겐다이 뮤타입】 #shorts",
       "url": "https://www.youtube.com/watch?v=W0bKqP-Eyj4",
       "video_id": "W0bKqP-Eyj4"
+    },
+    {
+      "actual_start": "2026-10-29T14:33:16Z",
+      "announced_start": "2026-10-29T14:30:00Z",
+      "api_start_seen": "2026-10-29T14:30:00Z",
+      "archived_at": "2026-10-29T16:00:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 483,
+      "expires_at": "2026-10-29T17:30:00Z",
+      "first_seen": "2026-10-29T13:27:47Z",
+      "host": null,
+      "id": "pv_13b248bc",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-29T16:00:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-29T14:30:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-10-29T16:00:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/T9ZL5QzBXBM/maxresdefault.jpg?v=6ae34996",
+      "time_tbd": false,
+      "title": "【月に一度の】ユノの生存報告 #52 【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【한 달에 한 번】유노의 생존 보고 #52 【 #千石ユ노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=T9ZL5QzBXBM",
+      "video_id": "T9ZL5QzBXBM",
+      "yt_tunein": true
     }
   ]
 }
