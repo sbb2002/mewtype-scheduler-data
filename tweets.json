@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:43:59Z",
+  "generated_at": "2026-10-29T08:45:09Z",
   "tweets": {
     "arale": [
       {
@@ -218,7 +218,7 @@
       },
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-31T08:43:57Z",
+        "expires_at": "2026-10-31T08:44:23Z",
         "handle": "arale_yumemita",
         "id": "2115726317832618417",
         "media": [
@@ -231,6 +231,26 @@
         "text": "音楽ナタリー さまに\nインタビューしていただきました！️📝✨️\n\n「夢我夢中」を書き下ろしていただいた、\nケンモチヒデフミさんとの対談です！✨️\n緊張しましたが、貴重なお話と機会をいただけてとても楽しかったです…！❤️‍🔥\n\nもう読んでくれた方をお見かけして嬉しいです！ぜひ読んでみてね！✨️",
         "text_ko": "음악 나탈리 님에게  \n인터뷰를 받았습니다! 📝✨  \n\n「夢我夢中」을 새로 써 주신, 켄모치 히데후미 씨와의 대담입니다! ✨  \n긴장했지만 귀중한 이야기와 기회를 얻어 정말 즐거웠어요…! ❤️‍🔥  \n\n이미 읽어 주신 분을 보니 기뻐요! 꼭 읽어봐 주세요! ✨",
         "url": "https://x.com/i/status/2115726317832618417"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-31T08:44:23Z",
+        "handle": "arale_yumemita",
+        "id": "2115726429212307529",
+        "media": [],
+        "posted_at": "2026-10-29T08:44:23Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVtgmHybUAAL-R4.jpg"
+          ],
+          "text": "【特集】夢限大みゅーたいぷ\n\n仲町あられ×ケンモチヒデフミ（水曜日のカンパネラ）\n夢と現実の狭間で鳴る、革命の1曲「夢我夢中」\nhttps://natalie.mu/music/pp/yumemita-mugamuchu\n\n新たな“ゆめみた色”で世界を染め上げる！\n\n#バンドリ #ゆめみた",
+          "text_ko": "【특집】무겐다이 뮤타입\n나카마치 아라레×켄모치 히데후미(수요일의 캄파넬라)\n꿈과 현실 사이에서 울리는, 혁명의 한 곡「夢我夢中」\nhttps://natalie.mu/music/pp/yumemita-mugamuchu\n새로운 “유메미타색”으로 세계를 물들이다!\n#뱅드림 #ゆめみた"
+        },
+        "received_at": "2026-10-29T08:45:09Z",
+        "reply_to_id": "2115726317832618417",
+        "text": "https://x.com/natalie_mu/status/2115390659779833975?s=46",
+        "text_ko": "https://x.com/natalie_mu/status/2115390659779833975?s=46",
+        "url": "https://x.com/i/status/2115726429212307529"
       }
     ],
     "miyako": [
