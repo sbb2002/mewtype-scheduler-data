@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:45:09Z",
+  "generated_at": "2026-10-29T08:46:05Z",
   "tweets": {
     "arale": [
       {
@@ -196,7 +196,7 @@
       },
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-31T08:36:21Z",
+        "expires_at": "2026-10-31T08:45:44Z",
         "handle": "arale_yumemita",
         "id": "2115724408824434830",
         "media": [
@@ -251,6 +251,20 @@
         "text": "https://x.com/natalie_mu/status/2115390659779833975?s=46",
         "text_ko": "https://x.com/natalie_mu/status/2115390659779833975?s=46",
         "url": "https://x.com/i/status/2115726429212307529"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-31T08:45:44Z",
+        "handle": "arale_yumemita",
+        "id": "2115726766979547318",
+        "media": [],
+        "posted_at": "2026-10-29T08:45:44Z",
+        "quote": null,
+        "received_at": "2026-10-29T08:46:05Z",
+        "reply_to_id": "2115724408824434830",
+        "text": "あと、こだわり㌽は野菜にドレッシング無しです👍",
+        "text_ko": "그리고, 고집 L은 야채에 드레싱 없이입니다👍",
+        "url": "https://x.com/i/status/2115726766979547318"
       }
     ],
     "miyako": [
