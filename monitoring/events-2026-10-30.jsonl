@@ -5,3 +5,4 @@
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-29T21:20:01Z", "who": "arale"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-29T21:20:03Z", "who": "nonoka"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-10-29T21:20:05Z", "who": "miyako"}
+{"action": "renew", "detail": "구독 갱신 요청 6/6 수락", "failed": 0, "flow": "websub", "requested": 6, "result": "ok", "ts": "2026-10-29T21:20:00Z", "who": ""}
