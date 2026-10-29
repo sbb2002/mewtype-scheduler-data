@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:20:00Z",
+  "generated_at": "2026-10-29T13:05:00Z",
   "items": [
     {
       "actual_start": "2026-10-22T11:00:32Z",
@@ -541,6 +541,36 @@
       "title_ko": "【🟡아침활동】추, 추워!!! 아침다...🌟 #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=jp4tqcF9OB4",
       "video_id": "jp4tqcF9OB4"
+    },
+    {
+      "actual_start": "2026-10-29T11:33:38Z",
+      "announced_start": "2026-10-29T11:30:00Z",
+      "api_start_seen": "2026-10-29T11:33:22Z",
+      "archived_at": "2026-10-29T13:05:00Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 187,
+      "expires_at": "2026-10-29T14:33:22Z",
+      "first_seen": "2026-10-29T11:33:55Z",
+      "host": null,
+      "id": "pv_9ba7d353",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-29T13:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-29T11:33:22Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2115769422027837885",
+      "state": "out",
+      "state_since": "2026-10-29T13:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/W0bKqP-Eyj4/maxresdefault.jpg?v=6ae32f05",
+      "time_tbd": false,
+      "title": "【歌枠】ののうた♪さむい♪テーマなし♪【ゆめみた/夢限大みゅーたいぷ】  #shorts",
+      "title_ko": "【노래 방송】노노카 노래♪추워♪주제 없음♪【유메미타/무겐다이 뮤타입】 #shorts",
+      "url": "https://www.youtube.com/watch?v=W0bKqP-Eyj4",
+      "video_id": "W0bKqP-Eyj4"
     }
   ]
 }
