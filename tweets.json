@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:41:46Z",
+  "generated_at": "2026-10-29T08:36:52Z",
   "tweets": {
     "arale": [
       {
@@ -193,6 +193,28 @@
         "text": "❑ ━━━ 配信開始！ ━━━ ❑\n\n┊ 10/29(木) 6:30〜┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 https://youtube.com/live/jp4tqcF9OB4",
         "text_ko": "❑ ━━━ 방송 시작! ━━━ ❑\n\n┊ 10/29(木) 6:30〜┊#イ中田丁なう\n\n┊ 아침 활동 ┊잘 다녀오세요와 배웅☀️\n\n🔗 https://youtube.com/live/jp4tqcF9OB4",
         "url": "https://x.com/i/status/2115558427858763784"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-10-31T08:36:21Z",
+        "handle": "arale_yumemita",
+        "id": "2115724408824434830",
+        "media": [
+          "https://pbs.twimg.com/media/HVyQIiRaEAEWKyJ.jpg"
+        ],
+        "posted_at": "2026-10-29T08:36:21Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVjSGUMaQAA04iK.jpg"
+          ],
+          "text": "りっちゃんクーイズ★\n\nゆめみたｽﾞはそれぞれどのお弁当を食べたでしょ〜かっ？",
+          "text_ko": "리츠짱 퀴즈★ 유메미타들은 각각 어떤 도시락을 먹었을까~?"
+        },
+        "received_at": "2026-10-29T08:36:52Z",
+        "reply_to_id": null,
+        "text": "野菜、しっかり食べましょう🥬\n\nおかずを混ぜたくなくて米を土手代わりにしました、わかったかな？",
+        "text_ko": "야채, 꼭 먹자🥬\n반찬을 섞고 싶지 않아서 밥을 둑 대신에 했어, 알겠어?",
+        "url": "https://x.com/i/status/2115724408824434830"
       }
     ],
     "miyako": [
