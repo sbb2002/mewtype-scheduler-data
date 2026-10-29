@@ -125,3 +125,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-29T14:33:39Z", "who": "T9ZL5QzBXBM"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_13b248bc", "result": "ok", "title": "【月に一度の】ユノの生存報告 #52 【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-29T14:33:39Z", "video_id": "T9ZL5QzBXBM", "who": "yuno"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · T9ZL5QzBXBM · 예고 live", "flow": "websub", "merge_key": "websub-notify:T9ZL5QzBXBM", "result": "ok", "title": "【月に一度の】ユノの生存報告 #52 【 #千石ユノ / #バンドリ 】", "ts": "2026-10-29T14:34:18Z", "video_id": "T9ZL5QzBXBM", "who": "yuno"}
+{"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-29T14:42:05Z", "via": "ingest", "who": ""}
