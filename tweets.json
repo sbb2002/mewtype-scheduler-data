@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:34:50Z",
+  "generated_at": "2026-10-30T12:44:54Z",
   "tweets": {
     "arale": [
       {
@@ -340,6 +340,27 @@
         "text": "おやつみ(-_-)zzz",
         "text_ko": "간식시간(-_-)zzz",
         "url": "https://x.com/i/status/2115819689146544217"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-01T12:40:16Z",
+        "handle": "nonoka_yumemita",
+        "id": "2116148176919151102",
+        "media": [],
+        "posted_at": "2026-10-30T12:40:16Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HV3bB1jbAAAjbHD.jpg",
+            "https://pbs.twimg.com/media/HV3bB1zaoAAuklc.jpg"
+          ],
+          "text": "／\n🛸#ゆめみた\n10/30(金)の配信スケジュール🌟\n＼\n\n🎸22:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n✨23:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+          "text_ko": "🛸#유메미타\n10/30(금) 방송 일정🌟\n\n🎸22:30～ 미야나가 노노카\nhttps://www.youtube.com/@nonoka_yumemita\n\n✨23:00～ 센고쿠 유노\nhttps://www.youtube.com/@yuno_yumemita\n\n※시간은 사전 예고 없이 변경될 수 있습니다.\n#뱅드림"
+        },
+        "received_at": "2026-10-30T12:44:54Z",
+        "reply_to_id": null,
+        "text": "♡🐰配信予定🩹♡\n\n今日このあと22:30から！\n\nうちゅうのふしぎ 重ね録り つづき‼️\n今日はゆびの調子よさそう😆",
+        "text_ko": "♡🐰방송 예정🩹♡\n\n오늘 이 뒤 22:30부터!\n\n우주의 신비 겹녹 이어서‼️\n오늘은 손가락 컨디션이 좋을 것 같아😆",
+        "url": "https://x.com/i/status/2116148176919151102"
       }
     ],
     "ritsu": [
