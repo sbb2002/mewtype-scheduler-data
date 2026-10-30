@@ -99,3 +99,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-30T16:28:32Z", "tweet_id": "2116204974195781928", "via": "ingest", "who": "nonoka"}
 {"detail": "url-schedule skip: 이미 끝난 방송 0PQ2YgkIlqc", "flow": "tweet", "result": "ok", "ts": "2026-10-30T16:28:32Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T16:29:00Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-30T16:55:00Z", "who": "0PQ2YgkIlqc"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_7862af1e", "result": "ok", "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "out", "ts": "2026-10-30T16:55:00Z", "video_id": "0PQ2YgkIlqc", "who": "nonoka"}
