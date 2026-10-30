@@ -5896,6 +5896,59 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_739141208b",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n10/30(金)の配信スケジュール🌟\n＼\n\n🎸22:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n✨23:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "♡🐰配信予定🩹♡\n\n今日このあと22:30から！\n\nうちゅうのふしぎ 重ね録り つづき‼️\n今日はゆびの調子よさそう😆",
+        "tag": "p#https://x.com/#1tweet-2116148176919151102"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信予定’와 구체적인 시간 ‘22:30부터’가 함께 있어 작성자의 향후 방송 예고임을 확인했습니다. (근거: 「配信予定\n今日このあと22:30から！」)",
+      "summary": "본인 예고로 등록 — 22:30 JST · ♡🐰配信予定🩹♡\n\n今日このあと22:30から！\n\nうちゅうのふしぎ 重ね録り ",
+      "ts": "2026-10-30T12:44:54Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "nonoka",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-30T16:30:00Z",
+            "first_seen": "2026-10-30T09:30:03Z",
+            "host": null,
+            "id": "pv_f7fca00e",
+            "info_at": "2026-10-30T09:30:03Z",
+            "info_source": "x-relay",
+            "kind": "unknown",
+            "last_updated": "2026-10-30T09:30:03Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-30T13:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2116100295952605497",
+            "state": "announced",
+            "state_since": "2026-10-30T09:30:03Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
