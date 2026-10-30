@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-30T13:38:59Z",
+  "generated_at": "2026-10-30T13:40:01Z",
   "items": [
     {
       "actual_start": "2026-10-30T13:38:38Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-10-30T13:38:59Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-30T13:38:20Z",
       "source": "api",
       "state": "live",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/0PQ2YgkIlqc/maxresdefault.jpg?v=6ae49dd0",
       "time_tbd": false,
       "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-      "title_ko": null,
+      "title_ko": "【기타 겹녹음】우주의 신비를 어쿠스틱 기타 커버 2! 힐링【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=0PQ2YgkIlqc",
       "video_id": "0PQ2YgkIlqc"
     },
