@@ -48,3 +48,4 @@
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-30T10:18:12Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T10:18:23Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "url-schedule skip: 이미 끝난 방송 japq_rAd6h8", "flow": "tweet", "result": "ok", "ts": "2026-10-30T11:01:06Z", "via": "ingest", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물 내용이 카드게임 이벤트 감사와 감상 후기이며 방송 일정 변경이나 취소와 관련된 언급이 없기 때문입니다", "flow": "tweet", "result": "ok", "ts": "2026-10-30T11:01:06Z", "via": "ingest", "who": "yuno"}
