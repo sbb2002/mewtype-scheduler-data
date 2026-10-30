@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-30T13:56:08Z",
+  "generated_at": "2026-10-30T14:00:32Z",
   "items": [
     {
       "actual_start": "2026-10-30T13:38:38Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-10-30T13:56:08Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-30T14:00:00Z",
       "source": "api",
       "state": "watching",
@@ -135,7 +134,7 @@
       "thumbnail": "https://i.ytimg.com/vi/apbIhCQ0OMg/maxresdefault.jpg?v=6ae4a1bc",
       "time_tbd": false,
       "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【개봉】#팔월드 카드게임 제2탄 부스터「깨어난 전설」개봉합니다！【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=apbIhCQ0OMg",
       "video_id": "apbIhCQ0OMg"
     },
