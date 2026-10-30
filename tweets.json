@@ -143,26 +143,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-10-30T13:00:45Z",
-        "handle": "miyako_yumemita",
-        "id": "2115428558776795576",
-        "media": [],
-        "posted_at": "2026-10-28T13:00:45Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HVpShHNakAAxrjV.jpg"
-          ],
-          "text": "💜配信よてい💜\n10/28（水）22:00〜ゲーム👻\n零〜濡鴉ノ巫女〜\n\nhttps://www.youtube.com/live/mWbF-51F3ZQ?si=IO1aAV-ei9BXva9K\n\n前回の配信後に未セーブ部分をひとりでプレイしていたら回避の仕方を習得できたので、みやこは無敵❤️‍🔥\n幽霊全員に、勝つ❤️‍🔥\n#みるみやこ",
-          "text_ko": "💜방송 예정💜\n10/28(수) 22:00~게임👻\n레~누레가노무녀~\n\n지난 방송 후에 저장되지 않은 부분을 혼자 플레이했더니 회피 방법을 익혔으니, 미야코는 무적❤️‍🔥\n유령 전원에게, 승리❤️‍🔥\n#みるみやこ"
-        },
-        "received_at": "2026-10-28T13:03:48Z",
-        "reply_to_id": null,
-        "text": "零実況配信👻はじまる❣",
-        "text_ko": "제로 실황 방송👻시작❣",
-        "url": "https://x.com/i/status/2115428558776795576"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-10-30T15:17:13Z",
         "handle": "miyako_yumemita",
         "id": "2115462900454461627",
@@ -378,22 +358,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-30T13:17:21Z",
-        "handle": "ritsu_yumemita",
-        "id": "2115432736907534451",
-        "media": [
-          "https://pbs.twimg.com/media/HVuG2_JaUAAtMBV.jpg"
-        ],
-        "posted_at": "2026-10-28T13:17:21Z",
-        "quote": null,
-        "received_at": "2026-10-28T13:17:23Z",
-        "reply_to_id": null,
-        "text": "ブシロードTCG戦略発表会2026 秋\n総合MCと、パルワールドにて出演させて頂きました！\nカードの魅力がたくさん……！！！！\nMCもさせて頂けて本当に嬉しかったです！\n\n#ブシの秋2026",
-        "text_ko": "버시로드 TCG 전략 발표회 2026 가을\n총 MC와 파르월드에서 출연하게 되었습니다!\n카드 매력이 가득……!!!!\nMC도 맡게 되어 정말 기뻤어요!\n\n#ブシの秋2026",
-        "url": "https://x.com/i/status/2115432736907534451"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-31T05:41:31Z",
