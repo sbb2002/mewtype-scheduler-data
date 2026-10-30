@@ -1,0 +1,49 @@
+{
+  "tweets": [
+    {
+      "archived_at": "2026-10-25T22:18:50Z",
+      "archived_reason": "expired",
+      "channel_key": "arale",
+      "expires_at": "2026-10-25T16:04:57Z",
+      "handle": "arale_yumemita",
+      "id": "2113662975261466852",
+      "media": [],
+      "posted_at": "2026-10-23T16:04:57Z",
+      "quote": null,
+      "received_at": "2026-10-23T16:05:00Z",
+      "text": "やりきり感……充足感……𝐻𝑎𝑝𝑝𝑦…💖",
+      "text_ko": "해냈다는 느낌……충만감……Happy…💖",
+      "url": "https://x.com/i/status/2113662975261466852"
+    },
+    {
+      "archived_at": "2026-10-25T22:18:50Z",
+      "archived_reason": "expired",
+      "channel_key": "arale",
+      "expires_at": "2026-10-25T16:07:31Z",
+      "handle": "arale_yumemita",
+      "id": "2113663619305214039",
+      "media": [],
+      "posted_at": "2026-10-23T16:07:31Z",
+      "quote": null,
+      "received_at": "2026-10-23T16:07:52Z",
+      "text": "と、同時にもっと出来たよなぁ…って所の反省会",
+      "text_ko": "그리고, 동시에 더 잘할 수 있었는데… 라는 부분에 대한 반성회",
+      "url": "https://x.com/i/status/2113663619305214039"
+    },
+    {
+      "archived_at": "2026-10-25T22:18:50Z",
+      "archived_reason": "expired",
+      "channel_key": "arale",
+      "expires_at": "2026-10-25T16:08:01Z",
+      "handle": "arale_yumemita",
+      "id": "2113663743511179755",
+      "media": [],
+      "posted_at": "2026-10-23T16:08:01Z",
+      "quote": null,
+      "received_at": "2026-10-23T16:08:02Z",
+      "text": "そして、まったりしっとりもっちりむっちりまっきりぽよんぽよん",
+      "text_ko": "그리고, 부드럽고 촉촉하고 쫀득쫀득하고 통통하고 뚜렷하게 포동포동",
+      "url": "https://x.com/i/status/2113663743511179755"
+    }
+  ]
+}
