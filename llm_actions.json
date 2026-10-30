@@ -5969,6 +5969,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_d0cfc9fc16",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信開始🩹♡\n\nおまたせしましたはじめます‼️😆\n\nかんせいしたいです\n\n【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts https://www.youtube.com/live/0PQ2YgkIlqc?si=61XNmgnLlMpyjoj9",
+        "tag": "p#https://x.com/#1tweet-2116163354461147152"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 \"♡🐰配信開始🩹♡\" 등 현재 방송 시작을 알리는 내용이며, 기존에 예고된 10/30 22:38 방송을 취소하거나 일정 변경한다는 언급이 없으므로 취소·변경이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-30T13:47:41Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
