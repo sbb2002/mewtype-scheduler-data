@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-30T14:29:51Z",
+  "generated_at": "2026-10-30T14:30:03Z",
   "items": [
     {
       "actual_start": "2026-10-30T13:38:38Z",
@@ -182,7 +182,6 @@
       "kind": null,
       "last_updated": "2026-10-30T14:29:51Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-31T14:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -190,7 +189,7 @@
       "thumbnail": "https://i.ytimg.com/vi/RVFZ_LSwbsw/maxresdefault.jpg?v=6ae4a9a1",
       "time_tbd": false,
       "title": "【開封配信】#パルワールドカードゲーム 第2弾「目覚めし伝説」開封するぞ！【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【개봉 방송】#파르월드카드게임 제2탄 “잠든 전설” 개봉한다!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=RVFZ_LSwbsw",
       "video_id": "RVFZ_LSwbsw"
     },
