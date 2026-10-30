@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 miyako (HO4WIRTTnUs)",
-    "at": "2026-10-30T12:34:50Z",
+    "action": "본인 예고 미야나가 노노카 (♡🐰配信予定🩹♡\n\n今日このあと22:30から！\n\nうちゅうのふしぎ 重ね録り)",
+    "at": "2026-10-30T12:44:54Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "66ff4fbacf49aedbd4e66bc44e63a77c2c0e9813",
+    "new_sha": "8e3f2b64a984773a4899e16eb9de6e479426fe25",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-30T09:30:03Z",
+      "generated_at": "2026-10-30T12:34:50Z",
       "items": [
         {
           "actual_start": null,
@@ -133,10 +133,11 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-29T16:00:00Z",
+          "last_updated": "2026-10-30T12:34:50Z",
           "membership": false,
           "scheduled_start": "2026-10-31T12:30:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2116145594742018362",
           "state": "upcoming",
           "state_since": "2026-10-23T12:39:15Z",
           "thumbnail": "https://i.ytimg.com/vi/HO4WIRTTnUs/maxresdefault.jpg?v=6adb5537",
