@@ -75,3 +75,6 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-30T13:47:41Z", "tweet_id": "2116163354461147152", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 \"♡🐰配信開始🩹♡\" 등 현재 방송 시작을 알리는 내용이며, 기존에 예고된 10/30 22:38 방송을 취소하거나 일정 변경한다는 언급이 없으므로 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-30T13:47:41Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T13:48:09Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-30T13:56:08Z", "who": "apbIhCQ0OMg"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_06a7abef", "result": "ok", "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-10-30T13:56:08Z", "video_id": "apbIhCQ0OMg", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · apbIhCQ0OMg · 예고 watching", "flow": "websub", "merge_key": "websub-notify:apbIhCQ0OMg", "result": "ok", "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】", "ts": "2026-10-30T13:56:08Z", "video_id": "apbIhCQ0OMg", "who": "yuno"}
