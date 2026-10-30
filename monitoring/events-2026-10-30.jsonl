@@ -73,3 +73,4 @@
 {"action": "notify", "count": 2, "detail": "알림 수신 · 0PQ2YgkIlqc · 예고 live", "flow": "websub", "last_ts": "2026-10-30T13:40:46Z", "merge_key": "websub-notify:0PQ2YgkIlqc", "result": "ok", "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-10-30T13:39:24Z", "video_id": "0PQ2YgkIlqc", "who": "nonoka"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-30T13:40:01Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-30T13:47:41Z", "tweet_id": "2116163354461147152", "via": "ingest", "who": "nonoka"}
+{"detail": "broadcast-change none · 게시물은 \"♡🐰配信開始🩹♡\" 등 현재 방송 시작을 알리는 내용이며, 기존에 예고된 10/30 22:38 방송을 취소하거나 일정 변경한다는 언급이 없으므로 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-30T13:47:41Z", "via": "ingest", "who": "nonoka"}
