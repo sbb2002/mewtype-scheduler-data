@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-30T12:34:50Z",
+  "generated_at": "2026-10-30T12:44:54Z",
   "items": [
     {
       "actual_start": null,
@@ -175,10 +175,10 @@
       "first_seen": "2026-10-30T09:30:03Z",
       "host": null,
       "id": "pv_f7fca00e",
-      "info_at": "2026-10-30T09:30:03Z",
-      "info_source": "x-relay",
+      "info_at": "2026-10-30T12:40:16Z",
+      "info_source": "personal",
       "kind": "unknown",
-      "last_updated": "2026-10-30T09:30:03Z",
+      "last_updated": "2026-10-30T12:44:54Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-10-30T13:30:00Z",
