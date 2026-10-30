@@ -5877,6 +5877,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_70ff44aacb",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/31(土)21:30🎃月末歌枠\n🔗https://www.youtube.com/watch?v=HO4WIRTTnUs\n\n今回は曲数すくなめの\nみにみに歌枠をお送りします🐶🎤ﾗﾗﾗ～♪\n\nりりい～べからの帰宅時間によっては\nすこし開始時間が遅れるｶﾓ🦆❕\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2116145594742018362"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/31 21:30에 진행될 예정이라고 알리며 일정 변경이나 취소를 언급하지 않으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-30T12:34:50Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
