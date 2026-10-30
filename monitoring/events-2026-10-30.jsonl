@@ -53,3 +53,4 @@
 {"detail": "gap-fill(자기 답글) · 2116123057882570790 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-10-30T11:01:06Z", "tweet_id": "2116123057882570790", "via": "ingest", "who": "yuno"}
 {"detail": "retweet skip: 폰 원문이 @PalworldOCG 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-30T11:18:51Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T11:18:53Z", "who": "峰月律"}
+{"detail": "gap-fill · 2116138801705914627 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-10-30T12:10:05Z", "tweet_id": "2116138801705914627", "via": "ingest", "who": "ritsu"}
