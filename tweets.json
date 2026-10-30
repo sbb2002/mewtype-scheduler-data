@@ -4,20 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-30T06:28:25Z",
-        "handle": "arale_yumemita",
-        "id": "2115329822511776253",
-        "media": [],
-        "posted_at": "2026-10-28T06:28:25Z",
-        "quote": null,
-        "received_at": "2026-10-28T06:28:27Z",
-        "reply_to_id": null,
-        "text": "おはようござい！☀️ﾊｻﾞｽｯ\n\n今日はいい天気過ぎてぽかぽか…風も気持ち良い…✨",
-        "text_ko": "좋은 아침이에요!☀️하자스\n오늘은 날씨가 너무 좋아서 포카포카…바람도 기분 좋고…✨",
-        "url": "https://x.com/i/status/2115329822511776253"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-30T09:59:28Z",
         "handle": "arale_yumemita",
         "id": "2115382936359014613",
@@ -199,38 +185,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-10-30T03:44:47Z",
-        "handle": "miyako_yumemita",
-        "id": "2115288645787906508",
-        "media": [
-          "https://pbs.twimg.com/media/HVsDzpRaMAAprGk.jpg"
-        ],
-        "posted_at": "2026-10-28T03:44:47Z",
-        "quote": null,
-        "received_at": "2026-10-28T03:48:53Z",
-        "reply_to_id": null,
-        "text": "みやこ手作り🍞\nぽいもぷりんフレンチトーストはいかがですか♪\n\n#ぬいみやこ",
-        "text_ko": "미야코 손수 만든🍞\n포이모 푸린 프렌치 토스트 어때요♪\n\n#ぬいみやこ",
-        "url": "https://x.com/i/status/2115288645787906508"
-      },
-      {
-        "channel_key": "miyako",
-        "expires_at": "2026-10-30T03:46:35Z",
-        "handle": "miyako_yumemita",
-        "id": "2115289095497027932",
-        "media": [
-          "https://pbs.twimg.com/media/HVsEOHKbgAAqDiP.jpg"
-        ],
-        "posted_at": "2026-10-28T03:46:35Z",
-        "quote": null,
-        "received_at": "2026-10-28T03:48:53Z",
-        "reply_to_id": null,
-        "text": "🐶ｼｬｯ\n\nhttps://bang-dream-on.bushimo.jp/poster-maker/share/\n#アワーノーツ #バンドリ",
-        "text_ko": "🐶샤\n\nhttps://bang-dream-on.bushimo.jp/poster-maker/share/\n#アワーノーツ #뱅드림",
-        "url": "https://x.com/i/status/2115289095497027932"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-10-30T11:28:28Z",
         "handle": "miyako_yumemita",
         "id": "2115405335242703158",
@@ -342,20 +296,6 @@
       }
     ],
     "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-10-30T06:16:11Z",
-        "handle": "nonoka_yumemita",
-        "id": "2115326743531978889",
-        "media": [],
-        "posted_at": "2026-10-28T06:16:11Z",
-        "quote": null,
-        "received_at": "2026-10-28T06:16:19Z",
-        "reply_to_id": null,
-        "text": "アワーノーツ開いたらハロウィンドロリスがイケメンすぎてお...お...おう、て....おうてん",
-        "text_ko": "우리 노트를 열었더니 할로윈 드롤리스가 너무 잘생겨서 오…오…오우, 테…오우텐",
-        "url": "https://x.com/i/status/2115326743531978889"
-      },
       {
         "channel_key": "nonoka",
         "expires_at": "2026-10-30T10:01:24Z",
@@ -472,22 +412,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-10-30T03:13:59Z",
-        "handle": "ritsu_yumemita",
-        "id": "2115280892914704443",
-        "media": [
-          "https://pbs.twimg.com/media/HVr8wkeasAARRrl.jpg"
-        ],
-        "posted_at": "2026-10-28T03:13:59Z",
-        "quote": null,
-        "received_at": "2026-10-28T03:21:04Z",
-        "reply_to_id": null,
-        "text": "うう・・・・・・\n\nhttps://bang-dream-on.bushimo.jp/poster-maker/share/\n#アワーノーツ #バンドリ",
-        "text_ko": "으음………\n\nhttps://bang-dream-on.bushimo.jp/poster-maker/share/\n#아워노츠 #뱅드림",
-        "url": "https://x.com/i/status/2115280892914704443"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-10-30T09:50:35Z",
