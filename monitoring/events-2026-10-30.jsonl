@@ -34,3 +34,4 @@
 {"detail": "공식 스케줄 · 예고 2건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T09:30:21Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-30T09:40:23Z", "tweet_id": "2116102897616482593", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 19시부터 진행되는 새로운 방송을 알리는 내용이며, 기존 목록의 방송 취소·변경과는 관련이 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-10-30T09:40:23Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T09:40:43Z", "who": "千石ユノ"}
