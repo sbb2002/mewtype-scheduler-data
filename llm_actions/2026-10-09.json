@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_db96ce3c56",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/9 11:00頃～ #ヴァンガード 開封\n\n今回は 【2カートン】 開封します！\n久々のカートン！どきどきです！\n\n狙いはもちろん…？\nみんなも一緒に開封しよー！\n\nhttps://www.youtube.com/live/XVJU08W_l8g?si=u22pHJYtnNNPwSY5",
+        "tag": "p#https://x.com/#1tweet-2108334977779892267"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/9 11:00에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-08T23:13:31Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b845a60b22",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "メンテナンスが終了いたしました。\nご協力いただき、誠にありがとうございました。\n\nご協力のお礼として、「スター×50」を皆さまへ配布いたしました。\n\nまた、お知らせにてご案内しておりましたライブサポートおよび撃奏サポートの不具合修正も完了しましたので、お詫びとして「アワーノーツガチャチケット×5」を皆さまへ配布いたしました。\n\nどちらも10月16日(金)23:59までにログインし、プレゼントボックスよりお受け取りください。\n\n引き続き #アワーノーツ をお楽しみください✨\n\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2108438230144336306"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 유지보수 종료 및 보상 배포 안내이며, 夢限大みゅーたいぷ와 관련된 행사·가챠가 없으므로 배너에 아무 조치도 필요합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-09T06:03:45Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0f12f4718a",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "【不正行為に対する措置と今後の対応方針について】\nイベント「アイの奔流 AtoZ」スコアランキングにおいて、利用規約に定められた禁止事項に該当する不正行為を行っているプレイヤーを確認したため、該当プレイヤーのランキング除外措置を実施いたしました。\n※本措置に伴い、ランキング順位が変動しております。\n\n『バンドリ！アワーノーツ』では、チートツールなどを利用した禁止事項に該当する不正行為や、他のプレイヤーの迷惑となる行為を禁止しております。\n\n不正行為および迷惑行為を確認した場合、予告なくアカウントの利用停止などの厳正な措置を実施する場合がございます。\n\nまた、以下の行為についても現在調査を行っており、厳正な対応を検討しております。\n・プレイヤー名やプロフィールカードにおいて、他のプレイヤーが不快に感じる内容を設定する行為\n・撃奏ライブにおいて、マッチング後に意図的な離脱(切断)を繰り返す行為\n・不当に得たゲーム内の未公開情報を、SNSなどの外部サービスで公開、拡散する行為\n\nすべてのお客さまが安心してゲームをお楽しみいただけるよう、継続して監視および対策を強化してまいりますので、今一度利用規約をご確認いただき、規約を遵守してゲームをお楽しみいただきますようお願い申し上げます。\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108438714083160129"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 불법 행위 안내 및 일반 공지이며, 夢限大みゅーたいぷ와 관련된 행사·가챠가 없으므로 배너에 아무 조치도 필요하지 않음.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-09T06:05:38Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9fd3795fd3",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKrw7RaEAAYqdt.jpg"
+        ],
+        "raw": "チャレンジライブイベント「お願い、サイドスロー」開催！\n\n本イベントは10月17日(土)14:59まで✨\n\nmillsageの新楽曲『Odd Dice』もチャレンジライブでプレイ可能です💐ぜひチェックしてくださいね！\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108439063221190925"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "기존 배너와 동일한 행사이며 새로운 정보가 없으므로 none",
+      "summary": "행사 배너 — 해당 없음 — お願い、サイドスロー",
+      "ts": "2026-10-09T06:07:01Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_19786e34a0",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKr2HxasAAEoF2.jpg"
+        ],
+        "raw": "10月9日(金)15:00より開催中✨\nガチャ「差し込む光、始まりのとき」\n\n下記のメンバーとスナップが新登場！\n\n【メンバー】\n・SSR琴平 凪\n・SSR伊沢 なつめ\n\n【スナップ】\n・SSR琴平 凪\n・SSRまほろ&凪\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108439566533472435"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 대상인 夢限大みゅーたいぷ 멤버와 관련된 행사·가챠가 아니므로 배너에 반영하지 않는다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-09T06:17:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e635db3023",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKr4_easAALpAt.jpg",
+          "https://pbs.twimg.com/media/HUKr6SSbcAIvf7o.jpg",
+          "https://pbs.twimg.com/media/HUKr77vawAA1JMk.jpg",
+          "https://pbs.twimg.com/media/HUKr8_daAAE7_s3.jpg"
+        ],
+        "raw": "チャレンジライブイベントの遊び方を紹介✨\n\n詳細は画像をチェック！\n自分のペースに合わせてイベントをお楽しみください💫\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2108440069652820227"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 일반적인 이벤트 이용 안내이며 새로운 행사·가챠 정보가 없으므로 배너에 아무 조치도 필요하지 않다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-09T06:17:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9be91359c3",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/9 22:00～ グッズ紹介\n\n今週末開催！\nでぃめらぷ(略称)のグッズ紹介をするよ！\n\nどれ買うか一緒に悩も✌️",
+        "tag": "p#https://x.com/#1tweet-2108524251720675644"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 〈配信のおしらせ〉\n10/9 22:00～ グッズ紹介\n\n今週末開催！\nでぃめらぷ(略称)のグッズ紹介をするよ！\n\nどれ",
+      "ts": "2026-10-09T11:45:37Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7d23eaadb6",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/9 22:00～ グッズ紹介\n\n今週末開催！\nでぃめらぷ(略称)のグッズ紹介をするよ！\n\nどれ買うか一緒に悩も✌️",
+        "tag": "p#https://x.com/#1tweet-2108524251720675644"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/9 22:00에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-09T11:45:37Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    }
+  ]
+}
