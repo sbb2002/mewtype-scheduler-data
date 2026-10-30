@@ -88,3 +88,6 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-30T14:30:03Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-30T14:38:00Z", "tweet_id": "2116177791758877057", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T14:38:14Z", "who": "仲町あられ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-30T14:51:11Z", "who": "apbIhCQ0OMg"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_06a7abef", "result": "ok", "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-10-30T14:51:11Z", "video_id": "apbIhCQ0OMg", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · apbIhCQ0OMg · 예고 end", "flow": "websub", "merge_key": "websub-notify:apbIhCQ0OMg", "result": "ok", "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】", "ts": "2026-10-30T14:51:11Z", "video_id": "apbIhCQ0OMg", "who": "yuno"}
