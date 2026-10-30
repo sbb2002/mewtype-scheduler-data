@@ -81,3 +81,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-30T14:00:32Z", "who": ""}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-30T14:01:44Z", "who": "apbIhCQ0OMg"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_06a7abef", "result": "ok", "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-10-30T14:01:44Z", "video_id": "apbIhCQ0OMg", "who": "yuno"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-30T14:02:01Z", "who": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】"}
