@@ -60,3 +60,4 @@
 {"detail": "broadcast-change none · 게시물은 10/31 21:30에 진행될 예정이라고 알리며 일정 변경이나 취소를 언급하지 않으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-30T12:34:50Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-30T12:35:18Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-30T12:44:54Z", "tweet_id": "2116148176919151102", "via": "ingest", "who": "nonoka"}
+{"detail": "broadcast-change none · 게시물은 오늘 22:30에 방송이 시작한다는 안내이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-10-30T12:44:54Z", "via": "ingest", "who": "nonoka"}
