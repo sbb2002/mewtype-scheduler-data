@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "actual_start": "2026-10-23T01:43:32Z",
+      "announced_start": "2026-10-23T01:30:00Z",
+      "api_start_seen": "2026-10-23T01:30:00Z",
+      "archived_at": "2026-10-23T03:20:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 170,
+      "expires_at": "2026-10-23T04:30:00Z",
+      "first_seen": "2026-10-23T01:28:32Z",
+      "host": null,
+      "id": "pv_9790144d",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-23T03:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-23T01:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2113442279193194828",
+      "state": "out",
+      "state_since": "2026-10-23T03:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/RrWC5DtJbyU/maxresdefault.jpg?v=6adab7fe",
+      "time_tbd": false,
+      "title": "【 #ヴァンガード 】「Persona 30th Anniversary」開封の儀！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #ヴァンガード 】「Persona 30th Anniversary」개봉식!【 #千石ユノ / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=RrWC5DtJbyU",
+      "video_id": "RrWC5DtJbyU"
+    }
+  ]
+}
