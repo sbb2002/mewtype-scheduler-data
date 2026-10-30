@@ -1,0 +1,771 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-10-30",
+  "downRanges": [],
+  "eventCount": 103,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: recap",
+      "nid": "2116092751770984816",
+      "t": "18:00",
+      "tone": "ok",
+      "ts": "2026-10-30T09:00:06Z",
+      "via": "ingest"
+    }
+  ],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [],
+      "title": null
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "18:30",
+          "id": "pv_c720d8fa",
+          "s": "announced",
+          "title": null,
+          "to": "22:56",
+          "vid": null
+        },
+        {
+          "from": "22:56",
+          "id": "pv_06a7abef",
+          "s": "watching",
+          "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】",
+          "to": "23:01",
+          "vid": "apbIhCQ0OMg"
+        },
+        {
+          "from": "23:01",
+          "id": "pv_06a7abef",
+          "s": "live",
+          "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】",
+          "to": "23:51",
+          "vid": "apbIhCQ0OMg"
+        },
+        {
+          "from": "23:51",
+          "id": "pv_06a7abef",
+          "s": "end",
+          "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】",
+          "to": "00:25",
+          "vid": "apbIhCQ0OMg"
+        },
+        {
+          "from": "00:25",
+          "id": "pv_06a7abef",
+          "s": "out",
+          "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】",
+          "to": "00:28",
+          "vid": "apbIhCQ0OMg"
+        }
+      ],
+      "title": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "from": "18:30",
+          "id": "pv_f7fca00e",
+          "s": "announced",
+          "title": null,
+          "to": "22:38",
+          "vid": null
+        },
+        {
+          "from": "22:38",
+          "id": "pv_7862af1e",
+          "s": "live",
+          "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+          "to": "01:21",
+          "vid": "0PQ2YgkIlqc"
+        },
+        {
+          "from": "01:21",
+          "id": "pv_7862af1e",
+          "s": "end",
+          "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+          "to": "01:55",
+          "vid": "0PQ2YgkIlqc"
+        },
+        {
+          "from": "01:55",
+          "id": "pv_7862af1e",
+          "s": "out",
+          "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+          "to": "01:58",
+          "vid": "0PQ2YgkIlqc"
+        }
+      ],
+      "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts"
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "from": "23:29",
+          "id": "pv_f2d8b99f",
+          "s": "upcoming",
+          "title": "【開封配信】#パルワールドカードゲーム 第2弾「目覚めし伝説」開封するぞ！【峰月律/ゆめみた】",
+          "to": "30:00",
+          "vid": "RVFZ_LSwbsw"
+        }
+      ],
+      "title": "【開封配信】#パルワールドカードゲーム 第2弾「目覚めし伝説」開封するぞ！【峰月律/ゆめみた】"
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "nid": null,
+      "t": "09:50",
+      "tone": "ok",
+      "ts": "2026-10-30T00:50:48Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "nid": null,
+      "t": "12:40",
+      "tone": "ok",
+      "ts": "2026-10-30T03:40:13Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "nid": null,
+      "t": "12:47",
+      "tone": "ok",
+      "ts": "2026-10-30T03:47:52Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "nid": null,
+      "t": "14:48",
+      "tone": "ok",
+      "ts": "2026-10-30T05:48:46Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "18:00",
+      "tone": "ok",
+      "ts": "2026-10-30T09:00:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 2건",
+      "nid": null,
+      "t": "18:30",
+      "tone": "ok",
+      "ts": "2026-10-30T09:30:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "19:03",
+      "tone": "ok",
+      "ts": "2026-10-30T10:03:33Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "nid": null,
+      "t": "19:18",
+      "tone": "ok",
+      "ts": "2026-10-30T10:18:12Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "nid": null,
+      "t": "19:18",
+      "tone": "ok",
+      "ts": "2026-10-30T10:18:12Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "nid": null,
+      "t": "19:18",
+      "tone": "ok",
+      "ts": "2026-10-30T10:18:16Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "nid": null,
+      "t": "22:20",
+      "tone": "ok",
+      "ts": "2026-10-30T13:20:43Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "nid": null,
+      "t": "22:20",
+      "tone": "ok",
+      "ts": "2026-10-30T13:20:44Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-10-30T21:10:00Z",
+  "song": [
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "11:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "12:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "13:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "14:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "15:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "16:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    }
+  ],
+  "ticks": [
+    {
+      "d": "candidates=77 preview_changed=True",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 102,
+      "t": "22:32"
+    },
+    {
+      "d": "candidates=4 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:38"
+    },
+    {
+      "d": "candidates=78 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "22:40"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:56"
+    },
+    {
+      "d": "candidates=78 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "23:00"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:01"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:29"
+    },
+    {
+      "d": "candidates=78 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "23:30"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:51"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:25"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:21"
+    },
+    {
+      "d": "candidates=5 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:55"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "retweet skip: 폰 원문이 @GGnn0529 의 글",
+      "member": "ritsu",
+      "t": "11:06",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T02:06:59Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "18:40",
+      "tid": "2116102897616482593",
+      "tone": "ok",
+      "ts": "2026-10-30T09:40:23Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 19시부터 진행되는 새로운 방송을 알리는 내용이며, 기존 목록의 방송 취소·변경과는 관련이 없습니다.",
+      "member": "yuno",
+      "t": "18:40",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T09:40:23Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "18:56",
+      "tid": "2116105679534760428",
+      "tone": "ok",
+      "ts": "2026-10-30T09:56:29Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "19:03",
+      "tid": "2116108411154895087",
+      "tone": "ok",
+      "ts": "2026-10-30T10:03:34Z",
+      "via": "ingest"
+    },
+    {
+      "d": "url-schedule skip: 이미 끝난 방송 japq_rAd6h8",
+      "member": "yuno",
+      "t": "20:01",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T11:01:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물 내용이 카드게임 이벤트 감사와 감상 후기이며 방송 일정 변경이나 취소와 관련된 언급이 없기 때문입니다",
+      "member": "yuno",
+      "t": "20:01",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T11:01:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 23시에 개봉 방송을 진행한다는 안내와 시간 변경을 알리지만, 목록에 있는 방송(pv_c720d8fa)은 이미 10/30 23:00으로 잡혀 있어 일정 변경이나 취소에 해당하지 않는다.",
+      "member": "yuno",
+      "t": "20:01",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T11:01:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "gap-fill(자기 답글) · 2116123057882570790 · +0분 · mode: added · 원글 함께",
+      "member": "yuno",
+      "t": "20:01",
+      "tid": "2116123057882570790",
+      "tone": "ok",
+      "ts": "2026-10-30T11:01:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @PalworldOCG 의 글",
+      "member": "ritsu",
+      "t": "20:18",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T11:18:51Z",
+      "via": "ingest"
+    },
+    {
+      "d": "gap-fill · 2116138801705914627 · +7분 · mode: added",
+      "member": "ritsu",
+      "t": "21:10",
+      "tid": "2116138801705914627",
+      "tone": "warn",
+      "ts": "2026-10-30T12:10:05Z",
+      "via": "ingest"
+    },
+    {
+      "d": "폰 늦게 도착 · 보충 뒤 +7분 · 2116138801705914627",
+      "member": "ritsu",
+      "t": "21:10",
+      "tid": "2116138801705914627",
+      "tone": "ok",
+      "ts": "2026-10-30T12:10:43Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "miyako",
+      "t": "21:34",
+      "tid": "2116145594742018362",
+      "tone": "ok",
+      "ts": "2026-10-30T12:34:50Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 10/31 21:30에 진행될 예정이라고 알리며 일정 변경이나 취소를 언급하지 않으므로",
+      "member": "miyako",
+      "t": "21:34",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T12:34:50Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "21:44",
+      "tid": "2116148176919151102",
+      "tone": "ok",
+      "ts": "2026-10-30T12:44:54Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 오늘 22:30에 방송이 시작한다는 안내이며, 취소나 일정 변경을 언급하지 않는다.",
+      "member": "nonoka",
+      "t": "21:44",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T12:44:54Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "22:47",
+      "tid": "2116163354461147152",
+      "tone": "ok",
+      "ts": "2026-10-30T13:47:41Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 \"♡🐰配信開始🩹♡\" 등 현재 방송 시작을 알리는 내용이며, 기존에 예고된 10/30 22:38 방송을 취소하거나 일정 변경한다는 언급이 없으므로 취소·변경이 아니다.",
+      "member": "nonoka",
+      "t": "22:47",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T13:47:41Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:38",
+      "tid": "2116177791758877057",
+      "tone": "ok",
+      "ts": "2026-10-30T14:38:00Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "01:28",
+      "tid": "2116204974195781928",
+      "tone": "ok",
+      "ts": "2026-10-30T16:28:32Z",
+      "via": "ingest"
+    },
+    {
+      "d": "url-schedule skip: 이미 끝난 방송 0PQ2YgkIlqc",
+      "member": "nonoka",
+      "t": "01:28",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-10-30T16:28:32Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "src": "x",
+      "t": "09:50",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "derived": true,
+      "src": "x",
+      "t": "09:50",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "11:07",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "src": "x",
+      "t": "12:40",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @BushiM_info 의 글",
+      "src": "x",
+      "t": "12:47",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "src": "x",
+      "t": "14:48",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "18:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 2건",
+      "src": "x",
+      "t": "18:30",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "18:40",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "18:56",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "19:03",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "19:03",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "src": "x",
+      "t": "19:18",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "src": "x",
+      "t": "19:18",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bfj_official 의 글",
+      "src": "x",
+      "t": "19:18",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "20:18",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "21:10",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · miyako",
+      "src": "x",
+      "t": "21:35",
+      "tone": "ok",
+      "who": "藤都子"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "21:45",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "src": "x",
+      "t": "22:20",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글",
+      "src": "x",
+      "t": "22:20",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "22:38",
+      "tone": "ok",
+      "who": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "22:48",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "23:02",
+      "tone": "ok",
+      "who": "【開封】#パルワールドカードゲーム 第2弾ブースター「目覚めし伝説」を開封します！【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:38",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "01:29",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 16,
+    "production": 5,
+    "total": 21
+  }
+}
