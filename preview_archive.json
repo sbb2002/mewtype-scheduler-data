@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T15:25:00Z",
+  "generated_at": "2026-10-30T16:55:00Z",
   "items": [
     {
       "actual_start": "2026-10-23T01:43:32Z",
@@ -540,6 +540,36 @@
       "title_ko": "【개봉】#팔월드 카드게임 제2탄 부스터「깨어난 전설」개봉합니다！【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=apbIhCQ0OMg",
       "video_id": "apbIhCQ0OMg"
+    },
+    {
+      "actual_start": "2026-10-30T13:38:38Z",
+      "announced_start": "2026-10-30T13:30:00Z",
+      "api_start_seen": "2026-10-30T13:38:20Z",
+      "archived_at": "2026-10-30T16:55:00Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 699,
+      "expires_at": "2026-10-30T16:38:20Z",
+      "first_seen": "2026-10-30T13:38:59Z",
+      "host": null,
+      "id": "pv_7862af1e",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-10-30T16:55:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-30T13:38:20Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2116163354461147152",
+      "state": "out",
+      "state_since": "2026-10-30T16:55:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/0PQ2YgkIlqc/maxresdefault.jpg?v=6ae49dd0",
+      "time_tbd": false,
+      "title": "【ギター重ね録り】うちゅうのふしぎをアコギかばー２！いやされ【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+      "title_ko": "【기타 겹녹음】우주의 신비를 어쿠스틱 기타 커버 2! 힐링【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
+      "url": "https://www.youtube.com/watch?v=0PQ2YgkIlqc",
+      "video_id": "0PQ2YgkIlqc"
     }
   ]
 }
