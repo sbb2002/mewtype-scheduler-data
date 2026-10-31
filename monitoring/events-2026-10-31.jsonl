@@ -103,3 +103,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-31T13:40:00Z", "who": "HO4WIRTTnUs"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_f2d8b99f", "result": "ok", "title": "【開封配信】#パルワールドカードゲーム 第2弾「目覚めし伝説」開封するぞ！【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-10-31T13:40:00Z", "video_id": "RVFZ_LSwbsw", "who": "ritsu"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-31T13:40:06Z", "who": ""}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T13:42:24Z", "tweet_id": "2116525974628315601", "via": "ingest", "who": "miyako"}
