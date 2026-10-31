@@ -48,3 +48,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T10:20:25Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T10:30:28Z", "tweet_id": "2116476276630606324", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T10:30:39Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "notice", "notice_id": "2116477783555633158", "result": "ok", "ts": "2026-10-31T10:30:27Z", "via": "ingest", "who": ""}
