@@ -49,3 +49,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T10:30:28Z", "tweet_id": "2116476276630606324", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T10:30:39Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "notice", "notice_id": "2116477783555633158", "result": "ok", "ts": "2026-10-31T10:30:27Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-10-31T10:30:27Z", "via": "ingest", "who": ""}
