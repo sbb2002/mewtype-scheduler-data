@@ -34,3 +34,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T06:03:21Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-31T06:12:43Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T06:12:51Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-10-31T06:12:43Z", "via": "ingest", "who": "bang_dream_on"}
