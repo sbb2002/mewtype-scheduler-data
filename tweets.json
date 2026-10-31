@@ -269,20 +269,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-10-31T14:54:58Z",
-        "handle": "nonoka_yumemita",
-        "id": "2115819689146544217",
-        "media": [],
-        "posted_at": "2026-10-29T14:54:58Z",
-        "quote": null,
-        "received_at": "2026-10-29T14:55:01Z",
-        "reply_to_id": null,
-        "text": "おやつみ(-_-)zzz",
-        "text_ko": "간식시간(-_-)zzz",
-        "url": "https://x.com/i/status/2115819689146544217"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-11-01T12:40:16Z",
         "handle": "nonoka_yumemita",
         "id": "2116148176919151102",
