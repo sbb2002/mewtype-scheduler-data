@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:56:34Z",
+  "generated_at": "2026-10-31T10:30:28Z",
   "tweets": {
     "arale": [
       {
@@ -243,6 +243,22 @@
         "text": "こんにちわん🎃❕\n本日はや〜しぶにてリリイベです♪\nよろしくおねがいします✨",
         "text_ko": "안녕🎃❕ 오늘은 야~시부에서 리리 이벤트입니다♪ 잘 부탁드립니다✨",
         "url": "https://x.com/i/status/2116406234014503307"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-02T10:24:01Z",
+        "handle": "miyako_yumemita",
+        "id": "2116476276630606324",
+        "media": [
+          "https://pbs.twimg.com/media/HV879FqbMAAWZBz.jpg"
+        ],
+        "posted_at": "2026-10-31T10:24:01Z",
+        "quote": null,
+        "received_at": "2026-10-31T10:30:28Z",
+        "reply_to_id": null,
+        "text": "かわいいおんなのこ\n#アワーノーツ",
+        "text_ko": "귀여운 소녀\n#アワーノーツ",
+        "url": "https://x.com/i/status/2116476276630606324"
       }
     ],
     "nonoka": [
