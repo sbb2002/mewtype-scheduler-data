@@ -90,3 +90,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · 9C8nEJPCjq0 · 예고 live", "flow": "websub", "merge_key": "websub-notify:9C8nEJPCjq0", "result": "ok", "title": "【🟡歌枠】HAPPY HALLOWEEN🎃【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-31T13:03:41Z", "video_id": "9C8nEJPCjq0", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T13:04:22Z", "tweet_id": "2116516623565898114", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T13:04:43Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T13:05:13Z", "tweet_id": "2116516838662357357", "via": "ingest", "who": "ritsu"}
