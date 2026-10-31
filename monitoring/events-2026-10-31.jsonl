@@ -122,3 +122,5 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-31T15:15:00Z", "who": "RVFZ_LSwbsw"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-31T15:35:00Z", "who": "u_itKEiQruk"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_f2d8b99f", "result": "ok", "title": "【開封配信】#パルワールドカードゲーム 第2弾「目覚めし伝説」開封するぞ！【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-10-31T15:35:00Z", "video_id": "RVFZ_LSwbsw", "who": "ritsu"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-31T15:40:00Z", "who": "9C8nEJPCjq0"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_fbbdb902", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "out", "ts": "2026-10-31T15:40:00Z", "video_id": "u_itKEiQruk", "who": "yuno"}
