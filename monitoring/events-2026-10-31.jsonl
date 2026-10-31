@@ -69,3 +69,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T11:46:59Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T11:49:58Z", "tweet_id": "2116497813102297588", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T11:50:08Z", "who": "仲町あられ"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-31T12:00:07Z", "who": "【歌枠】秋のミニミニうたわく♪う～たうたうた♪【ゆめみた/藤都子】"}
