@@ -18,3 +18,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T03:33:03Z", "who": "峰月律"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_77cba33b", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-31T03:32:50Z", "video_id": null, "who": "arale"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_fbbdb902", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-31T03:32:50Z", "video_id": null, "who": "yuno"}
+{"detail": "mode: added · 파싱 4건", "flow": "relay", "result": "ok", "ts": "2026-10-31T03:32:50Z", "via": "ingest", "who": ""}
