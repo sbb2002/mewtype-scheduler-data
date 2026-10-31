@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:55:00Z",
+  "generated_at": "2026-10-31T14:10:00Z",
   "items": [
     {
       "actual_start": "2026-10-24T12:58:27Z",
@@ -480,6 +480,36 @@
       "title_ko": "【기타 겹녹음】우주의 신비를 어쿠스틱 기타 커버 2! 힐링【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=0PQ2YgkIlqc",
       "video_id": "0PQ2YgkIlqc"
+    },
+    {
+      "actual_start": "2026-10-31T12:33:28Z",
+      "api_start_seen": "2026-10-31T12:30:00Z",
+      "archived_at": "2026-10-31T14:10:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 589,
+      "expires_at": "2026-10-31T15:30:00Z",
+      "first_seen": "2026-10-23T12:39:15Z",
+      "host": null,
+      "id": "pv_f6ff0f2c",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "song",
+      "last_updated": "2026-10-31T14:10:00Z",
+      "membership": false,
+      "scheduled_start": "2026-10-31T12:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2116145594742018362",
+      "state": "out",
+      "state_since": "2026-10-31T14:10:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/HO4WIRTTnUs/maxresdefault.jpg?v=6adb5537",
+      "time_tbd": false,
+      "title": "【歌枠】秋のミニミニうたわく♪う～たうたうた♪【ゆめみた/藤都子】",
+      "title_ko": "【노래 방송】가을 미니미니 노래하고♪우~노래노래♪【유메미타/후지 미야코】",
+      "url": "https://www.youtube.com/watch?v=HO4WIRTTnUs",
+      "video_id": "HO4WIRTTnUs",
+      "yt_tunein": true
     }
   ]
 }
