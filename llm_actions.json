@@ -4,25 +4,6 @@
       "by": "llm",
       "flow_id": null,
       "followup": null,
-      "id": "llm_0b811d9f3d",
-      "input": {
-        "channel_key": "arale",
-        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/10(金) 23:00~┊#イ中田丁なう\n\n┊ 前日語り ┊緊張？普通にとてもしていますﾀｽｹﾃ\n\n🔗 https://youtube.com/live/1gjYtQROP-o",
-        "tag": "p#https://x.com/#1tweet-2108915470938280215"
-      },
-      "kind": "broadcast_change",
-      "parent_id": null,
-      "reason": "게시물은 10/10(금) 23:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
-      "summary": "방송 취소 · 변경 아님",
-      "ts": "2026-10-10T13:47:35Z",
-      "undo": null,
-      "undone": null,
-      "who": "arale"
-    },
-    {
-      "by": "llm",
-      "flow_id": null,
-      "followup": null,
       "id": "llm_0d3d89cd1d",
       "input": {
         "raw": "＼夢ノ結唱 MEW 体験会情報💻／\n\n会場内、夢ノ結唱ブースにて\n「夢ノ結唱 MEW アルファー版」体験会を実施💻✨\n\n⏰開催時間：13:30～16:30 \n\n詳しくはこちら👀👇 \nhttps://bang-dream.com/events/13th-live-day2\n\nぜひ直接ご体験ください🌟\n\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ #夢ノ結唱",
