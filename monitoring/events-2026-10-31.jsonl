@@ -16,3 +16,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T03:20:00Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T03:32:50Z", "tweet_id": "2116370871921279299", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T03:33:03Z", "who": "峰月律"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_77cba33b", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-31T03:32:50Z", "video_id": null, "who": "arale"}
