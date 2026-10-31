@@ -126,3 +126,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_fbbdb902", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "out", "ts": "2026-10-31T15:40:00Z", "video_id": "u_itKEiQruk", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T15:50:54Z", "tweet_id": "2116558534955667513", "via": "ingest", "who": "nonoka"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_1905a090", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-31T15:50:54Z", "video_id": null, "who": "nonoka"}
+{"detail": "broadcast-change none · 예정된 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않는다", "flow": "tweet", "result": "ok", "ts": "2026-10-31T15:50:54Z", "via": "ingest", "who": "nonoka"}
