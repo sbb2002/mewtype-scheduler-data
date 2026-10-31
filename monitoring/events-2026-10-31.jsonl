@@ -114,3 +114,6 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T14:10:57Z", "tweet_id": "2116531508974674186", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 오늘 23:00에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-31T14:10:57Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T14:11:21Z", "who": "峰月律"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-31T15:02:36Z", "who": "RVFZ_LSwbsw"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f2d8b99f", "result": "ok", "title": "【開封配信】#パルワールドカードゲーム 第2弾「目覚めし伝説」開封するぞ！【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-10-31T15:02:36Z", "video_id": "RVFZ_LSwbsw", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · RVFZ_LSwbsw · 예고 end", "flow": "websub", "merge_key": "websub-notify:RVFZ_LSwbsw", "result": "ok", "title": "【開封配信】#パルワールドカードゲーム 第2弾「目覚めし伝説」開封するぞ！【峰月律/ゆめみた】", "ts": "2026-10-31T15:02:36Z", "video_id": "RVFZ_LSwbsw", "who": "ritsu"}
