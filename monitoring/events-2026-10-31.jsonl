@@ -87,3 +87,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-31T13:03:00Z", "who": "9C8nEJPCjq0"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_a934ff5c", "result": "ok", "title": "【🟡歌枠】HAPPY HALLOWEEN🎃【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-31T13:03:00Z", "video_id": "9C8nEJPCjq0", "who": "arale"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-10-31T13:03:43Z", "who": "【🟡歌枠】HAPPY HALLOWEEN🎃【 仲町あられ / 夢限大みゅーたいぷ 】"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · 9C8nEJPCjq0 · 예고 live", "flow": "websub", "merge_key": "websub-notify:9C8nEJPCjq0", "result": "ok", "title": "【🟡歌枠】HAPPY HALLOWEEN🎃【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-10-31T13:03:41Z", "video_id": "9C8nEJPCjq0", "who": "arale"}
