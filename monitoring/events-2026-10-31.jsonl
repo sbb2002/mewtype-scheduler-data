@@ -21,3 +21,4 @@
 {"detail": "mode: added · 파싱 4건", "flow": "relay", "result": "ok", "ts": "2026-10-31T03:32:50Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 4건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T03:33:11Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T04:16:47Z", "tweet_id": "2116383847822831800", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T04:16:54Z", "who": "千石ユノ"}
