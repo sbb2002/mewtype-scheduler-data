@@ -5990,6 +5990,32 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ee0d19e8f9",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信予定🩹♡\n\n11/1 11:00-\n\n魔法少女の魔女裁判　第五回魔女裁判から🎶\n\nおきます！よろしくお願いします‼️",
+        "tag": "p#https://x.com/#1tweet-2116558534955667513"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信予定\"이라고 명시하고 날짜와 시각을 함께 적어 앞으로 할 방송을 알리는 예고이므로 true입니다. (근거: 「配信予定\n11/1 11:00-」)",
+      "summary": "본인 예고로 등록 — 11:00 JST · ♡🐰配信予定🩹♡\n\n11/1 11:00-\n\n魔法少女の魔女裁判　第五回魔女裁判",
+      "ts": "2026-10-31T15:50:54Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_1905a090"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
