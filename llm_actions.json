@@ -5951,6 +5951,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_13b29dd205",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\nこんや23:00~\n#パルワールドカードゲーム \n第2弾「目覚めし伝説」開封配信🎀\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/RVFZ_LSwbsw?si=aWbvaBOR8VuWsMaf\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2116516838662357357"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 23:00에 진행될 방송을 알리는 내용이며 취소·변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-31T13:05:13Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
