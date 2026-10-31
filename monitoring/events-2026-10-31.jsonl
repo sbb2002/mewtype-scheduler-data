@@ -134,3 +134,4 @@
 {"detail": "retweet skip: 폰 원문이 @HmvBooksShibuya 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-31T16:12:10Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T16:12:12Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @sanomaru225 의 글", "flow": "tweet", "result": "ok", "ts": "2026-10-31T16:18:53Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T16:18:55Z", "who": "宮永ののか🐰🩹"}
