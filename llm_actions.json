@@ -6016,6 +6016,25 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b61164327f",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信予定🩹♡\n\n11/1 11:00-\n\n魔法少女の魔女裁判　第五回魔女裁判から🎶\n\nおきます！よろしくお願いします‼️",
+        "tag": "p#https://x.com/#1tweet-2116558534955667513"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "예정된 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않는다",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-31T15:50:54Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
