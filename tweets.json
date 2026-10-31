@@ -4,36 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-10-30T21:23:43Z",
-        "handle": "arale_yumemita",
-        "id": "2115555131207090422",
-        "media": [],
-        "posted_at": "2026-10-28T21:23:43Z",
-        "quote": null,
-        "received_at": "2026-10-28T21:31:06Z",
-        "reply_to_id": null,
-        "text": "おはようございます…さ、さむい…",
-        "text_ko": "좋은 아침입니다… 추, 추워요…",
-        "url": "https://x.com/i/status/2115555131207090422"
-      },
-      {
-        "channel_key": "arale",
-        "expires_at": "2026-10-30T21:36:49Z",
-        "handle": "arale_yumemita",
-        "id": "2115558427858763784",
-        "media": [
-          "https://pbs.twimg.com/media/HVv5J7nbsAAjNzG.jpg"
-        ],
-        "posted_at": "2026-10-28T21:36:49Z",
-        "quote": null,
-        "received_at": "2026-10-28T21:44:05Z",
-        "reply_to_id": null,
-        "text": "❑ ━━━ 配信開始！ ━━━ ❑\n\n┊ 10/29(木) 6:30〜┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 https://youtube.com/live/jp4tqcF9OB4",
-        "text_ko": "❑ ━━━ 방송 시작! ━━━ ❑\n\n┊ 10/29(木) 6:30〜┊#イ中田丁なう\n\n┊ 아침 활동 ┊잘 다녀오세요와 배웅☀️\n\n🔗 https://youtube.com/live/jp4tqcF9OB4",
-        "url": "https://x.com/i/status/2115558427858763784"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-10-31T08:45:44Z",
         "handle": "arale_yumemita",
         "id": "2115724408824434830",
