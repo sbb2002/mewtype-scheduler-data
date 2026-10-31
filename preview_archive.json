@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T15:35:00Z",
+  "generated_at": "2026-10-31T15:40:00Z",
   "items": [
     {
       "actual_start": "2026-10-24T12:58:27Z",
@@ -539,6 +539,36 @@
       "title_ko": "【개봉 방송】#파르월드카드게임 제2탄 “잠든 전설” 개봉한다!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=RVFZ_LSwbsw",
       "video_id": "RVFZ_LSwbsw"
+    },
+    {
+      "actual_start": "2026-10-31T13:35:11Z",
+      "api_start_seen": "2026-10-31T13:35:00Z",
+      "archived_at": "2026-10-31T15:40:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-10-31T18:30:00Z",
+      "first_seen": "2026-10-31T03:32:50Z",
+      "host": null,
+      "id": "pv_fbbdb902",
+      "info_at": "2026-10-31T03:32:50Z",
+      "info_source": "yt-notif",
+      "kind": "unknown",
+      "last_updated": "2026-10-31T15:40:00Z",
+      "membership": true,
+      "scheduled_start": "2026-10-31T13:35:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2116372090798665813",
+      "state": "out",
+      "state_since": "2026-10-31T15:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/u_itKEiQruk/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "YUNO's+ 限定配信",
+      "title_ko": "유노's+ 제한 방송",
+      "url": "https://www.youtube.com/watch?v=u_itKEiQruk",
+      "video_id": "u_itKEiQruk"
     }
   ]
 }
