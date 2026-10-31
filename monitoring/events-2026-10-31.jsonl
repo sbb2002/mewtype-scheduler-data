@@ -39,3 +39,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T06:42:29Z", "tweet_id": "2116420513442799819", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T06:42:37Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T06:56:34Z", "tweet_id": "2116424058225176902", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T06:56:41Z", "who": "仲町あられ"}
