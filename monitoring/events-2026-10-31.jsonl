@@ -105,3 +105,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-31T13:40:06Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T13:42:24Z", "tweet_id": "2116525974628315601", "via": "ingest", "who": "miyako"}
 {"detail": "url-schedule skip: 이미 끝난 방송 HO4WIRTTnUs", "flow": "tweet", "result": "ok", "ts": "2026-10-31T13:42:24Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T13:42:40Z", "who": "藤都子"}
