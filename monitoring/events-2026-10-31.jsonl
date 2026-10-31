@@ -84,3 +84,5 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-10-31T12:50:03Z", "who": ""}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @HmvBooksShibuya 의 글", "flow": "relay", "result": "ok", "ts": "2026-10-31T12:57:31Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @HmvBooksShibuya 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T12:57:33Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-10-31T13:03:00Z", "who": "9C8nEJPCjq0"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_a934ff5c", "result": "ok", "title": "【🟡歌枠】HAPPY HALLOWEEN🎃【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-10-31T13:03:00Z", "video_id": "9C8nEJPCjq0", "who": "arale"}
