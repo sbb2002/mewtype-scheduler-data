@@ -5893,6 +5893,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8bb63c9a7b",
+      "input": {
+        "raw": "🛸夢限大みゅーたいぷ 5th Single\n「これはぼくたちの生存のあらすじ」\nリリースイベント🛸\n\nご参加・ご声援いただき、ありがとうございました✨\n\n次回は、12/28(月) animate hall BLACK様にて開催❕\n\n💿詳細はこちら\nhttps://bushiroad-music.com/topics/22079/\n\nお楽しみに🛸\n\n#バンドリ #ゆめみた",
+        "tag": "p#https://x.com/#1tweet-2116477783555633158",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "notice_timing",
+      "parent_id": null,
+      "reason": "오늘 있는 일(夢限大みゅーたいぷ 5th Single 「これはぼくたちの生存のあらすじ」リリースイベント)의 소감 — 다음 일정만 올림 / 글이 참여와 응원에 대한 감사와 현장 보고를 중심으로 하고 있어 report에 해당한다. (근거: 「ご参加・ご声援いただき、ありがとうございました✨」 · 「リリースイベント🛸」)",
+      "summary": "소감 — 다음 일정만 소식으로 · 次回は、12/28(月) animate hall BLACK様にて開催",
+      "ts": "2026-10-31T10:30:27Z",
+      "undo": null,
+      "undone": null,
+      "who": "notice"
     }
   ]
 }
