@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (9C8nEJPCjq0)",
-    "at": "2026-10-31T13:04:22Z",
+    "action": "URL 확정 예고 ritsu (RVFZ_LSwbsw)",
+    "at": "2026-10-31T13:05:13Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "069d28a299e48d8cfb75560e33676ca81a7eddb5",
+    "new_sha": "0434b15802c70f452f6e45340f42882c23c93587",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-10-31T13:03:00Z",
+      "generated_at": "2026-10-31T13:04:22Z",
       "items": [
         {
           "actual_start": "2026-10-31T12:33:28Z",
@@ -155,7 +155,7 @@
           "assumed_live": false,
           "channel_key": "arale",
           "collab_with": null,
-          "concurrent_viewers": 299,
+          "concurrent_viewers": 436,
           "expires_at": "2026-10-31T16:00:00Z",
           "first_seen": "2026-10-31T12:42:28Z",
           "host": null,
@@ -163,7 +163,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-10-31T13:03:00Z",
+          "last_updated": "2026-10-31T13:04:22Z",
           "membership": false,
           "scheduled_start": "2026-10-31T13:00:00Z",
           "source": "api",
