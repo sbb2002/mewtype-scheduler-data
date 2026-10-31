@@ -113,3 +113,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_f6ff0f2c", "result": "ok", "title": "【歌枠】秋のミニミニうたわく♪う～たうたうた♪【ゆめみた/藤都子】", "to_state": "out", "ts": "2026-10-31T14:10:00Z", "video_id": "HO4WIRTTnUs", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T14:10:57Z", "tweet_id": "2116531508974674186", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 오늘 23:00에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-10-31T14:10:57Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T14:11:21Z", "who": "峰月律"}
