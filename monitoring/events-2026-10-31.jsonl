@@ -61,3 +61,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T10:46:36Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T10:46:28Z", "tweet_id": "2116481346231320992", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 방송 시작이 늦어질 가능성을 알리지만 구체적인 새로운 시간이나 취소를 명시하지 않아 일정 변경이나 취소로 판단할 근거가 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-10-31T10:46:28Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T10:46:56Z", "who": "藤都子"}
