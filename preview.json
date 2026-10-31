@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-10-31T12:46:42Z",
+  "generated_at": "2026-10-31T12:50:03Z",
   "items": [
     {
       "actual_start": "2026-10-31T12:33:28Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-10-31T12:46:42Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-10-31T13:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2116512178195075099",
@@ -136,7 +135,7 @@
       "thumbnail": "https://i.ytimg.com/vi/9C8nEJPCjq0/maxresdefault.jpg?v=6ae5e1f8",
       "time_tbd": false,
       "title": "【🟡歌枠】HAPPY HALLOWEEN🎃【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡노래 방송】HAPPY HALLOWEEN🎃【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=9C8nEJPCjq0",
       "video_id": "9C8nEJPCjq0"
     },
