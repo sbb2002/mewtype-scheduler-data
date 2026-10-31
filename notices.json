@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:00:06Z",
+  "generated_at": "2026-10-31T10:30:27Z",
   "notices": [
     {
       "anchor_a": null,
@@ -544,6 +544,37 @@
       "title_slug": "チケット一般発売明日開始",
       "tweet_url": "https://x.com/i/status/2105960991897080077",
       "url": "https://bang-dream.com/events/nakamachiarale_live2026/"
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": null,
+      "body_for_llm": "次回は、 (月) animate hall BLACK様にて開催❕",
+      "body_ko": "다음 방송은 12/28(월) animate hall BLACK에서 개최❕",
+      "body_raw": "次回は、12/28(月) animate hall BLACK様にて開催❕",
+      "categories": [
+        "live"
+      ],
+      "category": "etc",
+      "date": "2026-12-28",
+      "deadline": false,
+      "expires_at": "2026-12-28T15:00:00Z",
+      "first_seen": "2026-10-31T10:30:27Z",
+      "id": "2116477783555633158",
+      "last_updated": "2026-10-31T10:30:27Z",
+      "live_date": "2026-12-28",
+      "participants": null,
+      "seen_ids": [
+        "2116477783555633158"
+      ],
+      "site": "x",
+      "src_handle": "@BDP_yumemita",
+      "time": null,
+      "title": "次回は、 (月) animate hall BLACK様にて開催",
+      "title_ko": "다음은 (월) animate hall BLACK에서 개최",
+      "title_raw": "次回は、12/28(月) animate hall BLACK様にて開催",
+      "title_slug": "次回は月animatehallblack様にて開",
+      "tweet_url": "https://x.com/i/status/2116477783555633158",
+      "url": null
     },
     {
       "anchor_a": "kimchikura",
