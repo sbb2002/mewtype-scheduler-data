@@ -161,6 +161,35 @@
       "title_slug": "放送日時",
       "tweet_url": "https://x.com/i/status/2098058929989472631",
       "url": null
+    },
+    {
+      "anchor_a": "brmm-11060",
+      "anchor_b": "これはぼくたちの生存のあらすじ",
+      "archived_at": "2026-10-01T01:14:16Z",
+      "body_for_llm": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2 本日はありがとうございました！ ▼最新シングル「これはぼくたちの生存のあらすじ」は 発売",
+      "body_ko": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2\n\n오늘도 감사합니다!\n\n▼ 최신 싱글 “これはぼくたちの生存のあらすじ”는 9월 30일 발매\nhttps://bushiroad-music.com/musics/brmm-11060",
+      "body_raw": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2\n\n本日はありがとうございました！\n\n▼最新シングル「これはぼくたちの生存のあらすじ」は9月30日発売\nhttps://bushiroad-music.com/musics/brmm-11060",
+      "category": "release",
+      "date": "2026-09-30",
+      "deadline": false,
+      "expires_at": "2026-09-30T15:00:00Z",
+      "first_seen": "2026-09-11T10:01:15Z",
+      "id": "2098351126504718514",
+      "last_updated": "2026-09-25T12:37:04Z",
+      "seen_ids": [
+        "2098351126504718514",
+        "2103449421338005929",
+        "2103463784916627782"
+      ],
+      "site": "store",
+      "src_handle": "RT @BUSHIM_ongaku",
+      "time": null,
+      "title": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2",
+      "title_ko": "5번째 싱글 \"これはぼくたちの生存のあらすじ\" 청취 영상 공개",
+      "title_raw": "RT @BUSHIM_ongaku: #ゆめみたフリーライブ_DAY2",
+      "title_slug": "rtbushimongaku",
+      "tweet_url": "https://x.com/i/status/2103463784916627782",
+      "url": "https://bushiroad-music.com/musics/brmm-11060"
     }
   ]
 }
