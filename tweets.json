@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:32:50Z",
+  "generated_at": "2026-10-31T04:16:47Z",
   "tweets": {
     "arale": [
       {
@@ -537,6 +537,20 @@
         "text": "そして、このあと23時からはユノの個人YouTubeでも開封配信をさせて頂きます！！！\nこちらもよろしくお願いします！",
         "text_ko": "그리고, 오늘 23시부터는 유노의 개인 YouTube에서도 개봉 방송을 진행합니다!!! 이것도 잘 부탁드립니다!",
         "url": "https://x.com/i/status/2116123057882570790"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-02T04:16:44Z",
+        "handle": "yuno_yumemita",
+        "id": "2116383847822831800",
+        "media": [],
+        "posted_at": "2026-10-31T04:16:44Z",
+        "quote": null,
+        "received_at": "2026-10-31T04:16:47Z",
+        "reply_to_id": null,
+        "text": "トリート & トリート\n\n菓子出せや",
+        "text_ko": "트릿 & 트릿\n과자 내놔",
+        "url": "https://x.com/i/status/2116383847822831800"
       }
     ]
   }
