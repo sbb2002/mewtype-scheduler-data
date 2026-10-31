@@ -20,3 +20,4 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_fbbdb902", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-10-31T03:32:50Z", "video_id": null, "who": "yuno"}
 {"detail": "mode: added · 파싱 4건", "flow": "relay", "result": "ok", "ts": "2026-10-31T03:32:50Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 4건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-10-31T03:33:11Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-10-31T04:16:47Z", "tweet_id": "2116383847822831800", "via": "ingest", "who": "yuno"}
