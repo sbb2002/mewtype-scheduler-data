@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T13:15:11Z",
+  "generated_at": "2026-11-01T22:09:05Z",
   "tweets": {
     "arale": [
       {
@@ -274,6 +274,28 @@
         "text": "💜配信よてい💜\n11/2(月)7:00〜朝配信☀\nさむさむに打ち勝ち起床しなさい🐏❣\nぽやしみ🌙\n＃みるみやこ",
         "text_ko": "💜방송 예정💜\n11/2(월)7:00~아침 방송☀\n추위를 이겨내고 일어나세요🐏❣\n포야시미🌙\n#미루미야코",
         "url": "https://x.com/i/status/2116871855315501214"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-03T22:01:05Z",
+        "handle": "miyako_yumemita",
+        "id": "2117014088840864035",
+        "media": [
+          "https://pbs.twimg.com/card_img/2117014066971725824/f0oguVtS?format=jpg&name=800x419"
+        ],
+        "posted_at": "2026-11-01T22:01:05Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HWCjd0laEAEz_tE.jpg"
+          ],
+          "text": "💜配信よてい💜\n11/2(月)7:00～朝配信☀\nさむさむに打ち勝ち起床しなさい🐏❣\nぽやしみ🌙\n＃みるみやこ",
+          "text_ko": "💜방송 예정💜\n11/2(월) 7:00~아침 방송☀\n추위를 이겨내고 일어나세요🐏❣\n포야시미🌙\n#미루미야코"
+        },
+        "received_at": "2026-11-01T22:09:05Z",
+        "reply_to_id": null,
+        "text": "ぽはぽは・ぽ＝は〜よ♪\n配信はじまる❣\nhttps://www.youtube.com/watch?v=qqNtyJXpefg",
+        "text_ko": "포하포하·포=하~요♪ 방송 시작❣\nhttps://www.youtube.com/watch?v=qqNtyJXpefg",
+        "url": "https://x.com/i/status/2117014088840864035"
       }
     ],
     "nonoka": [
