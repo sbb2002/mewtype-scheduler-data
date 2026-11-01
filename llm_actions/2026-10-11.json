@@ -1,0 +1,309 @@
+{
+  "items": [
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0d3d89cd1d",
+      "input": {
+        "raw": "＼夢ノ結唱 MEW 体験会情報💻／\n\n会場内、夢ノ結唱ブースにて\n「夢ノ結唱 MEW アルファー版」体験会を実施💻✨\n\n⏰開催時間：13:30～16:30 \n\n詳しくはこちら👀👇 \nhttps://bang-dream.com/events/13th-live-day2\n\nぜひ直接ご体験ください🌟\n\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ #夢ノ結唱",
+        "tag": "p#https://x.com/#1tweet-2109088592991514758",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "duplicate_notice",
+      "parent_id": null,
+      "reason": "기존 소식 2098018660086657040",
+      "summary": "같은 소식으로 판정 — 「夢ノ結唱 MEW アルファー版」体験会を実施💻",
+      "ts": "2026-10-11T01:27:23Z",
+      "undo": {
+        "before": {
+          "anchor_a": null,
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "RT @bang_dream_info: 🎁物販情報更新②🎁 (日)開催 🛸#バンドリ13thライブ DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 ✨グッズ販売情報を公開✨ 詳細はこちら👇",
+          "body_ko": "RT @bang_dream_info: 🎁물품 판매 정보 업데이트②🎁\n\n10/11(일) 개최\n🛸#뱅드림 13th 라이브\nDAY2 : 무겐다이 뮤타입「DIMENSIONAL OVERLAP」\n\n✨굿즈 판매 정보를 공개✨\n\n자세한 내용은 여기👇",
+          "body_raw": "RT @bang_dream_info: 🎁物販情報更新②🎁\n\n10/11(日)開催\n🛸#バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\n\n✨グッズ販売情報を公開✨\n\n詳細はこちら👇",
+          "category": "release",
+          "date": "2026-10-11",
+          "deadline": false,
+          "expires_at": "2026-10-11T15:00:00Z",
+          "first_seen": "2026-09-10T12:18:02Z",
+          "id": "2098018660086657040",
+          "last_updated": "2026-10-02T08:08:21Z",
+          "seen_ids": [
+            "2098018660086657040",
+            "2104935720586756460",
+            "2105855344908153102",
+            "2105932496215175602"
+          ],
+          "site": "x",
+          "src_handle": "RT @bang_dream_info",
+          "time": "02:00",
+          "title": "グッズ販売情報を公開",
+          "title_ko": "뱅드림 13th 라이브 DAY 무겐다이 뮤타입 “DIMENSIONAL OVERLAP” 티켓 일반 판매 시작",
+          "title_raw": "グッズ販売情報を公開",
+          "title_slug": "グッズ販売情報を公開",
+          "tweet_url": "https://x.com/i/status/2105932496215175602",
+          "url": null
+        },
+        "id": "2098018660086657040",
+        "parsed_id": "2109088592991514758",
+        "type": "restore_notice"
+      },
+      "undone": null,
+      "who": "notice"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0502317fc1",
+      "input": {
+        "raw": "＼グッズ販売情報🛍️／\n\nグッズ販売情報は \n@Bushi_goods をチェック👀❣️\n\n⏰販売時間\n・先行販売：12:00～16:00\n・開場販売：16:30～18:00\n\n詳細はこちら👇\nhttps://bang-dream.com/events/13th-live-day2/#Goods_onsite\n\n#ゆめみた_DIMENSIONALOVERLAP\n#バンドリ13thライブ",
+        "tag": "p#https://x.com/#1tweet-2109086831635509513",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "duplicate_notice",
+      "parent_id": null,
+      "reason": "기존 소식 2098018660086657040",
+      "summary": "같은 소식으로 판정 — グッズ販売情報🛍",
+      "ts": "2026-10-11T01:27:28Z",
+      "undo": {
+        "before": {
+          "anchor_a": null,
+          "anchor_b": "dimensionaloverlap",
+          "body_for_llm": "RT @bang_dream_info: 🎁物販情報更新②🎁 (日)開催 🛸#バンドリ13thライブ DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 ✨グッズ販売情報を公開✨ 詳細はこちら👇",
+          "body_ko": "RT @bang_dream_info: 🎁물품 판매 정보 업데이트②🎁\n\n10/11(일) 개최\n🛸#뱅드림 13th 라이브\nDAY2 : 무겐다이 뮤타입「DIMENSIONAL OVERLAP」\n\n✨굿즈 판매 정보를 공개✨\n\n자세한 내용은 여기👇",
+          "body_raw": "RT @bang_dream_info: 🎁物販情報更新②🎁\n\n10/11(日)開催\n🛸#バンドリ13thライブ\nDAY2 : 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\n\n✨グッズ販売情報を公開✨\n\n詳細はこちら👇",
+          "category": "release",
+          "date": "2026-10-11",
+          "deadline": false,
+          "expires_at": "2026-10-11T15:00:00Z",
+          "first_seen": "2026-09-10T12:18:02Z",
+          "id": "2098018660086657040",
+          "last_updated": "2026-10-02T08:08:21Z",
+          "seen_ids": [
+            "2098018660086657040",
+            "2104935720586756460",
+            "2105855344908153102",
+            "2105932496215175602"
+          ],
+          "site": "x",
+          "src_handle": "RT @bang_dream_info",
+          "time": "02:00",
+          "title": "グッズ販売情報を公開",
+          "title_ko": "뱅드림 13th 라이브 DAY 무겐다이 뮤타입 “DIMENSIONAL OVERLAP” 티켓 일반 판매 시작",
+          "title_raw": "グッズ販売情報を公開",
+          "title_slug": "グッズ販売情報を公開",
+          "tweet_url": "https://x.com/i/status/2105932496215175602",
+          "url": null
+        },
+        "id": "2098018660086657040",
+        "parsed_id": "2109086831635509513",
+        "type": "restore_notice"
+      },
+      "undone": null,
+      "who": "notice"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6397221de2",
+      "input": {
+        "raw": "＼リリースイベント開催決定🎉／\n\n2027年1月27日(水)リリース\n夢限大みゅーたいぷ 2nd Album「It’s our choice」🛸\nリリースイベント開催🎉\n\n全国各地の会場にて、1月より順次開催📢\n\nイベントの詳細はこちら🛸\nhttps://bushiroad-music.com/topics/23518/\n\nぜひご参加ください✨\n\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2109242416658346395",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "duplicate_notice",
+      "parent_id": null,
+      "reason": "기존 소식 2109241849189941510",
+      "summary": "같은 소식으로 판정 — 2027年1月27日(水)リリース",
+      "ts": "2026-10-11T11:20:17Z",
+      "undo": {
+        "before": {
+          "anchor_a": "4259",
+          "anchor_b": "it’sourchoice",
+          "body_for_llm": "＼🎊特報🎊／ 2027年 (水) 2nd Album「It’s our choice」リリース決定🛸 「バンドリ！アワーノーツ」や #アニメゆめみた 収録楽曲を含む全10曲を収録🎶 Blu-ray付生産限定盤には、 「新宿着陸計画」DAY2 の映像を収録💿✨ 詳細はこちら🛸 #バンドリ",
+          "body_ko": "＼🎊특보🎊／\n\n2027년 1월 27일(수)\n2nd Album「It’s our choice」발매 결정🛸\n\n「뱅드림! 아워 노츠」와\n#アニメゆめみた 수록곡을 포함한 전곡 10곡 수록🎶\n\nBlu‑ray 부착 한정판에는,\n「신주쿠 착륙 계획」DAY2 영상 수록💿✨\n\n자세한 내용은 여기🛸\nhttps://bang-dream.com/discographies/4259/\n\n#뱅드림",
+          "body_raw": "＼🎊特報🎊／\n\n2027年1月27日(水)\n2nd Album「It’s our choice」リリース決定🛸\n\n「バンドリ！アワーノーツ」や \n#アニメゆめみた 収録楽曲を含む全10曲を収録🎶\n\nBlu-ray付生産限定盤には、\n「新宿着陸計画」DAY2 の映像を収録💿✨\n\n詳細はこちら🛸\nhttps://bang-dream.com/discographies/4259/\n\n#バンドリ",
+          "category": "release",
+          "date": "2027-01-27",
+          "deadline": false,
+          "expires_at": "2027-01-27T15:00:00Z",
+          "first_seen": "2026-10-11T11:17:01Z",
+          "id": "2109241849189941510",
+          "last_updated": "2026-10-11T11:17:01Z",
+          "participants": null,
+          "seen_ids": [
+            "2109241849189941510"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "2027年 2ndアルバム「It’s our choice」リリース決定",
+          "title_ko": "2027년 2nd 앨범 “It’s our choice” 발매 결정",
+          "title_raw": "2nd Album「It’s our choice」リリース決定",
+          "title_slug": "2ndalbumitsourchoiceリリース",
+          "tweet_url": "https://x.com/i/status/2109241849189941510",
+          "url": "https://bang-dream.com/discographies/4259/"
+        },
+        "id": "2109241849189941510",
+        "parsed_id": "2109242416658346395",
+        "type": "restore_notice"
+      },
+      "undone": null,
+      "who": "notice"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9f202d6cc1",
+      "input": {
+        "raw": "＼先着購入特典決定🎉／\n\n2027年1月27日(水)リリース\n#ゆめみた 2nd Album「It’s our choice」🛸\n\n9月25日に開催された、\n「新宿着陸計画」DAY2のライブ音源1曲を収録した\n「特典CD」1枚(全5種)をプレゼント🎁✨\n\n特典配布対象店舗の詳細はこちら🛸\nhttps://bushiroad-music.com/topics/23448/\n\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2109242232373215313",
+        "title": "夢限大みゅーたいぷ"
+      },
+      "kind": "duplicate_notice",
+      "parent_id": null,
+      "reason": "기존 소식 2109241849189941510",
+      "summary": "같은 소식으로 판정 — 「特典CD」1枚(全5種)をプレゼント",
+      "ts": "2026-10-11T11:20:18Z",
+      "undo": {
+        "before": {
+          "anchor_a": "4259",
+          "anchor_b": "it’sourchoice",
+          "body_for_llm": "＼🎊特報🎊／ 2027年 (水) 2nd Album「It’s our choice」リリース決定🛸 「バンドリ！アワーノーツ」や #アニメゆめみた 収録楽曲を含む全10曲を収録🎶 Blu-ray付生産限定盤には、 「新宿着陸計画」DAY2 の映像を収録💿✨ 詳細はこちら🛸 #バンドリ",
+          "body_ko": "＼🎊특보🎊／\n\n2027년 1월 27일(수)\n2nd Album「It’s our choice」발매 결정🛸\n\n「뱅드림! 아워 노츠」와\n#アニメゆめみた 수록곡을 포함한 전곡 10곡 수록🎶\n\nBlu‑ray 부착 한정판에는,\n「신주쿠 착륙 계획」DAY2 영상 수록💿✨\n\n자세한 내용은 여기🛸\nhttps://bang-dream.com/discographies/4259/\n\n#뱅드림",
+          "body_raw": "＼🎊特報🎊／\n\n2027年1月27日(水)\n2nd Album「It’s our choice」リリース決定🛸\n\n「バンドリ！アワーノーツ」や \n#アニメゆめみた 収録楽曲を含む全10曲を収録🎶\n\nBlu-ray付生産限定盤には、\n「新宿着陸計画」DAY2 の映像を収録💿✨\n\n詳細はこちら🛸\nhttps://bang-dream.com/discographies/4259/\n\n#バンドリ",
+          "category": "release",
+          "date": "2027-01-27",
+          "deadline": false,
+          "expires_at": "2027-01-27T15:00:00Z",
+          "first_seen": "2026-10-11T11:17:01Z",
+          "id": "2109241849189941510",
+          "last_updated": "2026-10-11T11:17:01Z",
+          "participants": null,
+          "seen_ids": [
+            "2109241849189941510"
+          ],
+          "site": "web",
+          "src_handle": "@BDP_yumemita",
+          "time": null,
+          "title": "2027年 2ndアルバム「It’s our choice」リリース決定",
+          "title_ko": "2027년 2nd 앨범 “It’s our choice” 발매 결정",
+          "title_raw": "2nd Album「It’s our choice」リリース決定",
+          "title_slug": "2ndalbumitsourchoiceリリース",
+          "tweet_url": "https://x.com/i/status/2109241849189941510",
+          "url": "https://bang-dream.com/discographies/4259/"
+        },
+        "id": "2109241849189941510",
+        "parsed_id": "2109242232373215313",
+        "type": "restore_notice"
+      },
+      "undone": null,
+      "who": "notice"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4ef7d05fec",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKvZttbUAA3k37.jpg"
+        ],
+        "raw": "BanG Dream! 13th☆LIVE\n「DIMENSIONAL OVERLAP」\n開催記念 特別ログインボーナス🛸\n\nライブの開催を記念し「スター×50」「ライブロゴステッカー」をプレゼント✨\n\n※10月18日(日)20:59までにログインし、プレゼントボックスよりお受け取りください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2109252680275095741"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "로그인 보너스 안내이며 행사·가챠와 무관한 일반 공지이므로 none 처리합니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-11T12:00:12Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_78e241f6c2",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HUKwFRPbAAAbjaa.jpg"
+        ],
+        "raw": "BanG Dream! 13th☆LIVE\n「DIMENSIONAL OVERLAP」\n開催記念 ミッションパス🛸\n\n開催期間中、限定ミッションをクリアすることで、ライブKVを使用した夢限大みゅーたいぷのEXスナップなどがGETできます✨\n\nまたプレミアムミッションパスを購入することで、EXスナップはMAX Lv.まで上限解放することが可能！\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2109253178352935181"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "글이 夢限大みゅーたいぷ와 무관한 일반 라이브 행사이며, 팬 사이트 배너에 적용할 대상이 아니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-11T12:02:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_541fa22385",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/11 23:30～\n#バンドリ13thライブ\n#ゆめみた_DIMENSIONALOVERLAP \n特大感謝振り返り配信！\n\nみんなと今日の思い出をHOTなうちに語りたい気分！\n話そうねー！",
+        "tag": "p#https://x.com/#1tweet-2109264564378583091"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — 〈配信のおしらせ〉\n10/11 23:30～\n#バンドリ13thライブ\n#ゆめみた_DIMENSIONALOVERLAP",
+      "ts": "2026-10-11T13:02:27Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_995c41322d",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/11 23:30～\n#バンドリ13thライブ\n#ゆめみた_DIMENSIONALOVERLAP \n特大感謝振り返り配信！\n\nみんなと今日の思い出をHOTなうちに語りたい気分！\n話そうねー！",
+        "tag": "p#https://x.com/#1tweet-2109264564378583091"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/11 23:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-11T13:02:27Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4cc7df1ae7",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\nあした10/12（月）21:30〜\n#ゆめみた_DIMENSIONALOVERLAP\n振り返り配信📺⚡️\n\n🔗 https://www.youtube.com/live/l28xzNelSDc?si=8fxPSh40LT6OFtvZ\n\n演奏から都三郎の話まで♪\n語るでごわす❣️\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2109290775234396248"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/12(월) 21:30에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-11T14:31:25Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
+    }
+  ]
+}
