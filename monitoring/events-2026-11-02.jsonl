@@ -22,3 +22,4 @@
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_ec06d11c", "result": "ok", "title": "【朝活】おはようりっちゃん☀第9回目!【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-01T22:40:00Z", "video_id": "wQmJpHFkRug", "who": "ritsu"}
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T22:50:00Z", "who": "qqNtyJXpefg"}
 {"detail": "url-schedule skip: 이미 끝난 방송 qqNtyJXpefg", "flow": "tweet", "result": "ok", "ts": "2026-11-01T22:52:05Z", "via": "ingest", "who": "miyako"}
+{"detail": "gap-fill · 2117025115930292711 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-01T22:52:05Z", "tweet_id": "2117025115930292711", "via": "ingest", "who": "miyako"}
