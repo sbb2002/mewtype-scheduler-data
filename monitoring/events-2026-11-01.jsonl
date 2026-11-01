@@ -56,3 +56,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_b988b23c", "result": "ok", "title": "# 9【魔法少女ノ魔女裁判】第五回魔女裁判！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "end", "ts": "2026-11-01T08:17:57Z", "video_id": "jZbWoJ7n54Q", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · jZbWoJ7n54Q · 예고 end", "flow": "websub", "merge_key": "websub-notify:jZbWoJ7n54Q", "result": "ok", "title": "# 9【魔法少女ノ魔女裁判】第五回魔女裁判！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "ts": "2026-11-01T08:17:57Z", "video_id": "jZbWoJ7n54Q", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:20:25Z", "tweet_id": "2116807280733929803", "via": "ingest", "who": "nonoka"}
+{"detail": "url-schedule skip: 이미 끝난 방송 jZbWoJ7n54Q", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:20:25Z", "via": "ingest", "who": "nonoka"}
