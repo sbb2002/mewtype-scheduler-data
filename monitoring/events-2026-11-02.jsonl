@@ -20,3 +20,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · qqNtyJXpefg · 예고 end", "flow": "websub", "merge_key": "websub-notify:qqNtyJXpefg", "result": "ok", "title": "【朝活】ぽふとんめくりあげ名人【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "ts": "2026-11-01T22:37:44Z", "video_id": "qqNtyJXpefg", "who": "miyako"}
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T22:40:00Z", "who": "qqNtyJXpefg"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_ec06d11c", "result": "ok", "title": "【朝活】おはようりっちゃん☀第9回目!【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-01T22:40:00Z", "video_id": "wQmJpHFkRug", "who": "ritsu"}
+{"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T22:50:00Z", "who": "qqNtyJXpefg"}
