@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:35:56Z",
+  "generated_at": "2026-11-01T12:53:05Z",
   "tweets": {
     "arale": [
       {
@@ -630,6 +630,22 @@
         "text": "リリイベありがとうございました！\n\n「普通に渋谷に買い物に来たらハロウィンで混んでて、あーー今日ハロウィンじゃん…ってなった人」のコスプレです\n\n来年はもうちょっと考えます…",
         "text_ko": "리리이베 감사합니다!\n\n보통 시부야에 쇼핑하러 갔는데 할로윈이라 붐비고, 아 오늘 할로윈이네… 라는 사람이 된 코스프레입니다\n\n내년엔 좀 더 고민해볼게요…",
         "url": "https://x.com/i/status/2116812295338873204"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-03T12:52:59Z",
+        "handle": "yuno_yumemita",
+        "id": "2116876155810951538",
+        "media": [
+          "https://pbs.twimg.com/media/HWCnf0SaAAATA9e.jpg"
+        ],
+        "posted_at": "2026-11-01T12:52:59Z",
+        "quote": null,
+        "received_at": "2026-11-01T12:53:05Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/1 22:00〜 雑談\n\n明日の配信予定が今日になったよ✌\nなにしようかしら？\nhttps://youtube.com/live/KWIRL2rcmio?feature=share",
+        "text_ko": "〈방송 안내〉\n11/1 22:00〜 잡담\n\n내일 방송 예정이 오늘로 바뀌었어✌\n뭐 할까?\nhttps://youtube.com/live/KWIRL2rcmio?feature=share",
+        "url": "https://x.com/i/status/2116876155810951538"
       }
     ]
   }
