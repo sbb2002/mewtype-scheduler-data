@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-01T02:06:58Z",
+  "generated_at": "2026-11-01T02:10:01Z",
   "items": [
     {
       "actual_start": null,
@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-11-01T02:06:58Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-08T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -105,7 +104,7 @@
       "thumbnail": "https://i.ytimg.com/vi/0ldvPXYnrtY/maxresdefault.jpg?v=6ae69e84",
       "time_tbd": false,
       "title": "【作曲配信】ぽまえの魂のめろでぃをかなでろ❣season4‐2🎵【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【작곡 방송】포마에의 영혼 멜로디를 연주해❣season4‑2🎵【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=0ldvPXYnrtY",
       "video_id": "0ldvPXYnrtY"
     },
