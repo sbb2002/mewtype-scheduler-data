@@ -59,3 +59,4 @@
 {"detail": "url-schedule skip: 이미 끝난 방송 jZbWoJ7n54Q", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:20:25Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T08:20:36Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:20:24Z", "tweet_id": "2116807540927557827", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T08:20:43Z", "who": "宮永ののか🐰🩹"}
