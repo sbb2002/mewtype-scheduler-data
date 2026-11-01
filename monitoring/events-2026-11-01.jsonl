@@ -64,3 +64,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T08:38:06Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:37:59Z", "tweet_id": "2116810940020834811", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 11월 4일 생일 및 다양한 해시태그와 일정 안내이며, 기존에 제시된 11/01 22:00와 01/01 23:30 방송을 취소하거나 변경한다는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:37:59Z", "via": "ingest", "who": "yuno"}
+{"detail": "gap-fill(자기 답글) · 2116811877552648592 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:38:06Z", "tweet_id": "2116811877552648592", "via": "ingest", "who": "yuno"}
