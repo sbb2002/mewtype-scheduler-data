@@ -22,3 +22,6 @@
 {"candidates": 2, "detail": "candidates=2 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 101, "result": "ok", "ts": "2026-11-01T02:02:00Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T02:06:44Z", "tweet_id": "2116712154913218875", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T02:06:51Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T02:06:58Z", "who": "0ldvPXYnrtY"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_dc4f01a8", "result": "ok", "title": "【作曲配信】ぽまえの魂のめろでぃをかなでろ❣season4‐2🎵【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-11-01T02:06:58Z", "video_id": "0ldvPXYnrtY", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · 0ldvPXYnrtY · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:0ldvPXYnrtY", "result": "ok", "title": "【作曲配信】ぽまえの魂のめろでぃをかなでろ❣season4‐2🎵【ゆめみた/藤都子】", "ts": "2026-11-01T02:06:58Z", "video_id": "0ldvPXYnrtY", "who": "miyako"}
