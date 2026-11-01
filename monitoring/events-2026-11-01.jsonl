@@ -69,3 +69,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:39:17Z", "tweet_id": "2116812295338873204", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T08:39:25Z", "who": "千石ユノ"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T08:45:00Z", "who": "jZbWoJ7n54Q"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T08:50:00Z", "who": "jZbWoJ7n54Q"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_b988b23c", "result": "ok", "title": "# 9【魔法少女ノ魔女裁判】第五回魔女裁判！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "out", "ts": "2026-11-01T08:50:00Z", "video_id": "jZbWoJ7n54Q", "who": "nonoka"}
