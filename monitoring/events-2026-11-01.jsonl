@@ -40,3 +40,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · VGqum7Pskxg · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:VGqum7Pskxg", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから4人の美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】", "ts": "2026-11-01T02:30:10Z", "video_id": "VGqum7Pskxg", "who": "miyako"}
 {"candidates": 49, "detail": "candidates=49 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-01T02:40:02Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T02:53:25Z", "tweet_id": "2116725150397948110", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T02:53:32Z", "who": "藤都子"}
