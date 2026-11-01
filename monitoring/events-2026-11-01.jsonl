@@ -83,3 +83,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T12:34:18Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T12:35:56Z", "tweet_id": "2116871855315501214", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 11/2(월) 7시 아침 방송을 알리는 내용이며, 기존 일정의 취소나 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-01T12:35:56Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T12:36:25Z", "who": "藤都子"}
