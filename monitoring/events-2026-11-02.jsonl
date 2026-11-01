@@ -15,3 +15,6 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-01T22:02:00Z", "who": ""}
 {"detail": "broadcast-change none · 게시물은 오늘(11/02) 07:00에 시작하는 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-01T22:09:05Z", "via": "ingest", "who": "miyako"}
 {"detail": "gap-fill · 2117014088840864035 · +8분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-01T22:09:05Z", "tweet_id": "2117014088840864035", "via": "ingest", "who": "miyako"}
+{"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T22:37:44Z", "who": "qqNtyJXpefg"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_7bf5e306", "result": "ok", "title": "【朝活】ぽふとんめくりあげ名人【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "end", "ts": "2026-11-01T22:37:44Z", "video_id": "qqNtyJXpefg", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · qqNtyJXpefg · 예고 end", "flow": "websub", "merge_key": "websub-notify:qqNtyJXpefg", "result": "ok", "title": "【朝活】ぽふとんめくりあげ名人【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "ts": "2026-11-01T22:37:44Z", "video_id": "qqNtyJXpefg", "who": "miyako"}
