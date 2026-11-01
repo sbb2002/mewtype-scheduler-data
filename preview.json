@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-01T02:30:10Z",
+  "generated_at": "2026-11-01T02:40:02Z",
   "items": [
     {
       "actual_start": "2026-11-01T02:15:18Z",
@@ -126,7 +126,6 @@
       "kind": null,
       "last_updated": "2026-11-01T02:30:10Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-07T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -134,7 +133,7 @@
       "thumbnail": "https://i.ytimg.com/vi/VGqum7Pskxg/maxresdefault.jpg?v=6ae69d65",
       "time_tbd": false,
       "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから4人の美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【零 ～濡鴉의巫女～】#10 방범 카메라로 4명의 미소녀를 지키는 일 하고 있어요(유령으로부터 지키기 위해)【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=VGqum7Pskxg",
       "video_id": "VGqum7Pskxg"
     },
