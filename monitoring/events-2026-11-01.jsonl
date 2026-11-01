@@ -91,3 +91,4 @@
 {"detail": "broadcast-change none · 게시물은 11/1 22:00에 잡담 스트리밍을 새로 알리는 내용이며, 기존 일정의 취소나 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-01T12:53:05Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T12:53:31Z", "who": "千石ユノ"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-01T13:00:02Z", "who": ""}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-01T13:02:33Z", "who": "【㋊】気づいたら㋊になってて草【 #千石ユノ / #バンドリ 】"}
