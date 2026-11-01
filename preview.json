@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-01T22:01:07Z",
+  "generated_at": "2026-11-01T22:02:00Z",
   "items": [
     {
       "actual_start": "2026-11-01T22:00:22Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-01T22:01:07Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-01T22:00:06Z",
       "source": "api",
       "state": "live",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/qqNtyJXpefg/maxresdefault.jpg?v=6ae7b668",
       "time_tbd": false,
       "title": "【朝活】ぽふとんめくりあげ名人【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
-      "title_ko": null,
+      "title_ko": "【아침 활동】포톤 메꾸리게 명인【무겐다이 뮤타입/후지 미야코】#shorts #세로형방송 #vtuber",
       "url": "https://www.youtube.com/watch?v=qqNtyJXpefg",
       "video_id": "qqNtyJXpefg"
     },
