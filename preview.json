@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-01T10:22:08Z",
+  "generated_at": "2026-11-01T10:30:01Z",
   "items": [
     {
       "actual_start": null,
@@ -125,7 +125,6 @@
       "kind": null,
       "last_updated": "2026-11-01T10:22:08Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-03T15:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -133,7 +132,7 @@
       "thumbnail": "https://i.ytimg.com/vi/jAAu3rz0TTI/maxresdefault.jpg?v=6ae71292",
       "time_tbd": false,
       "title": "【メン限】りっちゃんズ集会🌸11月",
-      "title_ko": null,
+      "title_ko": "【멤버십 한정】리츠짱즈 모임🌸11월",
       "url": "https://www.youtube.com/watch?v=jAAu3rz0TTI",
       "video_id": "jAAu3rz0TTI"
     },
