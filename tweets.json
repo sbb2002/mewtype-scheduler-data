@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:09:05Z",
+  "generated_at": "2026-11-01T23:48:04Z",
   "tweets": {
     "arale": [
       {
@@ -545,6 +545,22 @@
         "text": "はじめます☀️",
         "text_ko": "시작합니다☀️",
         "url": "https://x.com/i/status/2117029359097987330"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-03T23:40:43Z",
+        "handle": "ritsu_yumemita",
+        "id": "2117039162935362000",
+        "media": [
+          "https://pbs.twimg.com/media/HWE75ewaAAAR5Ps.jpg"
+        ],
+        "posted_at": "2026-11-01T23:40:43Z",
+        "quote": null,
+        "received_at": "2026-11-01T23:48:04Z",
+        "reply_to_id": null,
+        "text": "おはようございます！\n配信終了とともに、バーチャルりっちゃんが寝ちゃった……",
+        "text_ko": "좋은 아침입니다! 방송이 끝나자 가상 리츠짱이 자버렸어……",
+        "url": "https://x.com/i/status/2117039162935362000"
       }
     ],
     "yuno": [
