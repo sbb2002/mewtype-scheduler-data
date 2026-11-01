@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-01T10:17:33Z",
+  "generated_at": "2026-11-01T10:20:01Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-01T10:17:33Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-01T23:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/wQmJpHFkRug/maxresdefault.jpg?v=6ae71180",
       "time_tbd": false,
       "title": "【朝活】おはようりっちゃん☀第9回目!【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【아침 활동】안녕 리츠짱☀9번째!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=wQmJpHFkRug",
       "video_id": "wQmJpHFkRug"
     },
