@@ -61,3 +61,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:20:24Z", "tweet_id": "2116807540927557827", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T08:20:43Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T08:37:59Z", "tweet_id": "2116810518619197506", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T08:38:06Z", "who": "宮永ののか🐰🩹"}
