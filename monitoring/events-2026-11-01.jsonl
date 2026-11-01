@@ -21,3 +21,4 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-01T02:02:00Z", "who": "group"}
 {"candidates": 2, "detail": "candidates=2 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 101, "result": "ok", "ts": "2026-11-01T02:02:00Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T02:06:44Z", "tweet_id": "2116712154913218875", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T02:06:51Z", "who": "宮永ののか🐰🩹"}
