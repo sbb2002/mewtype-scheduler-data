@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-01T12:53:05Z",
+  "generated_at": "2026-11-01T13:00:02Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-01T12:53:05Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-01T13:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2116876155810951538",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/KWIRL2rcmio/maxresdefault.jpg?v=6ae7356d",
       "time_tbd": false,
       "title": "【㋊】気づいたら㋊になってて草【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【㋊】눈치채니 ⭕가 돼버렸네 ㅋㅋ【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=KWIRL2rcmio",
       "video_id": "KWIRL2rcmio"
     },
