@@ -9,3 +9,6 @@
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-01T21:20:02Z", "who": "yuno"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-01T21:20:05Z", "who": "ritsu"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-01T21:20:07Z", "who": "song-topic"}
+{"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T22:01:07Z", "who": "qqNtyJXpefg"}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_7bf5e306", "result": "ok", "title": "【朝活】ぽふとんめくりあげ名人【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "live", "ts": "2026-11-01T22:01:07Z", "video_id": "qqNtyJXpefg", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · qqNtyJXpefg · 예고 live", "flow": "websub", "merge_key": "websub-notify:qqNtyJXpefg", "result": "ok", "title": "【朝活】ぽふとんめくりあげ名人【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "ts": "2026-11-01T22:01:07Z", "video_id": "qqNtyJXpefg", "who": "miyako"}
