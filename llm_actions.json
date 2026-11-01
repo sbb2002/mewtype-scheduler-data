@@ -6076,6 +6076,58 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8ae4febfb5",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/2(月)7:00～朝配信☀\nさむさむに打ち勝ち起床しなさい🐏❣\nぽやしみ🌙\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2116871855315501214"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信よてい\"와 구체적인 날짜·시간(11/2(月)7:00～)을 함께 적어 앞으로 할 방송을 알리는 예고이기 때문입니다. (근거: 「配信よてい\n11/2(月)7:00～朝配信」)",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n11/2(月)7:00～朝配信☀\nさむさむに打ち勝ち起床しなさい",
+      "ts": "2026-11-01T12:35:56Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "miyako",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-02T01:00:00Z",
+            "first_seen": "2026-11-01T00:30:03Z",
+            "host": null,
+            "id": "pv_e2f21c2b",
+            "info_at": "2026-11-01T00:30:03Z",
+            "info_source": "x-relay",
+            "kind": "morning",
+            "last_updated": "2026-11-01T00:30:03Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-01T22:00:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2116689176615927818",
+            "state": "announced",
+            "state_since": "2026-11-01T00:30:03Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
