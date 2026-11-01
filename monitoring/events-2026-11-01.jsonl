@@ -89,3 +89,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · KWIRL2rcmio · 예고 watching", "flow": "websub", "merge_key": "websub-notify:KWIRL2rcmio", "result": "ok", "title": "【㋊】気づいたら㋊になってて草【 #千石ユノ / #バンドリ 】", "ts": "2026-11-01T12:50:50Z", "video_id": "KWIRL2rcmio", "who": "yuno"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-01T12:53:05Z", "tweet_id": "2116876155810951538", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 11/1 22:00에 잡담 스트리밍을 새로 알리는 내용이며, 기존 일정의 취소나 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-01T12:53:05Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T12:53:31Z", "who": "千石ユノ"}
