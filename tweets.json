@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T12:53:05Z",
+  "generated_at": "2026-11-01T13:15:11Z",
   "tweets": {
     "arale": [
       {
@@ -523,6 +523,22 @@
         "text": "はじめます🐾",
         "text_ko": "시작합니다🐾",
         "url": "https://x.com/i/status/2116531508974674186"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-03T13:15:08Z",
+        "handle": "ritsu_yumemita",
+        "id": "2116881728233259336",
+        "media": [
+          "https://pbs.twimg.com/media/HWCstkpa4AAyNR0.jpg"
+        ],
+        "posted_at": "2026-11-01T13:15:08Z",
+        "quote": null,
+        "received_at": "2026-11-01T13:15:11Z",
+        "reply_to_id": null,
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n11/2 朝8:00〜\nおはようりっちゃん☀️\n11月は〜朝活からスタート！\n\n↻ ＵＲＬ\n https://www.youtube.com/live/wQmJpHFkRug?si=SdFAq-GTq15C-lWF\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n11/2 아침 8:00부터\n안녕 리츠짱☀️\n11월은 아침 활동부터 시작!\n\n↻ ＵＲＬ\n https://www.youtube.com/live/wQmJpHFkRug?si=SdFAq-GTq15C-lWF\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2116881728233259336"
       }
     ],
     "yuno": [
