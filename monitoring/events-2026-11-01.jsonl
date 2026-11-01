@@ -92,3 +92,5 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-01T12:53:31Z", "who": "千石ユノ"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-01T13:00:02Z", "who": ""}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-01T13:02:33Z", "who": "【㋊】気づいたら㋊になってて草【 #千石ユノ / #バンドリ 】"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-01T13:02:33Z", "who": "KWIRL2rcmio"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_7ac8768d", "result": "ok", "title": "【㋊】気づいたら㋊になってて草【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-11-01T13:02:33Z", "video_id": "KWIRL2rcmio", "who": "yuno"}
