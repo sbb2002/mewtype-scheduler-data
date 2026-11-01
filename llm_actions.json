@@ -5861,6 +5861,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_cea64a07b4",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "💜配信よてい💜\n11/2(月)7:00～朝配信☀\nさむさむに打ち勝ち起床しなさい🐏❣\nぽやしみ🌙\n＃みるみやこ",
+        "raw": "ぽはぽは・ぽ＝は～よ♪\n配信はじまる❣\nhttps://www.youtube.com/watch?v=qqNtyJXpefg",
+        "tag": "p#https://x.com/#1tweet-2117014088840864035"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘(11/02) 07:00에 시작하는 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-01T22:09:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
