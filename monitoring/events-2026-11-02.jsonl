@@ -80,3 +80,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +22분 · 2117241220175110552", "flow": "tweet", "result": "ok", "ts": "2026-11-02T13:26:30Z", "tweet_id": "2117241220175110552", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-02T13:26:34Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-02T15:12:37Z", "tweet_id": "2117273668791546242", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-02T15:13:02Z", "who": "宮永ののか🐰🩹"}
