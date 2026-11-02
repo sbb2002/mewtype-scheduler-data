@@ -479,22 +479,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-11-02T03:25:10Z",
-        "handle": "ritsu_yumemita",
-        "id": "2116370871921279299",
-        "media": [
-          "https://pbs.twimg.com/media/HV7cF1nboAAAw3v.jpg"
-        ],
-        "posted_at": "2026-10-31T03:25:10Z",
-        "quote": null,
-        "received_at": "2026-10-31T03:32:50Z",
-        "reply_to_id": null,
-        "text": "とりっくおあとりーと〜……お菓子……にく……ラーメン……",
-        "text_ko": "트릭오어트릿~……과자……고기……라멘……",
-        "url": "https://x.com/i/status/2116370871921279299"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-11-02T06:42:26Z",
         "handle": "ritsu_yumemita",
         "id": "2116420513442799819",
@@ -620,20 +604,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-11-02T04:16:44Z",
-        "handle": "yuno_yumemita",
-        "id": "2116383847822831800",
-        "media": [],
-        "posted_at": "2026-10-31T04:16:44Z",
-        "quote": null,
-        "received_at": "2026-10-31T04:16:47Z",
-        "reply_to_id": null,
-        "text": "トリート & トリート\n\n菓子出せや",
-        "text_ko": "트릿 & 트릿\n과자 내놔",
-        "url": "https://x.com/i/status/2116383847822831800"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-11-02T05:48:50Z",
