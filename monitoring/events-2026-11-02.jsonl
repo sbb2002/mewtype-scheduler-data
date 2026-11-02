@@ -78,3 +78,4 @@
 {"detail": "broadcast-change none · 게시물은 오늘(11/02) 스트리밍을 못한다는 내용이며, 예고된 12/24 방송과는 관련이 없으므로 취소·변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-02T13:11:05Z", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2117241220175110552 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-02T13:11:05Z", "tweet_id": "2117241220175110552", "via": "ingest", "who": "arale"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +22분 · 2117241220175110552", "flow": "tweet", "result": "ok", "ts": "2026-11-02T13:26:30Z", "tweet_id": "2117241220175110552", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-02T13:26:34Z", "who": "仲町あられ"}
