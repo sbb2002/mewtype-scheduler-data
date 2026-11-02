@@ -40,3 +40,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_ec06d11c", "result": "ok", "title": "【朝活】おはようりっちゃん☀第9回目!【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-02T00:10:00Z", "video_id": "wQmJpHFkRug", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-02T02:23:59Z", "tweet_id": "2117080241374113902", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-02T02:24:07Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-02T02:34:27Z", "tweet_id": "2117082871324405964", "via": "ingest", "who": "nonoka"}
