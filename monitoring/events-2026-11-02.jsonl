@@ -63,3 +63,4 @@
 {"detail": "banner mode: notice · 소식 skip", "flow": "notice", "result": "ok", "ts": "2026-11-02T06:43:03Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-02T06:43:22Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "notice", "notice_id": "2117144471616053248", "result": "ok", "ts": "2026-11-02T06:43:09Z", "via": "ingest", "who": ""}
+{"detail": "banner mode: notice · 소식 added", "flow": "notice", "result": "ok", "ts": "2026-11-02T06:43:09Z", "via": "ingest", "who": "bang_dream_on"}
