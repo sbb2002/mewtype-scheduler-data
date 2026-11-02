@@ -5942,6 +5942,29 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_d089165e86",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HWGb3JgaAAA-TB-.jpg",
+          "https://pbs.twimg.com/media/HWGb3Joa4AA63_H.jpg"
+        ],
+        "raw": "📢広告掲出中！\n\n下記店舗にて #アワーノーツ の広告を掲出中です✨\n\n・AKIHABARAゲーマーズ本店\n・アニメイト池袋本店\n\n📅掲出期間\n11月1日(日)~11月30日(月)\n\n▼好評配信中\nhttps://bang-dream-on.bushimo.jp\n\nお近くにお越しの際はぜひご覧ください💫\n\n※店舗へのお問合せはご遠慮ください。\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2117144714050986341"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 밖 — 게임 외부 매장에 광고를 게시하는 내용이므로 게임 앱 밖의 일이다. (근거: 「📢広告掲出中！」 「下記店舗にて #アワーノーツ の広告を掲出中です✨」 「・AKIHABARAゲーマーズ本店」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 skip)",
+      "ts": "2026-11-02T06:43:03Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
