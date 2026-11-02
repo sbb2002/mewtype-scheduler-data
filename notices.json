@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:43:03Z",
+  "generated_at": "2026-11-02T06:43:09Z",
   "notices": [
     {
       "anchor_a": "ournotes",
@@ -330,6 +330,36 @@
       "title_raw": "JR東海×『BanG Dream! Our Notes』",
       "title_slug": "jr東海bangdreamournotes",
       "tweet_url": "https://x.com/i/status/2112419038190281019",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": null,
+      "body_for_llm": "📢広告掲出中！ 下記店舗にて#アワーノーツ の広告を掲出中です✨ ・AKIHABARAゲーマーズ本店 ・アニメイト池袋本店 📅掲出期間 (月)まで ▼好評配信中 bang-dream-on.bushimo.jp お近くにお越しの際はぜひご覧ください💫 ※店舗へのお問合せはご遠慮ください。 #バンド",
+      "body_ko": "📢광고 게시 중!\n\n아래 매장에 #아워노츠 광고가 게시 중입니다✨\n\n・아키하바라 게이머즈 본점\n・아니메이트 이케부쿠로 본점\n\n📅게시 기간\n11월 30일(월)까지\n\n▼인기 방송 중\nbang-dream-on.bushimo.jp\n\n근처에 오실 때 꼭 확인해주세요💫\n\n※매장 문의는 삼가해 주세요.\n#밴드",
+      "body_raw": "📢広告掲出中！\n\n下記店舗にて#アワーノーツ の広告を掲出中です✨\n\n・AKIHABARAゲーマーズ本店\n・アニメイト池袋本店\n\n📅掲出期間\n11月30日(月)まで\n\n▼好評配信中\nbang-dream-on.bushimo.jp\n\nお近くにお越しの際はぜひご覧ください💫\n\n※店舗へのお問合せはご遠慮ください。\n#バンド",
+      "categories": [
+        "game"
+      ],
+      "category": "etc",
+      "date": "2026-11-30",
+      "deadline": true,
+      "expires_at": "2026-11-30T15:00:00Z",
+      "first_seen": "2026-11-02T06:43:09Z",
+      "id": "2117144471616053248",
+      "last_updated": "2026-11-02T06:43:09Z",
+      "participants": null,
+      "seen_ids": [
+        "2117144471616053248"
+      ],
+      "site": "x",
+      "src_handle": "@bang_dream_on",
+      "time": null,
+      "title": "アワーノーツ広告掲出中！",
+      "title_ko": "아워노츠 광고 게시 중!",
+      "title_raw": "bang-dream-on.bushimo.jp",
+      "title_slug": "bangdreamonbushimojp",
+      "tweet_url": "https://x.com/i/status/2117144471616053248",
       "url": null
     },
     {
