@@ -61,3 +61,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @6HPMPLP6 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-02T06:36:22Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: skip", "flow": "notice", "notice_id": "2117144714050986341", "result": "ok", "ts": "2026-11-02T06:43:03Z", "via": "ingest", "who": ""}
 {"detail": "banner mode: notice · 소식 skip", "flow": "notice", "result": "ok", "ts": "2026-11-02T06:43:03Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-02T06:43:22Z", "who": "バンドリ！アワーノーツ"}
