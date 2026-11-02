@@ -5984,6 +5984,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f3014efca2",
+      "input": {
+        "channel_key": "arale",
+        "raw": "こんばんは🌃\n本日配信する予定だったのですが、胃の調子がちょっと良くなくて…\nおやすみいたします…！\n楽しみにしてくれてたみんな、ｽﾏﾝｯｯ💦\n\n素敵な夜過ごしてね！\nもし良かったら聴いてねえ⤵︎ ︎\n\nglow / keeno covered by 仲町あられ\nhttps://youtu.be/WS4flpVYkLg",
+        "tag": "p#https://x.com/#1tweet-2117241220175110552"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘(11/02) 스트리밍을 못한다는 내용이며, 예고된 12/24 방송과는 관련이 없으므로 취소·변경이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-02T13:11:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
