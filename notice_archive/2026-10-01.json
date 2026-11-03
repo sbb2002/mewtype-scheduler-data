@@ -1,0 +1,60 @@
+{
+  "notices": [
+    {
+      "anchor_a": null,
+      "anchor_b": "dimensionaloverlap",
+      "archived_at": "2026-10-02T03:00:20Z",
+      "body_for_llm": "RT @TAGLIVELABEL: ／ BanG Dream! 13th☆LIVE DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 コラボラベル缶発売記念🛸 ＼ フォロー＆リポストキャンペーンを開催！ 夢限大みゅーたいぷコラボラベル缶コンプリートセ…",
+      "body_ko": "RT @TAGLIVELABEL: ／\nBanG Dream! 13th☆LIVE\nDAY2:무겐다이 뮤타입「DIMENSIONAL OVERLAP」\n콜라보 라벨 캔 출시 기념🛸\n＼\n\n팔로우 & 리포스트 캠페인 진행!\n무겐다이 뮤타입콜라보 라벨 캔 컴플리트세…",
+      "body_raw": "RT @TAGLIVELABEL: ／\nBanG   Dream! 13th☆LIVE\nDAY2:夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」\nコラボラベル缶発売記念🛸\n＼\n\nフォロー＆リポストキャンペーンを開催！\n夢限大みゅーたいぷコラボラベル缶コンプリートセ…",
+      "category": "release",
+      "date": "2026-10-01",
+      "deadline": false,
+      "expires_at": "2026-10-01T15:00:00Z",
+      "first_seen": "2026-10-01T09:55:06Z",
+      "id": "2105597351952048496",
+      "last_updated": "2026-10-01T09:55:06Z",
+      "participants": null,
+      "seen_ids": [
+        "2105597351952048496"
+      ],
+      "site": "x",
+      "src_handle": "RT @TAGLIVELABEL",
+      "time": "02:00",
+      "title": "BanG Dream! 13th☆LIVE DAY 夢限大みゅーたいぷ「DIMENSIONAL OVERLAP」 コラボラベル缶発売記念キャンペーン開催！",
+      "title_ko": "BanG Dream! 13th☆LIVE DAY 무겐다이 뮤타입「DIMENSIONAL OVERLAP」 콜라보 라벨 캔 출시 기념 캠페인 진행！",
+      "title_raw": "コラボラベル缶発売記念",
+      "title_slug": "コラボラベル缶発売記念",
+      "tweet_url": "https://x.com/i/status/2105597351952048496",
+      "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": null,
+      "archived_at": "2026-10-02T03:00:20Z",
+      "body_for_llm": "／ #アニメゆめみた🛸 TOKYO MXほかにて週2回の再放送が決定🎉🎉 ＼ 📅 (木) より毎週木曜 TOKYO MXほかにて再放送がスタート🛸 さらに 📅 (月) より毎週月曜にも TOKYO MXにて再放送がスタート🛸🛸 なんと毎週木曜日＆月曜日、再放送が週2回！ #ゆめみた の世界にどっぷり浸かろう💫",
+      "body_ko": "/\n#アニメゆめみた🛸\nTOKYO MX 등에서 주 2회 재방송이 결정되었습니다🎉🎉\n\\\n\n📅10/1(목) 23:00부터 매주 목요일\nTOKYO MX 등에서 재방송이 시작됩니다🛸\n\n또한\n📅10/5(월) 19:00부터 매주 월요일에도\nTOKYO MX에서 재방송이 시작됩니다🛸🛸\n\n무려 매주 목요일과 월요일, 재방송이 주 2회!\n#ゆめみた의 세계에 푹 빠져보세요💫",
+      "body_raw": "／\n#アニメゆめみた🛸\nTOKYO MXほかにて週2回の再放送が決定🎉🎉\n＼\n\n📅10/1(木)23:00より毎週木曜\nTOKYO MXほかにて再放送がスタート🛸\n\nさらに\n📅10/5(月)19:00より毎週月曜にも\nTOKYO MXにて再放送がスタート🛸🛸\n\nなんと毎週木曜日＆月曜日、再放送が週2回！\n#ゆめみた の世界にどっぷり浸かろう💫",
+      "category": "etc",
+      "date": "2026-10-01",
+      "deadline": false,
+      "expires_at": "2026-10-01T15:00:00Z",
+      "first_seen": "2026-10-01T01:49:04Z",
+      "id": "2105474490021085201",
+      "last_updated": "2026-10-01T01:49:04Z",
+      "participants": null,
+      "seen_ids": [
+        "2105474490021085201"
+      ],
+      "site": "x",
+      "src_handle": "RT @bang_dream_info",
+      "time": "23:00",
+      "title": "アニメ『ゆめみた』がTOKYO MXで週2回再放送決定！",
+      "title_ko": "애니메이션 'ゆめみた'가 TOKYO MX에서 주 2회 재방송 결정!",
+      "title_raw": "アニメゆめみた🛸 TOKYO MXほかにて週2回の再放送が決定",
+      "title_slug": "アニメゆめみたtokyomxほかにて週2回の再放",
+      "tweet_url": "https://x.com/i/status/2105474490021085201",
+      "url": null
+    }
+  ]
+}
