@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:40:39Z",
+  "generated_at": "2026-11-03T08:41:40Z",
   "tweets": {
     "arale": [
       {
@@ -213,6 +213,24 @@
         "text": "ののしろい",
         "text_ko": "노노시로이",
         "url": "https://x.com/i/status/2117537419172130881"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-05T08:41:37Z",
+        "handle": "nonoka_yumemita",
+        "id": "2117537672801784044",
+        "media": [],
+        "posted_at": "2026-11-03T08:41:37Z",
+        "quote": {
+          "media": [],
+          "text": "あのひ食べたシリカゲルは、いまでもののちゃんのなかにのこっていますか",
+          "text_ko": "그날 먹은 실리카겔, 지금도 노노카 안에 남아 있어?"
+        },
+        "received_at": "2026-11-03T08:41:40Z",
+        "reply_to_id": null,
+        "text": "ののちゃんてずっとシリカゲルのこと想ってるんだ",
+        "text_ko": "노노카짱은 계속 실리카겔 생각하고 있어.",
+        "url": "https://x.com/i/status/2117537672801784044"
       }
     ],
     "ritsu": [
