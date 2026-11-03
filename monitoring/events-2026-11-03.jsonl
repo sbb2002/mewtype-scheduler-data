@@ -61,3 +61,4 @@
 {"detail": "retweet skip: 폰 원문이 @canvas2929 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-03T15:02:17Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-03T15:02:19Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-03T15:02:46Z", "tweet_id": "2117633580872659038", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-03T15:02:56Z", "who": "千石ユノ"}
