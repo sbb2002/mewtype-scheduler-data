@@ -50,3 +50,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-03T12:58:39Z", "who": "峰月律"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-03T12:58:52Z", "who": "宮永ののか🐰🩹"}
 {"detail": "gap-fill · 2117604952852078691 · +7분 · mode: dup", "flow": "tweet", "result": "warn", "ts": "2026-11-03T13:16:07Z", "tweet_id": "2117604952852078691", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-03T13:16:23Z", "who": "峰月律"}
