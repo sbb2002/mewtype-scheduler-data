@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-03T08:01:27Z",
+  "generated_at": "2026-11-03T09:00:05Z",
   "items": [
     {
       "actual_start": null,
@@ -94,9 +94,9 @@
       "id": "pv_a54cc058",
       "info_at": null,
       "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-11-03T08:01:27Z",
-      "membership": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-03T09:00:05Z",
+      "membership": true,
       "scheduled_start": "2026-11-03T15:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2117526096669454444",
