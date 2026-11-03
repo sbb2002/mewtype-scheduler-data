@@ -29,3 +29,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-03T08:01:59Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-03T08:40:39Z", "tweet_id": "2117537419172130881", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-03T08:40:52Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-03T08:41:40Z", "tweet_id": "2117537672801784044", "via": "ingest", "who": "nonoka"}
