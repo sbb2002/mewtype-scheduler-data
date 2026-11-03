@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:01:27Z",
+  "generated_at": "2026-11-03T08:40:39Z",
   "tweets": {
     "arale": [
       {
@@ -239,6 +239,26 @@
         "text": "たまご醤油なんだよな",
         "text_ko": "계란 간장이야.",
         "url": "https://x.com/i/status/2117512213787549962"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-05T08:40:37Z",
+        "handle": "nonoka_yumemita",
+        "id": "2117537419172130881",
+        "media": [],
+        "posted_at": "2026-11-03T08:40:37Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/Gs-1VGTaMAAeCLd.jpg"
+          ],
+          "text": "かみさまはかなしいことをしました\n\nののちゃんにおなかをすかせる能力をつけた\n\nそれはすべて、まちがいでした",
+          "text_ko": "신은 슬픈 일을 했어요\n노노카에게 배고프게 만드는 능력을 부여했어요\n그것은 모두, 실수였어요"
+        },
+        "received_at": "2026-11-03T08:40:39Z",
+        "reply_to_id": null,
+        "text": "ののしろい",
+        "text_ko": "노노시로이",
+        "url": "https://x.com/i/status/2117537419172130881"
       }
     ],
     "ritsu": [
