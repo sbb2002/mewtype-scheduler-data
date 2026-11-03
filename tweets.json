@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:41:40Z",
+  "generated_at": "2026-11-03T08:42:08Z",
   "tweets": {
     "arale": [
       {
@@ -231,6 +231,24 @@
         "text": "ののちゃんてずっとシリカゲルのこと想ってるんだ",
         "text_ko": "노노카짱은 계속 실리카겔 생각하고 있어.",
         "url": "https://x.com/i/status/2117537672801784044"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-05T08:42:06Z",
+        "handle": "nonoka_yumemita",
+        "id": "2117537792276439061",
+        "media": [],
+        "posted_at": "2026-11-03T08:42:06Z",
+        "quote": {
+          "media": [],
+          "text": "えいってやったら、むしがおしばなになったの😡",
+          "text_ko": "에이, 벌레가 오시바나가 됐어😡"
+        },
+        "received_at": "2026-11-03T08:42:08Z",
+        "reply_to_id": null,
+        "text": "やばい",
+        "text_ko": "대박",
+        "url": "https://x.com/i/status/2117537792276439061"
       }
     ],
     "ritsu": [
