@@ -22,22 +22,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-11-03T12:35:54Z",
-        "handle": "miyako_yumemita",
-        "id": "2116871855315501214",
-        "media": [
-          "https://pbs.twimg.com/media/HWCjd0laEAEz_tE.jpg"
-        ],
-        "posted_at": "2026-11-01T12:35:54Z",
-        "quote": null,
-        "received_at": "2026-11-01T12:35:56Z",
-        "reply_to_id": null,
-        "text": "💜配信よてい💜\n11/2(月)7:00〜朝配信☀\nさむさむに打ち勝ち起床しなさい🐏❣\nぽやしみ🌙\n＃みるみやこ",
-        "text_ko": "💜방송 예정💜\n11/2(월)7:00~아침 방송☀\n추위를 이겨내고 일어나세요🐏❣\n포야시미🌙\n#미루미야코",
-        "url": "https://x.com/i/status/2116871855315501214"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-11-03T22:01:05Z",
         "handle": "miyako_yumemita",
         "id": "2117014088840864035",
@@ -367,24 +351,6 @@
         "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\nきょう よる0:00\n\nメン限🧸りっちゃんズ集会\n↻ ＵＲＬ\nhttps://www.youtube.com/live/jAAu3rz0TTI?si=QGlKoQBoI6EY-O5o\n\n🩵 ･･････････････････････ 🩵",
         "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 0:00\n\n멤버십 한정🧸리츠짱즈 모임\n↻ ＵＲＬ\nhttps://www.youtube.com/live/jAAu3rz0TTI?si=QGlKoQBoI6EY-O5o\n\n🩵 ･･････････････････････ 🩵",
         "url": "https://x.com/i/status/2117526096669454444"
-      }
-    ],
-    "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-11-03T12:52:59Z",
-        "handle": "yuno_yumemita",
-        "id": "2116876155810951538",
-        "media": [
-          "https://pbs.twimg.com/media/HWCnf0SaAAATA9e.jpg"
-        ],
-        "posted_at": "2026-11-01T12:52:59Z",
-        "quote": null,
-        "received_at": "2026-11-01T12:53:05Z",
-        "reply_to_id": null,
-        "text": "〈配信のおしらせ〉\n11/1 22:00〜 雑談\n\n明日の配信予定が今日になったよ✌\nなにしようかしら？\nhttps://youtube.com/live/KWIRL2rcmio?feature=share",
-        "text_ko": "〈방송 안내〉\n11/1 22:00〜 잡담\n\n내일 방송 예정이 오늘로 바뀌었어✌\n뭐 할까?\nhttps://youtube.com/live/KWIRL2rcmio?feature=share",
-        "url": "https://x.com/i/status/2116876155810951538"
       }
     ]
   }
