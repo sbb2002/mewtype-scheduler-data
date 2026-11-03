@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:00:35Z",
+  "generated_at": "2026-11-03T08:01:27Z",
   "tweets": {
     "arale": [
       {
@@ -327,6 +327,22 @@
         "text": "めがね おだんご ちゃいなふく 律だよ\nちいさなおだんごだよ、ちいさくてたべれそうだよ\nいただきます",
         "text_ko": "안경 오뎅고 차이나복 리츠야  \n작은 오뎅고야, 작고 먹을 수 있을 것 같아  \n잘 먹겠습니다",
         "url": "https://x.com/i/status/2117507542989635992"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-05T07:55:37Z",
+        "handle": "ritsu_yumemita",
+        "id": "2117526096669454444",
+        "media": [
+          "https://pbs.twimg.com/media/HWL2wpwbQAAdFf3.jpg"
+        ],
+        "posted_at": "2026-11-03T07:55:37Z",
+        "quote": null,
+        "received_at": "2026-11-03T08:01:27Z",
+        "reply_to_id": null,
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\nきょう よる0:00\n\nメン限🧸りっちゃんズ集会\n↻ ＵＲＬ\nhttps://www.youtube.com/live/jAAu3rz0TTI?si=QGlKoQBoI6EY-O5o\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 0:00\n\n멤버십 한정🧸리츠짱즈 모임\n↻ ＵＲＬ\nhttps://www.youtube.com/live/jAAu3rz0TTI?si=QGlKoQBoI6EY-O5o\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2117526096669454444"
       }
     ],
     "yuno": [
