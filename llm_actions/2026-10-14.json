@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_52e8da5f37",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n本日10/14（水）21:30〜\nぽぽぽ🐾めんし限定配信\n\nみやこの部屋#13 【ゆめみた/藤都子】 https://www.youtube.com/live/65Lq4jg4JmM?si=_QvJ_fvDFXTyRXSt \n\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2110192835786051937"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-14T02:16:11Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_212c8f10f1",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜23:00~\n夜の歌枠、はじめましょ〜☆。.:＊・゜\n\n↻ ＵＲＬ\n https://www.youtube.com/live/_SrusVgYNog?si=4rjR4Qp8nvlhd-nC\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2110259141663129882"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 밤 23시에 방송한다는 예고이며 취소·변경 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-14T06:46:44Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5bb8f14410",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/15(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 URLは直前！",
+        "tag": "p#https://x.com/#1tweet-2110370226194047052"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "",
+      "summary": "본인 방송 예고 아님 — ❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/15(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお",
+      "ts": "2026-10-14T14:00:51Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_00f0f3595f",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 10/15(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 URLは直前！",
+        "tag": "p#https://x.com/#1tweet-2110370226194047052"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/15 06:30에 진행될 방송을 예고하고 있을 뿐, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-14T14:00:51Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
+    }
+  ]
+}
