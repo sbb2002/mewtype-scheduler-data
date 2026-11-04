@@ -65,3 +65,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_1e5de54f", "result": "ok", "title": "【お誕生日】11/4はユノちゃんのおたんじょうび！！！！ 【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-11-04T13:30:00Z", "video_id": "fmjJNbzcr3g", "who": "yuno"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · fmjJNbzcr3g · 예고 end", "flow": "websub", "merge_key": "websub-notify:fmjJNbzcr3g", "result": "ok", "title": "【お誕生日】11/4はユノちゃんのおたんじょうび！！！！ 【 #千石ユノ / #バンドリ 】", "ts": "2026-11-04T13:30:53Z", "video_id": "fmjJNbzcr3g", "who": "yuno"}
 {"detail": "live_info: 공연일 못 정함 — 「공연일 미정」 으로 올라감 · YUNO’s PARTY Lv.3", "flow": "notice", "result": "warn", "ts": "2026-11-04T13:31:11Z", "via": "ingest", "who": ""}
+{"detail": "mode: added", "flow": "notice", "notice_id": "2117972636135313902", "result": "ok", "ts": "2026-11-04T13:31:11Z", "via": "ingest", "who": ""}
