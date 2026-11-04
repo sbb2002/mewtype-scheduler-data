@@ -5990,6 +5990,26 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_cbb0c39194",
+      "input": {
+        "channel_key": "yuno",
+        "quote": "＼チケットプレイガイド先行 受付開始📢／\n\n💖千石ユノ主催DJイベント\n「YUNO’s PARTY Lv.3」💖\n\n⏰受付期間\n～11/16(月) 23:59\n\n▼お申し込みはこちら\nhttps://eplus.jp/yumemita_yunos_party_lv3/\n\nグッズ付きチケット特典もお見逃しなく✨\nhttps://bang-dream.com/events/yumemita_yunos_party_lv3/\n\n#ゆのぱ3 #バンドリ",
+        "raw": "お誕生日配信、ありがとうございました！！！\nみんなと一緒に過ごすお誕生日、とっても楽しかったです！\n\nそして #ゆのぱ3 のチケット申し込みが開始しました！\nぜひ遊びに来てくださいね✌\n\nよろしくお願いします！！！",
+        "tag": "p#https://x.com/#1tweet-2117973490834067843"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 생일 방송과 티켓 신청 안내이며, 01/01 23:30에 예정된 'YUNO의 자유 채팅' 방송 취소나 일정 변경에 대한 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-04T13:34:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
