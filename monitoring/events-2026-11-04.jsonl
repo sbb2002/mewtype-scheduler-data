@@ -43,3 +43,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-04T10:34:43Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "banner skip: 리트윗 폰 원문이 @animatetimes 의 글", "flow": "notice", "result": "ok", "ts": "2026-11-04T10:35:27Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "무시(반영 대상 아님) · 게임 계정 리트윗 — 폰 원문이 @animatetimes 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-04T10:35:29Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "broadcast-change none · 게시물은 11/4 21:00에 예정된 생일 스트리밍을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-04T10:56:17Z", "via": "ingest", "who": "yuno"}
