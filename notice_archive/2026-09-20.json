@@ -55,6 +55,34 @@
       "title_slug": "海外版グローバルリリース事前特番を月祝よりyou",
       "tweet_url": "https://x.com/i/status/2101682977407467767",
       "url": "https://youtu.be/GP8Wuv1PAS0"
+    },
+    {
+      "anchor_a": "shop_list",
+      "anchor_b": null,
+      "archived_at": "2026-10-05T09:30:07Z",
+      "body_for_llm": "📢CM放映中！ #アワーノーツ のCMが30店舗の飲食店で現在放映中📺 📅放映期間 (日)まで ▼実施店舗はこちら お越しの際はぜひご覧ください✨ ※最新の営業状況(休業等含む)はご確認いただき、店舗へのお問合せはご遠慮ください。 #バンドリ",
+      "body_ko": "📢CM 방영 중!\n\n#アワーノーツ 의 CM이 30곳의 음식점에서 현재 방영 중📺\n\n📅 방영 기간\n10월 4일(일)까지\n\n▼ 진행 매장은 여기서 확인\nhttps://misemedia.jp/shop_list\n\n오실 때 꼭 시청해 주세요✨\n\n※ 최신 영업 상황(휴업 등 포함)을 확인하시고, 매장에 직접 문의하는 것은 삼가해 주세요.\n#뱅드림",
+      "body_raw": "📢CM放映中！\n\n#アワーノーツ のCMが30店舗の飲食店で現在放映中📺\n\n📅放映期間\n10月4日(日)まで\n\n▼実施店舗はこちら\nhttps://misemedia.jp/shop_list\n\nお越しの際はぜひご覧ください✨\n\n※最新の営業状況(休業等含む)はご確認いただき、店舗へのお問合せはご遠慮ください。\n#バンドリ",
+      "category": "etc",
+      "date": "2026-10-04",
+      "deadline": true,
+      "expires_at": "2026-10-04T15:00:00Z",
+      "first_seen": "2026-09-20T04:30:03Z",
+      "id": "2101529285609583024",
+      "last_updated": "2026-09-20T04:30:03Z",
+      "participants": null,
+      "seen_ids": [
+        "2101529285609583024"
+      ],
+      "site": "store",
+      "src_handle": "@bang_dream_on",
+      "time": null,
+      "title": "CM放映中！ #アワーノーツ のCMが30店舗の飲食店で現在放映中",
+      "title_ko": "CM 방영 중! #아워노트의 CM이 30개 식당에서 현재 방영 중",
+      "title_raw": "CM放映中",
+      "title_slug": "cm放映中",
+      "tweet_url": "https://x.com/i/status/2101529285609583024",
+      "url": "https://misemedia.jp/shop_list"
     }
   ]
 }
