@@ -33,3 +33,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-04T08:00:47Z", "tweet_id": "2117889755480539217", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-04T08:00:58Z", "who": "峰月律"}
 {"detail": "gap-fill(자기 답글) · 2117890738713444474 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-04T08:05:05Z", "tweet_id": "2117890738713444474", "via": "ingest", "who": "ritsu"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_0c8c0917", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-04T09:00:09Z", "video_id": null, "who": "arale"}
