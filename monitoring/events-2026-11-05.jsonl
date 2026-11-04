@@ -4,3 +4,4 @@
 {"detail": "보관함 정리 preview · 2건 → preview_archive/2026-10-28.json, preview_archive/2026-10-29.json · 캐시 18KB", "flow": "archive", "result": "ok", "ts": "2026-11-04T21:10:00Z", "who": ""}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-04T21:20:03Z", "who": "yuno"}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-04T21:20:05Z", "who": "ritsu"}
+{"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-04T21:20:07Z", "who": "song-topic"}
