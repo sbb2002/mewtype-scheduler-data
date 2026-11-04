@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:00:00Z",
+  "generated_at": "2026-11-04T23:40:00Z",
   "items": [
     {
       "actual_start": "2026-10-28T21:31:34Z",
@@ -447,6 +447,36 @@
       "url": "https://www.youtube.com/watch?v=fmjJNbzcr3g",
       "video_id": "fmjJNbzcr3g",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-04T21:31:43Z",
+      "api_start_seen": "2026-11-04T21:31:22Z",
+      "archived_at": "2026-11-04T23:40:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 429,
+      "expires_at": "2026-11-05T00:30:00Z",
+      "first_seen": "2026-11-04T09:00:09Z",
+      "host": null,
+      "id": "pv_0c8c0917",
+      "info_at": "2026-11-04T09:00:09Z",
+      "info_source": "x-relay",
+      "kind": "morning",
+      "last_updated": "2026-11-04T23:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-04T21:30:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2117904701895417999",
+      "state": "out",
+      "state_since": "2026-11-04T23:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/2-38PkYAtNg/maxresdefault.jpg?v=6aeba42d",
+      "time_tbd": false,
+      "title": "【🟡朝活】最近あさは暗いね...🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡아침 활동】요즘 아침이 어두워...🌟 #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=2-38PkYAtNg",
+      "video_id": "2-38PkYAtNg"
     }
   ]
 }
