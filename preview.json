@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-04T10:56:17Z",
+  "generated_at": "2026-11-04T11:30:06Z",
   "items": [
     {
       "actual_start": null,
@@ -95,19 +95,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "unknown",
-      "last_updated": "2026-11-04T10:56:17Z",
+      "last_updated": "2026-11-04T11:30:06Z",
       "membership": false,
       "scheduled_start": "2026-11-04T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2117904701895417999",
-      "state": "upcoming",
-      "state_since": "2026-11-01T14:29:05Z",
+      "state": "watching",
+      "state_since": "2026-11-04T11:30:06Z",
       "thumbnail": "https://i.ytimg.com/vi/fmjJNbzcr3g/maxresdefault.jpg?v=6ae74c74",
       "time_tbd": false,
       "title": "【お誕生日】11/4はユノちゃんのおたんじょうび！！！！ 【 #千石ユノ / #バンドリ 】",
       "title_ko": "【생일】11/4는 유노짱의 생일!!!! 【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=fmjJNbzcr3g",
-      "video_id": "fmjJNbzcr3g"
+      "video_id": "fmjJNbzcr3g",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
