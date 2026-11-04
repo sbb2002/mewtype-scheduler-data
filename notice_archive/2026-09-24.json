@@ -139,6 +139,34 @@
       "title_slug": "月よりチャレンジライブイベントアイの奔流atoz",
       "tweet_url": "https://x.com/i/status/2103109383559500117",
       "url": null
+    },
+    {
+      "anchor_a": null,
+      "anchor_b": "過去を喰らう",
+      "archived_at": "2026-10-05T09:30:07Z",
+      "body_for_llm": "(土)に追加予定のカバー楽曲を発表🎶 ぜひお楽しみに💫 『過去を喰らう』 歌:MyGO!!!!! #アワーノーツ #バンドリTVLIVE",
+      "body_ko": "10월 3일(토) 추가 예정인 커버곡을 발표합니다🎶\n많이 기대해 주세요💫\n\n『과거를 삼키다』\n노래: MyGO!!!!!\n\n#아워노트스 #뱅드림 TVLIVE",
+      "body_raw": "10月3日(土)に追加予定のカバー楽曲を発表🎶\nぜひお楽しみに💫\n\n『過去を喰らう』\n歌:MyGO!!!!!\n\n#アワーノーツ #バンドリTVLIVE",
+      "category": "etc",
+      "date": "2026-10-03",
+      "deadline": false,
+      "expires_at": "2026-10-03T15:00:00Z",
+      "first_seen": "2026-09-24T13:23:06Z",
+      "id": "2103111712279089571",
+      "last_updated": "2026-09-24T13:23:06Z",
+      "participants": null,
+      "seen_ids": [
+        "2103111712279089571"
+      ],
+      "site": "x",
+      "src_handle": "@bang_dream_on",
+      "time": null,
+      "title": "土曜追加予定のカバー楽曲『過去を喰らう』発表",
+      "title_ko": "토요일 추가 예정 커버곡 『過去를 먹는다』 발표",
+      "title_raw": "『過去を喰らう』",
+      "title_slug": "過去を喰らう",
+      "tweet_url": "https://x.com/i/status/2103111712279089571",
+      "url": null
     }
   ]
 }
