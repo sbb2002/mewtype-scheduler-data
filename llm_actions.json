@@ -5930,6 +5930,28 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a010727d69",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/amplify_video_thumb/2117219842633912320/img/5UlqnD35epLmvw7K.jpg"
+        ],
+        "raw": "本日は夢限大みゅーたいぷ DJ&Mp.\n千石 ユノの誕生日🎂🎉\n\nBDメンバー千石 ユノのライブ衣装を紹介👗\nライブ衣装は「衣装変更」機能で設定し、ライブ中やスタジオ練習にて楽しむことができます✨\n\n#アワーノーツ #千石ユノ生誕祭2026",
+        "tag": "p#https://x.com/#1tweet-2117829189994979798"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 옷을 변경하고 라이브·스튜디오 연습에 활용하는 기능을 알리는 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「BDメンバー千石 ユノのライブ衣装を紹介👗」 「ライブ衣装は「衣装変更」機能で設定し、ライブ中やスタジオ練習にて楽しむことができ」) / 본문과 이미지에서 인게임 이벤트와 가챠 정보를 찾을 수 없어 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-11-04T04:00:32Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
