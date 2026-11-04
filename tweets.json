@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:00:47Z",
+  "generated_at": "2026-11-04T08:05:05Z",
   "tweets": {
     "arale": [
       {
@@ -230,7 +230,7 @@
       },
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-11-06T08:00:40Z",
+        "expires_at": "2026-11-06T08:04:35Z",
         "handle": "ritsu_yumemita",
         "id": "2117889755480539217",
         "media": [
@@ -243,6 +243,20 @@
         "text": "トゲナシトゲアリさんに混ざる謎の人物",
         "text_ko": "가시없음·가시있음 씨와 섞인 수수께끼 인물",
         "url": "https://x.com/i/status/2117889755480539217"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-06T08:04:35Z",
+        "handle": "ritsu_yumemita",
+        "id": "2117890738713444474",
+        "media": [],
+        "posted_at": "2026-11-04T08:04:35Z",
+        "quote": null,
+        "received_at": "2026-11-04T08:05:05Z",
+        "reply_to_id": "2117889755480539217",
+        "text": "#赤色の響祭",
+        "text_ko": "#레드 히비키 축제",
+        "url": "https://x.com/i/status/2117890738713444474"
       }
     ],
     "yuno": [
