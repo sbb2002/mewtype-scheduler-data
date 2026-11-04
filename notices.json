@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:11:53Z",
+  "generated_at": "2026-11-04T13:31:11Z",
   "notices": [
     {
       "anchor_a": "@yuno_yumemita",
@@ -180,6 +180,38 @@
       "title_slug": "新潟グランプリに千石ユノの出演が決定",
       "tweet_url": "https://x.com/i/status/2099836384936882682",
       "url": null
+    },
+    {
+      "anchor_a": "yumemita_yunos_party_lv3",
+      "anchor_b": "yuno’spartylv.3",
+      "body_for_llm": "＼チケットプレイガイド先行 受付開始📢／ 💖千石ユノ主催DJイベント 「YUNO’s PARTY Lv.3」💖 ⏰受付期間 (月) ▼お申し込みはこちら グッズ付きチケット特典もお見逃しなく✨ #ゆのぱ3 #バンドリ",
+      "body_ko": "＼티켓플레이가이드 선행 접수 시작📢／\n\n💖센고쿠 유노 주최 DJ 이벤트\n「YUNO’s PARTY Lv.3」💖\n\n⏰접수 기간\n〜11/16(月) 23:59\n\n▼신청은 여기\nhttps://eplus.jp/yumemita_yunos_party_lv3/\n\n굿즈 포함 티켓 특전도 놓치지 마세요✨\nhttps://bang-dream.com/events/yumemita_yunos_party_lv3/\n\n#ゆのぱ3 #뱅드림",
+      "body_raw": "＼チケットプレイガイド先行 受付開始📢／\n\n💖千石ユノ主催DJイベント\n「YUNO’s PARTY Lv.3」💖\n\n⏰受付期間\n〜11/16(月) 23:59\n\n▼お申し込みはこちら\nhttps://eplus.jp/yumemita_yunos_party_lv3/\n\nグッズ付きチケット特典もお見逃しなく✨\nhttps://bang-dream.com/events/yumemita_yunos_party_lv3/\n\n#ゆのぱ3 #バンドリ",
+      "categories": [
+        "live",
+        "event"
+      ],
+      "category": "release",
+      "date": "2026-11-16",
+      "deadline": true,
+      "expires_at": "2026-11-16T15:00:00Z",
+      "first_seen": "2026-11-04T13:31:11Z",
+      "id": "2117972636135313902",
+      "last_updated": "2026-11-04T13:31:11Z",
+      "live_name": "YUNO’s PARTY Lv.3",
+      "participants": null,
+      "seen_ids": [
+        "2117972636135313902"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "23:59",
+      "title": "千石ユノ主催DJイベント 「YUNO’s PARTY Lv.3」",
+      "title_ko": "천석유노 주최 DJ 이벤트 “YUNO’s PARTY Lv.3”",
+      "title_raw": "グッズ付きチケット特典もお見逃しなく",
+      "title_slug": "グッズ付きチケット特典もお見逃しなく",
+      "tweet_url": "https://x.com/i/status/2117972636135313902",
+      "url": "https://eplus.jp/yumemita_yunos_party_lv3/"
     },
     {
       "anchor_a": "u7f5p223ByA",
