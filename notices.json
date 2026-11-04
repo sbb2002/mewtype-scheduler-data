@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-11-03T12:00:31Z",
+  "generated_at": "2026-11-04T03:09:06Z",
   "notices": [
-    {
-      "anchor_a": "fmjJNbzcr3g",
-      "anchor_b": null,
-      "body_for_llm": "＼明日は生誕配信📡／ ⏰明日 〜 💖千石ユノ生誕記念配信💖 配信URLはこちら↓ ぜひご覧ください🎉 #バンドリ #ゆめみた",
-      "body_ko": "＼내일은 생일 방송📡／\n\n⏰내일 21:00부터\n\n💖센고쿠 유노 생일 기념 방송💖\n\n방송 URL은 여기↓\nhttps://www.youtube.com/watch?v=fmjJNbzcr3g\n\n꼭 시청해주세요🎉\n\n#뱅드림 #유메미타",
-      "body_raw": "＼明日は生誕配信📡／\n\n⏰明日21:00〜\n\n💖千石ユノ生誕記念配信💖\n\n配信URLはこちら↓\nhttps://www.youtube.com/watch?v=fmjJNbzcr3g\n\nぜひご覧ください🎉\n\n#バンドリ #ゆめみた",
-      "categories": [
-        "broadcast"
-      ],
-      "category": "etc",
-      "date": "2026-11-03",
-      "deadline": false,
-      "expires_at": "2026-11-03T15:00:00Z",
-      "first_seen": "2026-11-03T12:00:31Z",
-      "id": "2117587595752358127",
-      "last_updated": "2026-11-03T12:00:31Z",
-      "participants": null,
-      "seen_ids": [
-        "2117587595752358127"
-      ],
-      "site": "youtube",
-      "src_handle": "@BDP_yumemita",
-      "time": "21:00",
-      "title": "千石ユノ生誕記念配信",
-      "title_ko": "센고쿠 유노 생일 기념 방송",
-      "title_raw": "💖千石ユノ生誕記念配信💖",
-      "title_slug": "千石ユノ生誕記念配信",
-      "tweet_url": "https://x.com/i/status/2117587595752358127",
-      "url": "https://www.youtube.com/watch?v=fmjJNbzcr3g"
-    },
     {
       "anchor_a": "@yuno_yumemita",
       "anchor_b": null,
