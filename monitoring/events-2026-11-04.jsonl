@@ -39,3 +39,4 @@
 {"detail": "banner mode: none · 가챠 「千石ユノ Happy Birthday 26-27」 버림 — 시작 일자가 적혀 있지 않고 붙을 배너도 없음", "flow": "notice", "result": "ok", "ts": "2026-11-04T10:02:42Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bushi_prize 의 글", "flow": "relay", "result": "ok", "ts": "2026-11-04T10:34:31Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bushi_prize 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-04T10:34:33Z", "who": "夢限大みゅーたいぷ"}
+{"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "relay", "result": "ok", "ts": "2026-11-04T10:34:40Z", "via": "ingest", "who": ""}
