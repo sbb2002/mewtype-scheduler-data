@@ -18,3 +18,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-04T21:40:02Z", "who": ""}
 {"detail": "broadcast-change none · 게시물은 11월 5일 6시 30분 시작을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-04T21:45:06Z", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2118095380026150990 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-04T21:45:06Z", "tweet_id": "2118095380026150990", "via": "ingest", "who": "arale"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +34분 · 2118095380026150990", "flow": "tweet", "result": "ok", "ts": "2026-11-04T22:12:37Z", "tweet_id": "2118095380026150990", "via": "ingest", "who": "arale"}
