@@ -20,3 +20,5 @@
 {"detail": "gap-fill · 2118095380026150990 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-04T21:45:06Z", "tweet_id": "2118095380026150990", "via": "ingest", "who": "arale"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +34분 · 2118095380026150990", "flow": "tweet", "result": "ok", "ts": "2026-11-04T22:12:37Z", "tweet_id": "2118095380026150990", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-04T22:12:40Z", "who": "仲町あられ"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-04T23:10:00Z", "who": "2-38PkYAtNg"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_0c8c0917", "result": "ok", "title": "【🟡朝活】最近あさは暗いね...🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-11-04T23:10:00Z", "video_id": "2-38PkYAtNg", "who": "arale"}
