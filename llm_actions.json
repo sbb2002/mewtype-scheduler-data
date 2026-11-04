@@ -5971,6 +5971,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_71fd99ba15",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/4 21:00～ #千石ユノ生誕祭2026 \n\n本日お誕生日を迎えました！\n𝑪𝒐𝒐𝒍 𝑩𝒆𝒂𝒖𝒕𝒚 𝑷𝒓𝒊𝒏𝒄𝒆𝒔𝒔千石ユノです！\n\n(ง ᐢ⩌-⩌ᐢ)ว 𝑫𝒂𝒏𝒄𝒊𝒏𝒈…\n\nみんなからのおめでとう、待ってます！\n告知もあります😌\nhttps://www.youtube.com/live/fmjJNbzcr3g?si=GiLvtl52mOLwnzdJ",
+        "tag": "p#https://x.com/#1tweet-2117933935540023571"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/4 21:00에 예정된 생일 스트리밍을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-04T10:56:17Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
