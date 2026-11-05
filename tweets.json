@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:56:06Z",
+  "generated_at": "2026-11-05T14:18:38Z",
   "tweets": {
     "arale": [
       {
@@ -333,6 +333,22 @@
         "text": "https://x.com/yuno_yumemita/status/1985962125492367509",
         "text_ko": "https://x.com/yuno_yumemita/status/1985962125492367509",
         "url": "https://x.com/i/status/2118311349390590247"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-07T14:18:35Z",
+        "handle": "yuno_yumemita",
+        "id": "2118347247213773202",
+        "media": [
+          "https://pbs.twimg.com/media/HWXhmAXbcAA6Ek7.jpg"
+        ],
+        "posted_at": "2026-11-05T14:18:35Z",
+        "quote": null,
+        "received_at": "2026-11-05T14:18:38Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/5 23:30〜 ネイル\n\n爪をきらきらにする会\nネイルキラキラだとテンションがあがるよね😌",
+        "text_ko": "〈방송 안내〉\n11/5 23:30~ 네일\n\n손톱을 반짝반짝하게 하는 모임\n네일 반짝반짝하면 텐션이 올라가잖아😌",
+        "url": "https://x.com/i/status/2118347247213773202"
       }
     ]
   }
