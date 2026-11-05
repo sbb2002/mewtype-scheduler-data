@@ -99,3 +99,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T11:53:58Z", "who": "千石ユノ"}
 {"detail": "retweet skip: 폰 원문이 @kirasuta795 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-05T11:54:57Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T11:54:59Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-05T11:55:36Z", "tweet_id": "2118311256985932264", "via": "ingest", "who": "yuno"}
