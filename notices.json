@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:00:08Z",
+  "generated_at": "2026-11-05T09:30:04Z",
   "notices": [
     {
       "anchor_a": "kirasuta795",
@@ -31,6 +31,36 @@
       "title_slug": "fmnack5キラスタに",
       "tweet_url": "https://x.com/i/status/2118267087894495262",
       "url": "https://nack5.co.jp/program/kirasuta795/"
+    },
+    {
+      "anchor_a": "b44WoK4ZjDg",
+      "anchor_b": "バンドリ！tvlive2026",
+      "body_for_llm": "＼本日出演🎉／ 📺本日 〜 「バンドリ！TV LIVE 2026」＃339 夢限大みゅーたいぷより、 仲町あられが出演🛸 📺配信URLはこちら お見逃しなく✨ #バンドリTVLIVE #ゆめみた",
+      "body_ko": "＼오늘 출연🎉／\n\n📺오늘 22:00〜\n「뱅드림! TV LIVE 2026」#339\n\n무겐다이 뮤타입보다,\n나카마치 아라레가 출연🛸\n\n📺방송 URL은 여기\nhttps://www.youtube.com/live/b44WoK4ZjDg\n\n놓치지 마세요✨\n\n#뱅드림 TVLIVE #유메미타",
+      "body_raw": "＼本日出演🎉／\n\n📺本日22:00〜\n「バンドリ！TV LIVE 2026」＃339\n\n夢限大みゅーたいぷより、\n仲町あられが出演🛸\n\n📺配信URLはこちら\nhttps://www.youtube.com/live/b44WoK4ZjDg\n\nお見逃しなく✨\n\n #バンドリTVLIVE #ゆめみた",
+      "categories": [
+        "broadcast"
+      ],
+      "category": "etc",
+      "date": "2026-11-05",
+      "deadline": false,
+      "expires_at": "2026-11-05T15:00:00Z",
+      "first_seen": "2026-11-05T09:30:04Z",
+      "id": "2118274623817339366",
+      "last_updated": "2026-11-05T09:30:04Z",
+      "participants": null,
+      "seen_ids": [
+        "2118274623817339366"
+      ],
+      "site": "youtube",
+      "src_handle": "@BDP_yumemita",
+      "time": "22:00",
+      "title": "本日出演！仲町あられがバンドリ TV LIVE 2026に登場",
+      "title_ko": "오늘 출연! 나카마치 아라레가 뱅드림 TV LIVE 2026에 등장",
+      "title_raw": "「バンドリ！TV LIVE 2026」＃339",
+      "title_slug": "バンドリtvlive2026",
+      "tweet_url": "https://x.com/i/status/2118274623817339366",
+      "url": "https://www.youtube.com/live/b44WoK4ZjDg"
     },
     {
       "anchor_a": null,
