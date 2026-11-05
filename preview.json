@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-05T14:28:42Z",
+  "generated_at": "2026-11-05T14:30:02Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-05T14:28:42Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-05T14:35:00Z",
       "source": "api",
       "state": "watching",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/yyogJXm09cU/maxresdefault.jpg?v=6aec925c",
       "time_tbd": false,
       "title": "【 #セルフネイル 】遠征前にキラキラネイルに！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #셀프네일 】원정 전 반짝반짝 네일로!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=yyogJXm09cU",
       "video_id": "yyogJXm09cU"
     },
