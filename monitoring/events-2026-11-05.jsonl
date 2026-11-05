@@ -63,3 +63,4 @@
 {"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · Dream Voyage", "flow": "song", "reason": "name_dup", "result": "ok", "title": "Dream Voyage", "ts": "2026-11-05T08:10:01Z", "video_id": "gcP4wgxPi-E", "who": "group"}
 {"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · Calling", "flow": "song", "reason": "name_dup", "result": "ok", "title": "Calling", "ts": "2026-11-05T08:10:01Z", "video_id": "X05Zl1z2XMk", "who": "group"}
 {"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · コハク", "flow": "song", "reason": "name_dup", "result": "ok", "title": "コハク", "ts": "2026-11-05T08:10:01Z", "video_id": "o6Unc8Kpr1A", "who": "group"}
+{"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @fm_nack5 의 글", "flow": "relay", "result": "ok", "ts": "2026-11-05T08:18:11Z", "via": "ingest", "who": ""}
