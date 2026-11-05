@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:35:00Z",
+  "generated_at": "2026-11-05T16:50:00Z",
   "items": [
     {
       "actual_start": "2026-10-28T21:31:34Z",
@@ -506,6 +506,35 @@
       "title_ko": "뱅드림！TV LIVE 2026 #339",
       "url": "https://www.youtube.com/watch?v=b44WoK4ZjDg",
       "video_id": "b44WoK4ZjDg"
+    },
+    {
+      "actual_start": "2026-11-05T14:36:50Z",
+      "announced_start": "2026-11-05T14:30:00Z",
+      "api_start_seen": "2026-11-05T14:35:00Z",
+      "archived_at": "2026-11-05T16:50:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 354,
+      "expires_at": "2026-11-05T17:35:00Z",
+      "first_seen": "2026-11-05T14:28:42Z",
+      "host": null,
+      "id": "pv_287e9856",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-11-05T16:50:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-05T14:35:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-11-05T16:50:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/yyogJXm09cU/maxresdefault.jpg?v=6aec925c",
+      "time_tbd": false,
+      "title": "【 #セルフネイル 】遠征前にキラキラネイルに！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #셀프네일 】원정 전 반짝반짝 네일로!【 #센고쿠 유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=yyogJXm09cU",
+      "video_id": "yyogJXm09cU"
     }
   ]
 }
