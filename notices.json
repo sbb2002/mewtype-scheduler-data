@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-11-04T13:31:11Z",
+  "generated_at": "2026-11-05T09:00:08Z",
   "notices": [
-    {
-      "anchor_a": "@yuno_yumemita",
-      "anchor_b": null,
-      "body_for_llm": "＼🎂生誕記念配信決定🎂／ 📅 (水) 〜 千石ユノ生誕記念配信を バースデー当日に実施💖 📺千石ユノ 個人YouTubeチャンネルにて配信！ ぜひお祝いに来てくださいね🥳 #千石ユノ生誕祭2026 #バンドリ",
-      "body_ko": "＼🎂생일 기념 방송 결정🎂／\n\n📅11월 4일(수) 21:00〜\n\n센고쿠 유노 생일 기념 방송을\n생일 당일에 진행💖\n\n📺센고쿠 유노 개인 YouTube 채널에서 방송!\nhttps://youtube.com/@yuno_yumemita\n\n꼭 축하하러 와 주세요🥳\n\n#千石ユノ生誕祭2026\n#뱅드림",
-      "body_raw": "＼🎂生誕記念配信決定🎂／\n\n📅11月4日(水) 21:00〜\n\n千石ユノ生誕記念配信を\nバースデー当日に実施💖\n\n📺千石ユノ 個人YouTubeチャンネルにて配信！\nhttps://youtube.com/@yuno_yumemita\n\nぜひお祝いに来てくださいね🥳\n\n#千石ユノ生誕祭2026\n#バンドリ",
-      "categories": [
-        "broadcast"
-      ],
-      "category": "live",
-      "date": "2026-11-04",
-      "deadline": false,
-      "expires_at": "2026-11-04T15:00:00Z",
-      "first_seen": "2026-10-19T13:35:56Z",
-      "id": "2112175910661378122",
-      "last_updated": "2026-10-23T07:26:56Z",
-      "participants": null,
-      "seen_ids": [
-        "2112175910661378122"
-      ],
-      "site": "web",
-      "src_handle": "@BDP_yumemita",
-      "time": "21:00",
-      "title": "千石ユノ生誕記念配信決定！",
-      "title_ko": "센고쿠 유노 생일 기념 방송 결정!",
-      "title_raw": "🎂生誕記念配信決定🎂",
-      "title_slug": "生誕記念配信決定",
-      "tweet_url": "https://x.com/i/status/2112175910661378122",
-      "url": "https://youtube.com/@yuno_yumemita"
-    },
     {
       "anchor_a": "kirasuta795",
       "anchor_b": "キラスタ",
@@ -363,37 +333,6 @@
       "title_slug": "bangdreamonbushimojp",
       "tweet_url": "https://x.com/i/status/2117144471616053248",
       "url": null
-    },
-    {
-      "anchor_a": "yumemita_yunos_party_lv3",
-      "anchor_b": "yuno’spartylv.3",
-      "body_for_llm": "＼🎊キービジュアル&ゲスト公開🎊／ 💖千石ユノ主催DJイベント 「YUNO’s PARTY Lv.3」💖 <ゲスト> 昼の部:西尾夕香、DJ Genki 夜の部:DJ 小宮有紗、DJ WILDPARTY プレイガイド先行が本日 より開始📢 🔗詳細はこちら #ゆのぱ3 #バンドリ",
-      "body_ko": "＼🎊키비주얼&게스트 공개🎊／\n\n💖센고쿠 유노 주최 DJ 이벤트\n「YUNO’s PARTY Lv.3」💖\n\n<게스트>\n낮 파트:니시오 유카, DJ Genki\n밤 파트:DJ 코미야 아리사, DJ WILDPARTY\n\n플레이 가이드 선행이 오늘 22:30부터 시작📢\n\n🔗상세는 여기\nhttps://bang-dream.com/events/yumemita_yunos_party_lv3/\n\n#ゆのぱ3 #뱅드림",
-      "body_raw": "＼🎊キービジュアル&ゲスト公開🎊／\n\n💖千石ユノ主催DJイベント\n「YUNO’s PARTY Lv.3」💖\n\n<ゲスト>\n昼の部:西尾夕香、DJ Genki\n夜の部:DJ 小宮有紗、DJ WILDPARTY\n\nプレイガイド先行が本日22:30より開始📢\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/yumemita_yunos_party_lv3/\n\n#ゆのぱ3 #バンドリ",
-      "categories": [
-        "event"
-      ],
-      "category": "etc",
-      "date": "2026-12-05",
-      "deadline": false,
-      "expires_at": "2026-11-04T15:00:00Z",
-      "first_seen": "2026-10-19T13:41:26Z",
-      "id": "2112177293850550683",
-      "last_updated": "2026-11-04T13:11:53Z",
-      "participants": null,
-      "seen_ids": [
-        "2112177293850550683",
-        "2117968061370413298"
-      ],
-      "site": "web",
-      "src_handle": "@BDP_yumemita",
-      "time": "22:30",
-      "title": "YUNO’s PARTY Lv.3 開催",
-      "title_ko": "YUNO’s PARTY Lv.3 개최",
-      "title_raw": "「YUNO’s PARTY Lv.3」💖",
-      "title_slug": "yunospartylv3",
-      "tweet_url": "https://x.com/i/status/2117968061370413298",
-      "url": "https://bang-dream.com/events/yumemita_yunos_party_lv3/"
     },
     {
       "anchor_a": null,
