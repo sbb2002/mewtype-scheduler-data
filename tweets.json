@@ -22,20 +22,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-11-05T07:00:27Z",
-        "handle": "nonoka_yumemita",
-        "id": "2117512213787549962",
-        "media": [],
-        "posted_at": "2026-11-03T07:00:27Z",
-        "quote": null,
-        "received_at": "2026-11-03T07:00:35Z",
-        "reply_to_id": null,
-        "text": "たまご醤油なんだよな",
-        "text_ko": "계란 간장이야.",
-        "url": "https://x.com/i/status/2117512213787549962"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-11-05T08:40:37Z",
         "handle": "nonoka_yumemita",
         "id": "2117537419172130881",
@@ -120,40 +106,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-11-05T04:16:00Z",
-        "handle": "ritsu_yumemita",
-        "id": "2117470825565847828",
-        "media": [],
-        "posted_at": "2026-11-03T04:16:00Z",
-        "quote": null,
-        "received_at": "2026-11-03T04:16:02Z",
-        "reply_to_id": null,
-        "text": "私は、峰月律。ぽんこつ優等生ヒーロー",
-        "text_ko": "나는, 미네츠키 리츠. 촌철우등생 히어로",
-        "url": "https://x.com/i/status/2117470825565847828"
-      },
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-11-05T06:41:54Z",
-        "handle": "ritsu_yumemita",
-        "id": "2117507542989635992",
-        "media": [],
-        "posted_at": "2026-11-03T06:41:54Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HVmYupJbEAAwy7m.jpg"
-          ],
-          "text": "🪐通販実施中🪐\nBanG Dream! ねおちゃいなver.\n\n#夢限大みゅーたいぷ の\n新規イラストを使用した新商品を販売中👜\n\nその場で当たるキャンペーンも実施中！\n【応募方法】は固定ポストをチェック✅\n\n👇通販ページ\nhttps://bushiroad-store.com/pages/bd-neo \n\n#バンドリ #ゆめみた",
-          "text_ko": "🪐통신 판매 진행 중🪐\nBanG Dream! 네오차이나버전\n\n#무겐다이 뮤타입\n새 일러스트를 사용한 신상품 판매 중👜\n\n현장에서 당첨되는 캠페인도 진행 중!\n【응모 방법】은 고정 포스트를 확인✅\n\n👇통신 페이지\nhttps://bushiroad-store.com/pages/bd-neo \n\n#뱅드림 #유메미타"
-        },
-        "received_at": "2026-11-03T06:48:16Z",
-        "reply_to_id": null,
-        "text": "めがね おだんご ちゃいなふく 律だよ\nちいさなおだんごだよ、ちいさくてたべれそうだよ\nいただきます",
-        "text_ko": "안경 오뎅고 차이나복 리츠야  \n작은 오뎅고야, 작고 먹을 수 있을 것 같아  \n잘 먹겠습니다",
-        "url": "https://x.com/i/status/2117507542989635992"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-11-05T07:55:37Z",
