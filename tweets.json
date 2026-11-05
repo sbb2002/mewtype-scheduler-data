@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:55:36Z",
+  "generated_at": "2026-11-05T11:56:06Z",
   "tweets": {
     "arale": [
       {
@@ -304,7 +304,7 @@
       },
       {
         "channel_key": "yuno",
-        "expires_at": "2026-11-07T11:55:34Z",
+        "expires_at": "2026-11-07T11:55:56Z",
         "handle": "yuno_yumemita",
         "id": "2118311256985932264",
         "media": [],
@@ -315,6 +315,24 @@
         "text": "千石ユノさんのお誕生日\n\n────𝐃𝐚𝐲𝟐",
         "text_ko": "센고쿠 유노 씨의 생일",
         "url": "https://x.com/i/status/2118311256985932264"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-07T11:55:56Z",
+        "handle": "yuno_yumemita",
+        "id": "2118311349390590247",
+        "media": [],
+        "posted_at": "2026-11-05T11:55:56Z",
+        "quote": {
+          "media": [],
+          "text": "千石ユノさんのお誕生日\n\n────𝐃𝐚𝐲𝟐",
+          "text_ko": "센고쿠 유노 씨의 생일"
+        },
+        "received_at": "2026-11-05T11:56:06Z",
+        "reply_to_id": "2118311256985932264",
+        "text": "https://x.com/yuno_yumemita/status/1985962125492367509",
+        "text_ko": "https://x.com/yuno_yumemita/status/1985962125492367509",
+        "url": "https://x.com/i/status/2118311349390590247"
       }
     ]
   }
