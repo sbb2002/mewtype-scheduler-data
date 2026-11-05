@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:40:00Z",
+  "generated_at": "2026-11-05T14:35:00Z",
   "items": [
     {
       "actual_start": "2026-10-28T21:31:34Z",
@@ -477,6 +477,35 @@
       "title_ko": "【🟡아침 활동】요즘 아침이 어두워...🌟 #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=2-38PkYAtNg",
       "video_id": "2-38PkYAtNg"
+    },
+    {
+      "actual_start": "2026-11-05T12:50:13Z",
+      "api_start_seen": "2026-11-05T13:00:00Z",
+      "archived_at": "2026-11-05T14:35:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-05T16:01:51Z",
+      "first_seen": "2026-11-05T13:01:51Z",
+      "host": null,
+      "id": "pv_ae7b600f",
+      "info_at": "2026-11-05T13:01:51Z",
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-11-05T14:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-05T13:00:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2118327920561385749",
+      "state": "out",
+      "state_since": "2026-11-05T14:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/b44WoK4ZjDg/maxresdefault.jpg?v=6ae32f13",
+      "time_tbd": false,
+      "title": "バンドリ！TV LIVE 2026 #339",
+      "title_ko": "뱅드림！TV LIVE 2026 #339",
+      "url": "https://www.youtube.com/watch?v=b44WoK4ZjDg",
+      "video_id": "b44WoK4ZjDg"
     }
   ]
 }
