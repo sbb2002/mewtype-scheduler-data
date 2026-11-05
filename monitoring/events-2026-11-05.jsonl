@@ -92,3 +92,4 @@
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @kirasuta795 의 글", "flow": "relay", "result": "ok", "ts": "2026-11-05T11:11:07Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @kirasuta795 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T11:11:09Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +12분 · 2118296846519197698", "flow": "tweet", "result": "ok", "ts": "2026-11-05T11:11:07Z", "tweet_id": "2118296846519197698", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T11:11:15Z", "who": "仲町あられ"}
