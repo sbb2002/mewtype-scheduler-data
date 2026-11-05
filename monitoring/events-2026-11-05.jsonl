@@ -58,3 +58,8 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +9분 · 2118241651206537499", "flow": "tweet", "result": "ok", "ts": "2026-11-05T07:28:22Z", "tweet_id": "2118241651206537499", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T07:28:25Z", "who": "千石ユノ"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-05T08:00:01Z", "who": "group"}
+{"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · チューニング", "flow": "song", "reason": "name_dup", "result": "ok", "title": "チューニング", "ts": "2026-11-05T08:10:01Z", "video_id": "znm-Rn5sxhs", "who": "group"}
+{"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · Hi-Vision", "flow": "song", "reason": "name_dup", "result": "ok", "title": "Hi-Vision", "ts": "2026-11-05T08:10:01Z", "video_id": "pUNK6ANdaxw", "who": "group"}
+{"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · Dream Voyage", "flow": "song", "reason": "name_dup", "result": "ok", "title": "Dream Voyage", "ts": "2026-11-05T08:10:01Z", "video_id": "gcP4wgxPi-E", "who": "group"}
+{"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · Calling", "flow": "song", "reason": "name_dup", "result": "ok", "title": "Calling", "ts": "2026-11-05T08:10:01Z", "video_id": "X05Zl1z2XMk", "who": "group"}
+{"action": "skipped", "detail": "곡명 중복으로 등록 안 함 · コハク", "flow": "song", "reason": "name_dup", "result": "ok", "title": "コハク", "ts": "2026-11-05T08:10:01Z", "video_id": "o6Unc8Kpr1A", "who": "group"}
