@@ -133,3 +133,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_287e9856", "result": "ok", "title": "【 #セルフネイル 】遠征前にキラキラネイルに！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-11-05T14:37:50Z", "video_id": "yyogJXm09cU", "who": "yuno"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-05T14:55:25Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T14:55:28Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-05T14:55:25Z", "tweet_id": "2118356355312652299", "via": "ingest", "who": "miyako"}
