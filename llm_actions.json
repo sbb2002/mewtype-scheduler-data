@@ -6054,6 +6054,58 @@
       "undo": null,
       "undone": null,
       "who": "group"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6c1e52df77",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/5 23:30～ ネイル\n\n爪をきらきらにする会\nネイルキラキラだとテンションがあがるよね😌",
+        "tag": "p#https://x.com/#1tweet-2118347247213773202"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "「配信のおしらせ」와 날짜·시각 \"11/5 23:30～\"가 함께 있어 작성자의 향후 방송을 알리는 예고이므로 true이다. (근거: 「配信のおしらせ\n11/5 23:30～ ネイル」)",
+      "summary": "본인 예고로 등록 — 23:30 JST · 〈配信のおしらせ〉\n11/5 23:30～ ネイル\n\n爪をきらきらにする会\nネイ",
+      "ts": "2026-11-05T14:18:38Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "yuno",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-05T17:30:00Z",
+            "first_seen": "2026-11-05T08:34:25Z",
+            "host": null,
+            "id": "pv_29c9cb6f",
+            "info_at": "2026-11-05T08:34:25Z",
+            "info_source": "x-relay",
+            "kind": "unknown",
+            "last_updated": "2026-11-05T08:34:25Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-05T14:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2118259525241197029",
+            "state": "announced",
+            "state_since": "2026-11-05T08:34:25Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
