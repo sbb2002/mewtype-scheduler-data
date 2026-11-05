@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:26:06Z",
+  "generated_at": "2026-11-05T08:45:34Z",
   "tweets": {
     "arale": [
       {
@@ -195,6 +195,26 @@
         "text": "#赤色の響祭",
         "text_ko": "#레드 히비키 축제",
         "url": "https://x.com/i/status/2117890738713444474"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-07T08:39:47Z",
+        "handle": "ritsu_yumemita",
+        "id": "2118261984416477525",
+        "media": [],
+        "posted_at": "2026-11-05T08:39:47Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HVS3y0DaMAAfWC5.jpg"
+          ],
+          "text": "＼ラジオ出演決定📻／\n\n⏰11/5(木) 19:07-19:30\nFM NACK5『キラスタ』\n\n夢限大みゅーたいぷより、\n宮永ののか・峰月律・千石ユノが\n生出演いたします📢\n\n📻：https://nack5.co.jp/program/kirasuta795/\n\nお便りはこちらから✔️\n✉️：https://nack5.co.jp/message/87/\n\nぜひお聴きください💡\n\n#キラスタ #ゆめみた",
+          "text_ko": "＼라디오 출연 확정📻／\n\n⏰11/5(목) 19:07-19:30\nFM NACK5『키라스타』\n\n무겐다이 뮤타입보다,\n미야나가 노노카·미네츠키 리츠·센고쿠 유노가\n생방송으로 출연합니다📢\n\n📻：https://nack5.co.jp/program/kirasuta795/\n\n편지는 여기서✔️\n✉️：https://nack5.co.jp/message/87/\n\n꼭 들어 주세요💡\n\n#키라스타 #유메미타"
+        },
+        "received_at": "2026-11-05T08:45:34Z",
+        "reply_to_id": null,
+        "text": "本日、19:07-19:30\nFM NACK5『キラスタ』出演させて頂きます！\nよろしくお願いします⸜(*˙꒳˙*)⸝✩.*˚",
+        "text_ko": "오늘 19:07-19:30 FM NACK5『키라스타』에 출연합니다! 잘 부탁드립니다⸜(*˙꒳˙*)⸝✩.*˚",
+        "url": "https://x.com/i/status/2118261984416477525"
       }
     ],
     "yuno": [
