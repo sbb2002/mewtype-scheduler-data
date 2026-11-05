@@ -104,3 +104,4 @@
 {"detail": "gap-fill(자기 답글) · 2118311349390590247 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-05T11:56:06Z", "tweet_id": "2118311349390590247", "via": "ingest", "who": "yuno"}
 {"detail": "retweet skip: 폰 원문이 @6HPMPLP6 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-05T12:24:20Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T12:24:22Z", "who": "峰月律"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-05T12:50:35Z", "who": "バンドリ！TV LIVE 2026 #339"}
