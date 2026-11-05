@@ -122,3 +122,6 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-05T14:18:38Z", "tweet_id": "2118347247213773202", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 11/5 23:30에 진행될 네일 방송을 알리는 내용으로, 기존 일정의 취소나 변경이 아니라 새로운 방송 안내이기 때문입니다", "flow": "tweet", "result": "ok", "ts": "2026-11-05T14:18:38Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T14:19:19Z", "who": "千石ユノ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-05T14:28:42Z", "who": "yyogJXm09cU"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_287e9856", "result": "ok", "title": "【 #セルフネイル 】遠征前にキラキラネイルに！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-05T14:28:42Z", "video_id": "yyogJXm09cU", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · yyogJXm09cU · 예고 watching", "flow": "websub", "merge_key": "websub-notify:yyogJXm09cU", "result": "ok", "title": "【 #セルフネイル 】遠征前にキラキラネイルに！【 #千石ユノ / #バンドリ 】", "ts": "2026-11-05T14:28:42Z", "video_id": "yyogJXm09cU", "who": "yuno"}
