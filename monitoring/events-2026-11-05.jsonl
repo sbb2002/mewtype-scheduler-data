@@ -101,3 +101,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T11:54:59Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-05T11:55:36Z", "tweet_id": "2118311256985932264", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-05T11:55:43Z", "who": "千石ユノ"}
+{"detail": "gap-fill(자기 답글) · 2118311349390590247 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-05T11:56:06Z", "tweet_id": "2118311349390590247", "via": "ingest", "who": "yuno"}
