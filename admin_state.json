@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-11-05T13:01:51Z",
+    "action": "본인 예고 센고쿠 유노 (〈配信のおしらせ〉\n11/5 23:30～ ネイル\n\n爪をきらきらにする会\nネイ)",
+    "at": "2026-11-05T14:18:38Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f99600d8010446dcac980eb5252398ff30cf46e3",
+    "new_sha": "5200f5a557704b7d5c7765be6c06a02e5d3d3b66",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-05T08:34:25Z",
+      "generated_at": "2026-11-05T14:05:00Z",
       "items": [
         {
           "actual_start": null,
@@ -133,7 +133,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-04T23:40:00Z",
+          "last_updated": "2026-11-05T14:05:00Z",
           "membership": false,
           "scheduled_start": "2026-11-07T12:30:00Z",
           "source": "api",
@@ -160,7 +160,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-04T23:40:00Z",
+          "last_updated": "2026-11-05T14:05:00Z",
           "membership": false,
           "scheduled_start": "2026-11-08T12:30:00Z",
           "source": "api",
@@ -187,7 +187,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-04T23:40:00Z",
+          "last_updated": "2026-11-05T14:05:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -215,7 +215,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-04T23:40:00Z",
+          "last_updated": "2026-11-05T14:05:00Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -256,6 +256,34 @@
           "title_ko": null,
           "url": null,
           "video_id": null
+        },
+        {
+          "actual_start": "2026-11-05T12:50:13Z",
+          "api_start_seen": "2026-11-05T13:00:00Z",
+          "assumed_live": false,
+          "channel_key": "arale",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-11-05T16:01:51Z",
+          "first_seen": "2026-11-05T13:01:51Z",
+          "host": null,
+          "id": "pv_ae7b600f",
+          "info_at": "2026-11-05T13:01:51Z",
+          "info_source": "api",
+          "kind": null,
+          "last_updated": "2026-11-05T14:05:00Z",
+          "membership": false,
+          "scheduled_start": "2026-11-05T13:00:00Z",
+          "source": "x-relay",
+          "src_url": "https://x.com/i/status/2118327920561385749",
+          "state": "end",
+          "state_since": "2026-11-05T14:05:00Z",
+          "thumbnail": "https://i.ytimg.com/vi/b44WoK4ZjDg/maxresdefault.jpg?v=6ae32f13",
+          "time_tbd": false,
+          "title": "バンドリ！TV LIVE 2026 #339",
+          "title_ko": "뱅드림！TV LIVE 2026 #339",
+          "url": "https://www.youtube.com/watch?v=b44WoK4ZjDg",
+          "video_id": "b44WoK4ZjDg"
         }
       ]
     }
