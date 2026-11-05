@@ -120,3 +120,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-05T14:05:00Z", "who": "b44WoK4ZjDg"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_ae7b600f", "result": "ok", "title": "バンドリ！TV LIVE 2026 #339", "to_state": "end", "ts": "2026-11-05T14:05:00Z", "video_id": "b44WoK4ZjDg", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-05T14:18:38Z", "tweet_id": "2118347247213773202", "via": "ingest", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물은 11/5 23:30에 진행될 네일 방송을 알리는 내용으로, 기존 일정의 취소나 변경이 아니라 새로운 방송 안내이기 때문입니다", "flow": "tweet", "result": "ok", "ts": "2026-11-05T14:18:38Z", "via": "ingest", "who": "yuno"}
