@@ -80,3 +80,4 @@
 {"detail": "gap-fill · 2118695522450198568 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-06T13:30:05Z", "tweet_id": "2118695522450198568", "via": "ingest", "who": "ritsu"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2118695522450198568", "flow": "tweet", "result": "ok", "ts": "2026-11-06T13:30:30Z", "tweet_id": "2118695522450198568", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T13:30:33Z", "who": "峰月律"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2118695522450198568", "flow": "tweet", "result": "ok", "ts": "2026-11-06T13:30:30Z", "tweet_id": "2118695522450198568", "via": "ingest", "who": "ritsu"}
