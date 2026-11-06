@@ -61,3 +61,6 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-06T11:30:18Z", "who": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_9f10fba8", "result": "ok", "title": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-06T11:30:17Z", "video_id": "wCdd1XmISYQ", "who": "ritsu"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-06T12:00:02Z", "who": "group"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-06T12:01:25Z", "who": "wCdd1XmISYQ"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_9f10fba8", "result": "ok", "title": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-11-06T12:01:25Z", "video_id": "wCdd1XmISYQ", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · wCdd1XmISYQ · 예고 live", "flow": "websub", "merge_key": "websub-notify:wCdd1XmISYQ", "result": "ok", "title": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】", "ts": "2026-11-06T12:01:25Z", "video_id": "wCdd1XmISYQ", "who": "ritsu"}
