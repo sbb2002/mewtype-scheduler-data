@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-05T16:50:00Z",
+  "generated_at": "2026-11-06T09:30:03Z",
   "items": [
     {
       "actual_start": null,
@@ -189,6 +189,35 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-06T15:00:00Z",
+      "first_seen": "2026-11-06T09:30:03Z",
+      "host": null,
+      "id": "pv_204c45ba",
+      "info_at": "2026-11-06T09:30:03Z",
+      "info_source": "x-relay",
+      "kind": "unknown",
+      "last_updated": "2026-11-06T09:30:03Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-06T12:00:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2118637011745820934",
+      "state": "announced",
+      "state_since": "2026-11-06T09:30:03Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     }
   ]
 }
