@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-06T09:50:01Z",
+  "generated_at": "2026-11-06T11:30:17Z",
   "items": [
     {
       "actual_start": null,
@@ -96,19 +96,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-06T09:43:53Z",
+      "last_updated": "2026-11-06T11:30:17Z",
       "membership": false,
       "scheduled_start": "2026-11-06T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2118640054776270978",
-      "state": "upcoming",
-      "state_since": "2026-11-06T09:42:05Z",
+      "state": "watching",
+      "state_since": "2026-11-06T11:30:17Z",
       "thumbnail": "https://i.ytimg.com/vi/wCdd1XmISYQ/maxresdefault.jpg?v=6aeda0af",
       "time_tbd": false,
       "title": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】",
       "title_ko": "【실사】드디어 소고기 스키냄비 먹는다!!!! 유메미타 트레카 개봉!!!!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=wCdd1XmISYQ",
-      "video_id": "wCdd1XmISYQ"
+      "video_id": "wCdd1XmISYQ",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
