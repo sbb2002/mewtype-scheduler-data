@@ -101,3 +101,4 @@
 {"detail": "retweet skip: 폰 원문이 @kirasuta795 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-06T14:26:28Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T14:26:30Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-06T14:26:33Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T14:26:35Z", "who": "宮永ののか🐰🩹"}
