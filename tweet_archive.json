@@ -1300,6 +1300,24 @@
       "text": "お誕生日萌え萌えユノちゃん！",
       "text_ko": "생일 축하해 모에모에 유노짱!",
       "url": "https://x.com/i/status/2117633580872659038"
+    },
+    {
+      "archived_at": "2026-11-06T03:48:32Z",
+      "archived_reason": "expired",
+      "channel_key": "ritsu",
+      "expires_at": "2026-11-05T16:07:27Z",
+      "handle": "ritsu_yumemita",
+      "id": "2117649870316253374",
+      "media": [
+        "https://pbs.twimg.com/media/HWNnVUQasAAf0Ef.jpg"
+      ],
+      "posted_at": "2026-11-03T16:07:27Z",
+      "quote": null,
+      "received_at": "2026-11-03T16:07:30Z",
+      "reply_to_id": null,
+      "text": "おめでとう",
+      "text_ko": "축하해",
+      "url": "https://x.com/i/status/2117649870316253374"
     }
   ]
 }
