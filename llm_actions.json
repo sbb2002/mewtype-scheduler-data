@@ -6025,6 +6025,27 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_3942a44a6a",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "ヴァイスシュヴァルツ 特別生配信\n11月7日15：00～\n\n商品情報やイベント情報、新規参加タイトル発表など必見の生配信です！\n\n🔻YouTubeチャンネルはこちら\nhttps://youtube.com/live/YWm1PxX0JS8\n\n#WS",
+        "raw": "♡🐰出演情報🩹♡\n\n11/7 15:00-\n\nあした、おやつの時間に\n🤍ヴァイスシュヴァルツ 特別生配信🖤\n出演します🎶\n「#WS生配信」でキャンペーンもあるって！\n\nおたのしみにください！😍\nよろしくお願いいたします🎶\n\n#WS #ゆめみた",
+        "tag": "p#https://x.com/#1tweet-2118711408401732011",
+        "video_id": "YWm1PxX0JS8"
+      },
+      "kind": "participation",
+      "parent_id": null,
+      "reason": "",
+      "summary": "외부 채널 영상 — 참여 아님 · 【最新情報をお届け！】#WS生配信",
+      "ts": "2026-11-06T14:26:44Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
