@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:26:44Z",
+  "generated_at": "2026-11-06T23:55:29Z",
   "tweets": {
     "arale": [
       {
@@ -112,6 +112,20 @@
         "text": "ふかふかぽやしみ🐶💤",
         "text_ko": "푹신푹신 포야시미🐶💤",
         "url": "https://x.com/i/status/2118356746750321008"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-08T23:55:26Z",
+        "handle": "miyako_yumemita",
+        "id": "2118854802696442346",
+        "media": [],
+        "posted_at": "2026-11-06T23:55:26Z",
+        "quote": null,
+        "received_at": "2026-11-06T23:55:29Z",
+        "reply_to_id": null,
+        "text": "〈ぽふとんめくりあげ名人のうわさ〉\n自分のぽふとんをめくりあげるのはまだ半人前らしい\n\nﾎﾟﾊﾖ！🐶💨💥🛏️",
+        "text_ko": "〈담요 뒤집기 명인의 소문〉\n자신의 담요를 뒤집는 건 아직 반쯤 된 사람인 것 같다\n포하요！🐶💨💥🛏️",
+        "url": "https://x.com/i/status/2118854802696442346"
       }
     ],
     "nonoka": [
