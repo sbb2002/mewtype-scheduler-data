@@ -6005,6 +6005,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6c14beb30d",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n11/06\n　𝗦𝗧𝗔𝗥𝗧 21:00～\n\n【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！\n\n↻ ＵＲＬ\nhttps://youtube.com/live/wCdd1XmISYQ?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "はじめます🍖",
+        "tag": "p#https://x.com/#1tweet-2118674958453006615"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 \"はじめます\"라며 예정된 방송을 시작한다는 내용이며, 취소나 일정 변경을 알리는 표현이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-06T12:08:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
