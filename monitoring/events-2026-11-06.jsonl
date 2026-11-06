@@ -73,3 +73,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T12:10:39Z", "who": "峰月律"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +9분 · 2118674958453006615", "flow": "tweet", "result": "ok", "ts": "2026-11-06T12:10:30Z", "tweet_id": "2118674958453006615", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T12:10:43Z", "who": "峰月律"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-06T13:00:03Z", "who": "group"}
