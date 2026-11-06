@@ -43,3 +43,4 @@
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-11-06T09:30:03Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T09:30:15Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-11-06T09:30:03Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T09:30:26Z", "who": "夢限大みゅーたいぷ"}
