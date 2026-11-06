@@ -20,3 +20,4 @@
 {"detail": "banner mode: updated · 이벤트 「A day〜#HalloweenSnap〜」(시작? ~ 2026-11-07 14:59) 기존 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-11-06T03:06:58Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T03:07:09Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: dup · 이미 반영한 글", "flow": "notice", "result": "ok", "ts": "2026-11-06T03:06:58Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T03:07:13Z", "who": "バンドリ！アワーノーツ"}
