@@ -104,3 +104,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T14:26:35Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @BushiM_info 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-06T14:26:39Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T14:26:41Z", "who": "宮永ののか🐰🩹"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2118709395052003772", "flow": "tweet", "result": "ok", "ts": "2026-11-06T14:26:28Z", "tweet_id": "2118709395052003772", "via": "ingest", "who": "nonoka"}
