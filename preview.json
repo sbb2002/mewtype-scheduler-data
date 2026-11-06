@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-06T13:40:00Z",
+  "generated_at": "2026-11-06T13:45:00Z",
   "items": [
     {
       "actual_start": null,
@@ -95,7 +95,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-06T13:40:00Z",
+      "last_updated": "2026-11-06T13:45:00Z",
       "membership": false,
       "scheduled_start": "2026-11-07T12:30:00Z",
       "source": "api",
@@ -122,7 +122,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-06T13:40:00Z",
+      "last_updated": "2026-11-06T13:45:00Z",
       "membership": false,
       "scheduled_start": "2026-11-08T12:30:00Z",
       "source": "api",
@@ -149,7 +149,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-06T13:40:00Z",
+      "last_updated": "2026-11-06T13:45:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -177,7 +177,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-06T13:40:00Z",
+      "last_updated": "2026-11-06T13:45:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -189,36 +189,6 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
-    },
-    {
-      "actual_start": "2026-11-06T12:00:23Z",
-      "announced_start": "2026-11-06T12:00:00Z",
-      "api_start_seen": "2026-11-06T12:00:00Z",
-      "assumed_live": false,
-      "channel_key": "ritsu",
-      "collab_with": null,
-      "concurrent_viewers": 680,
-      "expires_at": "2026-11-06T15:00:00Z",
-      "first_seen": "2026-11-06T09:42:05Z",
-      "host": null,
-      "id": "pv_9f10fba8",
-      "info_at": null,
-      "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-11-06T13:40:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-06T12:00:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2118640054776270978",
-      "state": "end",
-      "state_since": "2026-11-06T13:15:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/wCdd1XmISYQ/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】",
-      "title_ko": "【실사】드디어 소고기 스키냄비 먹는다!!!! 유메미타 트레카 개봉!!!!【미네츠키 리츠/유메미타】",
-      "url": "https://www.youtube.com/watch?v=wCdd1XmISYQ",
-      "video_id": "wCdd1XmISYQ",
-      "yt_tunein": true
     }
   ]
 }
