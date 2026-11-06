@@ -44,3 +44,6 @@
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T09:30:15Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-11-06T09:30:03Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-06T09:30:26Z", "who": "夢限大みゅーたいぷ"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-06T09:42:05Z", "who": "wCdd1XmISYQ"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_9f10fba8", "result": "ok", "title": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-11-06T09:42:05Z", "video_id": "wCdd1XmISYQ", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · wCdd1XmISYQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:wCdd1XmISYQ", "result": "ok", "title": "【実写】ついに牛すき鍋食べる！！！！ゆめみたトレカ開封！！！！【峰月律/ゆめみた】", "ts": "2026-11-06T09:42:05Z", "video_id": "wCdd1XmISYQ", "who": "ritsu"}
