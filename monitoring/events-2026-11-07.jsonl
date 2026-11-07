@@ -52,3 +52,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T03:38:34Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-07T03:42:11Z", "who": "VGqum7Pskxg"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · VGqum7Pskxg · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:VGqum7Pskxg", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】", "ts": "2026-11-07T03:42:11Z", "video_id": "VGqum7Pskxg", "who": "miyako"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-07T03:50:01Z", "who": ""}
