@@ -187,3 +187,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T11:05:31Z", "who": "仲町あられ"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-07T11:30:53Z", "who": "【#歌枠 】歌を歌うぽんこつゆうとうせい【峰月律/ゆめみた】"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-07T11:30:53Z", "who": "【#歌枠 】歌を歌うぽんこつゆうとうせい【峰月律/ゆめみた】"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_91f93ef4", "result": "ok", "title": "【#歌枠 】歌を歌うぽんこつゆうとうせい【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-07T11:30:53Z", "video_id": "6MiWu8dIUR8", "who": "ritsu"}
