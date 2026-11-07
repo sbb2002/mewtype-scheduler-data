@@ -8,17 +8,22 @@
       "acct": "bang_dream_on",
       "created_at": "2026-11-07T06:06:22Z",
       "current": "행사 배너 — 해당 없음 — 뽑을 이벤트 · 가챠 없음",
+      "done_at": "2026-11-07T06:17:44Z",
+      "engine": "Cloud Vision",
       "id": "ocr_6ca2672f",
       "kind": "banner",
       "last_seen": "2026-11-07T06:06:22Z",
       "media": [
         "https://pbs.twimg.com/media/HWfzuHya0AA-lfX.jpg"
       ],
+      "ocr_preview": "이미지 1  BanG Dream! / Our Notes / 2026年11月7日 15:00 / 19 / X118T21 / 作詞: Ayase / 作曲: Ayase / 編曲: Klas Sylvsky / Ave Mujica / ★カバー楽曲追加! + / 怪物 / ©BDP ©FTK ©BUSHI",
       "raw": "Ave Mujicaの歌うカバー楽曲『怪物』を追加しました🌙\n\nカバー楽曲は「楽曲ショップ」で「楽曲チケット×10」と交換できます💿️ぜひプレイしてみてくださいね！\n\n#バンドリ #アワーノーツ",
       "reason": "Groq 비전 호출 실패",
-      "status": "pending",
+      "result": "행사 배너 — 해당 없음 — 뽑을 이벤트 · 가챠 없음",
+      "status": "done",
       "tag": "p#https://x.com/#1tweet-2118947097340940627",
-      "tweet_url": "https://x.com/i/status/2118947097340940627"
+      "tweet_url": "https://x.com/i/status/2118947097340940627",
+      "units": 1
     }
   ],
   "last_dm_at": "2026-11-07T06:06:22Z",
