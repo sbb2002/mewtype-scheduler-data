@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "본인 예고 미야나가 노노카 (♡🐰今日の出演🩹♡\n\n今日このあと、15:00からはヴァイスシュヴァルツ 特別生)",
-    "at": "2026-11-07T02:28:37Z",
+    "action": "URL 확정 예고 miyako (VGqum7Pskxg)",
+    "at": "2026-11-07T03:50:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "5748d61f6efa60e3b7eb6bd2e7e72beef8f76d2c",
+    "new_sha": "d81df5a8cdaa34bfe462e14eae68cc8abe62a4c4",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-06T14:40:02Z",
+      "generated_at": "2026-11-07T03:50:01Z",
       "items": [
         {
           "actual_start": null,
@@ -133,7 +133,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-06T14:36:35Z",
+          "last_updated": "2026-11-07T03:42:11Z",
           "membership": false,
           "scheduled_start": "2026-11-07T12:00:00Z",
           "source": "api",
@@ -160,7 +160,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-06T14:36:35Z",
+          "last_updated": "2026-11-07T03:42:11Z",
           "membership": false,
           "scheduled_start": "2026-11-07T12:30:00Z",
           "source": "api",
@@ -168,8 +168,8 @@
           "state_since": "2026-11-01T02:30:10Z",
           "thumbnail": "https://i.ytimg.com/vi/VGqum7Pskxg/maxresdefault.jpg?v=6ae69d65",
           "time_tbd": false,
-          "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから4人の美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】",
-          "title_ko": "【零 ～濡鴉의巫女～】#10 방범 카메라로 4명의 미소녀를 지키는 일 하고 있어요(유령으로부터 지키기 위해)【유메미타/후지 미야코】",
+          "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】",
+          "title_ko": "【영 ～젖은 까마귀의 무녀～】#10 방범 카메라로 미소녀를 지키는 일 하고 있습니다(유령으로부터 보호하기)【유메미타/후지 미야코】",
           "url": "https://www.youtube.com/watch?v=VGqum7Pskxg",
           "video_id": "VGqum7Pskxg"
         },
@@ -187,7 +187,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-06T14:36:35Z",
+          "last_updated": "2026-11-07T03:42:11Z",
           "membership": false,
           "scheduled_start": "2026-11-08T12:30:00Z",
           "source": "api",
@@ -214,7 +214,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-06T14:36:35Z",
+          "last_updated": "2026-11-07T03:42:11Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -242,7 +242,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-06T14:36:35Z",
+          "last_updated": "2026-11-07T03:42:11Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -254,6 +254,35 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "nonoka",
+          "collab_with": [],
+          "concurrent_viewers": null,
+          "expires_at": "2026-11-07T09:00:00Z",
+          "first_seen": "2026-11-07T02:28:37Z",
+          "host": null,
+          "id": "pv_bb760760",
+          "info_at": "2026-11-07T02:26:36Z",
+          "info_source": "personal",
+          "kind": "unknown",
+          "last_updated": "2026-11-07T02:28:37Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-11-07T06:00:00Z",
+          "source": "personal",
+          "src_url": "https://x.com/i/status/2118892845604245756",
+          "state": "announced",
+          "state_since": "2026-11-07T02:28:37Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": "https://www.youtube.com/@nonoka_yumemita",
+          "video_id": null
         }
       ]
     }
