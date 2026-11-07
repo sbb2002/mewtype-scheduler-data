@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-07T12:00:46Z",
+  "generated_at": "2026-11-07T12:29:51Z",
   "items": [
     {
       "actual_start": "2026-11-07T12:00:25Z",
@@ -124,7 +124,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": "game",
-      "last_updated": "2026-11-07T12:00:20Z",
+      "last_updated": "2026-11-07T12:29:51Z",
       "membership": false,
       "scheduled_start": "2026-11-07T12:30:00Z",
       "source": "api",
