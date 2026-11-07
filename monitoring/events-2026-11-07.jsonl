@@ -194,3 +194,4 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_6c24a681", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】", "to_state": "watching", "ts": "2026-11-07T12:00:20Z", "video_id": "VGqum7Pskxg", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-07T12:00:46Z", "tweet_id": "2119037329704935604", "via": "ingest", "who": "ritsu"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2119037329704935604", "flow": "tweet", "result": "ok", "ts": "2026-11-07T12:00:46Z", "tweet_id": "2119037329704935604", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T12:01:01Z", "who": "峰月律"}
