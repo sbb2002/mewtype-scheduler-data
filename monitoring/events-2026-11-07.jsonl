@@ -99,3 +99,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 101, "result": "ok", "ts": "2026-11-07T06:02:00Z", "who": ""}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-11-07T06:06:22Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T06:06:30Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-11-07T06:06:22Z", "via": "ingest", "who": "bang_dream_on"}
