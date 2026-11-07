@@ -206,3 +206,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T12:30:00Z", "who": "藤都子"}
 {"detail": "broadcast-change none · 게시물은 오늘 21:30에 시작한다는 안내이며 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-07T12:29:51Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T12:30:25Z", "who": "藤都子"}
+{"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-07T12:30:41Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
