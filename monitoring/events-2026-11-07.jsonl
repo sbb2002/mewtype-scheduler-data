@@ -88,3 +88,4 @@
 {"detail": "broadcast-change none · 게시물은 리허설 성공과 11/07 15:00 예정 방송에 대한 기대를 표현하고 있을 뿐, 방송 취소나 일정 변경을 알리는 내용이 없기 때문입니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-07T05:50:04Z", "via": "ingest", "who": "nonoka"}
 {"detail": "gap-fill · 2118942111555080428 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-07T05:50:04Z", "tweet_id": "2118942111555080428", "via": "ingest", "who": "nonoka"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-07T05:51:09Z", "via": "ingest", "who": "nonoka"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2118942111555080428", "flow": "tweet", "result": "ok", "ts": "2026-11-07T05:51:08Z", "tweet_id": "2118942111555080428", "via": "ingest", "who": "nonoka"}
