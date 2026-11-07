@@ -149,3 +149,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-07T08:50:40Z", "tweet_id": "2118988626382164017", "via": "ingest", "who": "nonoka"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +3분 · 2118988626382164017", "flow": "tweet", "result": "ok", "ts": "2026-11-07T08:50:40Z", "tweet_id": "2118988626382164017", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T08:50:54Z", "who": "宮永ののか🐰🩹"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T08:50:52Z", "who": "宮永ののか🐰🩹"}
