@@ -5907,6 +5907,26 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e5a16a6775",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "♡🐰出演情報🩹♡\n\n11/7 15:00-\n\nあした、おやつの時間に\n🤍ヴァイスシュヴァルツ 特別生配信🖤\n出演します🎶\n「#WS生配信」でキャンペーンもあるって！\n\nおたのしみにください！😍\nよろしくお願いいたします🎶\n\n#WS #ゆめみた",
+        "raw": "リハーサルばっちり🎶\n\nなんとリハーサル中、おどろきました‼️‼️‼️🤩\nたのしみです🥰\n\n #WS生配信  #WS",
+        "tag": "p#https://x.com/#1tweet-2118942111555080428"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 리허설 성공과 11/07 15:00 예정 방송에 대한 기대를 표현하고 있을 뿐, 방송 취소나 일정 변경을 알리는 내용이 없기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-07T05:50:04Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
