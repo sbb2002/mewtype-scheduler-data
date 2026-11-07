@@ -6160,6 +6160,28 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b280b6316d",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/amplify_video_thumb/2118989493575225344/img/GFrvJUHOIJVtqtc8.jpg"
+        ],
+        "raw": "🌙Ave Mujica初イベント🌙\n「移ろう月のサルタティオ」予告 \n\nAve Mujica再デビュー後、次なるマスカレードの構想を練る祥子。そこで紡がれるのは、森の古城の姫を巡る物語。彼女の顔は、見る者によって違っていて……\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2118992384327360715"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 이벤트와 스토리 예고이므로 in_game으로 판단한다. (근거: 「🌙Ave Mujica初イベント🌙」 「「移ろう月のサルタティオ」予告」 「Ave Mujica再デビュー後、次なるマスカレードの構想を練る祥子。そこで紡が」) / 본문에 있는 초기 이벤트 이름만 추출했습니다.",
+      "summary": "행사 배너 — 이미 반영한 글 — 移ろう月のサルタティオ",
+      "ts": "2026-11-07T09:02:10Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
