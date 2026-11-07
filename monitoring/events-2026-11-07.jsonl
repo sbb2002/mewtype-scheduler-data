@@ -184,3 +184,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-07T11:05:18Z", "tweet_id": "2119022846873833881", "via": "ingest", "who": "arale"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +2분 · 2119022846873833881", "flow": "tweet", "result": "ok", "ts": "2026-11-07T11:05:18Z", "tweet_id": "2119022846873833881", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T11:05:32Z", "who": "仲町あられ"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T11:05:31Z", "who": "仲町あられ"}
