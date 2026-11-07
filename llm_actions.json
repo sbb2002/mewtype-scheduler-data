@@ -5888,6 +5888,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0d27a8c66c",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n今夜21:30～ゲーム配信👻\n【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）\nhttps://www.youtube.com/watch?v=VGqum7Pskxg\n\nきょうも美少女を守護るぞ❣\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2118911884581810270"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-07T03:50:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
