@@ -79,3 +79,4 @@
 {"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-11-07T04:30:03Z", "via": "ingest", "who": ""}
 {"detail": "공식 스케줄 · 예고 2건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T04:30:14Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-11-07T04:30:03Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 2건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T04:30:19Z", "who": "夢限大みゅーたいぷ"}
