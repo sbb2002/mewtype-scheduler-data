@@ -6182,6 +6182,58 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_86d2d73307",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HWgrK97WEAAY02M.jpg"
+        ],
+        "raw": "明日15:00より開催✨\n「光降る宮殿のエピソディウムガチャ」\n\n下記のメンバーとスナップが新登場！\n\n【メンバー】\n・SSRモーティス\n・SSRアモーリス\n\n【スナップ】\n・SSRモーティス\n・SSRオブリビオニス\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2118993358194385335"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 가챠 이벤트와 신규 캐릭터·스냅 추가 안내이므로 in_game에 해당한다. (근거: 「明日15:00より開催✨」 「「光降る宮殿のエピソディウムガチャ」」 「下記のメンバーとスナップが新登場！」) / 본문과 이미지에서 가챠 정보를 추출했습니다.",
+      "summary": "행사 배너 갱신 — 光降る宮殿のエピソディウムガチャ",
+      "ts": "2026-11-07T09:06:02Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-17T05:59:00Z",
+              "first_seen": "2026-11-07T09:00:23Z",
+              "gachas": [],
+              "hold": null,
+              "id": "bn_21ebb00a",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HWgpkJAaAAAh-Bb.jpg"
+              ],
+              "last_updated": "2026-11-07T09:02:10Z",
+              "match_keys": [
+                "移ろう月のサルタティオ"
+              ],
+              "name_ja": "移ろう月のサルタティオ",
+              "name_ko": "변하는 달의 살타티오",
+              "src_ids": [
+                "2118991935637741892",
+                "2118992384327360715"
+              ],
+              "start_at": "2026-11-08T06:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_21ebb00a",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
