@@ -5868,6 +5868,26 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_126d1cf89f",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "♡🐰出演情報🩹♡\n\n11/7 15:00-\n\nあした、おやつの時間に\n🤍ヴァイスシュヴァルツ 特別生配信🖤\n出演します🎶\n「#WS生配信」でキャンペーンもあるって！\n\nおたのしみにください！😍\nよろしくお願いいたします🎶\n\n#WS #ゆめみた",
+        "raw": "♡🐰今日の出演🩹♡\n\n今日このあと、15:00からはヴァイスシュヴァルツ 特別生配信！\nおわすれなくね‼️😍🎶\n\n #WS生配信 #WS",
+        "tag": "p#https://x.com/#1tweet-2118892845604245756"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 15:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-07T02:28:37Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
