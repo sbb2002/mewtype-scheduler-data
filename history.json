@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "action": "dismiss_ocr_pending",
+      "error": null,
+      "id": "4436438ae7",
+      "job_id": null,
+      "ok": true,
+      "summary": "",
+      "target": "ocr_6ca2672f",
+      "ts": "2026-11-07T06:18:07Z"
+    },
+    {
       "action": "read_ocr_pending",
       "error": null,
       "id": "aa2bdc8893",
