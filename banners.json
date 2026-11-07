@@ -61,25 +61,36 @@
     {
       "end_at": "2026-11-17T05:59:00Z",
       "first_seen": "2026-11-07T09:00:23Z",
-      "gachas": [],
+      "gachas": [
+        {
+          "end_at": "2026-11-18T05:59:00Z",
+          "id": "gc_186ec567",
+          "image_urls": [],
+          "start_at": "2026-11-08T06:00:00Z",
+          "title_ja": "光降る宮殿のエピソディウムガチャ",
+          "title_ko": "빛이 내리는 궁전의 에피소듐 가챠"
+        }
+      ],
       "hold": null,
       "id": "bn_21ebb00a",
       "image_urls": [
         "https://pbs.twimg.com/media/HWgpkJAaAAAh-Bb.jpg"
       ],
-      "last_updated": "2026-11-07T09:02:10Z",
+      "last_updated": "2026-11-07T09:06:02Z",
       "match_keys": [
-        "移ろう月のサルタティオ"
+        "移ろう月のサルタティオ",
+        "光降る宮殿のエピソディウムガチャ"
       ],
       "name_ja": "移ろう月のサルタティオ",
       "name_ko": "변하는 달의 살타티오",
       "src_ids": [
         "2118991935637741892",
-        "2118992384327360715"
+        "2118992384327360715",
+        "2118993358194385335"
       ],
       "start_at": "2026-11-08T06:00:00Z",
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-11-07T09:02:10Z"
+  "generated_at": "2026-11-07T09:06:02Z"
 }
