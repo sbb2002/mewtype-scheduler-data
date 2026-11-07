@@ -76,3 +76,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2118921827162739026", "flow": "tweet", "result": "ok", "ts": "2026-11-07T04:21:48Z", "tweet_id": "2118921827162739026", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T04:21:57Z", "who": "宮永ののか🐰🩹"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T04:21:56Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added · 파싱 2건", "flow": "relay", "result": "ok", "ts": "2026-11-07T04:30:03Z", "via": "ingest", "who": ""}
