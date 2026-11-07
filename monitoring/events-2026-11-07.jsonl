@@ -63,3 +63,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2118914773110890897", "flow": "tweet", "result": "ok", "ts": "2026-11-07T03:54:36Z", "tweet_id": "2118914773110890897", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T03:54:44Z", "who": "仲町あられ"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T03:54:43Z", "who": "仲町あられ"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-07T04:00:01Z", "who": "group"}
