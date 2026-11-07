@@ -107,3 +107,4 @@
 {"detail": "ocr pending banner · Groq 비전 호출 실패 · ocr_6ca2672f", "flow": "notice", "result": "warn", "ts": "2026-11-07T06:06:22Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T06:07:05Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "/admin", "flow": "cmd", "reply": "🔐 관리 페이지 로그인 링크 (5분 · 1회용 — 열고 「로그인」 버튼)", "result": "ok", "ts": "2026-11-07T06:17:13Z", "who": "/admin"}
+{"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-11-07T06:17:44Z", "via": "ingest", "who": "bang_dream_on"}
