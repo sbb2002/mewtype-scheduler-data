@@ -6447,6 +6447,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2b07cb00b4",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "💜配信よてい💜\n今夜21:30～ゲーム配信👻\n【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）\nhttps://www.youtube.com/watch?v=VGqum7Pskxg\n\nきょうも美少女を守護るぞ❣\n＃みるみやこ",
+        "raw": "はじまる👻💨💨",
+        "tag": "p#https://x.com/#1tweet-2119044644801761569"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:30에 시작한다는 안내이며 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-07T12:29:51Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
