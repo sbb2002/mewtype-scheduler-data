@@ -135,3 +135,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T07:46:49Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-07T07:46:48Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T07:46:54Z", "who": "宮永ののか🐰🩹"}
+{"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-07T07:46:48Z", "via": "ingest", "who": "nonoka"}
