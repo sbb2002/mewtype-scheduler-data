@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-07T11:30:53Z",
+  "generated_at": "2026-11-07T12:00:20Z",
   "items": [
     {
       "actual_start": null,
@@ -124,19 +124,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "game",
-      "last_updated": "2026-11-07T07:00:00Z",
+      "last_updated": "2026-11-07T12:00:20Z",
       "membership": false,
       "scheduled_start": "2026-11-07T12:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2118911884581810270",
-      "state": "upcoming",
-      "state_since": "2026-11-01T02:30:10Z",
+      "state": "watching",
+      "state_since": "2026-11-07T12:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/VGqum7Pskxg/maxresdefault.jpg?v=6ae69d65",
       "time_tbd": false,
       "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】",
       "title_ko": "【영 ～젖은 까마귀의 무녀～】#10 방범 카메라로 미소녀를 지키는 일 하고 있습니다(유령으로부터 보호하기)【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=VGqum7Pskxg",
-      "video_id": "VGqum7Pskxg"
+      "video_id": "VGqum7Pskxg",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
