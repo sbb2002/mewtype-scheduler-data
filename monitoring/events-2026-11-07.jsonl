@@ -232,3 +232,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-07T15:10:00Z", "who": "VGqum7Pskxg"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_6c24a681", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】", "to_state": "end", "ts": "2026-11-07T15:10:00Z", "video_id": "VGqum7Pskxg", "who": "miyako"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · VGqum7Pskxg · 예고 end", "flow": "websub", "merge_key": "websub-notify:VGqum7Pskxg", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】", "ts": "2026-11-07T15:10:22Z", "video_id": "VGqum7Pskxg", "who": "miyako"}
+{"detail": "url-schedule skip: 이미 끝난 방송 VGqum7Pskxg", "flow": "tweet", "result": "ok", "ts": "2026-11-07T15:26:05Z", "via": "ingest", "who": "miyako"}
