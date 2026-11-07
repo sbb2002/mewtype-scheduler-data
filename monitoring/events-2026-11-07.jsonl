@@ -224,3 +224,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-07T13:59:45Z", "tweet_id": "2119067274518896664", "via": "ingest", "who": "nonoka"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2119067274518896664", "flow": "tweet", "result": "ok", "ts": "2026-11-07T13:59:45Z", "tweet_id": "2119067274518896664", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T13:59:54Z", "who": "宮永ののか🐰🩹"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_c48f31c2", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-07T13:59:45Z", "video_id": null, "who": "nonoka"}
