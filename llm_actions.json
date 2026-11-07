@@ -6319,6 +6319,28 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_755782048b",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HWgrTJXa0AEq40I.jpg"
+        ],
+        "raw": "明日15:00より開催🎉\nチャレンジライブイベント「移ろう月のサルタティオ」\n\nイベント報酬で手に入る、SRメンバードロリスのイラストを紹介🌙\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2118993861402104264"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 라이브 이벤트와 보상 아이템에 대한 안내이므로 게임 앱 안의 일이다. (근거: 「明日15:00より開催🎉」 「チャレンジライブイベント「移ろう月のサルタティオ」」 「イベント報酬で手に入る、SRメンバードロリスのイラストを紹介🌙」) / 본문에 명시된 인게임 이벤트를 추출함",
+      "summary": "행사 배너 — 이미 반영한 글 — 移ろう月のサルタティオ",
+      "ts": "2026-11-07T09:08:01Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
