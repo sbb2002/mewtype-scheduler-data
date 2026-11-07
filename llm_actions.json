@@ -6467,6 +6467,32 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_610752eef5",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信予定🩹♡\n\n11/8 11:00- 魔法少女ノ魔女裁判\n\nあしたおひる！！！！\nまのさばつづきやります！！\n\nまだおもしろくなるのかよ！\nたのしみですね🎶\nよろしく🎶\nおきます🎶\n\n#ののちゃんたいむ #まのさば",
+        "tag": "p#https://x.com/#1tweet-2119067274518896664"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信予定\"이라고 명시하고 날짜·시각(11/8 11:00)을 함께 적어 앞으로 할 방송을 알리는 예고이기 때문입니다. (근거: 「♡🐰配信予定🩹♡\n\n11/8 11:00- 魔法少女ノ魔女裁判」)",
+      "summary": "본인 예고로 등록 — 11:00 JST · ♡🐰配信予定🩹♡\n\n11/8 11:00- 魔法少女ノ魔女裁判\n\nあしたおひる！",
+      "ts": "2026-11-07T13:59:45Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_c48f31c2"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
