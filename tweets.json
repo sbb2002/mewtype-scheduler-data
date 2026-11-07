@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:05:18Z",
+  "generated_at": "2026-11-07T12:00:46Z",
   "tweets": {
     "arale": [
       {
@@ -394,6 +394,26 @@
         "text": "これ今見たら面白い\n右が私です 食べ過ぎじゃないですか\n味噌汁もおかわりしました",
         "text_ko": "이거 지금 보면 재밌어\n오른쪽이 나야, 너무 많이 안 먹었어?\n된장국도 리필했어",
         "url": "https://x.com/i/status/2118974174966485165"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-09T12:00:43Z",
+        "handle": "ritsu_yumemita",
+        "id": "2119037329704935604",
+        "media": [],
+        "posted_at": "2026-11-07T12:00:43Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HWgR-Vwa4AAu4sa.jpg"
+          ],
+          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日21:00~\n歌を歌う日(≡^.^≡)♪\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/6MiWu8dIUR8?si=EDqhVQH9G7N7kqbW\n\n🩵 ･･････････････････････ 🩵",
+          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵 \n\n오늘 21:00~\n노래 부르는 날(≡^.^≡)♪\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/6MiWu8dIUR8?si=EDqhVQH9G7N7kqbW\n\n🩵 ･･････････････････････ 🩵"
+        },
+        "received_at": "2026-11-07T12:00:46Z",
+        "reply_to_id": null,
+        "text": "ハジメマス",
+        "text_ko": "시작합니다",
+        "url": "https://x.com/i/status/2119037329704935604"
       }
     ],
     "yuno": [
