@@ -6256,6 +6256,69 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4b24924988",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HWgrTJXa0AEq40I.jpg"
+        ],
+        "raw": "明日15:00より開催🎉\nチャレンジライブイベント「移ろう月のサルタティオ」\n\nイベント報酬で手に入る、SRメンバードロリスのイラストを紹介🌙\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2118993861402104264"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 라이브 이벤트와 보상 아이템에 대한 안내이므로 게임 앱 안의 일이다. (근거: 「明日15:00より開催🎉」 「チャレンジライブイベント「移ろう月のサルタティオ」」 「イベント報酬で手に入る、SRメンバードロリスのイラストを紹介🌙」) / 본문에 있는 인게임 이벤트만 추출했습니다.",
+      "summary": "행사 배너 갱신 — 移ろう月のサルタティオ",
+      "ts": "2026-11-07T09:08:01Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-17T05:59:00Z",
+              "first_seen": "2026-11-07T09:00:23Z",
+              "gachas": [
+                {
+                  "end_at": "2026-11-18T05:59:00Z",
+                  "id": "gc_186ec567",
+                  "image_urls": [],
+                  "start_at": "2026-11-08T06:00:00Z",
+                  "title_ja": "光降る宮殿のエピソディウムガチャ",
+                  "title_ko": "빛이 내리는 궁전의 에피소듐 가챠"
+                }
+              ],
+              "hold": null,
+              "id": "bn_21ebb00a",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HWgpkJAaAAAh-Bb.jpg"
+              ],
+              "last_updated": "2026-11-07T09:06:02Z",
+              "match_keys": [
+                "移ろう月のサルタティオ",
+                "光降る宮殿のエピソディウムガチャ"
+              ],
+              "name_ja": "移ろう月のサルタティオ",
+              "name_ko": "변하는 달의 살타티오",
+              "src_ids": [
+                "2118991935637741892",
+                "2118992384327360715",
+                "2118993358194385335"
+              ],
+              "start_at": "2026-11-08T06:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_21ebb00a",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
