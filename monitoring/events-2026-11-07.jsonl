@@ -208,3 +208,5 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T12:30:25Z", "who": "藤都子"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-07T12:30:41Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-07T12:30:41Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-07T12:30:41Z", "who": "VGqum7Pskxg"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_6c24a681", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃10 防犯カメラから美少女を見守る仕事をしています（幽霊から守るため）【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-11-07T12:30:41Z", "video_id": "VGqum7Pskxg", "who": "miyako"}
