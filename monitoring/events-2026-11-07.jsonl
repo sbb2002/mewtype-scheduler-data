@@ -55,3 +55,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-07T03:50:01Z", "who": ""}
 {"detail": "broadcast-change none · 게시물은 오늘 21:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-07T03:50:06Z", "via": "ingest", "who": "miyako"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2118911884581810270", "flow": "tweet", "result": "ok", "ts": "2026-11-07T03:50:24Z", "tweet_id": "2118911884581810270", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T03:50:28Z", "who": "藤都子"}
