@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 miyako (VGqum7Pskxg)",
-    "at": "2026-11-07T03:50:06Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-11-07T04:30:03Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "d81df5a8cdaa34bfe462e14eae68cc8abe62a4c4",
+    "new_sha": "496379f703842332358fa0c724a6dcae58f1e3e3",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-07T03:50:01Z",
+      "generated_at": "2026-11-07T03:50:06Z",
       "items": [
         {
           "actual_start": null,
@@ -160,10 +160,11 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-07T03:42:11Z",
+          "last_updated": "2026-11-07T03:50:06Z",
           "membership": false,
           "scheduled_start": "2026-11-07T12:30:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2118911884581810270",
           "state": "upcoming",
           "state_since": "2026-11-01T02:30:10Z",
           "thumbnail": "https://i.ytimg.com/vi/VGqum7Pskxg/maxresdefault.jpg?v=6ae69d65",
