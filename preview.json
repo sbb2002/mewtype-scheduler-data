@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-07T03:50:06Z",
+  "generated_at": "2026-11-07T04:30:03Z",
   "items": [
     {
       "actual_start": null,
@@ -94,11 +94,12 @@
       "id": "pv_91f93ef4",
       "info_at": null,
       "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-11-07T03:42:11Z",
+      "kind": "unknown",
+      "last_updated": "2026-11-07T04:30:03Z",
       "membership": false,
       "scheduled_start": "2026-11-07T12:00:00Z",
       "source": "api",
+      "src_url": "https://x.com/i/status/2118923901854167204",
       "state": "upcoming",
       "state_since": "2026-11-06T14:36:35Z",
       "thumbnail": "https://i.ytimg.com/vi/6MiWu8dIUR8/maxresdefault.jpg?v=6aede5b6",
@@ -121,8 +122,8 @@
       "id": "pv_6c24a681",
       "info_at": null,
       "info_source": "api",
-      "kind": null,
-      "last_updated": "2026-11-07T03:50:06Z",
+      "kind": "game",
+      "last_updated": "2026-11-07T04:30:03Z",
       "membership": false,
       "scheduled_start": "2026-11-07T12:30:00Z",
       "source": "api",
