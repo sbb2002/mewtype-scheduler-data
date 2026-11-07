@@ -46,3 +46,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2118902796644970943", "flow": "tweet", "result": "ok", "ts": "2026-11-07T03:06:11Z", "tweet_id": "2118902796644970943", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T03:06:19Z", "who": "宮永ののか🐰🩹"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T03:06:18Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @wstcg 의 글", "flow": "relay", "result": "ok", "ts": "2026-11-07T03:38:27Z", "via": "ingest", "who": ""}
