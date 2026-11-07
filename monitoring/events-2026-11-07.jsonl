@@ -123,3 +123,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-07T07:06:58Z", "tweet_id": "2118963391909986721", "via": "ingest", "who": "ritsu"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2118963391909986721", "flow": "tweet", "result": "ok", "ts": "2026-11-07T07:06:58Z", "tweet_id": "2118963391909986721", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-07T07:07:07Z", "who": "峰月律"}
+{"detail": "broadcast-change none · 예고 글이며 일정 변경이나 취소를 알리는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-07T07:06:58Z", "via": "ingest", "who": "ritsu"}
