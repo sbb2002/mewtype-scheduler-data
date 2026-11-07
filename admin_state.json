@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-11-07T04:30:03Z",
+    "action": "URL 확정 예고 ritsu (6MiWu8dIUR8)",
+    "at": "2026-11-07T07:06:58Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "496379f703842332358fa0c724a6dcae58f1e3e3",
+    "new_sha": "5cb467b7e79f3f6115a5893f40a358c7f1954219",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-07T03:50:06Z",
+      "generated_at": "2026-11-07T07:00:00Z",
       "items": [
         {
           "actual_start": null,
@@ -132,11 +132,12 @@
           "id": "pv_91f93ef4",
           "info_at": null,
           "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-11-07T03:42:11Z",
+          "kind": "unknown",
+          "last_updated": "2026-11-07T07:00:00Z",
           "membership": false,
           "scheduled_start": "2026-11-07T12:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2118923901854167204",
           "state": "upcoming",
           "state_since": "2026-11-06T14:36:35Z",
           "thumbnail": "https://i.ytimg.com/vi/6MiWu8dIUR8/maxresdefault.jpg?v=6aede5b6",
@@ -159,8 +160,8 @@
           "id": "pv_6c24a681",
           "info_at": null,
           "info_source": "api",
-          "kind": null,
-          "last_updated": "2026-11-07T03:50:06Z",
+          "kind": "game",
+          "last_updated": "2026-11-07T07:00:00Z",
           "membership": false,
           "scheduled_start": "2026-11-07T12:30:00Z",
           "source": "api",
@@ -188,7 +189,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-07T03:42:11Z",
+          "last_updated": "2026-11-07T07:00:00Z",
           "membership": false,
           "scheduled_start": "2026-11-08T12:30:00Z",
           "source": "api",
@@ -215,7 +216,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-07T03:42:11Z",
+          "last_updated": "2026-11-07T07:00:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -243,7 +244,7 @@
           "info_at": null,
           "info_source": "api",
           "kind": null,
-          "last_updated": "2026-11-07T03:42:11Z",
+          "last_updated": "2026-11-07T07:00:00Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -255,35 +256,6 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
-        },
-        {
-          "actual_start": null,
-          "api_start_seen": null,
-          "assumed_live": false,
-          "channel_key": "nonoka",
-          "collab_with": [],
-          "concurrent_viewers": null,
-          "expires_at": "2026-11-07T09:00:00Z",
-          "first_seen": "2026-11-07T02:28:37Z",
-          "host": null,
-          "id": "pv_bb760760",
-          "info_at": "2026-11-07T02:26:36Z",
-          "info_source": "personal",
-          "kind": "unknown",
-          "last_updated": "2026-11-07T02:28:37Z",
-          "membership": false,
-          "needs_tl": false,
-          "scheduled_start": "2026-11-07T06:00:00Z",
-          "source": "personal",
-          "src_url": "https://x.com/i/status/2118892845604245756",
-          "state": "announced",
-          "state_since": "2026-11-07T02:28:37Z",
-          "thumbnail": null,
-          "time_tbd": false,
-          "title": null,
-          "title_ko": null,
-          "url": "https://www.youtube.com/@nonoka_yumemita",
-          "video_id": null
         }
       ]
     }
