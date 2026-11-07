@@ -57,7 +57,28 @@
       ],
       "start_at": "2026-10-28T03:00:00Z",
       "start_time_tbd": null
+    },
+    {
+      "end_at": "2026-11-17T05:59:00Z",
+      "first_seen": "2026-11-07T09:00:23Z",
+      "gachas": [],
+      "hold": null,
+      "id": "bn_21ebb00a",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HWgpkJAaAAAh-Bb.jpg"
+      ],
+      "last_updated": "2026-11-07T09:00:23Z",
+      "match_keys": [
+        "移ろう月のサルタティオ"
+      ],
+      "name_ja": "移ろう月のサルタティオ",
+      "name_ko": "변하는 달의 살타티오",
+      "src_ids": [
+        "2118991935637741892"
+      ],
+      "start_at": "2026-11-08T06:00:00Z",
+      "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-11-06T03:06:58Z"
+  "generated_at": "2026-11-07T09:00:23Z"
 }
