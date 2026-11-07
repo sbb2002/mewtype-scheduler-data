@@ -2,3 +2,4 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-07T21:00:09Z", "who": "group"}
 {"detail": "보관함 정리 tweet · 21건 → tweet_archive/2026-10-31.json, tweet_archive/2026-11-01.json · 캐시 57KB", "flow": "archive", "result": "ok", "ts": "2026-11-07T21:10:00Z", "who": ""}
 {"detail": "보관함 정리 notice · 2건 → notice_archive/2026-09-29.json, notice_archive/2026-09-30.json · 캐시 78KB", "flow": "archive", "result": "ok", "ts": "2026-11-07T21:10:00Z", "who": ""}
+{"detail": "보관함 정리 llm · 14건 → llm_actions/2026-10-17.json · 캐시 314KB", "flow": "archive", "result": "ok", "ts": "2026-11-07T21:10:00Z", "who": ""}
