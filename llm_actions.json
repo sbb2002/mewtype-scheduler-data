@@ -6427,6 +6427,26 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6355dd62e5",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日21:00~\n歌を歌う日(≡^.^≡)♪\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/6MiWu8dIUR8?si=EDqhVQH9G7N7kqbW\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "ハジメマス",
+        "tag": "p#https://x.com/#1tweet-2119037329704935604"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:00에 노래 방송을 진행한다는 예고이며, 취소나 일정 변경을 알리는 내용이 없기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-07T12:00:46Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
