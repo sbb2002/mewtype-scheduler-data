@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:26:05Z",
+  "generated_at": "2026-11-08T10:45:04Z",
   "tweets": {
     "arale": [
       {
@@ -79,6 +79,28 @@
         "text": "＼ 그랜드？ ／",
         "text_ko": "＼ 그랜드? ／",
         "url": "https://x.com/i/status/2119345030481739912"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-10T10:37:38Z",
+        "handle": "arale_yumemita",
+        "id": "2119378808302399969",
+        "media": [
+          "https://pbs.twimg.com/media/HWmLyn0acAAD7YT.jpg"
+        ],
+        "posted_at": "2026-11-08T10:37:38Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HWmCixVaoAAmo3k.jpg"
+          ],
+          "text": "【ILLUSTAR WEEK Vol.1】\n\nに夢限大みゅーたいぷより 仲町あられ、千石ユノが出演いたしました！  \n\nご参加・ご声援いただき、ありがとうございました✨\n\n#バンドリ #ILLUSTARWEEK",
+          "text_ko": "【ILLUSTAR WEEK Vol.1】\n\n에 무겐다이 뮤타입보다 나카마치 아라레, 센고쿠 유노가 출연했습니다!  \n\n참가와 응원 감사드립니다✨  \n\n#뱅드림 #ILLUSTARWEEK"
+        },
+        "received_at": "2026-11-08T10:45:04Z",
+        "reply_to_id": null,
+        "text": "ILLUSTAR WEEK Vol.1\n2日目、ありがとうございました✨️\n\n今日のトークショーでは韓国観光のお話🇰🇷\n実はﾏﾏ町についてってソウル旅行に何度か来たことあるんだけど、釜山(ﾌﾟｻﾝ)でおいし〜い海鮮食べたいなぁ…🐟✨️\n\nサイン会も楽しかったです！✨\n️고마워요💖\n\n#ILLUSTARWEEK",
+        "text_ko": "ILLUSTAR WEEK Vol.1\n2일차, 감사합니다✨️\n\n오늘 토크쇼에서는 한국 관광 이야기를 했어요🇰🇷\n사실 마마마치에 대해서라... 서울 여행에 몇 번 왔는데, 부산(プサン)에서 맛있는 해산물을 먹고 싶어요…🐟✨️\n\n사인회도 즐거웠어요!✨\n고마워요💖\n\n#ILLUSTARWEEK",
+        "url": "https://x.com/i/status/2119378808302399969"
       }
     ],
     "miyako": [
