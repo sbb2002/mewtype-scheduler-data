@@ -186,3 +186,4 @@
 {"detail": "broadcast-change none · 게시물은 11/8(일) 21:30에 진행될 예정인 새로운 작곡 방송을 알리는 내용이며, 제시된 방송 목록의 11/9 07:00 또는 11/11 22:00 방송과는 관련이 없으므로 취소나 일정 변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:46:30Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T13:47:05Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:48:53Z", "tweet_id": "2119426576295338420", "via": "ingest", "who": "miyako"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +1분 · 2119426576295338420", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:48:53Z", "tweet_id": "2119426576295338420", "via": "ingest", "who": "miyako"}
