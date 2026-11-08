@@ -167,3 +167,4 @@
 {"detail": "gap-fill · 2119407362448728405 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-08T12:39:05Z", "tweet_id": "2119407362448728405", "via": "ingest", "who": "miyako"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-08T12:54:22Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-08T12:54:22Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +23분 · 2119407362448728405", "flow": "tweet", "result": "ok", "ts": "2026-11-08T12:54:22Z", "tweet_id": "2119407362448728405", "via": "ingest", "who": "miyako"}
