@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:05:00Z",
+  "generated_at": "2026-11-08T14:50:00Z",
   "items": [
     {
       "actual_start": "2026-11-01T02:15:18Z",
@@ -448,6 +448,37 @@
       "title_ko": "【작곡 방송】포마에의 영혼 멜로디를 연주해❣season4‑2🎵【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=0ldvPXYnrtY",
       "video_id": "0ldvPXYnrtY",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-08T12:00:59Z",
+      "announced_start": "2026-11-08T12:00:00Z",
+      "api_start_seen": "2026-11-08T12:00:00Z",
+      "archived_at": "2026-11-08T14:50:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 755,
+      "expires_at": "2026-11-08T15:00:00Z",
+      "first_seen": "2026-11-08T06:35:53Z",
+      "host": null,
+      "id": "pv_d395c84b",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-11-08T14:50:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-08T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2119318067620786187",
+      "state": "out",
+      "state_since": "2026-11-08T14:50:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/d1k53WJd6e4/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】",
+      "title_ko": "【리츠의 인생】인생 하고 싶은 일 리스트 만들기!【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=d1k53WJd6e4",
+      "video_id": "d1k53WJd6e4",
       "yt_tunein": true
     }
   ]
