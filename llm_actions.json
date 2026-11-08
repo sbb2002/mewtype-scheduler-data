@@ -6578,6 +6578,25 @@
       },
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f226c6fccd",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/9（月）7:00~朝活☀\n縦型配信につきURLは直前についーよ🔔\n\nあしたのあさ、さむさむにまけずに\nぽふとんをめくりあげなさい❣\nぽやしみ～🐶💤",
+        "tag": "p#https://x.com/#1tweet-2119426576295338420"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/9 7시 방송을 예고하는 내용이며, 취소나 일정 변경을 알리는 표현이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-08T13:48:53Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
