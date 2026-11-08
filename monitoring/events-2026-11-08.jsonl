@@ -127,3 +127,4 @@
 {"detail": "live_info: 공연일 못 정함 — 「공연일 미정」 으로 올라감 · YMMTric COUNTER POINT", "flow": "notice", "result": "warn", "ts": "2026-11-08T10:04:45Z", "via": "ingest", "who": ""}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2119369335588487437", "result": "ok", "ts": "2026-11-08T10:04:45Z", "via": "ingest", "who": ""}
 {"detail": "mode: dup", "flow": "notice", "notice_id": "2119369335588487437", "result": "ok", "ts": "2026-11-08T10:04:36Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-08T10:04:36Z", "via": "ingest", "who": ""}
