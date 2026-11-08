@@ -64,3 +64,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T02:41:02Z", "who": "藤都子"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T02:50:00Z", "who": "2BVXWlRP5EQ"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-08T02:50:06Z", "who": ""}
+{"action": "notify", "count": 1, "detail": "알림 수신 · 2BVXWlRP5EQ · 예고 live", "flow": "websub", "merge_key": "websub-notify:2BVXWlRP5EQ", "result": "ok", "title": "# 10【魔法少女ノ魔女裁判】第六話！？かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "ts": "2026-11-08T02:50:15Z", "video_id": "2BVXWlRP5EQ", "who": "nonoka"}
