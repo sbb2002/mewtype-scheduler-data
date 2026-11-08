@@ -6526,6 +6526,58 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a01698cae6",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/9（月）7:00~朝活☀\n縦型配信につきURLは直前についーよ🔔\n\nあしたのあさ、さむさむにまけずに\nぽふとんをめくりあげなさい❣\nぽやしみ～🐶💤",
+        "tag": "p#https://x.com/#1tweet-2119426576295338420"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信よてい\"와 구체적인 날짜·시간(11/9 월 7:00)을 함께 적어 앞으로 할 방송을 알리는 예고이기 때문입니다. (근거: 「配信よてい\n11/9（月）7:00~」)",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n11/9（月）7:00~朝活☀\n縦型配信につきURLは直前につい",
+      "ts": "2026-11-08T13:48:53Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "miyako",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-09T01:00:00Z",
+            "first_seen": "2026-11-08T01:25:02Z",
+            "host": null,
+            "id": "pv_c7fbe69f",
+            "info_at": "2026-11-08T01:25:02Z",
+            "info_source": "x-relay",
+            "kind": "morning",
+            "last_updated": "2026-11-08T01:25:02Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-08T22:00:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2119218342108213255",
+            "state": "announced",
+            "state_since": "2026-11-08T01:25:02Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
