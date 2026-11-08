@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:40:00Z",
+  "generated_at": "2026-11-08T14:05:00Z",
   "items": [
     {
       "actual_start": "2026-11-01T02:15:18Z",
@@ -419,6 +419,36 @@
       "title_ko": "# 10【마법소녀노마녀재판】제6화!? 귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバ레",
       "url": "https://www.youtube.com/watch?v=2BVXWlRP5EQ",
       "video_id": "2BVXWlRP5EQ"
+    },
+    {
+      "actual_start": "2026-11-08T12:30:12Z",
+      "api_start_seen": "2026-11-08T12:30:00Z",
+      "archived_at": "2026-11-08T14:05:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 376,
+      "expires_at": "2026-11-08T15:30:00Z",
+      "first_seen": "2026-11-01T02:06:58Z",
+      "host": null,
+      "id": "pv_dc4f01a8",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "unknown",
+      "last_updated": "2026-11-08T14:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-08T12:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2119218342108213255",
+      "state": "out",
+      "state_since": "2026-11-08T14:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/0ldvPXYnrtY/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【作曲配信】ぽまえの魂のめろでぃをかなでろ❣season4‐2🎵【ゆめみた/藤都子】",
+      "title_ko": "【작곡 방송】포마에의 영혼 멜로디를 연주해❣season4‑2🎵【유메미타/후지 미야코】",
+      "url": "https://www.youtube.com/watch?v=0ldvPXYnrtY",
+      "video_id": "0ldvPXYnrtY",
+      "yt_tunein": true
     }
   ]
 }
