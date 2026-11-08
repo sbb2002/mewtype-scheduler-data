@@ -6425,6 +6425,28 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c0c7a7372b",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HWlKtPmbAAA1RGD.jpg"
+        ],
+        "raw": "11月8日(日)15:00より開催中✨\n「光降る宮殿のエピソディウムガチャ」\n\n下記のメンバーとスナップが新登場！\n\n【メンバー】\n・SSRモーティス\n・SSRアモーリス\n\n【スナップ】\n・SSRモーティス\n・SSRオブリビオニス\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2119311304192324048"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 가챠 이벤트를 알리는 내용이므로 in_game이다. (근거: 「「光降る宮殿のエピソディウムガチャ」」 「下記のメンバーとスナップが新登場！」 「※詳細はお知らせをご確認ください。」) / 본문과 이미지에서 가챠 정보를 추출했습니다.",
+      "summary": "행사 배너 — 이미 반영한 글 — 光降る宮殿のエピソディウムガチャ",
+      "ts": "2026-11-08T06:29:48Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
