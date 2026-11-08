@@ -178,3 +178,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T13:40:00Z", "who": "d1k53WJd6e4"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:46:30Z", "tweet_id": "2119424505957458423", "via": "ingest", "who": "miyako"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +7분 · 2119424505957458423", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:46:30Z", "tweet_id": "2119424505957458423", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T13:46:43Z", "who": "藤都子"}
