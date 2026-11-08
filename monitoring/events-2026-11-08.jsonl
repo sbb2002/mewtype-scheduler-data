@@ -24,3 +24,4 @@
 {"detail": "공식 스케줄 · 예고 4건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T01:25:22Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T01:48:40Z", "tweet_id": "2119245680141291530", "via": "ingest", "who": "nonoka"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2119245680141291530", "flow": "tweet", "result": "ok", "ts": "2026-11-08T01:48:40Z", "tweet_id": "2119245680141291530", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T01:48:48Z", "who": "宮永ののか🐰🩹"}
