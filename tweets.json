@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:18:27Z",
+  "generated_at": "2026-11-08T22:08:05Z",
   "tweets": {
     "arale": [
       {
@@ -283,6 +283,28 @@
         "text": "💜配信よてい💜\n11/9（月）7:00〜朝活☀\n縦型配信につきURLは直前についーよ🔔\n\nあしたのあさ、さむさむにまけずに\nぽふとんをめくりあげなさい❣\nぽやしみ〜🐶💤",
         "text_ko": "💜방송 예정💜\n11/9(월) 7:00~아침 활동☀\n세로형 방송이라 URL은 직전에 트위터에 올릴게🔔\n\n내일 아침, 추위에 지지 말고\n이불을 걷어올려라❣\n포야시미~🐶💤",
         "url": "https://x.com/i/status/2119426576295338420"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-10T22:00:55Z",
+        "handle": "miyako_yumemita",
+        "id": "2119550762045133112",
+        "media": [
+          "https://pbs.twimg.com/card_img/2119550765857693696/EG-lur5e?format=jpg&name=800x419"
+        ],
+        "posted_at": "2026-11-08T22:00:55Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HWm3NCLbwAA_HEj.jpg"
+          ],
+          "text": "💜配信よてい💜\n11/9（月）7:00~朝活☀\n縦型配信につきURLは直前についーよ🔔\n\nあしたのあさ、さむさむにまけずに\nぽふとんをめくりあげなさい❣\nぽやしみ～🐶💤",
+          "text_ko": "💜방송 예정💜\n11/9(월) 7:00~아침 활동☀\n세로형 방송이라 URL은 직전에 트위터에 올릴게🔔\n\n내일 아침, 추위에 지지 말고\n이불을 걷어올려라❣\n포야시미~🐶💤"
+        },
+        "received_at": "2026-11-08T22:08:05Z",
+        "reply_to_id": null,
+        "text": "ぽはよ〜〜ごぜえます☀\n配信はじまる♪\nhttps://www.youtube.com/watch?v=poyBmu8bv1A",
+        "text_ko": "안녕~ 왔어요☀\n방송 시작♪ \nhttps://www.youtube.com/watch?v=poyBmu8bv1A",
+        "url": "https://x.com/i/status/2119550762045133112"
       }
     ],
     "nonoka": [
