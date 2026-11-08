@@ -133,6 +133,34 @@
       ],
       "start_at": "2026-10-18T06:00:00Z",
       "start_time_tbd": null
+    },
+    {
+      "archived_at": "2026-11-08T06:08:25Z",
+      "archived_reason": "ended",
+      "end_at": "2026-11-07T05:59:00Z",
+      "first_seen": "2026-10-26T11:17:12Z",
+      "gachas": [],
+      "hold": null,
+      "id": "bn_de1cf3d5",
+      "image_urls": [
+        "https://pbs.twimg.com/media/HVjU2HKbkAA7xbn.jpg",
+        "https://pbs.twimg.com/media/HVr0ReJbAAACfnl.jpg"
+      ],
+      "last_updated": "2026-11-06T03:06:58Z",
+      "match_keys": [
+        "aday#halloweensnap"
+      ],
+      "name_ja": "A day〜#HalloweenSnap〜",
+      "name_ko": "A day〜#HalloweenSnap〜",
+      "src_ids": [
+        "2114677715018383769",
+        "2115037800735412645",
+        "2115038307025670524",
+        "2115280006775767155",
+        "2118538863417217159"
+      ],
+      "start_at": "2026-10-28T03:00:00Z",
+      "start_time_tbd": null
     }
   ]
 }
