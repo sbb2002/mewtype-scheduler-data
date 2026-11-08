@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:37:36Z",
+  "generated_at": "2026-11-08T06:39:17Z",
   "tweets": {
     "arale": [
       {
@@ -481,6 +481,22 @@
         "text": "ハジメマス",
         "text_ko": "시작합니다",
         "url": "https://x.com/i/status/2119037329704935604"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-10T06:36:17Z",
+        "handle": "ritsu_yumemita",
+        "id": "2119318067620786187",
+        "media": [
+          "https://pbs.twimg.com/media/HWlUhZ2bsAATPtC.jpg"
+        ],
+        "posted_at": "2026-11-08T06:36:17Z",
+        "quote": null,
+        "received_at": "2026-11-08T06:39:17Z",
+        "reply_to_id": null,
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n11/08\n　𝗦𝗧𝗔𝗥𝗧 21:00〜\n【律の人生】人生やりたいことリスト作る！\n\n↻ ＵＲＬ\nhttps://youtube.com/live/d1k53WJd6e4?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n11/08\n　START 21:00〜\n【리츠의 인생】인생 하고 싶은 일 리스트 만들기!\n\n↻ URL\nhttps://youtube.com/live/d1k53WJd6e4?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2119318067620786187"
       }
     ],
     "yuno": [
