@@ -177,3 +177,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · 0ldvPXYnrtY · 예고 end", "flow": "websub", "merge_key": "websub-notify:0ldvPXYnrtY", "result": "ok", "title": "【作曲配信】ぽまえの魂のめろでぃをかなでろ❣season4‐2🎵【ゆめみた/藤都子】", "ts": "2026-11-08T13:35:32Z", "video_id": "0ldvPXYnrtY", "who": "miyako"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T13:40:00Z", "who": "d1k53WJd6e4"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:46:30Z", "tweet_id": "2119424505957458423", "via": "ingest", "who": "miyako"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +7분 · 2119424505957458423", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:46:30Z", "tweet_id": "2119424505957458423", "via": "ingest", "who": "miyako"}
