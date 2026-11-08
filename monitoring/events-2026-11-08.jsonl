@@ -187,3 +187,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T13:47:05Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:48:53Z", "tweet_id": "2119426576295338420", "via": "ingest", "who": "miyako"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +1분 · 2119426576295338420", "flow": "tweet", "result": "ok", "ts": "2026-11-08T13:48:53Z", "tweet_id": "2119426576295338420", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T13:49:02Z", "who": "藤都子"}
