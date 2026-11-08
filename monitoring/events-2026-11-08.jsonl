@@ -32,3 +32,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 101, "result": "ok", "ts": "2026-11-08T02:17:00Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:22:15Z", "tweet_id": "2119254131680666108", "via": "ingest", "who": "miyako"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2119254131680666108", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:22:15Z", "tweet_id": "2119254131680666108", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T02:22:24Z", "who": "藤都子"}
