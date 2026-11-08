@@ -6466,6 +6466,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b4abcfb0f3",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n11/08\n　𝗦𝗧𝗔𝗥𝗧 21:00～\n【律の人生】人生やりたいことリスト作る！\n\n↻ ＵＲＬ\nhttps://youtube.com/live/d1k53WJd6e4?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "やるよーーー♡",
+        "tag": "p#https://x.com/#1tweet-2119399854904693002"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 \"やるよーーー♡\" 라는 진행 의사 표현만 있어 방송 취소나 일정 변경을 알리는 내용이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-08T12:02:31Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
