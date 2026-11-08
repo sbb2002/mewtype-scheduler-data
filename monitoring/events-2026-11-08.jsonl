@@ -145,3 +145,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T11:05:04Z", "who": "宮永ののか🐰🩹"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-08T11:30:43Z", "who": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-08T11:30:43Z", "who": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_d395c84b", "result": "ok", "title": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-08T11:30:43Z", "video_id": "d1k53WJd6e4", "who": "ritsu"}
