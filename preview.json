@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-08T09:40:00Z",
+  "generated_at": "2026-11-08T11:30:43Z",
   "items": [
     {
       "actual_start": null,
@@ -96,19 +96,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-08T09:40:00Z",
+      "last_updated": "2026-11-08T11:30:43Z",
       "membership": false,
       "scheduled_start": "2026-11-08T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2119318067620786187",
-      "state": "upcoming",
-      "state_since": "2026-11-08T06:35:53Z",
+      "state": "watching",
+      "state_since": "2026-11-08T11:30:43Z",
       "thumbnail": "https://i.ytimg.com/vi/d1k53WJd6e4/maxresdefault.jpg?v=6af0180c",
       "time_tbd": false,
       "title": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】",
       "title_ko": "【리츠의 인생】인생 하고 싶은 일 리스트 만들기!【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=d1k53WJd6e4",
-      "video_id": "d1k53WJd6e4"
+      "video_id": "d1k53WJd6e4",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
