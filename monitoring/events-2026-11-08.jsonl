@@ -136,3 +136,4 @@
 {"detail": "gap-fill · 2119378808302399969 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-08T10:45:04Z", "tweet_id": "2119378808302399969", "via": "ingest", "who": "arale"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-08T11:00:01Z", "who": "group"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +27분 · 2119378808302399969", "flow": "tweet", "result": "ok", "ts": "2026-11-08T11:04:46Z", "tweet_id": "2119378808302399969", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T11:04:49Z", "who": "仲町あられ"}
