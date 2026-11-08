@@ -33,32 +33,6 @@
       "start_time_tbd": null
     },
     {
-      "end_at": "2026-11-07T05:59:00Z",
-      "first_seen": "2026-10-26T11:17:12Z",
-      "gachas": [],
-      "hold": null,
-      "id": "bn_de1cf3d5",
-      "image_urls": [
-        "https://pbs.twimg.com/media/HVjU2HKbkAA7xbn.jpg",
-        "https://pbs.twimg.com/media/HVr0ReJbAAACfnl.jpg"
-      ],
-      "last_updated": "2026-11-06T03:06:58Z",
-      "match_keys": [
-        "aday#halloweensnap"
-      ],
-      "name_ja": "A day〜#HalloweenSnap〜",
-      "name_ko": "A day〜#HalloweenSnap〜",
-      "src_ids": [
-        "2114677715018383769",
-        "2115037800735412645",
-        "2115038307025670524",
-        "2115280006775767155",
-        "2118538863417217159"
-      ],
-      "start_at": "2026-10-28T03:00:00Z",
-      "start_time_tbd": null
-    },
-    {
       "end_at": "2026-11-17T05:59:00Z",
       "first_seen": "2026-11-07T09:00:23Z",
       "gachas": [
@@ -74,9 +48,10 @@
       "hold": null,
       "id": "bn_21ebb00a",
       "image_urls": [
-        "https://pbs.twimg.com/media/HWgpkJAaAAAh-Bb.jpg"
+        "https://pbs.twimg.com/media/HWgpkJAaAAAh-Bb.jpg",
+        "https://pbs.twimg.com/media/HWlKp0ubcAAEah-.jpg"
       ],
-      "last_updated": "2026-11-07T09:10:02Z",
+      "last_updated": "2026-11-08T06:08:25Z",
       "match_keys": [
         "移ろう月のサルタティオ",
         "光降る宮殿のエピソディウムガチャ"
@@ -88,11 +63,12 @@
         "2118992384327360715",
         "2118993358194385335",
         "2118993861402104264",
-        "2118994365116715032"
+        "2118994365116715032",
+        "2119310878806053122"
       ],
       "start_at": "2026-11-08T06:00:00Z",
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-11-07T09:10:02Z"
+  "generated_at": "2026-11-08T06:08:25Z"
 }
