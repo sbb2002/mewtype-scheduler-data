@@ -158,3 +158,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T12:02:31Z", "tweet_id": "2119399854904693002", "via": "ingest", "who": "ritsu"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +1분 · 2119399854904693002", "flow": "tweet", "result": "ok", "ts": "2026-11-08T12:02:31Z", "tweet_id": "2119399854904693002", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T12:02:44Z", "who": "峰月律"}
+{"detail": "broadcast-change none · 게시물은 \"やるよーーー♡\" 라는 진행 의사 표현만 있어 방송 취소나 일정 변경을 알리는 내용이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-08T12:02:31Z", "via": "ingest", "who": "ritsu"}
