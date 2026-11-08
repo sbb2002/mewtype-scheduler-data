@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-08T02:39:38Z",
+  "generated_at": "2026-11-08T02:40:03Z",
   "items": [
     {
       "actual_start": "2026-11-08T02:23:22Z",
@@ -154,7 +154,6 @@
       "kind": null,
       "last_updated": "2026-11-08T02:39:38Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-11T13:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -162,7 +161,7 @@
       "thumbnail": "https://i.ytimg.com/vi/L_WHcvB4dfQ/maxresdefault.jpg?v=6aefdbf4",
       "time_tbd": false,
       "title": "【ASMR】社訓よみきかせ♪ぽふとんかぶり名人による寝かしつけ【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【ASMR】교훈 낭독♪ 이불 뒤집기 전문가가 잠재우기【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=L_WHcvB4dfQ",
       "video_id": "L_WHcvB4dfQ"
     },
