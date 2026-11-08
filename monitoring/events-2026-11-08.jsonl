@@ -132,3 +132,4 @@
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-08T10:04:45Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T10:05:17Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "url-schedule skip: 이미 끝난 방송 2BVXWlRP5EQ", "flow": "tweet", "result": "ok", "ts": "2026-11-08T10:26:05Z", "via": "ingest", "who": "nonoka"}
+{"detail": "gap-fill(자기 답글) · 2119375715963662806 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-08T10:26:05Z", "tweet_id": "2119375715963662806", "via": "ingest", "who": "nonoka"}
