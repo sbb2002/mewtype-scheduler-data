@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-08T22:01:16Z",
+  "generated_at": "2026-11-08T22:02:00Z",
   "items": [
     {
       "actual_start": "2026-11-08T22:00:31Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-08T22:01:16Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-08T22:00:23Z",
       "source": "api",
       "state": "live",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/poyBmu8bv1A/maxresdefault.jpg?v=6af0f0f2",
       "time_tbd": false,
       "title": "【朝活】胸に手を当てて息をしなさい❣【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
-      "title_ko": null,
+      "title_ko": "【아침 활동】가슴에 손을 얹고 숨 쉬세요❣【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
       "url": "https://www.youtube.com/watch?v=poyBmu8bv1A",
       "video_id": "poyBmu8bv1A"
     },
