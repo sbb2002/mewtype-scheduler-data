@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-08T11:30:43Z",
+  "generated_at": "2026-11-08T12:00:15Z",
   "items": [
     {
       "actual_start": null,
@@ -125,19 +125,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": "unknown",
-      "last_updated": "2026-11-08T09:40:00Z",
+      "last_updated": "2026-11-08T12:00:15Z",
       "membership": false,
       "scheduled_start": "2026-11-08T12:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2119218342108213255",
-      "state": "upcoming",
-      "state_since": "2026-11-01T02:06:58Z",
+      "state": "watching",
+      "state_since": "2026-11-08T12:00:15Z",
       "thumbnail": "https://i.ytimg.com/vi/0ldvPXYnrtY/maxresdefault.jpg?v=6ae69e84",
       "time_tbd": false,
       "title": "【作曲配信】ぽまえの魂のめろでぃをかなでろ❣season4‐2🎵【ゆめみた/藤都子】",
       "title_ko": "【작곡 방송】포마에의 영혼 멜로디를 연주해❣season4‑2🎵【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=0ldvPXYnrtY",
-      "video_id": "0ldvPXYnrtY"
+      "video_id": "0ldvPXYnrtY",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
