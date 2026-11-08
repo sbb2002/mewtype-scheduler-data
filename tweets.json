@@ -172,20 +172,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-11-08T03:41:34Z",
-        "handle": "nonoka_yumemita",
-        "id": "2118549323957064021",
-        "media": [],
-        "posted_at": "2026-11-06T03:41:34Z",
-        "quote": null,
-        "received_at": "2026-11-06T03:48:32Z",
-        "reply_to_id": null,
-        "text": "なんか...あつい🥹",
-        "text_ko": "뭔가... 뜨거워🥹",
-        "url": "https://x.com/i/status/2118549323957064021"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-11-08T14:17:38Z",
         "handle": "nonoka_yumemita",
         "id": "2118709395052003772",
