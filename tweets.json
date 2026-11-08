@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:39:05Z",
+  "generated_at": "2026-11-08T13:46:30Z",
   "tweets": {
     "arale": [
       {
@@ -225,6 +225,28 @@
         "text": "まるくんそんぐをつくる❣\n配信はじまる♪",
         "text_ko": "마루군 송을 만든다❣\n방송 시작♪",
         "url": "https://x.com/i/status/2119407362448728405"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-10T13:39:13Z",
+        "handle": "miyako_yumemita",
+        "id": "2119424505957458423",
+        "media": [
+          "https://pbs.twimg.com/media/HWm1I_ebUAA01Q3.jpg"
+        ],
+        "posted_at": "2026-11-08T13:39:13Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HWkaX8ga0AENUO2.jpg"
+          ],
+          "text": "💜配信よてい💜\n本日11/8(日)21:30～作曲配信🎵\nまるくんソングを作る回　そのつ～❣\n\n🔗https://youtube.com/live/0ldvPXYnrtY?feature=share\n＃みるみやこ",
+          "text_ko": "💜방송 예정💜\n오늘 11/8(일) 21:30~ 작곡 방송🎵\n마루군 송 만들기 회 그때~❣\n\n🔗https://youtube.com/live/0ldvPXYnrtY?feature=share\n＃みるみやこ"
+        },
+        "received_at": "2026-11-08T13:46:30Z",
+        "reply_to_id": null,
+        "text": "まるくんそんぐ作曲配信\nありゃとうございました❣\n\n「まるくんいちばんぼし」\n暫定歌詞はこちら♪\n今日の配信で出した案をもとに\nまるまるメロディをねりねりしてきます♪\n\nぽまえらも、まるまるしてきただろう❣\n＃みるみやこ",
+        "text_ko": "마루군 송 작곡 방송\n감사했습니다❣\n\n「まるくんいちばんぼし」\n임시 가사는 여기♪\n오늘 방송에서 제시한 안을 바탕으로\n둥글둥글 멜로디를 갈고닦을게요♪\n\n포마에라도, 똑같이 했겠지❣\n#みるみやこ",
+        "url": "https://x.com/i/status/2119424505957458423"
       }
     ],
     "nonoka": [
