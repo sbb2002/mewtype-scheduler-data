@@ -25,3 +25,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T22:40:00Z", "who": "poyBmu8bv1A"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T22:42:34Z", "tweet_id": "2119561103860727929", "via": "ingest", "who": "miyako"}
 {"detail": "url-schedule skip: 이미 끝난 방송 poyBmu8bv1A", "flow": "tweet", "result": "ok", "ts": "2026-11-08T22:42:34Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T22:42:46Z", "who": "藤都子"}
