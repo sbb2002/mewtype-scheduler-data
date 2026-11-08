@@ -100,3 +100,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:39:26Z", "who": "峰月律"}
 {"detail": "broadcast-change none · 게시물은 11/08 21:00에 진행될 방송을 예고하는 내용이며, 취소나 일정 변경을 알리는 표현이 없기 때문입니다", "flow": "tweet", "result": "ok", "ts": "2026-11-08T06:39:17Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:39:50Z", "who": "峰月律"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-08T06:40:02Z", "who": ""}
