@@ -87,3 +87,4 @@
 {"detail": "banner mode: updated · 이벤트 「移ろう月のサルタティオ」(2026-11-08 15:00 ~ 2026-11-17 14:59) 기존 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-11-08T06:08:25Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:08:38Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: dup · 이미 반영한 글", "flow": "notice", "result": "ok", "ts": "2026-11-08T06:08:25Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:08:43Z", "who": "バンドリ！アワーノーツ"}
