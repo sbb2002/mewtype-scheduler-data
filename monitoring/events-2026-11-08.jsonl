@@ -70,3 +70,4 @@
 {"detail": "mode: added", "flow": "notice", "notice_id": "2119263655053156393", "result": "ok", "ts": "2026-11-08T03:00:11Z", "via": "ingest", "who": ""}
 {"detail": "mode: dup", "flow": "notice", "notice_id": "2119263655053156393", "result": "ok", "ts": "2026-11-08T03:00:11Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-08T03:00:11Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T03:00:37Z", "who": "夢限大みゅーたいぷ"}
