@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:50:00Z",
+  "generated_at": "2026-11-08T23:05:00Z",
   "items": [
     {
       "actual_start": "2026-11-01T22:00:22Z",
@@ -420,6 +420,36 @@
       "url": "https://www.youtube.com/watch?v=d1k53WJd6e4",
       "video_id": "d1k53WJd6e4",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-08T22:00:31Z",
+      "announced_start": "2026-11-08T22:00:00Z",
+      "api_start_seen": "2026-11-08T22:00:23Z",
+      "archived_at": "2026-11-08T23:05:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 297,
+      "expires_at": "2026-11-09T01:00:23Z",
+      "first_seen": "2026-11-08T22:01:16Z",
+      "host": null,
+      "id": "pv_7a636b39",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-11-08T23:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-08T22:00:23Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2119550762045133112",
+      "state": "out",
+      "state_since": "2026-11-08T23:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/poyBmu8bv1A/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【朝活】胸に手を当てて息をしなさい❣【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
+      "title_ko": "【아침 활동】가슴에 손을 얹고 숨 쉬세요❣【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
+      "url": "https://www.youtube.com/watch?v=poyBmu8bv1A",
+      "video_id": "poyBmu8bv1A"
     }
   ]
 }
