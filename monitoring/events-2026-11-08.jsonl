@@ -34,3 +34,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2119254131680666108", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:22:15Z", "tweet_id": "2119254131680666108", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T02:22:24Z", "who": "藤都子"}
 {"detail": "broadcast-change none · 게시물은 11/8 21:30에 진행될 방송을 새롭게 알리는 내용이며 취소·변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:22:15Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T02:22:36Z", "who": "藤都子"}
