@@ -41,3 +41,4 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_c6dd995e", "result": "ok", "title": "# 10【魔法少女ノ魔女裁判】第一話！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "live", "ts": "2026-11-08T02:23:37Z", "video_id": "2BVXWlRP5EQ", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 2BVXWlRP5EQ · 예고 live", "flow": "websub", "merge_key": "websub-notify:2BVXWlRP5EQ", "result": "ok", "title": "# 10【魔法少女ノ魔女裁判】第一話！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "ts": "2026-11-08T02:24:04Z", "video_id": "2BVXWlRP5EQ", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:27:30Z", "tweet_id": "2119255452005662997", "via": "ingest", "who": "nonoka"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +0분 · 2119255452005662997", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:27:30Z", "tweet_id": "2119255452005662997", "via": "ingest", "who": "nonoka"}
