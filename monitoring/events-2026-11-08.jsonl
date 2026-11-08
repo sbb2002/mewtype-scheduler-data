@@ -90,3 +90,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:08:43Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: updated · 가챠 「光降る宮殿のエピソディウムガチャ」(2026-11-08 15:00 ~ 2026-11-18 14:59) 「移ろう月のサルタティオ」의 가챠 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-11-08T06:29:49Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:29:59Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "banner mode: dup · 이미 반영한 글", "flow": "notice", "result": "ok", "ts": "2026-11-08T06:29:48Z", "via": "ingest", "who": "bang_dream_on"}
