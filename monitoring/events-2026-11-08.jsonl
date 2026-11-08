@@ -201,3 +201,5 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T14:18:41Z", "who": "峰月律"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T14:18:39Z", "who": "峰月律"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T14:25:00Z", "who": "d1k53WJd6e4"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T14:50:00Z", "who": "d1k53WJd6e4"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_d395c84b", "result": "ok", "title": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-08T14:50:00Z", "video_id": "d1k53WJd6e4", "who": "ritsu"}
