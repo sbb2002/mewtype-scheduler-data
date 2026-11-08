@@ -92,3 +92,6 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:29:59Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: dup · 이미 반영한 글", "flow": "notice", "result": "ok", "ts": "2026-11-08T06:29:48Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T06:30:05Z", "who": "バンドリ！アワーノーツ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T06:35:53Z", "who": "d1k53WJd6e4"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_d395c84b", "result": "ok", "title": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-11-08T06:35:53Z", "video_id": "d1k53WJd6e4", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · d1k53WJd6e4 · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:d1k53WJd6e4", "result": "ok", "title": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】", "ts": "2026-11-08T06:35:53Z", "video_id": "d1k53WJd6e4", "who": "ritsu"}
