@@ -45,3 +45,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T02:27:39Z", "who": "宮永ののか🐰🩹"}
 {"detail": "broadcast-change none · 게시물은 현재 방송 시작을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:27:30Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T02:28:01Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-08T02:28:56Z", "tweet_id": "2119255811243594065", "via": "ingest", "who": "yuno"}
