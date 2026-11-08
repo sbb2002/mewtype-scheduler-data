@@ -170,3 +170,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +23분 · 2119407362448728405", "flow": "tweet", "result": "ok", "ts": "2026-11-08T12:54:22Z", "tweet_id": "2119407362448728405", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T12:54:29Z", "who": "藤都子"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +23분 · 2119407362448728405", "flow": "tweet", "result": "ok", "ts": "2026-11-08T12:54:22Z", "tweet_id": "2119407362448728405", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T12:54:35Z", "who": "藤都子"}
