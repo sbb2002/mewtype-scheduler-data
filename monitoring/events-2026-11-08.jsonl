@@ -152,3 +152,5 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_dc4f01a8", "result": "ok", "title": "【作曲配信】ぽまえの魂のめろでぃをかなでろ❣season4‐2🎵【ゆめみた/藤都子】", "to_state": "watching", "ts": "2026-11-08T12:00:15Z", "video_id": "0ldvPXYnrtY", "who": "miyako"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-08T12:01:42Z", "who": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-08T12:01:42Z", "who": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T12:01:42Z", "who": "d1k53WJd6e4"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_d395c84b", "result": "ok", "title": "【律の人生】人生やりたいことリスト作る！【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-11-08T12:01:42Z", "video_id": "d1k53WJd6e4", "who": "ritsu"}
