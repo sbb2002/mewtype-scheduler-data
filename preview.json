@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-08T02:27:30Z",
+  "generated_at": "2026-11-08T02:30:02Z",
   "items": [
     {
       "actual_start": "2026-11-08T02:23:22Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-08T02:27:30Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-08T02:20:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2119255452005662997",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/2BVXWlRP5EQ/maxresdefault.jpg?v=6aefdd07",
       "time_tbd": false,
       "title": "# 10【魔法少女ノ魔女裁判】第一話！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
-      "title_ko": null,
+      "title_ko": "# 10【마법소녀노마녀재판】제1화! 귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバ레",
       "url": "https://www.youtube.com/watch?v=2BVXWlRP5EQ",
       "video_id": "2BVXWlRP5EQ"
     },
