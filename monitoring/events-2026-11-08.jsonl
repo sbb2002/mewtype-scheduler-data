@@ -65,3 +65,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-08T02:50:00Z", "who": "2BVXWlRP5EQ"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-08T02:50:06Z", "who": ""}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 2BVXWlRP5EQ · 예고 live", "flow": "websub", "merge_key": "websub-notify:2BVXWlRP5EQ", "result": "ok", "title": "# 10【魔法少女ノ魔女裁判】第六話！？かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "ts": "2026-11-08T02:50:15Z", "video_id": "2BVXWlRP5EQ", "who": "nonoka"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-08T03:00:02Z", "who": "group"}
