@@ -126,3 +126,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-08T10:04:52Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "live_info: 공연일 못 정함 — 「공연일 미정」 으로 올라감 · YMMTric COUNTER POINT", "flow": "notice", "result": "warn", "ts": "2026-11-08T10:04:45Z", "via": "ingest", "who": ""}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2119369335588487437", "result": "ok", "ts": "2026-11-08T10:04:45Z", "via": "ingest", "who": ""}
+{"detail": "mode: dup", "flow": "notice", "notice_id": "2119369335588487437", "result": "ok", "ts": "2026-11-08T10:04:36Z", "via": "ingest", "who": ""}
