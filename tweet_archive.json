@@ -1076,6 +1076,24 @@
       "text": "はじめます🍖",
       "text_ko": "시작합니다🍖",
       "url": "https://x.com/i/status/2118674958453006615"
+    },
+    {
+      "archived_at": "2026-11-08T13:46:30Z",
+      "archived_reason": "expired",
+      "channel_key": "ritsu",
+      "expires_at": "2026-11-08T13:22:30Z",
+      "handle": "ritsu_yumemita",
+      "id": "2118695522450198568",
+      "media": [
+        "https://pbs.twimg.com/media/HWceWSra4AA0iL-.jpg"
+      ],
+      "posted_at": "2026-11-06T13:22:30Z",
+      "quote": null,
+      "received_at": "2026-11-06T13:30:05Z",
+      "reply_to_id": null,
+      "text": "（牛すき鍋食べて幸せ〜……ッ！！！！！）",
+      "text_ko": "(소고기 스키냄비 먹고 행복~……!!!!!)",
+      "url": "https://x.com/i/status/2118695522450198568"
     }
   ]
 }
