@@ -106,20 +106,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-11-08T23:55:26Z",
-        "handle": "miyako_yumemita",
-        "id": "2118854802696442346",
-        "media": [],
-        "posted_at": "2026-11-06T23:55:26Z",
-        "quote": null,
-        "received_at": "2026-11-06T23:55:29Z",
-        "reply_to_id": null,
-        "text": "〈ぽふとんめくりあげ名人のうわさ〉\n自分のぽふとんをめくりあげるのはまだ半人前らしい\n\nﾎﾟﾊﾖ！🐶💨💥🛏️",
-        "text_ko": "〈담요 뒤집기 명인의 소문〉\n자신의 담요를 뒤집는 건 아직 반쯤 된 사람인 것 같다\n포하요！🐶💨💥🛏️",
-        "url": "https://x.com/i/status/2118854802696442346"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-11-09T03:42:15Z",
         "handle": "miyako_yumemita",
         "id": "2118911884581810270",
@@ -324,66 +310,6 @@
       }
     ],
     "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-11-09T01:43:39Z",
-        "handle": "nonoka_yumemita",
-        "id": "2118882039785210038",
-        "media": [],
-        "posted_at": "2026-11-07T01:43:39Z",
-        "quote": null,
-        "received_at": "2026-11-07T01:43:42Z",
-        "reply_to_id": null,
-        "text": "ドライヤーってすぐ乾いてすごい😭",
-        "text_ko": "헤어드라이어는 바로 말라서 대단해😭",
-        "url": "https://x.com/i/status/2118882039785210038"
-      },
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-11-09T02:26:36Z",
-        "handle": "nonoka_yumemita",
-        "id": "2118892845604245756",
-        "media": [],
-        "posted_at": "2026-11-07T02:26:36Z",
-        "quote": {
-          "media": [],
-          "text": "♡🐰出演情報🩹♡\n\n11/7 15:00-\n\nあした、おやつの時間に\n🤍ヴァイスシュヴァルツ 特別生配信🖤\n出演します🎶\n「#WS生配信」でキャンペーンもあるって！\n\nおたのしみにください！😍\nよろしくお願いいたします🎶\n\n#WS #ゆめみた",
-          "text_ko": "♡🐰출연 정보🩹♡\n\n11/7 15:00-\n\n내일, 간식 시간에\n🤍바이스슈바르츠 특별 생방송🖤\n출연합니다🎶\n「#WS생방송」で캠페인도 있다네요!\n\n많이 기대해주세요！😍\n잘 부탁드립니다🎶\n\n#WS #유메미타"
-        },
-        "received_at": "2026-11-07T02:28:37Z",
-        "reply_to_id": null,
-        "text": "♡🐰今日の出演🩹♡\n\n今日このあと、15:00からはヴァイスシュヴァルツ 特別生配信！\nおわすれなくね‼️😍🎶\n\n #WS生配信 #WS",
-        "text_ko": "♡🐰오늘 출연🩹♡\n\n오늘 이 뒤 15:00부터는 바이츠슈바르츠 특별 생방송!\n잊지 말고‼️😍🎶\n\n #WS생방송 #WS",
-        "url": "https://x.com/i/status/2118892845604245756"
-      },
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-11-09T02:59:47Z",
-        "handle": "nonoka_yumemita",
-        "id": "2118901197046469073",
-        "media": [],
-        "posted_at": "2026-11-07T02:59:47Z",
-        "quote": null,
-        "received_at": "2026-11-07T02:59:50Z",
-        "reply_to_id": null,
-        "text": "ともだちがめっちゃ なみすけの話するから、最近あのゆるいおかおがじわじわきて、ぜんぶおもしろ萌になってきてわらいとまらない🤣",
-        "text_ko": "친구가 나미스케 얘기를 엄청 해서, 요즘 그 느슨한 얼굴이 점점 살아나고, 다 재미있는 모에가 돼서 웃음이 멈추질 않아 🤣",
-        "url": "https://x.com/i/status/2118901197046469073"
-      },
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-11-09T03:06:08Z",
-        "handle": "nonoka_yumemita",
-        "id": "2118902796644970943",
-        "media": [],
-        "posted_at": "2026-11-07T03:06:08Z",
-        "quote": null,
-        "received_at": "2026-11-07T03:06:11Z",
-        "reply_to_id": null,
-        "text": "やっぱぬいぐるみをかわいがってる状態の人間がいちばんかわいいんだよね🥹♡\nぬいぐるみは、かわいがられてるぶんだけかがやきが増している♡♡♡♡♡♡♡",
-        "text_ko": "인형을 애정어린 손길로 쓰다듬는 사람 모습이 제일 귀여워요🥹♡\n인형은 사랑받는 만큼 빛이 더해지는 거예요♡♡♡♡♡♡♡",
-        "url": "https://x.com/i/status/2118902796644970943"
-      },
       {
         "channel_key": "nonoka",
         "expires_at": "2026-11-09T04:21:45Z",
@@ -626,26 +552,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-11-09T01:53:20Z",
-        "handle": "yuno_yumemita",
-        "id": "2118884475488915647",
-        "media": [],
-        "posted_at": "2026-11-07T01:53:20Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HVJQY9obMAAacmU.jpg"
-          ],
-          "text": "＼🎊出演情報🎊／\n\n「ILLUSTAR WEEK Vol.1」\n📍ソウル聖水（ソンス）SFACTORY\n\n11月7日(土)・8日(日)に、\n仲町あられ・千石ユノが出演決定🎉\n\nトークショーとサイン会を実施✨\n\n開催までお楽しみに🛸\n\n#バンドリ #ILLUSTARWEEK",
-          "text_ko": "＼🎊출연 정보🎊／\n\n「ILLUSTAR WEEK Vol.1」\n📍서울 성수(SONSE) SFACTORY\n\n11월 7일(토)·8일(일)에,\n나카마치 아라레·센고쿠 유노가 출연 확정🎉\n\n토크쇼와 사인회를 진행✨\n\n개최까지 기대해 주세요🛸\n\n#뱅드림 #ILLUSTARWEEK"
-        },
-        "received_at": "2026-11-07T01:53:33Z",
-        "reply_to_id": null,
-        "text": "11/7〜11/8\n「ILLUSTAR WEEK Vol.1」\nに出演させて頂きます！\n\nトークショー&サイン会！\nよろしくお願いします！！！\n\nお外超寒いよ！2℃とか！\n来る人は気をつけてきてね！",
-        "text_ko": "11/7〜11/8  \n「ILLUSTAR WEEK Vol.1」에 출연합니다!  \n\n토크쇼&사인회!  \n잘 부탁드립니다!!!  \n\n밖에 엄청 추워요! 2℃ 정도!  \n오는 사람은 조심해서 오세요!",
-        "url": "https://x.com/i/status/2118884475488915647"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-11-10T02:28:53Z",
