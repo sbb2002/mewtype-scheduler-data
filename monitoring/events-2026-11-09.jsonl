@@ -63,3 +63,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-09T07:20:06Z", "who": "z0GRgSUrY0A"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_addfe6c9", "result": "ok", "title": "【#歌枠 】ゆめみたデビュー3周年記念日♡歌枠【峰月律/ゆめみた】", "to_state": "upcoming", "ts": "2026-11-09T07:20:06Z", "video_id": "z0GRgSUrY0A", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · z0GRgSUrY0A · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:z0GRgSUrY0A", "result": "ok", "title": "【#歌枠 】ゆめみたデビュー3周年記念日♡歌枠【峰月律/ゆめみた】", "ts": "2026-11-09T07:20:06Z", "video_id": "z0GRgSUrY0A", "who": "ritsu"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-09T07:30:01Z", "who": ""}
