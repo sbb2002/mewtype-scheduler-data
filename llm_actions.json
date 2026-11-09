@@ -6461,6 +6461,77 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_656fd7f46f",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HWblWsFbkAAAArB.jpg"
+        ],
+        "raw": "11月8日より開催中🎉\n「光降る宮殿のエピソディウムガチャ」\n\n新登場したオブリビオニスのSSRスナップイラストを紹介🌙\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2119634080073662652"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 가챠 이벤트와 신규 스냅 일러스트 소개이므로 게임 앱 안에서 하는 일이다. (근거: 「「光降る宮殿のエピソディウムガチャ」」 「新登場したオブリビオニスのSSRスナップイラストを紹介🌙」) / 본문에 명시된 가챠 정보를 추출했습니다.",
+      "summary": "행사 배너 갱신 — 光降る宮殿のエピソディウムガチャ",
+      "ts": "2026-11-09T03:52:29Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-17T05:59:00Z",
+              "first_seen": "2026-11-07T09:00:23Z",
+              "gachas": [
+                {
+                  "end_at": "2026-11-18T05:59:00Z",
+                  "id": "gc_186ec567",
+                  "image_urls": [],
+                  "start_at": "2026-11-08T06:00:00Z",
+                  "title_ja": "光降る宮殿のエピソディウムガチャ",
+                  "title_ko": "빛이 내리는 궁전의 에피소듐 가챠"
+                }
+              ],
+              "hold": null,
+              "id": "bn_21ebb00a",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HWgpkJAaAAAh-Bb.jpg",
+                "https://pbs.twimg.com/media/HWlKp0ubcAAEah-.jpg"
+              ],
+              "last_updated": "2026-11-09T03:52:29Z",
+              "match_keys": [
+                "移ろう月のサルタティオ",
+                "光降る宮殿のエピソディウムガチャ"
+              ],
+              "name_ja": "移ろう月のサルタティオ",
+              "name_ko": "변하는 달의 살타티오",
+              "src_ids": [
+                "2118991935637741892",
+                "2118992384327360715",
+                "2118993358194385335",
+                "2118993861402104264",
+                "2118994365116715032",
+                "2119310878806053122",
+                "2119311304192324048",
+                "2119626026892636570",
+                "2119626530716340637",
+                "2119633576857837620"
+              ],
+              "start_at": "2026-11-08T06:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_21ebb00a",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
