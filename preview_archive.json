@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:15:00Z",
+  "generated_at": "2026-11-09T17:20:00Z",
   "items": [
     {
       "actual_start": "2026-11-01T22:00:22Z",
@@ -510,6 +510,37 @@
       "title_ko": "【#歌枠 】복수！！！！！노래 방송【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=z0GRgSUrY0A",
       "video_id": "z0GRgSUrY0A",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-09T14:32:00Z",
+      "announced_start": "2026-11-09T14:30:00Z",
+      "api_start_seen": "2026-11-09T14:30:00Z",
+      "archived_at": "2026-11-09T17:20:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 1160,
+      "expires_at": "2026-11-09T17:30:00Z",
+      "first_seen": "2026-11-09T10:43:12Z",
+      "host": null,
+      "id": "pv_272953f3",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-11-09T17:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-09T14:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2119792944299622614",
+      "state": "out",
+      "state_since": "2026-11-09T17:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/JAWMYuv-WDg/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡ただいま！】韓国から帰国！おみやげばなーし🌸振り返りばなーし🌸【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡지금!】한국에서 귀국! 선물 없이🌸 회고 없이🌸【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=JAWMYuv-WDg",
+      "video_id": "JAWMYuv-WDg",
       "yt_tunein": true
     }
   ]
