@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:00:00Z",
+  "generated_at": "2026-11-09T15:15:00Z",
   "items": [
     {
       "actual_start": "2026-11-01T22:00:22Z",
@@ -481,6 +481,36 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_start": "2026-11-09T13:03:59Z",
+      "api_start_seen": "2026-11-09T13:00:00Z",
+      "archived_at": "2026-11-09T15:15:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 863,
+      "expires_at": "2026-11-09T16:00:00Z",
+      "first_seen": "2026-11-09T07:20:06Z",
+      "host": null,
+      "id": "pv_addfe6c9",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "song",
+      "last_updated": "2026-11-09T15:15:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-09T13:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2119720192662200582",
+      "state": "out",
+      "state_since": "2026-11-09T15:15:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/z0GRgSUrY0A/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【#歌枠 】リベンジ！！！！！歌枠【峰月律/ゆめみた】",
+      "title_ko": "【#歌枠 】복수！！！！！노래 방송【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=z0GRgSUrY0A",
+      "video_id": "z0GRgSUrY0A",
+      "yt_tunein": true
     }
   ]
 }
