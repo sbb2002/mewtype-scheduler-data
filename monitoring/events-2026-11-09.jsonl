@@ -122,3 +122,4 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_272953f3", "result": "ok", "title": "【🟡ただいま！】韓国から帰国！おみやげばなーし🌸振り返りばなーし🌸【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-11-09T14:02:02Z", "video_id": "JAWMYuv-WDg", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-09T14:03:45Z", "tweet_id": "2119792944299622614", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 11/9(월) 23:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-09T14:03:45Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-09T14:04:12Z", "who": "仲町あられ"}
