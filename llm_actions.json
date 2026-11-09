@@ -6571,6 +6571,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0516e3d9ec",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "おしらせ\n\n帰宅時間の関係で、今日のただいま配信を明日のヴァンガード開封配信の後に延期させて頂きます！\n\n明日2回行動です！\nよろしくお願いします！！！",
+        "tag": "p#https://x.com/#1tweet-2119782699053531333"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에서 오늘(11/09) 23:00에 예정된 방송을 내일로 연기한다는 내용이므로 해당 방송 일정이 변경된 것으로 판단했습니다. (변경 시각을 해석하지 못해 미반영)",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-09T13:25:33Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
