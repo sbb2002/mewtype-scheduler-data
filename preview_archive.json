@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:05:00Z",
+  "generated_at": "2026-11-09T15:00:00Z",
   "items": [
     {
       "actual_start": "2026-11-01T22:00:22Z",
@@ -450,6 +450,37 @@
       "title_ko": "【아침 활동】가슴에 손을 얹고 숨 쉬세요❣【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
       "url": "https://www.youtube.com/watch?v=poyBmu8bv1A",
       "video_id": "poyBmu8bv1A"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "archived_at": "2026-11-09T15:00:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-09T17:00:00Z",
+      "first_seen": "2026-11-09T09:30:04Z",
+      "host": null,
+      "id": "pv_cafb5464",
+      "info_at": "2026-11-09T09:30:04Z",
+      "info_source": "x-relay",
+      "kind": "talk",
+      "last_updated": "2026-11-09T15:00:00Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-09T14:00:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2119724178097971632",
+      "state": "out",
+      "state_since": "2026-11-09T15:00:00Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     }
   ]
 }
