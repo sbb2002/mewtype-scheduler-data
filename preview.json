@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-09T13:04:21Z",
+  "generated_at": "2026-11-09T13:04:27Z",
   "items": [
     {
       "actual_start": "2026-11-09T13:03:59Z",
@@ -87,7 +87,7 @@
       "assumed_live": false,
       "channel_key": "ritsu",
       "collab_with": null,
-      "concurrent_viewers": 287,
+      "concurrent_viewers": 247,
       "expires_at": "2026-11-09T16:00:00Z",
       "first_seen": "2026-11-09T07:20:06Z",
       "host": null,
@@ -95,7 +95,7 @@
       "info_at": null,
       "info_source": "api",
       "kind": "song",
-      "last_updated": "2026-11-09T13:04:21Z",
+      "last_updated": "2026-11-09T13:04:27Z",
       "membership": false,
       "scheduled_start": "2026-11-09T13:00:00Z",
       "source": "api",
