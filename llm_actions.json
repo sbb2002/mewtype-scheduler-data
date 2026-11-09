@@ -6551,6 +6551,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_317c9af837",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日22:00\n\nリベンジ！歌枠！！\n魔力でノイズを抹消させました\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/z0GRgSUrY0A?si=37XqijG41g-iBZsZ\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "はじめます✩.*˚",
+        "tag": "p#https://x.com/#1tweet-2119778125513183462"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 22:00에 진행될 '리베ンジ! 노래 방송'을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-09T13:04:27Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
