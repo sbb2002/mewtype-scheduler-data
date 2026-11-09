@@ -123,3 +123,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-09T14:03:45Z", "tweet_id": "2119792944299622614", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 11/9(월) 23:30에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-09T14:03:45Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-09T14:04:12Z", "who": "仲町あられ"}
+{"detail": "retweet skip: 폰 원문이 @weissschwarz_en 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-09T14:28:07Z", "via": "ingest", "who": "nonoka"}
