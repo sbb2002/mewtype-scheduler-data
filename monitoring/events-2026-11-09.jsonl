@@ -84,3 +84,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-09T09:00:32Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-09T09:14:13Z", "tweet_id": "2119720192662200582", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 오늘 22:00에 진행될 방송을 알리는 내용이며 취소·변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-09T09:14:13Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-09T09:14:39Z", "who": "峰月律"}
