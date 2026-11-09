@@ -152,3 +152,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-09T17:20:00Z", "who": "JAWMYuv-WDg"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_272953f3", "result": "ok", "title": "【🟡ただいま！】韓国から帰国！おみやげばなーし🌸振り返りばなーし🌸【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-11-09T17:20:00Z", "video_id": "JAWMYuv-WDg", "who": "arale"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-09T18:00:01Z", "who": "group"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-09T19:00:01Z", "who": "group"}
