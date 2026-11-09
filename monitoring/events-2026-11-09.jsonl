@@ -129,3 +129,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_272953f3", "result": "ok", "title": "【🟡ただいま！】韓国から帰国！おみやげばなーし🌸振り返りばなーし🌸【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-11-09T14:33:00Z", "video_id": "JAWMYuv-WDg", "who": "arale"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · JAWMYuv-WDg · 예고 live", "flow": "websub", "merge_key": "websub-notify:JAWMYuv-WDg", "result": "ok", "title": "【🟡ただいま！】韓国から帰国！おみやげばなーし🌸振り返りばなーし🌸【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-11-09T14:33:06Z", "video_id": "JAWMYuv-WDg", "who": "arale"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-09T14:33:35Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-09T14:38:19Z", "tweet_id": "2119801753197740329", "via": "ingest", "who": "arale"}
