@@ -49,3 +49,4 @@
 {"detail": "banner mode: updated · 가챠 「光降る宮殿のエピソディウムガチャ」(2026-11-08 ~ 종료?) 「移ろう月のサルタティオ」의 가챠 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-11-09T03:52:29Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-09T03:52:39Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: updated · 가챠 「光降る宮殿のエピソディウムガチャ」(2026-11-08 ~ 종료?) 「移ろう月のサルタティオ」의 가챠 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-11-09T03:52:29Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-09T03:52:54Z", "who": "バンドリ！アワーノーツ"}
