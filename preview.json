@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-09T14:02:00Z",
+  "generated_at": "2026-11-09T14:02:02Z",
   "items": [
     {
       "actual_start": "2026-11-09T13:03:59Z",
@@ -125,18 +125,19 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-09T14:02:00Z",
+      "last_updated": "2026-11-09T14:02:02Z",
       "membership": false,
       "scheduled_start": "2026-11-09T14:30:00Z",
       "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-11-09T10:43:12Z",
+      "state": "watching",
+      "state_since": "2026-11-09T14:02:02Z",
       "thumbnail": "https://i.ytimg.com/vi/JAWMYuv-WDg/maxresdefault.jpg?v=6af1a384",
       "time_tbd": false,
       "title": "【🟡ただいま！】韓国から帰国！おみやげばなーし🌸振り返りばなーし🌸【 仲町あられ / 夢限大みゅーたいぷ 】",
       "title_ko": "【🟡지금!】한국에서 귀국! 선물 없이🌸 회고 없이🌸【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=JAWMYuv-WDg",
-      "video_id": "JAWMYuv-WDg"
+      "video_id": "JAWMYuv-WDg",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
