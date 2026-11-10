@@ -24,3 +24,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · ZyEsvkpQRLc · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:ZyEsvkpQRLc", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "ts": "2026-11-10T03:45:14Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-10T03:47:48Z", "tweet_id": "2120000434316411178", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 오늘 21:00에 진행될 방송을 알리는 예고이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-10T03:47:48Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-10T03:48:13Z", "who": "峰月律"}
