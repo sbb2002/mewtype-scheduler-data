@@ -87,3 +87,4 @@
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-10T13:05:00Z", "who": "ZyEsvkpQRLc"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_9492d509", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-11-10T13:05:00Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · ZyEsvkpQRLc · 예고 end", "flow": "websub", "merge_key": "websub-notify:ZyEsvkpQRLc", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "ts": "2026-11-10T13:05:37Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-10T13:07:11Z", "tweet_id": "2120141201257197873", "via": "ingest", "who": "ritsu"}
