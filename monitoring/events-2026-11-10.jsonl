@@ -124,3 +124,4 @@
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-10T14:40:08Z", "who": "_oF-lNKg9tQ"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_7e837964", "result": "ok", "title": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-11-10T14:40:08Z", "video_id": "MnPsQrs9Bac", "who": "yuno"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-10T15:00:03Z", "who": "group"}
+{"detail": "banner mode: notice · 소식 none", "flow": "notice", "result": "ok", "ts": "2026-11-10T15:02:56Z", "via": "ingest", "who": "bang_dream_on"}
