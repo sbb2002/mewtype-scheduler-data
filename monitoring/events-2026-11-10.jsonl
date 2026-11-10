@@ -72,3 +72,6 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-10T12:00:02Z", "who": "group"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-10T12:00:02Z", "who": ""}
 {"detail": "gap-fill(자기 답글) · 2120124187394383928 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-10T12:00:06Z", "tweet_id": "2120124187394383928", "via": "ingest", "who": "nonoka"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-10T12:02:24Z", "who": "ZyEsvkpQRLc"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_9492d509", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-11-10T12:02:24Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · ZyEsvkpQRLc · 예고 live", "flow": "websub", "merge_key": "websub-notify:ZyEsvkpQRLc", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "ts": "2026-11-10T12:02:24Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
