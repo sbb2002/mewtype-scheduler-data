@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:20:00Z",
+  "generated_at": "2026-11-10T13:35:00Z",
   "items": [
     {
       "actual_start": "2026-11-03T15:00:24Z",
@@ -481,6 +481,36 @@
       "title_ko": "【🟡지금!】한국에서 귀국! 선물 없이🌸 회고 없이🌸【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=JAWMYuv-WDg",
       "video_id": "JAWMYuv-WDg",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-10T12:01:22Z",
+      "api_start_seen": "2026-11-10T12:00:00Z",
+      "archived_at": "2026-11-10T13:35:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 672,
+      "expires_at": "2026-11-10T15:00:00Z",
+      "first_seen": "2026-11-10T03:45:14Z",
+      "host": null,
+      "id": "pv_9492d509",
+      "info_at": null,
+      "info_source": "api",
+      "kind": "unknown",
+      "last_updated": "2026-11-10T13:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-10T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2120000434316411178",
+      "state": "out",
+      "state_since": "2026-11-10T13:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZyEsvkpQRLc/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】",
+      "title_ko": "【미스터리】리츠누이극장 3화「쿠마짱」【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=ZyEsvkpQRLc",
+      "video_id": "ZyEsvkpQRLc",
       "yt_tunein": true
     }
   ]
