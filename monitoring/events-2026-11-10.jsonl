@@ -108,3 +108,5 @@
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-10T13:19:26Z", "who": "MnPsQrs9Bac"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_7e837964", "result": "ok", "title": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-11-10T13:19:26Z", "video_id": "MnPsQrs9Bac", "who": "yuno"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-10T13:20:02Z", "who": ""}
+{"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-10T13:35:00Z", "who": "ZyEsvkpQRLc"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_9492d509", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-10T13:35:00Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
