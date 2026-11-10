@@ -66,3 +66,6 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-10T11:00:01Z", "who": ""}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-10T11:31:13Z", "who": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_9492d509", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-10T11:31:12Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-10T11:53:14Z", "who": "AG9NYiX3RzQ"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_3b8b2931", "result": "ok", "title": "【#アニメゆめみた】もしもののちゃんが...", "to_state": "upcoming", "ts": "2026-11-10T11:53:14Z", "video_id": "AG9NYiX3RzQ", "who": "nonoka"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · AG9NYiX3RzQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:AG9NYiX3RzQ", "result": "ok", "title": "【#アニメゆめみた】もしもののちゃんが...", "ts": "2026-11-10T11:53:14Z", "video_id": "AG9NYiX3RzQ", "who": "nonoka"}
