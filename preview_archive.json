@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:35:00Z",
+  "generated_at": "2026-11-10T14:40:08Z",
   "items": [
     {
       "actual_start": "2026-11-03T15:00:24Z",
@@ -512,6 +512,35 @@
       "url": "https://www.youtube.com/watch?v=ZyEsvkpQRLc",
       "video_id": "ZyEsvkpQRLc",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-10T13:19:14Z",
+      "api_start_seen": "2026-11-10T13:20:00Z",
+      "archived_at": "2026-11-10T14:40:08Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 1211,
+      "expires_at": "2026-11-10T16:20:00Z",
+      "first_seen": "2026-11-10T13:18:35Z",
+      "host": null,
+      "id": "pv_7e837964",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-11-10T14:40:08Z",
+      "membership": false,
+      "scheduled_start": "2026-11-10T13:20:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2120144200960475553",
+      "state": "out",
+      "state_since": "2026-11-10T14:40:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/MnPsQrs9Bac/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #ヴァンガード 】신규 페르티로자 언니! 리리스테 신탄 개봉!【 #센고쿠 유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=MnPsQrs9Bac",
+      "video_id": "MnPsQrs9Bac"
     }
   ]
 }
