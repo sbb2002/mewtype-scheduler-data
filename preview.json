@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-10T13:19:26Z",
+  "generated_at": "2026-11-10T13:20:02Z",
   "items": [
     {
       "actual_start": "2026-11-10T13:10:35Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-11-10T13:19:26Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-10T13:20:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2120144200960475553",
@@ -136,7 +135,7 @@
       "thumbnail": "https://i.ytimg.com/vi/MnPsQrs9Bac/maxresdefault.jpg?v=6af319ab",
       "time_tbd": false,
       "title": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #ヴァンガード 】신규 페르티로자 언니! 리리스테 신탄 개봉!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=MnPsQrs9Bac",
       "video_id": "MnPsQrs9Bac"
     },
