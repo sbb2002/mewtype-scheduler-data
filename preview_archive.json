@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:40:08Z",
+  "generated_at": "2026-11-10T15:40:00Z",
   "items": [
     {
       "actual_start": "2026-11-03T15:00:24Z",
@@ -541,6 +541,37 @@
       "title_ko": "【 #ヴァンガード 】신규 페르티로자 언니! 리리스테 신탄 개봉!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=MnPsQrs9Bac",
       "video_id": "MnPsQrs9Bac"
+    },
+    {
+      "actual_start": "2026-11-10T14:15:54Z",
+      "announced_start": "2026-11-10T14:00:00Z",
+      "api_start_seen": "2026-11-10T14:15:00Z",
+      "archived_at": "2026-11-10T15:40:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 996,
+      "expires_at": "2026-11-10T17:15:00Z",
+      "first_seen": "2026-11-10T10:55:44Z",
+      "host": null,
+      "id": "pv_58082751",
+      "info_at": null,
+      "info_source": "api",
+      "kind": null,
+      "last_updated": "2026-11-10T15:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-10T14:15:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2120141877697798346",
+      "state": "out",
+      "state_since": "2026-11-10T15:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/_oF-lNKg9tQ/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【ただいま！】今年３度目の韓国にいってきました！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【지금 돌아왔어요!】올해 세 번째 한국에 다녀왔어요!【 #센고쿠 유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=_oF-lNKg9tQ",
+      "video_id": "_oF-lNKg9tQ",
+      "yt_tunein": true
     }
   ]
 }
