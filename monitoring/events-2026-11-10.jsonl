@@ -89,3 +89,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · ZyEsvkpQRLc · 예고 end", "flow": "websub", "merge_key": "websub-notify:ZyEsvkpQRLc", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "ts": "2026-11-10T13:05:37Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-10T13:07:11Z", "tweet_id": "2120141201257197873", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-10T13:07:23Z", "who": "峰月律"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-10T13:08:22Z", "tweet_id": "2120141498100625558", "via": "ingest", "who": "yuno"}
