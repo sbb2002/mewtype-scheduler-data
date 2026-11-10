@@ -110,3 +110,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-10T13:20:02Z", "who": ""}
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-10T13:35:00Z", "who": "ZyEsvkpQRLc"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_9492d509", "result": "ok", "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-10T13:35:00Z", "video_id": "ZyEsvkpQRLc", "who": "ritsu"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-10T13:45:05Z", "who": "【ただいま！】今年３度目の韓国にいってきました！【 #千石ユノ / #バンドリ 】"}
