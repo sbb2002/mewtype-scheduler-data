@@ -27,3 +27,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-10T03:48:13Z", "who": "峰月律"}
 {"candidates": 18, "detail": "candidates=18 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-10T03:50:01Z", "who": ""}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-10T04:00:01Z", "who": "group"}
+{"detail": "retweet skip: 폰 원문이 @weissschwarz_en 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-10T04:10:11Z", "via": "ingest", "who": "arale"}
