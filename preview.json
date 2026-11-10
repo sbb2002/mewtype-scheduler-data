@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-10T13:35:00Z",
+  "generated_at": "2026-11-10T13:45:05Z",
   "items": [
     {
       "actual_start": "2026-11-10T13:10:35Z",
@@ -154,19 +154,20 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-10T13:35:00Z",
+      "last_updated": "2026-11-10T13:45:05Z",
       "membership": false,
       "scheduled_start": "2026-11-10T14:15:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2120141877697798346",
-      "state": "upcoming",
-      "state_since": "2026-11-10T10:55:44Z",
+      "state": "watching",
+      "state_since": "2026-11-10T13:45:05Z",
       "thumbnail": "https://i.ytimg.com/vi/_oF-lNKg9tQ/maxresdefault.jpg?v=6af2f7f3",
       "time_tbd": false,
       "title": "【ただいま！】今年３度目の韓国にいってきました！【 #千石ユノ / #バンドリ 】",
       "title_ko": "【지금 돌아왔어요!】올해 세 번째 한국에 다녀왔어요!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=_oF-lNKg9tQ",
-      "video_id": "_oF-lNKg9tQ"
+      "video_id": "_oF-lNKg9tQ",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
