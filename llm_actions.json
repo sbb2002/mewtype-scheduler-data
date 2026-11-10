@@ -6366,6 +6366,26 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b40c743e50",
+      "input": {
+        "channel_key": "yuno",
+        "quote": "〈配信のおしらせ〉\n11/10 22:10～ #ヴァンガード 開封\n\nついに新規フェルティローザが！\n今こそ神引きの時！！！！！\n\nhttps://www.youtube.com/live/BTY-9CeowYY?si=W8fAwRzUf4bDPH9r",
+        "raw": "〈配信のおしらせ〉\n11/10 23:15頃～ 韓国からただいま！振り返り配信\n\nヴァンガード開封後に配信します！\n韓国から帰ってきました～！\n\n今回はどんな旅だったのか、みんなにお話します！\nhttps://www.youtube.com/live/_oF-lNKg9tQ?si=7vnslNeXxLbGq6yr",
+        "tag": "p#https://x.com/#1tweet-2120141877697798346"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 예정된 방송을 취소하거나 일정 변경을 알리는 내용이 아니라 각각의 방송을 안내하는 내용이다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-10T13:09:51Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
