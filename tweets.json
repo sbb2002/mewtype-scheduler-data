@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:16:25Z",
+  "generated_at": "2026-11-10T10:16:31Z",
   "tweets": {
     "arale": [
       {
@@ -239,6 +239,22 @@
         "text": "ゆめみたでファイト🔥\n戦え〜〜〜〜〜〜❣\n\n🦆🎮💥🎮🦆",
         "text_ko": "유메미타에서 파이팅🔥  \n싸워라~❣  \n\n🦆🎮💥🎮🦆",
         "url": "https://x.com/i/status/2119784071865970940"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-12T10:16:30Z",
+        "handle": "miyako_yumemita",
+        "id": "2120098263122714864",
+        "media": [
+          "https://pbs.twimg.com/media/HWwaIcdaMAAiavE.jpg"
+        ],
+        "posted_at": "2026-11-10T10:16:30Z",
+        "quote": null,
+        "received_at": "2026-11-10T10:16:31Z",
+        "reply_to_id": null,
+        "text": "どなち　どなち\nど〜なち\n#ぬいみやこ",
+        "text_ko": "도나치 도나치\n도~나치\n#ぬいみやこ",
+        "url": "https://x.com/i/status/2120098263122714864"
       }
     ],
     "nonoka": [
