@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-10T03:47:48Z",
+  "generated_at": "2026-11-10T03:50:01Z",
   "items": [
     {
       "actual_start": null,
@@ -97,7 +97,6 @@
       "kind": null,
       "last_updated": "2026-11-10T03:47:48Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-10T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2120000434316411178",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/ZyEsvkpQRLc/maxresdefault.jpg?v=6af29349",
       "time_tbd": false,
       "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【미스터리】리츠누이극장 3화「쿠마짱」【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=ZyEsvkpQRLc",
       "video_id": "ZyEsvkpQRLc"
     },
