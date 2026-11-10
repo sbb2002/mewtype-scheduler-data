@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-10T03:45:14Z",
+  "generated_at": "2026-11-10T03:47:48Z",
   "items": [
     {
       "actual_start": null,
@@ -95,14 +95,15 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-10T03:45:14Z",
+      "last_updated": "2026-11-10T03:47:48Z",
       "membership": false,
       "needs_tl": true,
       "scheduled_start": "2026-11-10T12:00:00Z",
       "source": "api",
+      "src_url": "https://x.com/i/status/2120000434316411178",
       "state": "upcoming",
       "state_since": "2026-11-10T03:45:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/ZyEsvkpQRLc/maxresdefault.jpg?v=6af2930b",
+      "thumbnail": "https://i.ytimg.com/vi/ZyEsvkpQRLc/maxresdefault.jpg?v=6af29349",
       "time_tbd": false,
       "title": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】",
       "title_ko": null,
