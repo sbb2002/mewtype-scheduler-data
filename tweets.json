@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:03:03Z",
+  "generated_at": "2026-11-10T13:07:11Z",
   "tweets": {
     "arale": [
       {
@@ -405,6 +405,22 @@
         "text": "配信すたーと🧸",
         "text_ko": "방송 시작🧸",
         "url": "https://x.com/i/status/2120124718326104168"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-12T13:07:07Z",
+        "handle": "ritsu_yumemita",
+        "id": "2120141201257197873",
+        "media": [
+          "https://pbs.twimg.com/media/HWxBLzObMAAgPjh.jpg"
+        ],
+        "posted_at": "2026-11-10T13:07:07Z",
+        "quote": null,
+        "received_at": "2026-11-10T13:07:11Z",
+        "reply_to_id": null,
+        "text": "見つかりました。私のくまちゃん",
+        "text_ko": "찾았습니다. 내 쿠마짱",
+        "url": "https://x.com/i/status/2120141201257197873"
       }
     ],
     "yuno": [
