@@ -80,3 +80,4 @@
 {"detail": "broadcast-change none · 게시물은 오늘 21:00에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-10T12:03:03Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-10T12:03:42Z", "who": "峰月律"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-10T12:30:19Z", "who": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_12f162fc", "result": "ok", "title": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-10T12:30:18Z", "video_id": "BTY-9CeowYY", "who": "yuno"}
