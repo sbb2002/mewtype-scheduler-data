@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-10T12:03:03Z",
+  "generated_at": "2026-11-10T12:30:18Z",
   "items": [
     {
       "actual_start": "2026-11-10T12:01:22Z",
@@ -125,18 +125,19 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-10T12:02:24Z",
+      "last_updated": "2026-11-10T12:30:18Z",
       "membership": false,
       "scheduled_start": "2026-11-10T13:00:00Z",
       "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-11-10T10:53:56Z",
+      "state": "watching",
+      "state_since": "2026-11-10T12:30:18Z",
       "thumbnail": "https://i.ytimg.com/vi/BTY-9CeowYY/maxresdefault.jpg?v=6af2f787",
       "time_tbd": false,
       "title": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】",
       "title_ko": "【 #ヴァンガード 】신규 페르티 로자 언니! 리리스테 신탄 개봉!【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=BTY-9CeowYY",
-      "video_id": "BTY-9CeowYY"
+      "video_id": "BTY-9CeowYY",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
