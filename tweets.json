@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:00:06Z",
+  "generated_at": "2026-11-10T12:03:03Z",
   "tweets": {
     "arale": [
       {
@@ -405,6 +405,26 @@
         "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n今夜21:00〜\n\nりつぬい劇場第3話「くまちゃん」\n\n↻ ＵＲＬ\n https://www.youtube.com/live/ZyEsvkpQRLc?si=eHRw5Du00AnoGiTy\n\n🩵 ･･････････････････････ 🩵",
         "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 21:00부터\n\n리츠누이극장 3화「쿠마짱」\n\n↻ URL\n https://www.youtube.com/live/ZyEsvkpQRLc?si=eHRw5Du00AnoGiTy\n\n🩵 ･･････････････････････ 🩵",
         "url": "https://x.com/i/status/2120000434316411178"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-12T12:01:37Z",
+        "handle": "ritsu_yumemita",
+        "id": "2120124718326104168",
+        "media": [],
+        "posted_at": "2026-11-10T12:01:37Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HWvBKEsacAA8B4_.jpg"
+          ],
+          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜21:00~\n\nりつぬい劇場第3話「くまちゃん」\n\n↻ ＵＲＬ\n https://www.youtube.com/live/ZyEsvkpQRLc?si=eHRw5Du00AnoGiTy\n\n🩵 ･･････････････････････ 🩵",
+          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵 \n\n오늘 밤 21:00~\n\n리츠누이극장 3화「쿠마짱」\n\n↻ ＵＲＬ\n https://www.youtube.com/live/ZyEsvkpQRLc?si=eHRw5Du00AnoGiTy\n\n🩵 ･･････････････････････ 🩵"
+        },
+        "received_at": "2026-11-10T12:03:03Z",
+        "reply_to_id": null,
+        "text": "配信すたーと🧸",
+        "text_ko": "방송 시작🧸",
+        "url": "https://x.com/i/status/2120124718326104168"
       }
     ],
     "yuno": [
