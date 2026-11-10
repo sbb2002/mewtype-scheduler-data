@@ -64,3 +64,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · _oF-lNKg9tQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:_oF-lNKg9tQ", "result": "ok", "title": "【ただいま！】今年３度目の韓国にいってきました！【 #千石ユノ / #バンドリ 】", "ts": "2026-11-10T10:55:44Z", "video_id": "_oF-lNKg9tQ", "who": "yuno"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-10T11:00:01Z", "who": "group"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-10T11:00:01Z", "who": ""}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-10T11:31:13Z", "who": "【謎】りつぬい劇場第3話「くまちゃん」【峰月律/ゆめみた】"}
