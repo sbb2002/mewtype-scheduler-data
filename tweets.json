@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:47:46Z",
+  "generated_at": "2026-11-10T03:47:48Z",
   "tweets": {
     "arale": [
       {
@@ -493,6 +493,22 @@
         "text": "はじめます✩.*˚",
         "text_ko": "시작합니다✩.*˚",
         "url": "https://x.com/i/status/2119778125513183462"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-12T03:47:45Z",
+        "handle": "ritsu_yumemita",
+        "id": "2120000434316411178",
+        "media": [
+          "https://pbs.twimg.com/media/HWvBKEsacAA8B4_.jpg"
+        ],
+        "posted_at": "2026-11-10T03:47:45Z",
+        "quote": null,
+        "received_at": "2026-11-10T03:47:48Z",
+        "reply_to_id": null,
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n今夜21:00〜\n\nりつぬい劇場第3話「くまちゃん」\n\n↻ ＵＲＬ\n https://www.youtube.com/live/ZyEsvkpQRLc?si=eHRw5Du00AnoGiTy\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 21:00부터\n\n리츠누이극장 3화「쿠마짱」\n\n↻ URL\n https://www.youtube.com/live/ZyEsvkpQRLc?si=eHRw5Du00AnoGiTy\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2120000434316411178"
       }
     ],
     "yuno": [
