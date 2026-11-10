@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:09:51Z",
+  "generated_at": "2026-11-10T13:19:06Z",
   "tweets": {
     "arale": [
       {
@@ -440,7 +440,7 @@
       },
       {
         "channel_key": "yuno",
-        "expires_at": "2026-11-12T13:08:18Z",
+        "expires_at": "2026-11-12T13:19:02Z",
         "handle": "yuno_yumemita",
         "id": "2120141498100625558",
         "media": [
@@ -475,6 +475,20 @@
         "text": "〈配信のおしらせ〉\n11/10 23:15頃〜 韓国からただいま！振り返り配信\n\nヴァンガード開封後に配信します！\n韓国から帰ってきました〜！\n\n今回はどんな旅だったのか、みんなにお話します！\nhttps://www.youtube.com/live/_oF-lNKg9tQ?si=7vnslNeXxLbGq6yr",
         "text_ko": "〈방송 안내〉\n11/10 23:15頃〜 한국에서 지금! 회고 방송\n\n밴가드 개봉 후에 방송합니다!\n한국에서 돌아왔어요~!\n\n이번엔 어떤 여행이었는지 모두에게 이야기할게요!\nhttps://www.youtube.com/live/_oF-lNKg9tQ?si=7vnslNeXxLbGq6yr",
         "url": "https://x.com/i/status/2120141877697798346"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-12T13:19:02Z",
+        "handle": "yuno_yumemita",
+        "id": "2120144200960475553",
+        "media": [],
+        "posted_at": "2026-11-10T13:19:02Z",
+        "quote": null,
+        "received_at": "2026-11-10T13:19:06Z",
+        "reply_to_id": "2120141498100625558",
+        "text": "YouTube不調だったので枠立て直しました！\n\nhttps://www.youtube.com/live/MnPsQrs9Bac?si=AnLpbT6VyXty9KBs",
+        "text_ko": "YouTube가 안돼서 방송 다시 잡았어요!",
+        "url": "https://x.com/i/status/2120144200960475553"
       }
     ]
   }
