@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-10T13:18:35Z",
+  "generated_at": "2026-11-10T13:19:06Z",
   "items": [
     {
       "actual_start": "2026-11-10T13:10:35Z",
@@ -125,14 +125,15 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-10T13:18:35Z",
+      "last_updated": "2026-11-10T13:19:06Z",
       "membership": false,
       "needs_tl": true,
       "scheduled_start": "2026-11-10T13:20:00Z",
       "source": "api",
+      "src_url": "https://x.com/i/status/2120144200960475553",
       "state": "watching",
       "state_since": "2026-11-10T13:18:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/MnPsQrs9Bac/maxresdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/MnPsQrs9Bac/maxresdefault.jpg?v=6af319ab",
       "time_tbd": false,
       "title": "【 #ヴァンガード 】新規フェルティローザお姉様！リリステ新弾開封！【 #千石ユノ / #バンドリ 】",
       "title_ko": null,
