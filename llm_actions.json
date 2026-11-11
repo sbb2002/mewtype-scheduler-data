@@ -6346,6 +6346,26 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_13b62ef32d",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "💜配信よてい💜\n11/11（水）22:00〜ASMR☁️\nぽふとんかぶせ名人が社訓読み聞かせ🌙\n\n🔗 https://www.youtube.com/live/L_WHcvB4dfQ?si=5XOJ7AuWWnxr5oU0\n\nぽかぽかすやすやしなさい❣️\n#みるみやこ",
+        "raw": "ぽやしみのじゅんびはいいか❣\nASMR配信はじまる🌙",
+        "tag": "p#https://x.com/#1tweet-2120502112518029491"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 22:00에 시작하는 ASMR 방송을 알리는 내용이며 일정 변경이나 취소를 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-11T13:01:18Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
