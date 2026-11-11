@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-11T21:32:00Z",
+  "generated_at": "2026-11-11T21:37:05Z",
   "items": [
     {
       "actual_start": "2026-11-11T21:30:39Z",
@@ -88,7 +88,7 @@
       "assumed_live": false,
       "channel_key": "arale",
       "collab_with": null,
-      "concurrent_viewers": 1,
+      "concurrent_viewers": 290,
       "expires_at": "2026-11-12T00:30:21Z",
       "first_seen": "2026-11-11T21:30:52Z",
       "host": null,
@@ -97,10 +97,11 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-11T21:30:52Z",
+      "last_updated": "2026-11-11T21:37:05Z",
       "membership": false,
       "scheduled_start": "2026-11-11T21:30:21Z",
       "source": "api",
+      "src_url": "https://x.com/i/status/2120631763647299899",
       "state": "live",
       "state_since": "2026-11-11T21:30:52Z",
       "thumbnail": "https://i.ytimg.com/vi/33jOAM3PznY/maxresdefault.jpg?v=6af4de72",
