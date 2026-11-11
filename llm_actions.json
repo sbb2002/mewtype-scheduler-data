@@ -6327,6 +6327,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_36d085e423",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "一家Dumb Rock!が歌うカバー楽曲\n『サムライハート(Some Like It Hot!!)』の動画をYouTubeにて公開✌️\n\nぜひチェックしてみてください✨\n楽曲は #アワーノーツ でもプレイできますよ🎶\n\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2120472442292547913"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 밖 — 글은 유튜브에 영상을 공개한다는 내용으로, 게임 앱 외부에서 이루어지는 활동을 알리고 있다. (근거: 「一家Dumb Rock!が歌うカバー楽曲」 「『サムライハート(Some Like It Hot!!)』の動画をYouTube」 「ぜひチェックしてみてください✨」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 none)",
+      "ts": "2026-11-11T11:11:52Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
