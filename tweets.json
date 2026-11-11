@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:44:05Z",
+  "generated_at": "2026-11-11T23:03:43Z",
   "tweets": {
     "arale": [
       {
@@ -353,6 +353,20 @@
         "text": "見つかりました。私のくまちゃん",
         "text_ko": "찾았습니다. 내 쿠마짱",
         "url": "https://x.com/i/status/2120141201257197873"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-13T23:03:41Z",
+        "handle": "ritsu_yumemita",
+        "id": "2120653719138443477",
+        "media": [],
+        "posted_at": "2026-11-11T23:03:41Z",
+        "quote": null,
+        "received_at": "2026-11-11T23:03:43Z",
+        "reply_to_id": null,
+        "text": "おはようございます🐻‍\n早起きの律です。\n寒いので寝ます。おやすみなさい。",
+        "text_ko": "좋은 아침입니다🐻‍\n일찍 일어난 리츠입니다.\n추워서 잡니다. 안녕히 주무세요.",
+        "url": "https://x.com/i/status/2120653719138443477"
       }
     ],
     "yuno": [
