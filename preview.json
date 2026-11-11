@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-11T14:10:00Z",
+  "generated_at": "2026-11-11T14:10:06Z",
   "items": [
     {
       "actual_start": "2026-11-11T14:05:03Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-11T14:10:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-11T14:04:43Z",
       "source": "api",
       "state": "live",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/Ewsu3pvy6Ao/maxresdefault.jpg?v=6af475fe",
       "time_tbd": false,
       "title": "【弾き語り】もうすぐデビュー3周年！ゆるギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-      "title_ko": null,
+      "title_ko": "【기타 치며 노래】 곧 데뷔 3주년! 느긋한 기타【유메미타/무겐다이 뮤타입】 #반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=Ewsu3pvy6Ao",
       "video_id": "Ewsu3pvy6Ao"
     },
