@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-10T19:45:00Z",
+  "generated_at": "2026-11-11T04:48:41Z",
   "items": [
     {
       "actual_start": null,
@@ -95,10 +95,11 @@
       "info_at": null,
       "info_source": "api",
       "kind": null,
-      "last_updated": "2026-11-10T19:45:00Z",
+      "last_updated": "2026-11-11T04:48:41Z",
       "membership": false,
       "scheduled_start": "2026-11-11T13:00:00Z",
       "source": "api",
+      "src_url": "https://x.com/i/status/2120378146856046786",
       "state": "upcoming",
       "state_since": "2026-11-08T02:39:38Z",
       "thumbnail": "https://i.ytimg.com/vi/L_WHcvB4dfQ/maxresdefault.jpg?v=6aefdbf4",
