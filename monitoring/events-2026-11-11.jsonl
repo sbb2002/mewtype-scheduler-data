@@ -46,3 +46,4 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-11T12:00:02Z", "who": "group"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-11T12:30:23Z", "who": "【ASMR】社訓よみきかせ♪ぽふとんかぶり名人による寝かしつけ【ゆめみた/藤都子】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_82b1e69d", "result": "ok", "title": "【ASMR】社訓よみきかせ♪ぽふとんかぶり名人による寝かしつけ【ゆめみた/藤都子】", "to_state": "watching", "ts": "2026-11-11T12:30:23Z", "video_id": "L_WHcvB4dfQ", "who": "miyako"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-11T13:00:02Z", "who": "group"}
