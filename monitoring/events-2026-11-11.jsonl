@@ -57,3 +57,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T13:33:39Z", "tweet_id": "2120510255658610891", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 23:00에 진행될 예정인 오늘 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-11T13:33:39Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-11T13:34:17Z", "who": "宮永ののか🐰🩹"}
+{"detail": "gap-fill(자기 답글) · 2120512419579724151 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T13:43:05Z", "tweet_id": "2120512419579724151", "via": "ingest", "who": "nonoka"}
