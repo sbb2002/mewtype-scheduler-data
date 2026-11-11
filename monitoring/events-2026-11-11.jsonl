@@ -90,3 +90,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-11T16:30:00Z", "who": "Ewsu3pvy6Ao"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_4404adb4", "result": "ok", "title": "【弾き語り】もうすぐデビュー3周年！ゆるギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "end", "ts": "2026-11-11T16:30:00Z", "video_id": "Ewsu3pvy6Ao", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · Ewsu3pvy6Ao · 예고 end", "flow": "websub", "merge_key": "websub-notify:Ewsu3pvy6Ao", "result": "ok", "title": "【弾き語り】もうすぐデビュー3周年！ゆるギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-11-11T16:30:45Z", "video_id": "Ewsu3pvy6Ao", "who": "nonoka"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T16:32:47Z", "tweet_id": "2120555338718126175", "via": "ingest", "who": "nonoka"}
