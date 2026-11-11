@@ -20,3 +20,4 @@
 {"detail": "gap-fill(자기 답글) · 2120631763647299899 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T21:37:05Z", "tweet_id": "2120631763647299899", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2120631825081188565 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-11T21:44:05Z", "tweet_id": "2120631825081188565", "via": "ingest", "who": "arale"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-11T22:00:02Z", "who": "group"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +36분 · 2120629526296482197", "flow": "tweet", "result": "ok", "ts": "2026-11-11T22:04:07Z", "tweet_id": "2120629526296482197", "via": "ingest", "who": "arale"}
