@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:32:47Z",
+  "generated_at": "2026-11-11T16:36:05Z",
   "tweets": {
     "arale": [
       {
@@ -222,7 +222,7 @@
       },
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-11-13T16:32:45Z",
+        "expires_at": "2026-11-13T16:35:54Z",
         "handle": "nonoka_yumemita",
         "id": "2120555338718126175",
         "media": [],
@@ -239,6 +239,20 @@
         "text": "改めてきいてもこれやばい\n #ののちゃんたいむ",
         "text_ko": "다시 들어도 이거 대박이야\n #의노노카짱타임",
         "url": "https://x.com/i/status/2120555338718126175"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-13T16:35:54Z",
+        "handle": "nonoka_yumemita",
+        "id": "2120556131580100740",
+        "media": [],
+        "posted_at": "2026-11-11T16:35:54Z",
+        "quote": null,
+        "received_at": "2026-11-11T16:36:05Z",
+        "reply_to_id": "2120555338718126175",
+        "text": "まじで神",
+        "text_ko": "진짜 신",
+        "url": "https://x.com/i/status/2120556131580100740"
       }
     ],
     "ritsu": [
