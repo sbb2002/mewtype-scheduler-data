@@ -78,3 +78,5 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-11T14:07:50Z", "who": "藤都子"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-11T14:10:00Z", "who": "L_WHcvB4dfQ"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-11T14:10:06Z", "who": ""}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-11T14:35:00Z", "who": "L_WHcvB4dfQ"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_82b1e69d", "result": "ok", "title": "【ASMR】社訓よみきかせ♪ぽふとんかぶり名人による寝かしつけ【ゆめみた/藤都子】", "to_state": "out", "ts": "2026-11-11T14:35:00Z", "video_id": "L_WHcvB4dfQ", "who": "miyako"}
