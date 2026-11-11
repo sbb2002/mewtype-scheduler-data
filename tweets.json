@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:39:42Z",
+  "generated_at": "2026-11-11T21:35:05Z",
   "tweets": {
     "arale": [
       {
@@ -45,6 +45,20 @@
         "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/12(木) 6:30〜┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 URLは直前！",
         "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 11/12(木) 6:30〜┊#イ中田丁なう\n\n┊ 아침 활동 ┊잘 다녀와요 배웅해요☀️",
         "url": "https://x.com/i/status/2120534853456371995"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-13T21:27:33Z",
+        "handle": "arale_yumemita",
+        "id": "2120629526296482197",
+        "media": [],
+        "posted_at": "2026-11-11T21:27:33Z",
+        "quote": null,
+        "received_at": "2026-11-11T21:35:05Z",
+        "reply_to_id": null,
+        "text": "おはよ〜！さむい！！",
+        "text_ko": "좋은 아침~! 추워!!",
+        "url": "https://x.com/i/status/2120629526296482197"
       }
     ],
     "miyako": [
