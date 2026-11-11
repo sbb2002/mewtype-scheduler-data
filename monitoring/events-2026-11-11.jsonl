@@ -85,3 +85,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T15:11:30Z", "tweet_id": "2120534853456371995", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 11/12 6:30에 진행될 방송을 예고하고 있을 뿐, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-11T15:11:30Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-11T15:12:02Z", "who": "仲町あられ"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-11-11T15:46:18Z", "who": ""}
