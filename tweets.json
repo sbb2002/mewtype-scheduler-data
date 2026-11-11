@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:35:05Z",
+  "generated_at": "2026-11-11T21:37:05Z",
   "tweets": {
     "arale": [
       {
@@ -32,7 +32,7 @@
       },
       {
         "channel_key": "arale",
-        "expires_at": "2026-11-13T15:11:21Z",
+        "expires_at": "2026-11-13T21:36:26Z",
         "handle": "arale_yumemita",
         "id": "2120534853456371995",
         "media": [
@@ -59,6 +59,20 @@
         "text": "おはよ〜！さむい！！",
         "text_ko": "좋은 아침~! 추워!!",
         "url": "https://x.com/i/status/2120629526296482197"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-13T21:36:26Z",
+        "handle": "arale_yumemita",
+        "id": "2120631763647299899",
+        "media": [],
+        "posted_at": "2026-11-11T21:36:26Z",
+        "quote": null,
+        "received_at": "2026-11-11T21:37:05Z",
+        "reply_to_id": "2120534853456371995",
+        "text": "https://youtube.com/live/33jOAM3PznY?feature=share",
+        "text_ko": "https://youtube.com/live/33jOAM3PznY?feature=share",
+        "url": "https://x.com/i/status/2120631763647299899"
       }
     ],
     "miyako": [
