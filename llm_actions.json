@@ -6386,6 +6386,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e7e270696e",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信開始🩹♡\n\n配信の最初に、告知したいことがいろいろある🥹\nスケジュール帳をおもちになってください🤣もち#Ω#Ω#もち\n\nあと、最近ハマったものを自慢したくて仕方ありません。\nおねがいです。\n\n【弾き語り】もうすぐデビュー3周年！ゆるギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
+        "tag": "p#https://x.com/#1tweet-2120518762021671119"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 현재 스트리밍 시작을 알리고 새로운 콘텐츠 소개를 하는 내용이며, 기존에 공지된 방송을 취소하거나 일정 변경한다는 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-11T14:07:26Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
