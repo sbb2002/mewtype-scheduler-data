@@ -6457,6 +6457,25 @@
       },
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e755d109ed",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/12(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 URLは直前！",
+        "tag": "p#https://x.com/#1tweet-2120534853456371995"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/12 6:30에 진행될 방송을 예고하고 있을 뿐, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-11T15:11:30Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
