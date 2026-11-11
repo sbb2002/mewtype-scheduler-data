@@ -18,3 +18,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-11T21:32:00Z", "who": ""}
 {"detail": "gap-fill · 2120629526296482197 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-11T21:35:05Z", "tweet_id": "2120629526296482197", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill(자기 답글) · 2120631763647299899 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T21:37:05Z", "tweet_id": "2120631763647299899", "via": "ingest", "who": "arale"}
+{"detail": "gap-fill · 2120631825081188565 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-11T21:44:05Z", "tweet_id": "2120631825081188565", "via": "ingest", "who": "arale"}
