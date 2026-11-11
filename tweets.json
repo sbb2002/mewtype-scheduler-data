@@ -4,20 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-11-11T16:47:44Z",
-        "handle": "arale_yumemita",
-        "id": "2119834333913764223",
-        "media": [],
-        "posted_at": "2026-11-09T16:47:44Z",
-        "quote": null,
-        "received_at": "2026-11-09T16:47:46Z",
-        "reply_to_id": null,
-        "text": "あー！またながーくなっちゃうの〜",
-        "text_ko": "아! 또 오래 걸리겠네~",
-        "url": "https://x.com/i/status/2119834333913764223"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-11-13T03:12:24Z",
         "handle": "arale_yumemita",
         "id": "2120353924817580496",
