@@ -92,3 +92,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · Ewsu3pvy6Ao · 예고 end", "flow": "websub", "merge_key": "websub-notify:Ewsu3pvy6Ao", "result": "ok", "title": "【弾き語り】もうすぐデビュー3周年！ゆるギター【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "ts": "2026-11-11T16:30:45Z", "video_id": "Ewsu3pvy6Ao", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T16:32:47Z", "tweet_id": "2120555338718126175", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-11T16:32:57Z", "who": "宮永ののか🐰🩹"}
+{"detail": "gap-fill(자기 답글) · 2120556131580100740 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T16:36:05Z", "tweet_id": "2120556131580100740", "via": "ingest", "who": "nonoka"}
