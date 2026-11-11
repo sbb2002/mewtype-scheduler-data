@@ -6405,6 +6405,58 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a5e7aa9657",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/12(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 URLは直前！",
+        "tag": "p#https://x.com/#1tweet-2120534853456371995"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信予定\"이라고 명시하고 구체적인 날짜와 시각을 제시했으므로 앞으로 할 방송을 알리는 예고이다. (근거: 「配信予定\n┊ 11/12(木) 6:30~」)",
+      "summary": "본인 예고로 등록 — 06:30 JST · ❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/12(木) 6:30~┊#イ中田丁",
+      "ts": "2026-11-11T15:11:30Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "arale",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-12T00:30:00Z",
+            "first_seen": "2026-11-11T09:30:06Z",
+            "host": null,
+            "id": "pv_0d582a2c",
+            "info_at": "2026-11-11T09:30:06Z",
+            "info_source": "x-relay",
+            "kind": "morning",
+            "last_updated": "2026-11-11T09:30:06Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-11T21:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2120448952801591587",
+            "state": "announced",
+            "state_since": "2026-11-11T09:30:06Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
