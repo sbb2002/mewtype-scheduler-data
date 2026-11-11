@@ -16,3 +16,4 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_5471a204", "result": "ok", "title": "【🟡朝活】久しぶりのスープ...🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-11-11T21:30:52Z", "video_id": "33jOAM3PznY", "who": "arale"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 33jOAM3PznY · 예고 live", "flow": "websub", "merge_key": "websub-notify:33jOAM3PznY", "result": "ok", "title": "【🟡朝活】久しぶりのスープ...🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-11-11T21:31:25Z", "video_id": "33jOAM3PznY", "who": "arale"}
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-11T21:32:00Z", "who": ""}
+{"detail": "gap-fill · 2120629526296482197 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-11T21:35:05Z", "tweet_id": "2120629526296482197", "via": "ingest", "who": "arale"}
