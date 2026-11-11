@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:37:05Z",
+  "generated_at": "2026-11-11T21:44:05Z",
   "tweets": {
     "arale": [
       {
@@ -59,6 +59,20 @@
         "text": "https://youtube.com/live/33jOAM3PznY?feature=share",
         "text_ko": "https://youtube.com/live/33jOAM3PznY?feature=share",
         "url": "https://x.com/i/status/2120631763647299899"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-13T21:36:41Z",
+        "handle": "arale_yumemita",
+        "id": "2120631825081188565",
+        "media": [],
+        "posted_at": "2026-11-11T21:36:41Z",
+        "quote": null,
+        "received_at": "2026-11-11T21:44:05Z",
+        "reply_to_id": null,
+        "text": "はじまり！\n【🟡朝活】久しぶりのスープ...🌟 #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】 https://www.youtube.com/live/33jOAM3PznY?si=wwLYrFZ8OZfZLptN @YouTubeより",
+        "text_ko": "시작! 【🟡아침 활동】오랜만의 스프...🌟 #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】 https://www.youtube.com/live/33jOAM3PznY?si=wwLYrFZ8OZfZLptN @YouTube보다",
+        "url": "https://x.com/i/status/2120631825081188565"
       }
     ],
     "miyako": [
