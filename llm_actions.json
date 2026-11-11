@@ -6366,6 +6366,26 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_eb8cdcedae",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n11/11(水)の配信スケジュール🌟\n＼\n\n👂22:00～ 藤都子\nhttps://www.youtube.com/watch?v=L_WHcvB4dfQ\n\n🎸23:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n☀明日朝6:30～仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "♡🐰今日の配信🩹♡\n\nこのあと 23:00-‼️\n\nまったり弾き語り(●´ー｀●)🎸いえい🎶\nそれとも指弾きの無限練習しようかな.,.,.,.,.,.\n⬆️こちらを送信しないまま電車で眠っていました",
+        "tag": "p#https://x.com/#1tweet-2120510255658610891"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 23:00에 진행될 예정인 오늘 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-11T13:33:39Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
