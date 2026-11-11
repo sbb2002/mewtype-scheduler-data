@@ -95,3 +95,4 @@
 {"detail": "gap-fill(자기 답글) · 2120556131580100740 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T16:36:05Z", "tweet_id": "2120556131580100740", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-11T16:39:42Z", "tweet_id": "2120557079656358390", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 방송에 대한 감사와 인사 내용만 포함하고 있어 일정 취소나 변경을 알리는 표현이 없습니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-11T16:39:42Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-11T16:39:56Z", "who": "宮永ののか🐰🩹"}
