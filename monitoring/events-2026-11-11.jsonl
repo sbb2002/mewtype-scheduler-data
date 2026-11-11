@@ -53,3 +53,4 @@
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-11T13:01:52Z", "who": "藤都子 -Fuji Miyako- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-11T13:01:52Z", "who": "L_WHcvB4dfQ"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_82b1e69d", "result": "ok", "title": "【ASMR】社訓よみきかせ♪ぽふとんかぶり名人による寝かしつけ【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-11-11T13:01:52Z", "video_id": "L_WHcvB4dfQ", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · L_WHcvB4dfQ · 예고 live", "flow": "websub", "merge_key": "websub-notify:L_WHcvB4dfQ", "result": "ok", "title": "【ASMR】社訓よみきかせ♪ぽふとんかぶり名人による寝かしつけ【ゆめみた/藤都子】", "ts": "2026-11-11T13:02:29Z", "video_id": "L_WHcvB4dfQ", "who": "miyako"}
