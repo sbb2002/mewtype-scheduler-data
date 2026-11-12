@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-12T11:45:00Z",
+  "generated_at": "2026-11-12T11:50:02Z",
   "items": [
     {
       "actual_start": null,
@@ -184,7 +184,6 @@
       "kind": null,
       "last_updated": "2026-11-12T11:45:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-12T11:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2120764023914590260",
@@ -193,7 +192,7 @@
       "thumbnail": "https://i.ytimg.com/vi/AG9NYiX3RzQ/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【#アニメゆめみた】もしも１話でののちゃんがビオラを発見していたら...？",
-      "title_ko": null,
+      "title_ko": "【#アニメゆめみた】만약 1화에서 노노카가 비올라를 발견했다면...？",
       "url": "https://www.youtube.com/watch?v=AG9NYiX3RzQ",
       "video_id": "AG9NYiX3RzQ"
     }
