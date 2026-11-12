@@ -45,3 +45,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · FChKwz9gE2E · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:FChKwz9gE2E", "result": "ok", "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】", "ts": "2026-11-12T05:36:58Z", "video_id": "FChKwz9gE2E", "who": "arale"}
 {"candidates": 19, "detail": "candidates=19 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-12T05:40:01Z", "who": ""}
 {"detail": "broadcast-change none · 게시물이 11/13 20:00에 예정된 WS 개봉 방송을 알리는 안내이며, 취소나 일정 변경에 대한 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-12T05:45:05Z", "via": "ingest", "who": "arale"}
+{"detail": "gap-fill · 2120752918815277193 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-12T05:45:05Z", "tweet_id": "2120752918815277193", "via": "ingest", "who": "arale"}
