@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:35:04Z",
+  "generated_at": "2026-11-12T05:45:05Z",
   "tweets": {
     "arale": [
       {
@@ -93,6 +93,22 @@
         "text": "ねぇ、ぼくもね、あのね",
         "text_ko": "얘, 나도 말이야, 있잖아",
         "url": "https://x.com/i/status/2120750364337320137"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-14T05:37:52Z",
+        "handle": "arale_yumemita",
+        "id": "2120752918815277193",
+        "media": [
+          "https://pbs.twimg.com/media/HW5tiWjawAAJb9b.jpg"
+        ],
+        "posted_at": "2026-11-12T05:37:52Z",
+        "quote": null,
+        "received_at": "2026-11-12T05:45:05Z",
+        "reply_to_id": null,
+        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/13(金) 20:00〜┊#WS\n\n┊ 開封 ┊ゆめみたBP発売日に！✨️\nWSアンバサダー2人で開封する！🎊\n\n🔗 https://youtube.com/live/FChKwz9gE2E",
+        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 11/13(금) 20:00〜┊#WS\n\n┊ 개봉 ┊유메미타BP 발매일에!✨️\nWS 앰배서더 2명이서 개봉한다!🎊\n\n🔗 https://youtube.com/live/FChKwz9gE2E",
+        "url": "https://x.com/i/status/2120752918815277193"
       }
     ],
     "miyako": [
