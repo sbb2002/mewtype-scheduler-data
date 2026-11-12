@@ -6423,6 +6423,58 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_aad4e75c90",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "♡🐰投稿告知🩹♡\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/12(木) 20:30~ プレミア公開\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\nみんなも気になる、あの動画を投稿します...🎶\nおたのしみに‼️😍\n\n【#アニメゆめみた】もしもののちゃんが... https://youtu.be/AG9NYiX3RzQ?si=fYesNXr6kowEVakv",
+        "raw": "今日の20:30に投稿🎶\n\nプレミア公開でいっしょにみようね‼️😍\nよろしくおねがいします🎶",
+        "tag": "p#https://x.com/#1tweet-2120764023914590260"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 오늘 20:30에 프리미어 공개를 함께 보자고 알리며 방송 일정을 알리는 예고이기 때문입니다. (근거: 「今日の20:30に投稿」)",
+      "summary": "본인 예고로 등록 — 20:30 JST · 今日の20:30に投稿🎶\n\nプレミア公開でいっしょにみようね‼️😍\nよろしくおね",
+      "ts": "2026-11-12T06:29:14Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": "2026-11-12T11:30:00Z",
+            "assumed_live": false,
+            "channel_key": "nonoka",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-12T14:30:00Z",
+            "first_seen": "2026-11-10T11:53:14Z",
+            "host": null,
+            "id": "pv_3b8b2931",
+            "info_at": null,
+            "info_source": "api",
+            "is_premiere": true,
+            "kind": null,
+            "last_updated": "2026-11-12T05:36:58Z",
+            "membership": false,
+            "scheduled_start": "2026-11-12T11:30:00Z",
+            "source": "api",
+            "state": "upcoming",
+            "state_since": "2026-11-10T11:53:14Z",
+            "thumbnail": "https://i.ytimg.com/vi/AG9NYiX3RzQ/maxresdefault.jpg",
+            "time_tbd": false,
+            "title": "【#アニメゆめみた】もしもののちゃんが...",
+            "title_ko": "【#アニメゆめみた】만약 노노카가...",
+            "url": "https://www.youtube.com/watch?v=AG9NYiX3RzQ",
+            "video_id": "AG9NYiX3RzQ"
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
