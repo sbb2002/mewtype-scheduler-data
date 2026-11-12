@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:10:00Z",
+  "generated_at": "2026-11-12T16:05:00Z",
   "items": [
     {
       "actual_start": "2026-11-04T21:31:43Z",
@@ -665,6 +665,36 @@
       "title_ko": "【#アニメゆめみた】만약 1화에서 노노카가 비올라를 발견했다면...？",
       "url": "https://www.youtube.com/watch?v=AG9NYiX3RzQ",
       "video_id": "AG9NYiX3RzQ"
+    },
+    {
+      "actual_start": "2026-11-12T14:32:00Z",
+      "api_start_seen": "2026-11-12T14:30:00Z",
+      "archived_at": "2026-11-12T16:05:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 303,
+      "expires_at": "2026-11-12T17:30:00Z",
+      "first_seen": "2026-11-12T14:20:27Z",
+      "host": null,
+      "id": "pv_220eadb5",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-12T16:05:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-12T14:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2120885165602099448",
+      "state": "out",
+      "state_since": "2026-11-12T16:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/6DCz3dJp6ms/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【 VGDD2 】ヴァンガードDD2やります！！！【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 VGDD2 】뱅가드DD2 할게요!!!【 #센고쿠 유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=6DCz3dJp6ms",
+      "video_id": "6DCz3dJp6ms"
     }
   ]
 }
