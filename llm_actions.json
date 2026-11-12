@@ -6404,6 +6404,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_3b46fd4e49",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/13(金) 20:00~┊#WS\n\n┊ 開封 ┊ゆめみたBP発売日に！✨️\nWSアンバサダー2人で開封する！🎊\n\n🔗 https://youtube.com/live/FChKwz9gE2E",
+        "tag": "p#https://x.com/#1tweet-2120752918815277193"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물이 11/13 20:00에 예정된 WS 개봉 방송을 알리는 안내이며, 취소나 일정 변경에 대한 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-12T05:45:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
