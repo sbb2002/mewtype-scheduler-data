@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-12T05:36:58Z",
+  "generated_at": "2026-11-12T05:40:01Z",
   "items": [
     {
       "actual_start": null,
@@ -126,7 +126,6 @@
       "kind": null,
       "last_updated": "2026-11-12T05:36:58Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-13T11:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -134,7 +133,7 @@
       "thumbnail": "https://i.ytimg.com/vi/FChKwz9gE2E/maxresdefault.jpg?v=6af49027",
       "time_tbd": false,
       "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】",
-      "title_ko": null,
+      "title_ko": "【🔲WS개봉🔳】오늘 발매 유메미타BP! 3BOX, 대결!!【 나카마치 아라레 / 미야나가 노노카 / 뱅드림! 】",
       "url": "https://www.youtube.com/watch?v=FChKwz9gE2E",
       "video_id": "FChKwz9gE2E"
     },
