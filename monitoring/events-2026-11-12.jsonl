@@ -68,3 +68,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-12T11:36:45Z", "who": "AG9NYiX3RzQ"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_3b8b2931", "result": "ok", "title": "【#アニメゆめみた】もしもののちゃんが...", "to_state": "end", "ts": "2026-11-12T11:36:45Z", "video_id": "AG9NYiX3RzQ", "who": "nonoka"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-12T11:45:00Z", "who": "AG9NYiX3RzQ"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-12T11:50:02Z", "who": ""}
