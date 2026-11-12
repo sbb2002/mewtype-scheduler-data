@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:15:07Z",
+  "generated_at": "2026-11-12T14:31:05Z",
   "tweets": {
     "arale": [
       {
@@ -553,6 +553,22 @@
         "text": "こういう手の繋ぎ方、なんて言うんでしたっけ、えーっと…\n\nああそうそう、恋b\n\n通信はここで途絶えた\n彼女の消息は不明である",
         "text_ko": "이런 손 잡는 방법, 뭐라고 했더라, 음…\n\n아, 맞아, 연애b\n\n통신은 여기서 끊겼다\n그녀의 행방은 불명이다",
         "url": "https://x.com/i/status/2120814378597720193"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-14T14:23:22Z",
+        "handle": "yuno_yumemita",
+        "id": "2120885165602099448",
+        "media": [
+          "https://pbs.twimg.com/media/HW7l0R-bcAAfDUX.jpg"
+        ],
+        "posted_at": "2026-11-12T14:23:22Z",
+        "quote": null,
+        "received_at": "2026-11-12T14:31:05Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/12 23:30〜 VGDD2\n\nディアデイズくん、元気にしてるかなぁ\nユノちゃんがいない間に背とか伸びたんだろうか…\n\nhttps://www.youtube.com/live/6DCz3dJp6ms?si=AjqItMwfo1-_kCxP",
+        "text_ko": "〈방송 안내〉\n11/12 23:30〜 VGDD2\n\n디어데이즈군, 잘 지내고 있나\n유노짱이 없는 사이에 등도 늘어났을까…\n\nhttps://www.youtube.com/live/6DCz3dJp6ms?si=AjqItMwfo1-_kCxP",
+        "url": "https://x.com/i/status/2120885165602099448"
       }
     ]
   }
