@@ -1,0 +1,23 @@
+{
+  "tweets": [
+    {
+      "archived_at": "2026-11-07T15:26:05Z",
+      "archived_reason": "expired",
+      "channel_key": "arale",
+      "expires_at": "2026-11-07T15:14:18Z",
+      "handle": "arale_yumemita",
+      "id": "2118361268646285781",
+      "media": [
+        "https://pbs.twimg.com/media/HWXuVVrasAA3dqe.jpg",
+        "https://pbs.twimg.com/media/HWXuVVmbkAECvPa.jpg"
+      ],
+      "posted_at": "2026-11-05T15:14:18Z",
+      "quote": null,
+      "received_at": "2026-11-05T15:20:33Z",
+      "reply_to_id": null,
+      "text": "#バンドリTVLIVE\nありがとうございました✨️\n\n来週末のMyGO!!!!!さんのライブ、\nbfj2026(ファッションショー)、\nRASさんの新曲特集\nの3本立てでしたね♬.*ﾟ\n\n汗……かきましょう💪💪💪💦💦💦\n\n☆筋トレ部員募集中☆",
+      "text_ko": "#뱅드림 TVLIVE\n감사했습니다✨️\n\n다음 주말 MyGO!!!!!님의 라이브,\nbfj2026(패션쇼),\nRAS님의 신곡 특집\n3개가 있었네요♬.*\n\n땀……흘리자💪💪💪💦💦💦\n\n☆근육 트레이닝 부원 모집 중☆",
+      "url": "https://x.com/i/status/2118361268646285781"
+    }
+  ]
+}
