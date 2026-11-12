@@ -71,3 +71,5 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-12T11:50:02Z", "who": ""}
 {"detail": "gap-fill(자기 답글) · 2120848643582468237 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-12T11:59:06Z", "tweet_id": "2120848643582468237", "via": "ingest", "who": "nonoka"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-12T12:00:02Z", "who": "group"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-12T12:10:00Z", "who": "AG9NYiX3RzQ"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_3b8b2931", "result": "ok", "title": "【#アニメゆめみた】もしも１話でののちゃんがビオラを発見していたら...？", "to_state": "out", "ts": "2026-11-12T12:10:00Z", "video_id": "AG9NYiX3RzQ", "who": "nonoka"}
