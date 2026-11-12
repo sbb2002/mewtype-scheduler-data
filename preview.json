@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-12T14:20:27Z",
+  "generated_at": "2026-11-12T14:30:02Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-12T14:20:27Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-12T14:30:00Z",
       "source": "api",
       "state": "watching",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/6DCz3dJp6ms/maxresdefault.jpg?v=6af5caee",
       "time_tbd": false,
       "title": "【 VGDD2 】ヴァンガードDD2やります！！！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 VGDD2 】뱅가드DD2 할게요!!!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=6DCz3dJp6ms",
       "video_id": "6DCz3dJp6ms"
     },
