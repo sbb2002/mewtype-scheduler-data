@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:31:05Z",
+  "generated_at": "2026-11-12T14:33:06Z",
   "tweets": {
     "arale": [
       {
@@ -186,7 +186,7 @@
       },
       {
         "channel_key": "miyako",
-        "expires_at": "2026-11-14T06:21:10Z",
+        "expires_at": "2026-11-14T14:32:53Z",
         "handle": "miyako_yumemita",
         "id": "2120763817806491730",
         "media": [
@@ -199,6 +199,20 @@
         "text": "ふじ ぽまもり\nあっねが くれた\nありゃと",
         "text_ko": "후지 포마모리\n아네가 줬다\n아리쟈토",
         "url": "https://x.com/i/status/2120763817806491730"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-14T14:32:53Z",
+        "handle": "miyako_yumemita",
+        "id": "2120887561761726616",
+        "media": [],
+        "posted_at": "2026-11-12T14:32:53Z",
+        "quote": null,
+        "received_at": "2026-11-12T14:33:06Z",
+        "reply_to_id": "2120763817806491730",
+        "text": "#ぬいみやこ ❕",
+        "text_ko": "#누이미야코 ❕",
+        "url": "https://x.com/i/status/2120887561761726616"
       }
     ],
     "nonoka": [
