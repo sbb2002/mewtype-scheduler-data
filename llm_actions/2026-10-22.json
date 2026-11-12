@@ -1,0 +1,291 @@
+{
+  "items": [
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_89503c49e7",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信開始！ ━━━ ❑\n\n┊ 10/22(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 https://youtube.com/live/Oul-xJOLBys?feature=share",
+        "tag": "p#https://x.com/#1tweet-2113021219322929329"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/22 6:30에 시작하는 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-21T22:06:20Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_1086847049",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "【重要】利用規約違反行為への対応に関するお知らせ\n\n不正にゲームをプレイする該当アカウントに対して、本日付けで無期限のアカウント利用停止措置を実施いたしました。\n\n▼今回確認された主な違反行為\n・不正な外部ツールの使用行為\n・ライブプレイデータの改ざん行為\n・プロフィールカードデータの改ざん行為\n\nなお利用停止措置を実施したアカウントであっても、すでにフレンド登録されている場合はフレンド一覧に表示が残ってしまうため、『バンドリ！アワーノーツ』に関係のない画像やキャラクターなどをプロフィールカードに設定しているプレイヤーをお見かけした場合は、お手数ですがフレンド解除を行っていただきますようお願いいたします。\n\n全てのお客さまが安心してゲームをお楽しみいただけるよう、継続して監視および対策を強化してまいりますので、今一度利用規約をご確認いただき、規約を遵守してゲームをお楽しみいただきますようお願い申し上げます。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2113118147863773530"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내 계정 정지 및 규정 위반 조치에 관한 안내이므로 게임 앱 안에서 하는 일이다. (근거: 「不正にゲームをプレイする該当アカウントに対して、本日付けで無期限のアカウント利用」 「・不正な外部ツールの使用行為」 「・ライブプレイデータの改ざん行為」) / 본문과 이미지에 인게임 이벤트나 가챠 정보가 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-22T04:00:12Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_96d7fd7cc8",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVNpUjvaIAAqrRt.jpg"
+        ],
+        "raw": "📢10月24日(土)より開催！\nAve Mujica 7th LIVE「Virtus」\n\n本ライブ開催時にはログインした方全員に「スター×50」と、#アワーノーツ のプロフィールカードで使用できる「ライブロゴステッカー」をプレゼント✨\n\nまたライブ会場にお越しくださった方と配信チケットをご購入いただいた方限定で、特別仕様のライブロゴステッカーがGET出来るシリアルコードの配布も決定💫なお、シリアルコードは10月24日(土)17:00より使用可能となります！\n\n※配信チケットをご購入のお客さまはイープラスの「申込み履歴」よりシリアルコードを確認できます。\n#バンドリ",
+        "tag": "p#https://x.com/#1tweet-2113148643343729074"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 밖 — 오프라인 라이브 행사와 티켓 구매, 시리얼 코드 배포 등 게임 외부에서 진행되는 내용이므로 outside이다. (근거: 「📢10月24日(土)より開催！」 「Ave Mujica 7th LIVE「Virtus」」 「本ライブ開催時にはログインした方全員に「スター×50」と、#アワーノーツ のプロ」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 added)",
+      "ts": "2026-10-22T06:01:17Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e9c53decc0",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日は、2回行動Day！🌟\n\n20:00~メン限🧸りっちゃんズ集会\n21:00~リルリのつづきと、おはなし…\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/TX6A6bCGqvk?si=45e3BjnFkRBGBApL\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2113155431313158254"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 기존 일정 그대로 안내하고 있어 취소·변경이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-22T06:31:15Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_cd938af62f",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n10/22(木)の配信スケジュール🌟\n＼\n\n【メン限】20:00～／💭21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n🎸20:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n✨23:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "【配信予定】\n\n今日 20:30- ギター重ね録り🎶\n\n久しぶりに重ね録り欲、たかまってます😍\nうちゅうのふしぎ予定🥹🎶",
+        "tag": "p#https://x.com/#1tweet-2113196648180637922"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信予定’와 오늘 20:30이라는 날짜·시각이 함께 있어 작성자의 앞으로 할 방송 예고이다. (근거: 「【配信予定】\n\n今日 20:30- ギター重ね録り🎶」)",
+      "summary": "본인 예고로 등록 — 20:30 JST · 【配信予定】\n\n今日 20:30- ギター重ね録り🎶\n\n久しぶりに重ね録り欲、た",
+      "ts": "2026-10-22T09:12:00Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "nonoka",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-22T14:30:00Z",
+            "first_seen": "2026-10-22T09:00:08Z",
+            "host": null,
+            "id": "pv_aa33e7c0",
+            "info_at": "2026-10-22T09:00:08Z",
+            "info_source": "x-relay",
+            "kind": "unknown",
+            "last_updated": "2026-10-22T09:00:08Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-22T11:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2113193644370923796",
+            "state": "announced",
+            "state_since": "2026-10-22T09:00:08Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4107bfd2ff",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "【配信予定】\n\n今日 20:30- ギター重ね録り🎶\n\n久しぶりに重ね録り欲、たかまってます😍\nうちゅうのふしぎ予定🥹🎶",
+        "tag": "p#https://x.com/#1tweet-2113196648180637922"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 20:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-22T09:12:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8a3467801e",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡配信開始🐰🩹\n\nじゅんびおまたせしました🥹\nはじめます🎶\n\n【ギター重ね録り】うちゅうのふしぎをアコギかばー！れつらご【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts https://www.youtube.com/live/c5nKH98CfRM?si=UD1Q6Vw9j5plvNWS",
+        "tag": "p#https://x.com/#1tweet-2113234688504635784"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 현재 스트리밍 시작을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경한다는 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-22T11:43:09Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7fb6d01d26",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信予定変更のおしらせ〉\n本日23:30からの配信をお休みさせて頂きます…！\n\nまた明日会おうね…！\nみんなゆっくり寝てね…！",
+        "tag": "p#https://x.com/#1tweet-2113250832242397201"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "예정된 방송을 취소·휴식한다는 내용이므로 향후 방송 일정 알림이 아니다. (근거: 「本日23:30からの配信をお休みさせて頂きます…！」)",
+      "summary": "본인 방송 예고 아님 — 〈配信予定変更のおしらせ〉\n本日23:30からの配信をお休みさせて頂きます…！\n\nまた明日会おうね…！\nみんなゆっくり寝",
+      "ts": "2026-10-22T12:47:16Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c871298096",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/23 10:30～ #ヴァンガード 開封\n\n今回はペルソナ！！！\n30th Anniversaryだって…！すごい…！\n\nパラレル引きたいなぁ…！",
+        "tag": "p#https://x.com/#1tweet-2113250576377237517"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信のおしらせ’와 날짜·시각이 함께 있어 앞으로 할 방송을 알리는 예고이므로 true입니다. (근거: 「10/23 10:30～」)",
+      "summary": "본인 예고로 등록 — 10:30 JST · 〈配信のおしらせ〉\n10/23 10:30～ #ヴァンガード 開封\n\n今回はペル",
+      "ts": "2026-10-22T12:47:15Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_3e396443"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bdecc90ba7",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n10/23 10:30～ #ヴァンガード 開封\n\n今回はペルソナ！！！\n30th Anniversaryだって…！すごい…！\n\nパラレル引きたいなぁ…！",
+        "tag": "p#https://x.com/#1tweet-2113250576377237517"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/23 10:30에 진행될 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-22T12:47:15Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_63c453f42a",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信予定変更のおしらせ〉\n本日23:30からの配信をお休みさせて頂きます…！\n\nまた明日会おうね…！\nみんなゆっくり寝てね…！",
+        "tag": "p#https://x.com/#1tweet-2113250832242397201"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "‘오늘 23:30부터의 방송을 쉬겠습니다’라는 문구가 오늘(10/22) 23:30에 예정된 방송을 취소한다는 의미이기 때문입니다.",
+      "summary": "방송 취소 1건 — 10/22 23:30 ",
+      "ts": "2026-10-22T12:47:16Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "yuno",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-22T17:30:00Z",
+            "first_seen": "2026-10-22T09:00:08Z",
+            "host": null,
+            "id": "pv_db0f591b",
+            "info_at": "2026-10-22T09:00:08Z",
+            "info_source": "x-relay",
+            "kind": "unknown",
+            "last_updated": "2026-10-22T09:00:08Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-22T14:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2113193644370923796",
+            "state": "announced",
+            "state_since": "2026-10-22T09:00:08Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "restore_items",
+        "unsuppress": []
+      },
+      "undone": null,
+      "who": "yuno"
+    }
+  ]
+}
