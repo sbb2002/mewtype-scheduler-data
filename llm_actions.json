@@ -6475,6 +6475,25 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ead4b18dca",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/12 23:30～ VGDD2\n\nディアデイズくん、元気にしてるかなぁ\nユノちゃんがいない間に背とか伸びたんだろうか…\n\nhttps://www.youtube.com/live/6DCz3dJp6ms?si=AjqItMwfo1-_kCxP",
+        "tag": "p#https://x.com/#1tweet-2120885165602099448"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/12 23:30에 예정된 VGDD2 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-12T14:31:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
