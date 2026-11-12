@@ -83,3 +83,5 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-12T14:30:02Z", "who": ""}
 {"detail": "broadcast-change none · 게시물은 11/12 23:30에 예정된 VGDD2 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-12T14:31:05Z", "via": "ingest", "who": "yuno"}
 {"detail": "gap-fill · 2120885165602099448 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-12T14:31:05Z", "tweet_id": "2120885165602099448", "via": "ingest", "who": "yuno"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-12T14:33:00Z", "who": "6DCz3dJp6ms"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_220eadb5", "result": "ok", "title": "【 VGDD2 】ヴァンガードDD2やります！！！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-11-12T14:33:00Z", "video_id": "6DCz3dJp6ms", "who": "yuno"}
