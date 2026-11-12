@@ -64,3 +64,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-12T11:31:11Z", "who": "AG9NYiX3RzQ"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_3b8b2931", "result": "ok", "title": "【#アニメゆめみた】もしもののちゃんが...", "to_state": "live", "ts": "2026-11-12T11:31:11Z", "video_id": "AG9NYiX3RzQ", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · AG9NYiX3RzQ · 예고 live", "flow": "websub", "merge_key": "websub-notify:AG9NYiX3RzQ", "result": "ok", "title": "【#アニメゆめみた】もしもののちゃんが...", "ts": "2026-11-12T11:31:11Z", "video_id": "AG9NYiX3RzQ", "who": "nonoka"}
+{"detail": "gap-fill · 2120840882287243595 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-12T11:35:05Z", "tweet_id": "2120840882287243595", "via": "ingest", "who": "nonoka"}
