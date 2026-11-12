@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-12T14:33:00Z",
+  "generated_at": "2026-11-12T14:36:07Z",
   "items": [
     {
       "actual_start": "2026-11-12T14:32:00Z",
@@ -115,7 +115,9 @@
       "api_start_seen": "2026-11-13T11:00:00Z",
       "assumed_live": false,
       "channel_key": "arale",
-      "collab_with": null,
+      "collab_with": [
+        "nonoka"
+      ],
       "concurrent_viewers": null,
       "expires_at": "2026-11-13T14:00:00Z",
       "first_seen": "2026-11-12T05:36:58Z",
@@ -124,8 +126,8 @@
       "info_at": null,
       "info_source": "api",
       "is_premiere": false,
-      "kind": null,
-      "last_updated": "2026-11-12T14:33:00Z",
+      "kind": "collab",
+      "last_updated": "2026-11-12T14:36:07Z",
       "membership": false,
       "scheduled_start": "2026-11-13T11:00:00Z",
       "source": "api",
