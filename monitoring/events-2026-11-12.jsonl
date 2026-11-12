@@ -86,3 +86,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-12T14:33:00Z", "who": "6DCz3dJp6ms"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_220eadb5", "result": "ok", "title": "【 VGDD2 】ヴァンガードDD2やります！！！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-11-12T14:33:00Z", "video_id": "6DCz3dJp6ms", "who": "yuno"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 6DCz3dJp6ms · 예고 live", "flow": "websub", "merge_key": "websub-notify:6DCz3dJp6ms", "result": "ok", "title": "【 VGDD2 】ヴァンガードDD2やります！！！【 #千石ユノ / #バンドリ 】", "ts": "2026-11-12T14:33:16Z", "video_id": "6DCz3dJp6ms", "who": "yuno"}
+{"detail": "gap-fill(자기 답글) · 2120887561761726616 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-12T14:33:06Z", "tweet_id": "2120887561761726616", "via": "ingest", "who": "miyako"}
