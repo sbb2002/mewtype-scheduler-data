@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (FChKwz9gE2E)",
-    "at": "2026-11-13T07:17:24Z",
+    "action": "본인 예고 나카마치 아라레 (やっほー！！\nゆめみたBP発売日！✨️\n今日は早め行動！20時に開封配信！！\n楽)",
+    "at": "2026-11-13T07:27:12Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f09746f993ce31e03b25db0d51d239cd05ae8a82",
+    "new_sha": "2cd17aa66e2212fcebbf47e12c487db6ed54bfdc",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-13T07:17:05Z",
+      "generated_at": "2026-11-13T07:17:24Z",
       "items": [
         {
           "actual_start": null,
@@ -136,7 +136,7 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": "collab",
-          "last_updated": "2026-11-13T07:17:05Z",
+          "last_updated": "2026-11-13T07:17:24Z",
           "membership": false,
           "scheduled_start": "2026-11-13T11:00:00Z",
           "source": "api",
