@@ -6275,6 +6275,30 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_99d98f048f",
+      "input": {
+        "guest_keys": [
+          "nonoka"
+        ],
+        "host_key": "arale",
+        "raw": "♡🐰今日の配信🩹♡\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n20:00- あられちゃんと\n #WS ブースターパックゆめみた開封‼️(あられちゃん枠)\n\n23:00-(予定！) 自分のチャンネルでまったりアコギ🎶\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n今日はブースターパックゆめみた発売日🥹♡\nもうみんなは開封してる？たのしみだな〜‼️😍\nお楽しみにください🎶\n❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/13(金) 20:00~┊#WS\n\n┊ 開封 ┊ゆめみたBP発売日に！✨️\nWSアンバサダー2人で開封する！🎊\n\n🔗 https://youtube.com/live/FChKwz9gE2E",
+        "target": {
+          "video_id": "FChKwz9gE2E"
+        }
+      },
+      "kind": "collab_guest",
+      "parent_id": null,
+      "reason": "",
+      "summary": "게스트 아님 판정 — nonoka · 【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【",
+      "ts": "2026-11-13T07:17:24Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
