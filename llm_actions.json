@@ -6424,6 +6424,36 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9a6e6c3489",
+      "input": {
+        "guest_keys": [
+          "nonoka"
+        ],
+        "host_key": "arale",
+        "raw": "開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封開封\n\n【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】 https://www.youtube.com/live/FChKwz9gE2E?si=6fPxTFT3C9PYtn9e @YouTubeより",
+        "target": {
+          "video_id": "FChKwz9gE2E"
+        }
+      },
+      "kind": "collab_guest",
+      "parent_id": null,
+      "reason": "",
+      "summary": "게스트 nonoka 합동으로 판정 · 【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【",
+      "ts": "2026-11-13T11:04:26Z",
+      "undo": {
+        "guests": [
+          "nonoka"
+        ],
+        "type": "remove_guests",
+        "video_id": "FChKwz9gE2E"
+      },
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
