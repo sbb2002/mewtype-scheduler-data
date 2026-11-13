@@ -64,3 +64,5 @@
 {"detail": "broadcast-change edit · 게시물에 \"11/13(金) 20:00~\" 라고 적혀 있어 기존 23:00 방송을 20:00으로 변경한 것으로 판단했습니다. · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-11-13T11:00:53Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T11:01:33Z", "who": "宮永ののか🐰🩹"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-13T11:01:56Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-13T11:01:56Z", "who": "FChKwz9gE2E"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_528591d0", "result": "ok", "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】", "to_state": "live", "ts": "2026-11-13T11:01:56Z", "video_id": "FChKwz9gE2E", "who": "arale"}
