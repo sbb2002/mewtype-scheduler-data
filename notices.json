@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T08:00:05Z",
+  "generated_at": "2026-11-13T09:00:04Z",
   "notices": [
     {
       "anchor_a": null,
@@ -60,6 +60,37 @@
       "title_slug": "新潟グランプリに千石ユノの出演が決定",
       "tweet_url": "https://x.com/i/status/2099836384936882682",
       "url": null
+    },
+    {
+      "anchor_a": "ymmt-tour2027",
+      "anchor_b": "ymmtriccounterpoint",
+      "body_for_llm": "＼抽選結果発表📢／ 🛸夢限大みゅーたいぷ LIVE TOUR 2027 「YMMTric COUNTER POINT」🛸 福岡・宮城公演 チケット最速先行の抽選結果を発表🎫 ご当選された方の入金期間は (月) まで⏰ 🔗詳細 #バンドリ #ゆめみた",
+      "body_ko": "＼추첨 결과 발표📢／\n\n🛸무겐다이 뮤타입 LIVE TOUR 2027\n「YMMTric COUNTER POINT」🛸\n\n후쿠오카·미야기 공연 티켓 최우선 선예매 추첨 결과를 발표🎫\n\n당첨자 결제 기간은\n11/16(월) 21:00까지⏰\n\n🔗상세\nhttps://bang-dream.com/events/ymmt-tour2027/\n\n#뱅드림 #유메미타",
+      "body_raw": "＼抽選結果発表📢／\n\n🛸夢限大みゅーたいぷ LIVE TOUR 2027\n「YMMTric COUNTER POINT」🛸\n\n福岡・宮城公演 チケット最速先行の抽選結果を発表🎫\n\nご当選された方の入金期間は\n11/16(月) 21:00まで⏰\n\n🔗詳細\nhttps://bang-dream.com/events/ymmt-tour2027/\n\n#バンドリ #ゆめみた",
+      "categories": [
+        "live"
+      ],
+      "category": "etc",
+      "date": "2026-11-16",
+      "deadline": false,
+      "expires_at": "2026-11-16T15:00:00Z",
+      "first_seen": "2026-11-13T09:00:04Z",
+      "id": "2121166180820095150",
+      "last_updated": "2026-11-13T09:00:04Z",
+      "live_name": "YMMTric COUNTER POINT",
+      "participants": null,
+      "seen_ids": [
+        "2121166180820095150"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:00",
+      "title": "抽選結果発表：福岡・宮城公演チケット最速先行",
+      "title_ko": "추첨 결과 발표: 후쿠오카·미야키 공연 티켓 최우선 선행",
+      "title_raw": "夢限大みゅーたいぷ LIVE TOUR 2027 「YMMTric COUNTER POINT」",
+      "title_slug": "夢限大みゅーたいぷlivetour2027ymm",
+      "tweet_url": "https://x.com/i/status/2121166180820095150",
+      "url": "https://bang-dream.com/events/ymmt-tour2027/"
     },
     {
       "anchor_a": "yumemita_yunos_party_lv3",
