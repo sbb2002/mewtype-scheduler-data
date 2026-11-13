@@ -104,3 +104,4 @@
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-13T13:02:43Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T13:06:03Z", "tweet_id": "2121228086813618491", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 WS 개방 스트리밍에 대한 감사와 그림 확보 언급만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-13T13:06:03Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T13:06:21Z", "who": "仲町あられ"}
