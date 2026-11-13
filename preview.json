@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-13T14:06:34Z",
+  "generated_at": "2026-11-13T14:10:03Z",
   "items": [
     {
       "actual_start": "2026-11-13T14:03:06Z",
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-13T14:06:34Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-13T14:02:47Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2121242691497501052",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/-iqRi2qjU4A/maxresdefault.jpg?v=6af7188c",
       "time_tbd": false,
       "title": "【弾き語り】13thお花画像あり！ありがとう♪ギターもあり(←ギターおまけみたい)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts",
-      "title_ko": null,
+      "title_ko": "【기타 치며 노래】13번째 꽃 사진 있어요! 고마워♪기타도 있어요(←기타가 덤인 것 같아)【유메미타/무겐다이 뮤타입】 #반반인간 #shorts",
       "url": "https://www.youtube.com/watch?v=-iqRi2qjU4A",
       "video_id": "-iqRi2qjU4A"
     },
