@@ -87,3 +87,6 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T12:51:23Z", "tweet_id": "2121224235104538675", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 11/14 21:30에 진행될 예정인 방송을 새롭게 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-13T12:51:23Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T12:51:45Z", "who": "藤都子"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-13T12:57:23Z", "who": "MvaFbkcXkqs"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_5220643a", "result": "ok", "title": "【 #WS 】ゆめみたのWSが本日発売！開封します！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-13T12:57:23Z", "video_id": "MvaFbkcXkqs", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · MvaFbkcXkqs · 예고 watching", "flow": "websub", "merge_key": "websub-notify:MvaFbkcXkqs", "result": "ok", "title": "【 #WS 】ゆめみたのWSが本日発売！開封します！【 #千石ユノ / #バンドリ 】", "ts": "2026-11-13T12:57:23Z", "video_id": "MvaFbkcXkqs", "who": "yuno"}
