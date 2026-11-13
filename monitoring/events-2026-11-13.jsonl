@@ -132,3 +132,5 @@
 {"detail": "broadcast-change none · 게시물은 현재 스트리밍 시작을 알리는 내용이며, 기존 예고 방송을 취소하거나 일정 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-13T14:06:34Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T14:07:02Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-13T14:10:03Z", "who": ""}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-13T14:30:00Z", "who": "-iqRi2qjU4A"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_5220643a", "result": "ok", "title": "【 #WS 】ゆめみたのWSが本日発売！開封します！【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-11-13T14:30:00Z", "video_id": "MvaFbkcXkqs", "who": "yuno"}
