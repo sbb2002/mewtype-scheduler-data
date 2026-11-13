@@ -73,3 +73,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T11:03:22Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T11:04:26Z", "tweet_id": "2121197487017075028", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T11:04:47Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T11:59:29Z", "tweet_id": "2121211296666522064", "via": "ingest", "who": "miyako"}
