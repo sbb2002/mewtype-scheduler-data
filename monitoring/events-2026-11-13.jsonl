@@ -32,3 +32,4 @@
 {"detail": "gap-fill · 2121138321120498025 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-13T07:17:05Z", "tweet_id": "2121138321120498025", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T07:17:51Z", "tweet_id": "2121139002913050794", "via": "ops", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T07:27:12Z", "tweet_id": "2121142811177398335", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물이 기존에 공지된 11/13 20:00 방송을 취소하거나 일정 변경한다고 말하지 않고, 오늘 20시 개봉 방송을 진행한다는 내용이므로", "flow": "tweet", "result": "ok", "ts": "2026-11-13T07:27:12Z", "via": "ingest", "who": "arale"}
