@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:02:05Z",
+  "generated_at": "2026-11-13T03:17:06Z",
   "tweets": {
     "arale": [
       {
@@ -213,6 +213,26 @@
         "text": "#ぬいみやこ ❕",
         "text_ko": "#누이미야코 ❕",
         "url": "https://x.com/i/status/2120887561761726616"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-15T03:09:55Z",
+        "handle": "miyako_yumemita",
+        "id": "2121078074100101183",
+        "media": [],
+        "posted_at": "2026-11-13T03:09:55Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HWv2jtMaUAA1JoB.jpg"
+          ],
+          "text": "✨11月13日(金)発売✨\nブースターパック\nBanG Dream! [夢限大みゅーたいぷ]のカードリストを公開！\n\n🔽カードリスト\nhttps://ws-tcg.com/cardlist/search/?expansion=571\n\n🔽DECK LOG\nhttps://decklog.bushiroad.com\n※反映まで少し時間がかかる場合がございます。\n\n#ゆめみた #バンドリ #WS",
+          "text_ko": "✨11월13일(금)발매✨\n부스터 팩\nBanG Dream! [무겐다이 뮤타입]의 카드 리스트 공개！\n\n🔽카드 리스트\nhttps://ws-tcg.com/cardlist/search/?expansion=571\n\n🔽덱 로그\nhttps://decklog.bushiroad.com\n※반영까지 조금 시간이 걸릴 수 있습니다.\n\n#ゆめみた #뱅드림 #WS"
+        },
+        "received_at": "2026-11-13T03:17:06Z",
+        "reply_to_id": null,
+        "text": "🛸✨ゆめみた #WS 本日発売✨🛸\n私藤都子は「夢限の宇宙を進行中」ゆめみた5人のイラストを描き下ろしさせていただいております♪\n\n他にも己で描いたみやこ生誕グッズイラストやMVイラストを担当した初期モチーフ曲のカードもあるやんけ❣️\n\nアニメゆめみたのシーンもたっぷり詰まったブースターパック、ようちぇけらですぞ🐶✨",
+        "text_ko": "🛸✨유메미타 #WS 오늘 발매✨🛸\n저 후지 미야코는 “꿈한계의 우주 진행 중” 유메미타 5인 일러스트를 새로 그려드리고 있습니다♪\n\n또한 직접 그린 미야코 생일 굿즈 일러스트와 MV 일러스트를 담당한 초기 모티프 곡 카드도 있잖아요❣️\n\n애니 유메미타 장면도 가득 담긴 부스터 팩, 요치케라입니다🐶✨",
+        "url": "https://x.com/i/status/2121078074100101183"
       }
     ],
     "nonoka": [
