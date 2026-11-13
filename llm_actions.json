@@ -6394,6 +6394,36 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_58490ec54f",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/13(金) 20:00~┊#WS\n\n┊ 開封 ┊ゆめみたBP発売日に！✨️\nWSアンバサダー2人で開封する！🎊\n\n🔗 https://youtube.com/live/FChKwz9gE2E",
+        "raw": "♡🐰配信開始🩹♡\n\nあられちゃんと、ゆめみたBP開封していきます🎶\nかっこいいカードがいっぱい...🥹\nたのしみだい🎶\n\n【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】 https://www.youtube.com/live/FChKwz9gE2E?si=wi3XDlUqftJID8EL",
+        "tag": "p#https://x.com/#1tweet-2121196587473141829"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 \"11/13(金) 20:00~\" 라고 적혀 있어 기존 23:00 방송을 20:00으로 변경한 것으로 판단했습니다.",
+      "summary": "방송 시각 변경 1건 → 11/13 20:00",
+      "ts": "2026-11-13T11:00:53Z",
+      "undo": {
+        "changes": [
+          {
+            "field": "scheduled_start",
+            "from": "2026-11-13T14:00:00Z",
+            "id": "pv_d20f14fb",
+            "to": "2026-11-13T11:00:00Z"
+          }
+        ],
+        "type": "restore_fields"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
