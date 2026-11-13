@@ -47,3 +47,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @kimchikura 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T09:20:46Z", "who": "夢限大みゅーたいぷ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_c9bd597e", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-13T09:30:02Z", "video_id": null, "who": "yuno"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_d20f14fb", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-13T09:30:02Z", "video_id": null, "who": "nonoka"}
+{"detail": "mode: added · 파싱 3건", "flow": "relay", "result": "ok", "ts": "2026-11-13T09:30:02Z", "via": "ingest", "who": ""}
