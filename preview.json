@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-13T11:01:56Z",
+  "generated_at": "2026-11-13T11:02:04Z",
   "items": [
     {
       "actual_start": "2026-11-13T11:01:40Z",
@@ -89,7 +89,7 @@
       "collab_with": [
         "nonoka"
       ],
-      "concurrent_viewers": 367,
+      "concurrent_viewers": 365,
       "expires_at": "2026-11-13T14:00:00Z",
       "first_seen": "2026-11-12T05:36:58Z",
       "host": null,
@@ -98,7 +98,7 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": "collab",
-      "last_updated": "2026-11-13T11:01:56Z",
+      "last_updated": "2026-11-13T11:02:04Z",
       "membership": false,
       "scheduled_start": "2026-11-13T11:00:00Z",
       "source": "api",
@@ -128,7 +128,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-13T11:01:56Z",
+      "last_updated": "2026-11-13T11:02:04Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -157,7 +157,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-13T11:01:56Z",
+      "last_updated": "2026-11-13T11:02:04Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -185,10 +185,11 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": "unknown",
-      "last_updated": "2026-11-13T11:00:53Z",
+      "last_updated": "2026-11-13T11:02:04Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-13T11:00:00Z",
+      "search_checked": true,
       "source": "x-relay",
       "src_url": "https://x.com/i/status/2121173727174131896",
       "state": "announced",
