@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-13T07:17:24Z",
+  "generated_at": "2026-11-13T07:27:12Z",
   "items": [
     {
       "actual_start": null,
@@ -94,11 +94,11 @@
       "first_seen": "2026-11-12T05:36:58Z",
       "host": null,
       "id": "pv_528591d0",
-      "info_at": null,
-      "info_source": "api",
+      "info_at": "2026-11-13T07:27:09Z",
+      "info_source": "personal",
       "is_premiere": false,
       "kind": "collab",
-      "last_updated": "2026-11-13T07:17:24Z",
+      "last_updated": "2026-11-13T07:27:12Z",
       "membership": false,
       "scheduled_start": "2026-11-13T11:00:00Z",
       "source": "api",
