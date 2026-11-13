@@ -83,3 +83,4 @@
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @GiGO_okayama 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T12:13:59Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-11-13T12:50:02Z", "who": ""}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_a9a0017f", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-11-13T12:50:02Z", "video_id": "y_cKqP1zp64", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · y_cKqP1zp64 · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:y_cKqP1zp64", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】", "ts": "2026-11-13T12:50:21Z", "video_id": "y_cKqP1zp64", "who": "miyako"}
