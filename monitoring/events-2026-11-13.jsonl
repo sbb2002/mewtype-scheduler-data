@@ -129,3 +129,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +9분 · 2121240996960985458", "flow": "tweet", "result": "ok", "ts": "2026-11-13T14:06:34Z", "tweet_id": "2121240996960985458", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T14:06:41Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T14:06:34Z", "tweet_id": "2121242691497501052", "via": "ingest", "who": "nonoka"}
+{"detail": "broadcast-change none · 게시물은 현재 스트리밍 시작을 알리는 내용이며, 기존 예고 방송을 취소하거나 일정 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-13T14:06:34Z", "via": "ingest", "who": "nonoka"}
