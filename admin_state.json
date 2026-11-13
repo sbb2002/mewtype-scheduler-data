@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (FChKwz9gE2E)",
+    "action": "/edit preview pv_d20f14fb",
     "at": "2026-11-13T11:00:53Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "07f6e96a5b764f15f729dddef5c9de7734af64b5",
+    "new_sha": "ef01d3d836136078728c0b36c48b9b7796a1cfab",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-13T10:30:21Z",
+      "generated_at": "2026-11-13T11:00:53Z",
       "items": [
         {
           "actual_start": null,
@@ -136,7 +136,7 @@
           "info_source": "personal",
           "is_premiere": false,
           "kind": "collab",
-          "last_updated": "2026-11-13T10:30:21Z",
+          "last_updated": "2026-11-13T11:00:53Z",
           "membership": false,
           "scheduled_start": "2026-11-13T11:00:00Z",
           "source": "api",
