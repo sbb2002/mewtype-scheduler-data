@@ -6353,6 +6353,25 @@
       },
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7b5d004d6f",
+      "input": {
+        "channel_key": "arale",
+        "raw": "やっほー！！\nゆめみたBP発売日！✨️\n今日は早め行動！20時に開封配信！！\n楽しみ❤️‍🔥",
+        "tag": "p#https://x.com/#1tweet-2121142811177398335"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물이 기존에 공지된 11/13 20:00 방송을 취소하거나 일정 변경한다고 말하지 않고, 오늘 20시 개봉 방송을 진행한다는 내용이므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-13T07:27:12Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
