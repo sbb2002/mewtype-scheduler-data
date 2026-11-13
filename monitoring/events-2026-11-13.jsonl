@@ -102,3 +102,4 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-11-13T13:02:00Z", "who": ""}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_5220643a", "result": "ok", "title": "【 #WS 】ゆめみたのWSが本日発売！開封します！【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-11-13T13:02:00Z", "video_id": "MvaFbkcXkqs", "who": "yuno"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-13T13:02:43Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T13:06:03Z", "tweet_id": "2121228086813618491", "via": "ingest", "who": "arale"}
