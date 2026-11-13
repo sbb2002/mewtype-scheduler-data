@@ -6473,6 +6473,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c8e0333b65",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/13 22:00～ #WS #ゆめみた 開封！\n\n開けます！！！！\nそしてサインを！！！！当てます！！！！(予言)\n\nhttps://www.youtube.com/live/MvaFbkcXkqs?si=y8fdcZ2NyiMUnMKC",
+        "tag": "p#https://x.com/#1tweet-2121226026340769918"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/13 22:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-13T12:57:52Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
