@@ -110,3 +110,5 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T13:10:41Z", "who": "仲町あられ"}
 {"detail": "retweet skip: 폰 원문이 @GiGO_okayama 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-13T13:13:59Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T13:14:01Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-13T13:30:00Z", "who": "FChKwz9gE2E"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_528591d0", "result": "ok", "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】", "to_state": "out", "ts": "2026-11-13T13:30:00Z", "video_id": "FChKwz9gE2E", "who": "arale"}
