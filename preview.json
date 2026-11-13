@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-13T13:10:00Z",
+  "generated_at": "2026-11-13T13:30:00Z",
   "items": [
     {
       "actual_start": "2026-11-13T13:01:49Z",
@@ -88,7 +88,7 @@
       "assumed_live": false,
       "channel_key": "yuno",
       "collab_with": null,
-      "concurrent_viewers": 987,
+      "concurrent_viewers": 1584,
       "expires_at": "2026-11-13T16:00:00Z",
       "first_seen": "2026-11-13T12:57:23Z",
       "host": null,
@@ -97,7 +97,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-13T13:10:00Z",
+      "last_updated": "2026-11-13T13:30:00Z",
       "membership": false,
       "scheduled_start": "2026-11-13T13:00:00Z",
       "source": "api",
@@ -126,7 +126,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-13T13:10:00Z",
+      "last_updated": "2026-11-13T13:30:00Z",
       "membership": false,
       "scheduled_start": "2026-11-14T12:30:00Z",
       "source": "api",
@@ -155,7 +155,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-13T13:10:00Z",
+      "last_updated": "2026-11-13T13:30:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -184,7 +184,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-13T13:10:00Z",
+      "last_updated": "2026-11-13T13:30:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -196,38 +196,6 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
-    },
-    {
-      "actual_start": "2026-11-13T11:01:40Z",
-      "api_start_seen": "2026-11-13T11:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": [
-        "nonoka"
-      ],
-      "concurrent_viewers": 752,
-      "expires_at": "2026-11-13T14:00:00Z",
-      "first_seen": "2026-11-12T05:36:58Z",
-      "host": null,
-      "id": "pv_528591d0",
-      "info_at": "2026-11-13T07:27:09Z",
-      "info_source": "personal",
-      "is_premiere": false,
-      "kind": "collab",
-      "last_updated": "2026-11-13T13:10:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-13T11:00:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2120752918815277193",
-      "state": "end",
-      "state_since": "2026-11-13T12:59:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/FChKwz9gE2E/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】",
-      "title_ko": "【🔲WS개봉🔳】오늘 발매 유메미타BP! 3BOX, 대결!!【 나카마치 아라레 / 미야나가 노노카 / 뱅드림! 】",
-      "url": "https://www.youtube.com/watch?v=FChKwz9gE2E",
-      "video_id": "FChKwz9gE2E",
-      "yt_tunein": true
     }
   ]
 }
