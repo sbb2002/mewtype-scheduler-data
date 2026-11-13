@@ -6531,6 +6531,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_41b63d9717",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信開始🩹♡\n\nはじめます🎶\nこころあたりのあるかた、いらっしゃってください！！😆✨\n\n【弾き語り】13thお花画像あり！ありがとう♪ギターもあり(←ギターおまけみたい)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts https://www.youtube.com/live/-iqRi2qjU4A?si=1N5GZdpmgquKQcts",
+        "tag": "p#https://x.com/#1tweet-2121242691497501052"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 현재 스트리밍 시작을 알리는 내용이며, 기존 예고 방송을 취소하거나 일정 변경한다는 표현이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-13T14:06:34Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
