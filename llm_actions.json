@@ -6492,6 +6492,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_568f211909",
+      "input": {
+        "channel_key": "arale",
+        "raw": "WS開封配信ありがとう！✨️\n描き下ろし１枚は確保～～～💪\n#WS",
+        "tag": "p#https://x.com/#1tweet-2121228086813618491"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 WS 개방 스트리밍에 대한 감사와 그림 확보 언급만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-13T13:06:03Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
