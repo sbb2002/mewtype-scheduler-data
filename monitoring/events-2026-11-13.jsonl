@@ -70,3 +70,4 @@
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-11-13T11:02:04Z", "who": ""}
 {"action": "notify", "count": 1, "detail": "알림 수신 · FChKwz9gE2E · 예고 live", "flow": "websub", "merge_key": "websub-notify:FChKwz9gE2E", "result": "ok", "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】", "ts": "2026-11-13T11:02:42Z", "video_id": "FChKwz9gE2E", "who": "arale"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-13T11:03:20Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T11:03:22Z", "who": "峰月律"}
