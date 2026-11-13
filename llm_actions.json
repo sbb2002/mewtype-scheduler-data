@@ -6231,6 +6231,26 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6fc9134d9f",
+      "input": {
+        "channel_key": "yuno",
+        "quote": "🎊発売記念キャンペーン🎊\nブースターパック\nBanGDream! [夢限大みゅーたいぷ]\n１BOXを抽選で３名様にプレゼント！\n\n✨参加方法✨\n❶公式アカウント(@wstcg)をフォロ―\n❷このポストをリポスト\n\n応募期間：11月15日(日)23:59まで\n\n🔽商品情報\nhttps://ws-tcg.com/products/bdy_bp/\n\n#ゆめみた #バンドリ　#WS",
+        "raw": "ヴァイスシュヴァルツ ブースターパック BanGDream! [夢限大みゅーたいぷ] \n\n本日ついに発売日です！\n\nなんだか千石ユノさんは場違い…\nいや、「ヴァ」違いな効果をしているらしいとの噂…\n\n今夜開封配信もさせていただきます！\nよろしくお願いします！\n\n#ゆめみた #バンドリ #WS",
+        "tag": "p#https://x.com/#1tweet-2121069168166637824"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11월 13일에 출시되는 제품과 이벤트 안내이며, 1월 1일 23:30에 예정된 YUNO 자유 채팅 방송과 관련된 취소·변경 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-13T02:42:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
