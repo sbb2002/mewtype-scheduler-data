@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:36:38Z",
+  "generated_at": "2026-11-13T14:38:05Z",
   "tweets": {
     "arale": [
       {
@@ -268,7 +268,7 @@
       },
       {
         "channel_key": "miyako",
-        "expires_at": "2026-11-15T14:36:04Z",
+        "expires_at": "2026-11-15T14:37:17Z",
         "handle": "miyako_yumemita",
         "id": "2121250749242118496",
         "media": [
@@ -281,6 +281,22 @@
         "text": "華金❕\n\n今週も一週間お疲れ様でした❕\n今週も一週間お疲れ様でした❕\n\nぽやしみなさい❕\nぽやしみなさい❕",
         "text_ko": "금요일❕\n\n이번 주도 수고했어요❕  \n이번 주도 수고했어요❕\n\n포야시 잘자❕  \n포야시 잘자❕",
         "url": "https://x.com/i/status/2121250749242118496"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-15T14:37:17Z",
+        "handle": "miyako_yumemita",
+        "id": "2121251057053712763",
+        "media": [
+          "https://pbs.twimg.com/card_img/2119850377541808128/FLC2TUUh?format=jpg&name=600x314"
+        ],
+        "posted_at": "2026-11-13T14:37:17Z",
+        "quote": null,
+        "received_at": "2026-11-13T14:38:05Z",
+        "reply_to_id": "2121250749242118496",
+        "text": "https://youtube.com/shorts/gFMM-YY18sA?si=H5aimwdpfDuf7goI",
+        "text_ko": "https://youtube.com/shorts/gFMM-YY18sA?si=H5aimwdpfDuf7goI",
+        "url": "https://x.com/i/status/2121251057053712763"
       }
     ],
     "nonoka": [
