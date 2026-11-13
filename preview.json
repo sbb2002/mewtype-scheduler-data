@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-13T12:59:02Z",
+  "generated_at": "2026-11-13T13:00:02Z",
   "items": [
     {
       "actual_start": null,
@@ -99,7 +99,6 @@
       "kind": null,
       "last_updated": "2026-11-13T12:59:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-13T13:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2121226026340769918",
@@ -108,7 +107,7 @@
       "thumbnail": "https://i.ytimg.com/vi/MvaFbkcXkqs/maxresdefault.jpg?v=6af708f6",
       "time_tbd": false,
       "title": "【 #WS 】ゆめみたのWSが本日発売！開封します！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #WS 】유메미타의 WS가 오늘 출시! 개봉합니다!【 #千石ユノ / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=MvaFbkcXkqs",
       "video_id": "MvaFbkcXkqs"
     },
