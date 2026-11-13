@@ -57,3 +57,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T10:23:07Z", "who": "仲町あられ"}
 {"detail": "retweet skip: 폰 원문이 @wstcg 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-13T10:23:20Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T10:23:21Z", "who": "宮永ののか🐰🩹"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-13T10:30:21Z", "who": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】"}
