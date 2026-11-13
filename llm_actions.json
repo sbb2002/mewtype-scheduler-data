@@ -6299,6 +6299,60 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_51cf3a4f30",
+      "input": {
+        "channel_key": "arale",
+        "raw": "やっほー！！\nゆめみたBP発売日！✨️\n今日は早め行動！20時に開封配信！！\n楽しみ❤️‍🔥",
+        "tag": "p#https://x.com/#1tweet-2121142811177398335"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 오늘 20시 진행할 방송을 알리는 문구가 포함되어 있어 예고로 판단합니다. (근거: 「20時に開封配信！！」)",
+      "summary": "본인 예고로 등록 — 20:00 JST · やっほー！！\nゆめみたBP発売日！✨️\n今日は早め行動！20時に開封配信！！\n楽",
+      "ts": "2026-11-13T07:27:12Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": "2026-11-13T11:00:00Z",
+            "assumed_live": false,
+            "channel_key": "arale",
+            "collab_with": [
+              "nonoka"
+            ],
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-13T14:00:00Z",
+            "first_seen": "2026-11-12T05:36:58Z",
+            "host": null,
+            "id": "pv_528591d0",
+            "info_at": null,
+            "info_source": "api",
+            "is_premiere": false,
+            "kind": "collab",
+            "last_updated": "2026-11-13T07:17:24Z",
+            "membership": false,
+            "scheduled_start": "2026-11-13T11:00:00Z",
+            "source": "api",
+            "src_url": "https://x.com/i/status/2120752918815277193",
+            "state": "upcoming",
+            "state_since": "2026-11-12T05:36:58Z",
+            "thumbnail": "https://i.ytimg.com/vi/FChKwz9gE2E/maxresdefault.jpg?v=6af49027",
+            "time_tbd": false,
+            "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】",
+            "title_ko": "【🔲WS개봉🔳】오늘 발매 유메미타BP! 3BOX, 대결!!【 나카마치 아라레 / 미야나가 노노카 / 뱅드림! 】",
+            "url": "https://www.youtube.com/watch?v=FChKwz9gE2E",
+            "video_id": "FChKwz9gE2E"
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
