@@ -63,3 +63,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T11:00:53Z", "tweet_id": "2121196587473141829", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change edit · 게시물에 \"11/13(金) 20:00~\" 라고 적혀 있어 기존 23:00 방송을 20:00으로 변경한 것으로 판단했습니다. · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-11-13T11:00:53Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T11:01:33Z", "who": "宮永ののか🐰🩹"}
+{"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-13T11:01:56Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
