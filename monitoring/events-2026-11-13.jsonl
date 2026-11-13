@@ -96,3 +96,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-13T12:59:02Z", "who": "FChKwz9gE2E"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_528591d0", "result": "ok", "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】", "to_state": "end", "ts": "2026-11-13T12:59:02Z", "video_id": "FChKwz9gE2E", "who": "arale"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · FChKwz9gE2E · 예고 end", "flow": "websub", "merge_key": "websub-notify:FChKwz9gE2E", "result": "ok", "title": "【🔲WS開封🔳】本日発売 ゆめみたBP！3BOX、対決！！【 仲町あられ / 宮永ののか / バンドリ！ 】", "ts": "2026-11-13T12:59:02Z", "video_id": "FChKwz9gE2E", "who": "arale"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-13T13:00:02Z", "who": "group"}
