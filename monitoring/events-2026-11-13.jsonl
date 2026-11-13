@@ -153,3 +153,5 @@
 {"detail": "url-schedule skip: 이미 끝난 방송 -iqRi2qjU4A", "flow": "tweet", "result": "ok", "ts": "2026-11-13T16:25:24Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T16:25:37Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-13T16:30:00Z", "who": "-iqRi2qjU4A"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-13T16:55:00Z", "who": "-iqRi2qjU4A"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_0c4ff073", "result": "ok", "title": "【弾き語り】13thお花画像あり！ありがとう♪ギターもあり(←ギターおまけみたい)【ゆめみた/夢限大みゅーたいぷ】 #半分人間 #shorts", "to_state": "out", "ts": "2026-11-13T16:55:00Z", "video_id": "-iqRi2qjU4A", "who": "nonoka"}
