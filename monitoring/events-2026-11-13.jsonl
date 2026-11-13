@@ -138,3 +138,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T14:36:58Z", "who": "峰月律"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-13T14:36:38Z", "tweet_id": "2121250749242118496", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-13T14:37:20Z", "who": "藤都子"}
+{"detail": "url-schedule skip: 일반 업로드 영상 gFMM-YY18sA", "flow": "tweet", "result": "ok", "ts": "2026-11-13T14:38:05Z", "via": "ingest", "who": "miyako"}
