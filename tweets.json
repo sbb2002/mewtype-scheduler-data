@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:04:26Z",
+  "generated_at": "2026-11-13T11:59:29Z",
   "tweets": {
     "arale": [
       {
@@ -245,6 +245,36 @@
         "text": "ふ↑じ↓みや→こぉ↑〜♪\nふ↑じ↓みや→こぉ↑〜♪",
         "text_ko": "후↑지↓미야→코오↑~♪",
         "url": "https://x.com/i/status/2121079939332231291"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-15T11:59:17Z",
+        "handle": "miyako_yumemita",
+        "id": "2121211296666522064",
+        "media": [
+          "https://pbs.twimg.com/media/HXAOXu2a4AAmCdx.jpg",
+          "https://pbs.twimg.com/media/HXAOXw1bsAAta2m.jpg",
+          "https://pbs.twimg.com/media/HXAOXu5aMAAOPGQ.jpg",
+          "https://pbs.twimg.com/media/HXAOXwwaEAAHsPy.jpg",
+          "https://pbs.twimg.com/media/HXAOXwybsAAhkyc.jpg",
+          "https://pbs.twimg.com/media/HXAOXu5aEAEKswG.jpg",
+          "https://pbs.twimg.com/media/HXAOXwzbwAAVqUk.jpg",
+          "https://pbs.twimg.com/media/HXAOXu-a4AAFhJm.jpg",
+          "https://pbs.twimg.com/media/HXAOXu9bEAAwiGL.jpg",
+          "https://pbs.twimg.com/media/HXAOXvBbcAAXTy1.jpg",
+          "https://pbs.twimg.com/media/HXAOXvBbgAApKIX.jpg",
+          "https://pbs.twimg.com/media/HXAOXvCbQAAuJHh.jpg",
+          "https://pbs.twimg.com/media/HXAOXvDbYAAZBrO.jpg",
+          "https://pbs.twimg.com/media/HXAOXvJbIAAR77t.jpg",
+          "https://pbs.twimg.com/media/HXAOXvGbsAAQ_bi.jpg"
+        ],
+        "posted_at": "2026-11-13T11:59:17Z",
+        "quote": null,
+        "received_at": "2026-11-13T11:59:29Z",
+        "reply_to_id": null,
+        "text": "🚀",
+        "text_ko": "🚀",
+        "url": "https://x.com/i/status/2121211296666522064"
       }
     ],
     "nonoka": [
