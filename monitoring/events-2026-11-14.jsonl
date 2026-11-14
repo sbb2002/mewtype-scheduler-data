@@ -31,3 +31,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-14T02:10:01Z", "who": ""}
 {"detail": "broadcast-change none · 게시물은 새로운 방송 시작을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-14T02:15:05Z", "via": "ingest", "who": "nonoka"}
 {"detail": "gap-fill · 2121424865156808897 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T02:15:05Z", "tweet_id": "2121424865156808897", "via": "ingest", "who": "nonoka"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +19분 · 2121424865156808897", "flow": "tweet", "result": "ok", "ts": "2026-11-14T02:27:13Z", "tweet_id": "2121424865156808897", "via": "ingest", "who": "nonoka"}
