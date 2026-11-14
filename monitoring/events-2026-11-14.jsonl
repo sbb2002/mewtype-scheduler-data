@@ -36,3 +36,4 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-14T03:00:00Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-14T03:00:08Z", "who": "group"}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2121437969055916100", "result": "ok", "ts": "2026-11-14T03:00:02Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-14T03:00:02Z", "via": "ingest", "who": ""}
