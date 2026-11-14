@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:02:06Z",
+  "generated_at": "2026-11-14T13:05:07Z",
   "tweets": {
     "arale": [
       {
@@ -48,7 +48,7 @@
       },
       {
         "channel_key": "arale",
-        "expires_at": "2026-11-16T12:53:13Z",
+        "expires_at": "2026-11-16T13:04:59Z",
         "handle": "arale_yumemita",
         "id": "2121587256486224336",
         "media": [
@@ -61,6 +61,20 @@
         "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/14(土) 22:00〜┊#イ中田丁なう\n\n┊ 歌枠 ┊まったりきぶん♬\n\n🔗 https://youtube.com/live/HtpRmCo0xwk",
         "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 11/14(토) 22:00〜┊#イ中田丁なう\n\n┊ 노래 방송 ┊느긋한 기분♬\n\n🔗 https://youtube.com/live/HtpRmCo0xwk",
         "url": "https://x.com/i/status/2121587256486224336"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-16T13:04:59Z",
+        "handle": "arale_yumemita",
+        "id": "2121590215710315002",
+        "media": [],
+        "posted_at": "2026-11-14T13:04:59Z",
+        "quote": null,
+        "received_at": "2026-11-14T13:05:07Z",
+        "reply_to_id": "2121587256486224336",
+        "text": "5秒で枠を閉じてしまいました...\n正しい場所はこちらです\nhttps://youtube.com/live/xBZHYX6-bFw?feature=share",
+        "text_ko": "5초 만에 창을 닫아버렸어요...\n올바른 위치는 여기입니다\nhttps://youtube.com/live/xBZHYX6-bFw?feature=share",
+        "url": "https://x.com/i/status/2121590215710315002"
       }
     ],
     "miyako": [
