@@ -100,3 +100,5 @@
 {"detail": "gap-fill(자기 답글) · 2121590215710315002 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-14T13:05:07Z", "tweet_id": "2121590215710315002", "via": "ingest", "who": "arale"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-14T13:07:41Z", "who": "S6goI8Oatd8"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · S6goI8Oatd8 · 예고 live", "flow": "websub", "merge_key": "websub-notify:S6goI8Oatd8", "result": "ok", "title": "【WS開封】発売記念!ゆめみた3BOX、開けます。優等生最強【峰月律/ゆめみた】", "ts": "2026-11-14T13:07:41Z", "video_id": "S6goI8Oatd8", "who": "ritsu"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-14T13:10:00Z", "who": "HtpRmCo0xwk"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_92c2b3a8", "result": "ok", "title": "【WS開封】発売記念!ゆめみた3BOX、開けます。優等生最強【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-11-14T13:10:00Z", "video_id": "S6goI8Oatd8", "who": "ritsu"}
