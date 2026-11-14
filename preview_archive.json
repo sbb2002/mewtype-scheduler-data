@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:40:00Z",
+  "generated_at": "2026-11-14T15:30:00Z",
   "items": [
     {
       "actual_start": null,
@@ -794,6 +794,37 @@
       "title_ko": "【WS개봉】출시 기념! 유메미타 3BOX, 열어요. 우등생 최강【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=S6goI8Oatd8",
       "video_id": "S6goI8Oatd8"
+    },
+    {
+      "actual_start": "2026-11-14T12:31:45Z",
+      "api_start_seen": "2026-11-14T12:30:00Z",
+      "archived_at": "2026-11-14T15:30:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 261,
+      "expires_at": "2026-11-14T15:30:00Z",
+      "first_seen": "2026-11-13T12:50:02Z",
+      "host": null,
+      "id": "pv_a9a0017f",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": true,
+      "kind": "game",
+      "last_updated": "2026-11-14T15:30:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-14T12:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2121224235104538675",
+      "state": "out",
+      "state_since": "2026-11-14T15:30:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/y_cKqP1zp64/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】",
+      "title_ko": "【零 ～濡鴉의巫女～】#11 최종회 악령 퇴산! 악령 퇴산!【유메미타/후지 미야코】",
+      "url": "https://www.youtube.com/watch?v=y_cKqP1zp64",
+      "video_id": "y_cKqP1zp64",
+      "yt_tunein": true
     }
   ]
 }
