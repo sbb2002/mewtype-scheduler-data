@@ -128,3 +128,4 @@
 {"detail": "url-schedule skip: 이미 끝난 방송 y_cKqP1zp64", "flow": "tweet", "result": "ok", "ts": "2026-11-14T15:16:07Z", "via": "ingest", "who": "miyako"}
 {"detail": "gap-fill · 2121621252192563667 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T15:16:07Z", "tweet_id": "2121621252192563667", "via": "ingest", "who": "miyako"}
 {"detail": "gap-fill · 2121621848433778773 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T15:18:06Z", "tweet_id": "2121621848433778773", "via": "ingest", "who": "miyako"}
+{"detail": "gap-fill · 2121622076146753983 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T15:19:06Z", "tweet_id": "2121622076146753983", "via": "ingest", "who": "miyako"}
