@@ -71,3 +71,4 @@
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-14T12:03:42Z", "who": "峰月律-Minetsuki Ritsu- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-14T12:03:41Z", "who": "y_cKqP1zp64"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_92c2b3a8", "result": "ok", "title": "【WS開封】発売記念!ゆめみた3BOX、開けます。優等生最強【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-11-14T12:03:41Z", "video_id": "S6goI8Oatd8", "who": "ritsu"}
+{"detail": "broadcast-change none · 게시물은 \"配信はじめます！\" 라고 현재 방송 시작을 알리는 내용이며, 기존 예고된 방송을 취소하거나 일정 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-14T12:11:05Z", "via": "ingest", "who": "ritsu"}
