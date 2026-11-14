@@ -6427,6 +6427,26 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_11f63f7153",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n今日 21:00~\n\n#WS 発売記念！ゆめみた3BOX、開封配信。優等生最強\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/S6goI8Oatd8?si=f3W0x7YS3tNkgJqw\n🩵 ･･････････････････････ 🩵",
+        "raw": "配信はじめます！",
+        "tag": "p#https://x.com/#1tweet-2121574732424434065"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 \"配信はじめます！\" 라고 현재 방송 시작을 알리는 내용이며, 기존 예고된 방송을 취소하거나 일정 변경한다는 표현이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-14T12:11:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
