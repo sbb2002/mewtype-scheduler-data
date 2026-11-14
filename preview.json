@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-14T11:40:00Z",
+  "generated_at": "2026-11-14T12:00:34Z",
   "items": [
     {
       "actual_start": null,
@@ -125,19 +125,20 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": "game",
-      "last_updated": "2026-11-14T11:40:00Z",
+      "last_updated": "2026-11-14T12:00:34Z",
       "membership": false,
       "scheduled_start": "2026-11-14T12:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2121224235104538675",
-      "state": "upcoming",
-      "state_since": "2026-11-13T12:50:02Z",
+      "state": "watching",
+      "state_since": "2026-11-14T12:00:34Z",
       "thumbnail": "https://i.ytimg.com/vi/y_cKqP1zp64/maxresdefault.jpg?v=6aefdb3c",
       "time_tbd": false,
       "title": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】",
       "title_ko": "【零 ～濡鴉의巫女～】#11 최종회 악령 퇴산! 악령 퇴산!【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=y_cKqP1zp64",
-      "video_id": "y_cKqP1zp64"
+      "video_id": "y_cKqP1zp64",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
