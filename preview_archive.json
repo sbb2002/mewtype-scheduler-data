@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:35:00Z",
+  "generated_at": "2026-11-14T13:40:00Z",
   "items": [
     {
       "actual_start": null,
@@ -764,6 +764,36 @@
       "title_ko": "【🟡노래 방송】다들 근육운동하고 있어? 느긋한 토요일 밤!【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=HtpRmCo0xwk",
       "video_id": "HtpRmCo0xwk"
+    },
+    {
+      "actual_start": "2026-11-14T12:03:15Z",
+      "api_start_seen": "2026-11-14T12:00:00Z",
+      "archived_at": "2026-11-14T13:40:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 436,
+      "expires_at": "2026-11-14T15:00:00Z",
+      "first_seen": "2026-11-13T15:05:45Z",
+      "host": null,
+      "id": "pv_92c2b3a8",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": true,
+      "kind": "unknown",
+      "last_updated": "2026-11-14T13:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-14T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2121392667716178018",
+      "state": "out",
+      "state_since": "2026-11-14T13:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/S6goI8Oatd8/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【WS開封】発売記念!ゆめみた3BOX、開けます。優等生最強【峰月律/ゆめみた】",
+      "title_ko": "【WS개봉】출시 기념! 유메미타 3BOX, 열어요. 우등생 최강【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=S6goI8Oatd8",
+      "video_id": "S6goI8Oatd8"
     }
   ]
 }
