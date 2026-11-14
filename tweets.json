@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:13:06Z",
+  "generated_at": "2026-11-14T13:19:06Z",
   "tweets": {
     "arale": [
       {
@@ -499,6 +499,22 @@
         "text": "配信はじめます！",
         "text_ko": "방송 시작합니다!",
         "url": "https://x.com/i/status/2121574732424434065"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-16T13:11:03Z",
+        "handle": "ritsu_yumemita",
+        "id": "2121591743619731891",
+        "media": [
+          "https://pbs.twimg.com/media/HXFocYyacAA4WMP.jpg"
+        ],
+        "posted_at": "2026-11-14T13:11:03Z",
+        "quote": null,
+        "received_at": "2026-11-14T13:19:06Z",
+        "reply_to_id": null,
+        "text": "食欲の秋",
+        "text_ko": "식욕이 돋는 가을",
+        "url": "https://x.com/i/status/2121591743619731891"
       }
     ],
     "yuno": [
