@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-14T13:10:00Z",
+  "generated_at": "2026-11-14T13:10:06Z",
   "items": [
     {
       "actual_start": "2026-11-14T12:31:45Z",
@@ -128,7 +128,6 @@
       "kind": null,
       "last_updated": "2026-11-14T13:10:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-14T13:05:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2121590215710315002",
@@ -137,7 +136,7 @@
       "thumbnail": "https://i.ytimg.com/vi/xBZHYX6-bFw/maxresdefault.jpg?v=6af85c21",
       "time_tbd": false,
       "title": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡노래 방송】다들 근육운동하고 있어? 느긋한 토요일 밤!【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=xBZHYX6-bFw",
       "video_id": "xBZHYX6-bFw"
     },
