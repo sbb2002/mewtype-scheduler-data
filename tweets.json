@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:05:07Z",
+  "generated_at": "2026-11-14T13:13:06Z",
   "tweets": {
     "arale": [
       {
@@ -75,6 +75,26 @@
         "text": "5秒で枠を閉じてしまいました...\n正しい場所はこちらです\nhttps://youtube.com/live/xBZHYX6-bFw?feature=share",
         "text_ko": "5초 만에 창을 닫아버렸어요...\n올바른 위치는 여기입니다\nhttps://youtube.com/live/xBZHYX6-bFw?feature=share",
         "url": "https://x.com/i/status/2121590215710315002"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-16T13:05:22Z",
+        "handle": "arale_yumemita",
+        "id": "2121590313177555338",
+        "media": [],
+        "posted_at": "2026-11-14T13:05:22Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HXFkXR2a0AAHUbs.jpg"
+          ],
+          "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/14(土) 22:00~┊#イ中田丁なう\n\n┊ 歌枠 ┊まったりきぶん♬\n\n🔗 https://youtube.com/live/HtpRmCo0xwk",
+          "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 11/14(土) 22:00~┊#イ中田丁なう\n\n┊ 노래 방송 ┊느긋한 기분♬\n\n🔗 https://youtube.com/live/HtpRmCo0xwk"
+        },
+        "received_at": "2026-11-14T13:13:06Z",
+        "reply_to_id": null,
+        "text": "はじまりました(2)\n(↓こっちが正解)\n\nhttps://youtube.com/live/xBZHYX6-bFw?feature=share",
+        "text_ko": "시작했어요(2)\n(↓이쪽이 정답)\n\nhttps://youtube.com/live/xBZHYX6-bFw?feature=share",
+        "url": "https://x.com/i/status/2121590313177555338"
       }
     ],
     "miyako": [
