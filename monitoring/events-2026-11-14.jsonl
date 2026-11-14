@@ -73,3 +73,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_92c2b3a8", "result": "ok", "title": "【WS開封】発売記念!ゆめみた3BOX、開けます。優等生最強【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-11-14T12:03:41Z", "video_id": "S6goI8Oatd8", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 \"配信はじめます！\" 라고 현재 방송 시작을 알리는 내용이며, 기존 예고된 방송을 취소하거나 일정 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-14T12:11:05Z", "via": "ingest", "who": "ritsu"}
 {"detail": "gap-fill · 2121574732424434065 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T12:11:05Z", "tweet_id": "2121574732424434065", "via": "ingest", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · y_cKqP1zp64 · 예고 watching", "flow": "websub", "merge_key": "websub-notify:y_cKqP1zp64", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】", "ts": "2026-11-14T12:31:49Z", "video_id": "y_cKqP1zp64", "who": "miyako"}
