@@ -105,3 +105,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-14T13:10:06Z", "who": ""}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-14T13:12:57Z", "who": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-14T13:12:57Z", "who": "xBZHYX6-bFw"}
+{"detail": "gap-fill · 2121590313177555338 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T13:13:06Z", "tweet_id": "2121590313177555338", "via": "ingest", "who": "arale"}
