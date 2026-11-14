@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-14T15:10:00Z",
+  "generated_at": "2026-11-14T15:10:05Z",
   "items": [
     {
       "actual_start": "2026-11-14T13:04:25Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-11-14T15:10:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-15T12:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -135,7 +134,7 @@
       "thumbnail": "https://i.ytimg.com/vi/A2AkkL1XFsk/maxresdefault.jpg?v=6af877bf",
       "time_tbd": false,
       "title": "【実写】二郎系ラーメンを食べよう！マシマシで【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【실사】이조계 라멘을 먹어보자! 마시마시로【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=A2AkkL1XFsk",
       "video_id": "A2AkkL1XFsk"
     },
