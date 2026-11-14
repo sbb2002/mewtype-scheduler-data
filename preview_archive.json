@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:30:00Z",
+  "generated_at": "2026-11-14T16:30:00Z",
   "items": [
     {
       "actual_start": null,
@@ -825,6 +825,36 @@
       "url": "https://www.youtube.com/watch?v=y_cKqP1zp64",
       "video_id": "y_cKqP1zp64",
       "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-14T13:04:25Z",
+      "api_start_seen": "2026-11-14T13:05:00Z",
+      "archived_at": "2026-11-14T16:30:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 934,
+      "expires_at": "2026-11-14T16:05:00Z",
+      "first_seen": "2026-11-14T13:03:35Z",
+      "host": null,
+      "id": "pv_5c19a84f",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": true,
+      "kind": null,
+      "last_updated": "2026-11-14T16:30:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-14T13:05:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2121590215710315002",
+      "state": "out",
+      "state_since": "2026-11-14T16:30:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/xBZHYX6-bFw/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡노래 방송】다들 근육운동하고 있어? 느긋한 토요일 밤!【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=xBZHYX6-bFw",
+      "video_id": "xBZHYX6-bFw"
     }
   ]
 }
