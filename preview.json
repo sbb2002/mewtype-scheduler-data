@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-14T13:02:06Z",
+  "generated_at": "2026-11-14T13:02:54Z",
   "items": [
     {
       "actual_start": "2026-11-14T12:03:15Z",
@@ -141,7 +141,7 @@
       "yt_tunein": true
     },
     {
-      "actual_start": null,
+      "actual_start": "2026-11-14T13:02:54Z",
       "announced_start": "2026-11-14T13:00:00Z",
       "api_start_seen": "2026-11-14T13:00:00Z",
       "assumed_live": false,
@@ -156,13 +156,13 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-14T13:02:06Z",
+      "last_updated": "2026-11-14T13:02:54Z",
       "membership": false,
       "scheduled_start": "2026-11-14T13:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2121587256486224336",
-      "state": "watching",
-      "state_since": "2026-11-14T12:52:44Z",
+      "state": "live",
+      "state_since": "2026-11-14T13:02:54Z",
       "thumbnail": "https://i.ytimg.com/vi/HtpRmCo0xwk/maxresdefault.jpg?v=6af8599a",
       "time_tbd": false,
       "title": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】",
