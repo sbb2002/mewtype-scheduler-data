@@ -89,3 +89,4 @@
 {"detail": "broadcast-change none · 게시물은 11/14 22:00에 진행될 예정인 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-14T13:02:06Z", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2121587256486224336 · +8분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T13:02:06Z", "tweet_id": "2121587256486224336", "via": "ingest", "who": "arale"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · HtpRmCo0xwk · 예고 watching", "flow": "websub", "merge_key": "websub-notify:HtpRmCo0xwk", "result": "ok", "title": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-11-14T13:02:45Z", "video_id": "HtpRmCo0xwk", "who": "arale"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-14T13:02:54Z", "who": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】"}
