@@ -100,36 +100,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-11-14T14:32:53Z",
-        "handle": "miyako_yumemita",
-        "id": "2120763817806491730",
-        "media": [
-          "https://pbs.twimg.com/media/HW53cyIacAACM_T.jpg"
-        ],
-        "posted_at": "2026-11-12T06:21:10Z",
-        "quote": null,
-        "received_at": "2026-11-12T06:29:06Z",
-        "reply_to_id": null,
-        "text": "ふじ ぽまもり\nあっねが くれた\nありゃと",
-        "text_ko": "후지 포마모리\n아네가 줬다\n아리쟈토",
-        "url": "https://x.com/i/status/2120763817806491730"
-      },
-      {
-        "channel_key": "miyako",
-        "expires_at": "2026-11-14T14:32:53Z",
-        "handle": "miyako_yumemita",
-        "id": "2120887561761726616",
-        "media": [],
-        "posted_at": "2026-11-12T14:32:53Z",
-        "quote": null,
-        "received_at": "2026-11-12T14:33:06Z",
-        "reply_to_id": "2120763817806491730",
-        "text": "#ぬいみやこ ❕",
-        "text_ko": "#누이미야코 ❕",
-        "url": "https://x.com/i/status/2120887561761726616"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-11-15T03:09:55Z",
         "handle": "miyako_yumemita",
         "id": "2121078074100101183",
@@ -284,26 +254,6 @@
       }
     ],
     "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-11-14T14:28:53Z",
-        "handle": "nonoka_yumemita",
-        "id": "2120886553191108806",
-        "media": [],
-        "posted_at": "2026-11-12T14:28:53Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HW5tiWjawAAJb9b.jpg"
-          ],
-          "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/13(金) 20:00~┊#WS\n\n┊ 開封 ┊ゆめみたBP発売日に！✨️\nWSアンバサダー2人で開封する！🎊\n\n🔗 https://youtube.com/live/FChKwz9gE2E",
-          "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 11/13(金) 20:00~┊#WS\n\n┊ 개봉 ┊유메미타 BP 발매일에!✨️\nWS 앰배서더 2명이서 개봉한다!🎊\n\n🔗 https://youtube.com/live/FChKwz9gE2E"
-        },
-        "received_at": "2026-11-12T14:36:07Z",
-        "reply_to_id": null,
-        "text": "♡🐰配信告知🩹♡\n\n11/13 (金)20:00-✨\n\nあしたは、ゆめみたのヴァイス ブースターパックが発売日‼️😍\nあられちゃんと一緒に開封するよ🎶\n\nあられちゃんが、企画もたくらんでくれているようです...(≖ᴗ≖ )✨\nおたのしみに🎶\n\n#WS",
-        "text_ko": "♡🐰방송 안내🩹♡\n\n11/13 (금)20:00-✨\n\n내일은 유메미타의 바이스트 부스터 팩 발매일‼️😍\n나카마치 아라레와 함께 개봉할게요🎶\n\n아라레가 기획도 꾸미고 있는 듯해요...(≖ᴗ≖ )✨\n많이 기대해 주세요🎶\n\n#WS",
-        "url": "https://x.com/i/status/2120886553191108806"
-      },
       {
         "channel_key": "nonoka",
         "expires_at": "2026-11-15T07:09:19Z",
@@ -554,22 +504,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-11-14T14:23:22Z",
-        "handle": "yuno_yumemita",
-        "id": "2120885165602099448",
-        "media": [
-          "https://pbs.twimg.com/media/HW7l0R-bcAAfDUX.jpg"
-        ],
-        "posted_at": "2026-11-12T14:23:22Z",
-        "quote": null,
-        "received_at": "2026-11-12T14:31:05Z",
-        "reply_to_id": null,
-        "text": "〈配信のおしらせ〉\n11/12 23:30〜 VGDD2\n\nディアデイズくん、元気にしてるかなぁ\nユノちゃんがいない間に背とか伸びたんだろうか…\n\nhttps://www.youtube.com/live/6DCz3dJp6ms?si=AjqItMwfo1-_kCxP",
-        "text_ko": "〈방송 안내〉\n11/12 23:30〜 VGDD2\n\n디어데이즈군, 잘 지내고 있나\n유노짱이 없는 사이에 등도 늘어났을까…\n\nhttps://www.youtube.com/live/6DCz3dJp6ms?si=AjqItMwfo1-_kCxP",
-        "url": "https://x.com/i/status/2120885165602099448"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-11-15T02:34:31Z",
