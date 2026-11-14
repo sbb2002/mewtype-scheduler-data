@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:00:00Z",
+  "generated_at": "2026-11-14T13:35:00Z",
   "items": [
     {
       "actual_start": null,
@@ -733,6 +733,37 @@
       "title_ko": "# 11【마법소녀노마녀재판】제7화！(？)귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバレ",
       "url": "https://www.youtube.com/watch?v=Dg2JRU4ANks",
       "video_id": "Dg2JRU4ANks"
+    },
+    {
+      "actual_start": "2026-11-14T13:02:54Z",
+      "announced_start": "2026-11-14T13:00:00Z",
+      "api_start_seen": "2026-11-14T13:00:00Z",
+      "archived_at": "2026-11-14T13:35:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-14T16:00:00Z",
+      "first_seen": "2026-11-14T12:52:44Z",
+      "host": null,
+      "id": "pv_5419e239",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-14T13:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-14T13:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2121587256486224336",
+      "state": "out",
+      "state_since": "2026-11-14T13:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/HtpRmCo0xwk/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡노래 방송】다들 근육운동하고 있어? 느긋한 토요일 밤!【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=HtpRmCo0xwk",
+      "video_id": "HtpRmCo0xwk"
     }
   ]
 }
