@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-14T13:03:35Z",
+  "generated_at": "2026-11-14T13:05:07Z",
   "items": [
     {
       "actual_start": "2026-11-14T12:03:15Z",
@@ -141,12 +141,12 @@
       "yt_tunein": true
     },
     {
-      "actual_start": null,
+      "actual_start": "2026-11-14T13:04:25Z",
       "api_start_seen": "2026-11-14T13:05:00Z",
       "assumed_live": false,
       "channel_key": "arale",
       "collab_with": null,
-      "concurrent_viewers": null,
+      "concurrent_viewers": 180,
       "expires_at": "2026-11-14T16:05:00Z",
       "first_seen": "2026-11-14T13:03:35Z",
       "host": null,
@@ -155,13 +155,14 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-14T13:03:35Z",
+      "last_updated": "2026-11-14T13:05:07Z",
       "membership": false,
       "needs_tl": true,
       "scheduled_start": "2026-11-14T13:05:00Z",
       "source": "api",
-      "state": "watching",
-      "state_since": "2026-11-14T13:03:35Z",
+      "src_url": "https://x.com/i/status/2121590215710315002",
+      "state": "live",
+      "state_since": "2026-11-14T13:05:07Z",
       "thumbnail": "https://i.ytimg.com/vi/xBZHYX6-bFw/maxresdefault.jpg?v=6af85c21",
       "time_tbd": false,
       "title": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】",
