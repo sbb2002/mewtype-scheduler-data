@@ -77,3 +77,4 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-14T12:32:07Z", "who": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-14T12:32:07Z", "who": "y_cKqP1zp64"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_a9a0017f", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-11-14T12:32:07Z", "video_id": "y_cKqP1zp64", "who": "miyako"}
+{"detail": "broadcast-change none · 게시물은 \"악령 퇴산!!!配信始まる\" 라며 현재 예정된 방송이 시작됨을 알리는 내용으로, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-14T12:38:06Z", "via": "ingest", "who": "miyako"}
