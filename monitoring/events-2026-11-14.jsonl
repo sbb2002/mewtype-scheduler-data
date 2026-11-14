@@ -131,3 +131,5 @@
 {"detail": "gap-fill · 2121622076146753983 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-14T15:19:06Z", "tweet_id": "2121622076146753983", "via": "ingest", "who": "miyako"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-14T15:30:00Z", "who": "y_cKqP1zp64"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_a9a0017f", "result": "ok", "title": "【零 ～濡鴉ノ巫女～】＃11 最終回 悪霊退散！悪霊退散！【ゆめみた/藤都子】", "to_state": "out", "ts": "2026-11-14T15:30:00Z", "video_id": "y_cKqP1zp64", "who": "miyako"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-14T15:59:54Z", "who": "xBZHYX6-bFw"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · xBZHYX6-bFw · 예고 live", "flow": "websub", "merge_key": "websub-notify:xBZHYX6-bFw", "result": "ok", "title": "【🟡歌枠】みんな筋トレしてる？まったり土曜び！【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-11-14T15:59:54Z", "video_id": "xBZHYX6-bFw", "who": "arale"}
