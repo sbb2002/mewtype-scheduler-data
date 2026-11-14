@@ -6447,6 +6447,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5d9df1887e",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "💜配信よてい💜\n11/14(土)21:30~👻ゲーム実況\n「零 ～濡鴉ノ巫女～」\n\n🔗https://youtube.com/live/y_cKqP1zp64?feature=share\n\n三年に渡って実況してきた本作、\n今回でいよいよ最終回の予感…！？\n悪霊退散❕悪霊退散❕\n＃みるみやこ",
+        "raw": "とうとう最終回！？\n悪霊退散！！！配信始まる❣👻✨",
+        "tag": "p#https://x.com/#1tweet-2121581549049217074"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 \"악령 퇴산!!!配信始まる\" 라며 현재 예정된 방송이 시작됨을 알리는 내용으로, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-14T12:38:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
