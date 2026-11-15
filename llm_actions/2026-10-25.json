@@ -18,6 +18,189 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e0f41b23a7",
+      "input": {
+        "acct": "bang_dream_on",
+        "raw": "チャレンジライブイベント「Shake Your 魂, Baby!!」開催中！\n\nイベントptの累計報酬として、SRメンバー馬橋 心玖が登場！\nまた交換所ではイベントバッジを使用し、梅里 ちえりのSRスナップと交換できますよ💫\n\nイベントは明日の14:59まで！お見逃しなく✨\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2114190222355263957"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 진행되는 이벤트와 보상 교환에 관한 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「チャレンジライブイベント「Shake Your 魂, Baby!!」開催中！」 「イベントptの累計報酬として、SRメンバー馬橋 心玖が登場！」 「また交換所ではイベントバッジを使用し、梅里 ちえりのSRスナップと交換できますよ」) / 본문에 인게임 이벤트인 ‘Shake Your 魂, Baby!!’가 명시되어 있어 추출했습니다.",
+      "summary": "행사 배너 갱신 — Shake Your 魂, Baby!!",
+      "ts": "2026-10-25T03:00:15Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-10-26T05:59:00Z",
+              "first_seen": "2026-10-17T12:40:01Z",
+              "gachas": [
+                {
+                  "end_at": "2026-10-28T05:59:00Z",
+                  "id": "gc_e33a9595",
+                  "image_urls": [],
+                  "start_at": "2026-10-18T06:00:00Z",
+                  "title_ja": "はじめてを奏でる光彩讃歌ガチャ",
+                  "title_ko": "처음을 연주하는 광채 찬가 가챠"
+                }
+              ],
+              "hold": null,
+              "id": "bn_16b9bd4d",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HUzvj1aaAAARaXs.jpg"
+              ],
+              "last_updated": "2026-10-19T05:46:48Z",
+              "match_keys": [
+                "shakeyour魂baby",
+                "はじめてを奏でる光彩讃歌ガチャ"
+              ],
+              "name_ja": "Shake Your 魂, Baby!!",
+              "name_ko": "Shake Your 영혼, Baby!!",
+              "src_ids": [
+                "2111381718116540885",
+                "2111701057239654556",
+                "2112016385584812434",
+                "2112023935059431453",
+                "2112023432711856495"
+              ],
+              "start_at": "2026-10-18T06:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_16b9bd4d",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_68cd18d989",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/26（月）7:00〜朝活☀️\nふぁしょんしょ〜の感想なんかも\nしゃべしゃべ💬\n\n縦型につきURLは直前にぽしらせ🔔\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2114190217766694977"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信よてい\"와 구체적인 날짜·시간(10/26 7:00)을 제시해 앞으로 할 방송을 알리는 예고이므로 true이다. (근거: 「配信よてい\n10/26（月）7:00〜朝活」)",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n10/26（月）7:00〜朝活☀️\nふぁしょんしょ〜の感想なんか",
+      "ts": "2026-10-25T03:00:10Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_f5c7d803"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4abfc15869",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n10/26（月）7:00〜朝活☀️\nふぁしょんしょ〜の感想なんかも\nしゃべしゃべ💬\n\n縦型につきURLは直前にぽしらせ🔔\n#みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2114190217766694977"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 10/26 07:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-10-25T03:00:10Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_a69f078b76",
+      "input": {
+        "channel_key": "yuno",
+        "quote": "／\n🛸#ゆめみた\n10/25(日)の配信スケジュール🌟\n＼\n\n🎮23:30～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n☀明日朝7:00～藤都子\nhttps://www.youtube.com/@miyako_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "今日の配信はお休みにさせて頂きます！\n𝐅𝐚𝐬𝐡𝐢𝐨𝐧 𝐒𝐡𝐨𝐰に専念！\n\nよろしくお願いします👊",
+        "tag": "p#https://x.com/#1tweet-2114236843336331540"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 오늘(10/25) 방송을 쉬겠다고 명시했기 때문에",
+      "summary": "방송 취소 1건 — 10/25 23:30 ",
+      "ts": "2026-10-25T06:06:43Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "yuno",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-10-25T17:30:00Z",
+            "first_seen": "2026-10-25T06:06:43Z",
+            "host": null,
+            "id": "pv_ebe9b2cd",
+            "info_at": "2026-10-25T06:06:43Z",
+            "info_source": "x-relay",
+            "kind": "game",
+            "last_updated": "2026-10-25T06:06:43Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-10-25T14:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2114235507442172022",
+            "state": "announced",
+            "state_since": "2026-10-25T06:06:43Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "restore_items",
+        "unsuppress": []
+      },
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_caa27e0d45",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVU6oHFa4AAE_gA.jpg"
+        ],
+        "raw": "Ave Mujica 7th LIVE「Virtus」\n開催記念 ミッションパス🌙\n\n開催期間中、パスミッションをクリアすることで、ライブKVを使用したAve MujicaのEXスナップなどがGETできます✨\n\nまたプレミアムミッションパスを購入することで、EXスナップはMAX Lv.まで上限解放することが可能！\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2114326115300818961"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내에서 미션을 수행하고 아이템을 획득하거나 프리미엄 패스를 구매하는 내용이므로 게임 앱 안에서 하는 일이다. (근거: 「開催期間中、パスミッションをクリアすることで、ライブKVを使用したAve Muj」 「またプレミアムミッションパスを購入することで、EXスナップはMAX Lv.まで上」) / 본문과 이미지에서 인게임 이벤트나 가챠 이름이 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-25T12:00:12Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
