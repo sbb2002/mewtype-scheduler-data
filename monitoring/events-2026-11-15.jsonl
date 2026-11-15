@@ -70,3 +70,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-11-15T11:00:01Z", "who": ""}
 {"assumed_live": false, "detail": "upcoming→out", "flow": "preview", "from_state": "upcoming", "item_id": "pv_5a9e31dc", "result": "ok", "title": "【＃ゆめみた3周年】なにやら発表ｱﾘ！？デビュー記念配信🎂【夢限大みゅーたいぷ/藤都子】", "to_state": "out", "ts": "2026-11-15T11:00:01Z", "video_id": "M8AyHXF8INU", "who": "miyako"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-15T11:30:38Z", "who": "【実写】二郎系ラーメンを食べよう！マシマシで【峰月律/ゆめみた】"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_b6f0014d", "result": "ok", "title": "【実写】二郎系ラーメンを食べよう！マシマシで【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-15T11:30:37Z", "video_id": "A2AkkL1XFsk", "who": "ritsu"}
