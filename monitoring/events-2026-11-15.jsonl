@@ -61,3 +61,4 @@
 {"detail": "gap-fill · 2121889092774600957 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-15T09:00:07Z", "tweet_id": "2121889092774600957", "via": "ingest", "who": "nonoka"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-15T09:20:00Z", "who": "xPXolFCmFqE"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_0ae4f53d", "result": "ok", "title": "# 12【魔法少女ノ魔女裁判】第八話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "out", "ts": "2026-11-15T09:20:00Z", "video_id": "xPXolFCmFqE", "who": "nonoka"}
+{"detail": "broadcast-change del · 게시물에서 오늘 22:00에 예정된 방송을 머리 아파서 쉬겠다고 명시했기 때문에 해당 방송을 취소로 판단했습니다. · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-11-15T09:22:06Z", "via": "ingest", "who": "arale"}
