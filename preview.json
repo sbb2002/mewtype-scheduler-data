@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-15T14:03:17Z",
+  "generated_at": "2026-11-15T14:09:58Z",
   "items": [
     {
       "actual_start": "2026-11-15T14:03:14Z",
@@ -167,6 +167,41 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "cancelled": {
+        "at": "2026-11-15T09:22:06Z",
+        "by": "tweet",
+        "tweet_id": "2121894709891408012",
+        "tweet_url": "https://x.com/i/status/2121894709891408012"
+      },
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-15T16:00:00Z",
+      "first_seen": "2026-11-15T01:48:30Z",
+      "host": null,
+      "id": "pv_c0ad0f65",
+      "info_at": "2026-11-15T01:48:30Z",
+      "info_source": "x-relay",
+      "is_premiere": false,
+      "kind": "song",
+      "last_updated": "2026-11-15T14:09:58Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-15T13:00:00Z",
+      "source": "x-relay",
+      "state": "announced",
+      "state_since": "2026-11-15T01:48:30Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     },
     {
       "actual_start": null,
