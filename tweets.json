@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:58:07Z",
+  "generated_at": "2026-11-15T14:01:06Z",
   "tweets": {
     "arale": [
       {
@@ -569,6 +569,22 @@
         "text": "新潟GP、ありがとうございました！\nステージや抽選会など楽しかったです✌\n\nまた呼んでもらえるように頑張ります！\n#ヴァンガード",
         "text_ko": "니가타 GP, 감사합니다! 스테이지와 추첨회 등 즐거웠어요✌ 또 불러주실 수 있게 열심히 할게요! #ヴァンガード",
         "url": "https://x.com/i/status/2121964164365398357"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-17T13:52:43Z",
+        "handle": "yuno_yumemita",
+        "id": "2121964618876887347",
+        "media": [
+          "https://pbs.twimg.com/media/HXK7daJbYAAcS3a.jpg"
+        ],
+        "posted_at": "2026-11-15T13:52:43Z",
+        "quote": null,
+        "received_at": "2026-11-15T14:01:06Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/15 23:00〜　新潟GPただいま配信！\n\n弾丸だったので30分だけ！\n新潟の思い出を共有！！！\nhttps://youtube.com/live/kGYAnR8RWiU?feature=share",
+        "text_ko": "〈방송 안내〉\n11/15 23:00〜 니가타 GP 지금 방송!\n\n탄환이라 30분만!\n니가타 추억 공유!!!\nhttps://youtube.com/live/kGYAnR8RWiU?feature=share",
+        "url": "https://x.com/i/status/2121964618876887347"
       }
     ]
   }
