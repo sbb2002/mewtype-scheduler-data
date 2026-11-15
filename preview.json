@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-15T14:01:06Z",
+  "generated_at": "2026-11-15T14:03:00Z",
   "items": [
     {
       "actual_start": null,
@@ -97,7 +97,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-15T14:01:06Z",
+      "last_updated": "2026-11-15T14:03:00Z",
       "membership": false,
       "scheduled_start": "2026-11-15T14:00:00Z",
       "source": "api",
@@ -126,7 +126,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-15T14:00:02Z",
+      "last_updated": "2026-11-15T14:03:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -155,7 +155,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-15T14:00:02Z",
+      "last_updated": "2026-11-15T14:03:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -197,36 +197,6 @@
       "title_ko": null,
       "url": null,
       "video_id": null
-    },
-    {
-      "actual_start": "2026-11-15T12:02:15Z",
-      "api_start_seen": "2026-11-15T12:00:00Z",
-      "assumed_live": false,
-      "channel_key": "ritsu",
-      "collab_with": null,
-      "concurrent_viewers": 843,
-      "expires_at": "2026-11-15T15:00:00Z",
-      "first_seen": "2026-11-14T15:02:19Z",
-      "host": null,
-      "id": "pv_b6f0014d",
-      "info_at": null,
-      "info_source": "api",
-      "is_premiere": false,
-      "kind": "unknown",
-      "last_updated": "2026-11-15T14:00:02Z",
-      "membership": false,
-      "scheduled_start": "2026-11-15T12:00:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2121853347552752072",
-      "state": "end",
-      "state_since": "2026-11-15T13:32:48Z",
-      "thumbnail": "https://i.ytimg.com/vi/A2AkkL1XFsk/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【実写】二郎系ラーメンを食べよう！マシマシで【峰月律/ゆめみた】",
-      "title_ko": "【실사】이조계 라멘을 먹어보자! 마시마시로【미네츠키 리츠/유메미타】",
-      "url": "https://www.youtube.com/watch?v=A2AkkL1XFsk",
-      "video_id": "A2AkkL1XFsk",
-      "yt_tunein": true
     }
   ]
 }
