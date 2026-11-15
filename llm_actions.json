@@ -6267,6 +6267,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_dc856871d7",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日 21:00~\n二郎系ラーメンを食べてみよう！の巻\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/A2AkkL1XFsk?si=D6WR5bqwhtOOQWOB\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2121853347552752072"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21:00에 진행될 방송을 알리는 예고이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-15T06:38:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
