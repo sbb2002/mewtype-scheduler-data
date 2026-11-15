@@ -6357,6 +6357,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_1d6b7a0055",
+      "input": {
+        "channel_key": "arale",
+        "raw": "本日22:00~予定の配信おやすみします…😭\n夜になるにつれてどんどん頭痛が酷くなっちゃって…💦\n楽しみにしてくれてた皆様ごめんね…(^т  ̫ т^)",
+        "tag": "p#https://x.com/#1tweet-2121894709891408012"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "예정된 오늘 22시 스트리밍을 취소한다는 내용이므로 방송 일정 예고가 아니다. (근거: 「本日22:00~予定の配信おやすみします…😭」)",
+      "summary": "본인 방송 예고 아님 — 本日22:00~予定の配信おやすみします…😭\n夜になるにつれてどんどん頭痛が酷くなっちゃって…💦\n楽しみにしてくれてた皆",
+      "ts": "2026-11-15T09:22:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
