@@ -6286,6 +6286,58 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_190c5d4e75",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/16（月）☀あさ7:00～8:00\n #WS ゆめみたブースターパック開封じゃ❣\nなにがでるかな♪なにがでるかな♪\n🔥🐶🔥\n\n縦型配信につき配信URLはちょくぜんにぽしらせ🔔\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2121870550427693434"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信よてい\"와 구체적인 날짜·시간을 제시해 앞으로 할 방송을 알리는 예고이기 때문에 true이다. (근거: 「配信よてい 11/16（月）☀あさ7:00～8:00」)",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n11/16（月）☀あさ7:00～8:00\n #WS ゆめみたブー",
+      "ts": "2026-11-15T07:46:06Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "miyako",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-16T01:00:00Z",
+            "first_seen": "2026-11-15T01:48:30Z",
+            "host": null,
+            "id": "pv_17442d1b",
+            "info_at": "2026-11-15T01:48:30Z",
+            "info_source": "x-relay",
+            "is_premiere": false,
+            "kind": "unknown",
+            "last_updated": "2026-11-15T01:48:30Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-15T22:00:00Z",
+            "source": "x-relay",
+            "state": "announced",
+            "state_since": "2026-11-15T01:48:30Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
