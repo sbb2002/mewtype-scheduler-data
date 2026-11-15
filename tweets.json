@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T03:25:07Z",
+  "generated_at": "2026-11-15T06:38:06Z",
   "tweets": {
     "arale": [
       {
@@ -555,6 +555,22 @@
         "text": "食欲の秋",
         "text_ko": "식욕이 돋는 가을",
         "url": "https://x.com/i/status/2121591743619731891"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-17T06:30:34Z",
+        "handle": "ritsu_yumemita",
+        "id": "2121853347552752072",
+        "media": [
+          "https://pbs.twimg.com/media/HXJWX20bAAAwbq-.jpg"
+        ],
+        "posted_at": "2026-11-15T06:30:34Z",
+        "quote": null,
+        "received_at": "2026-11-15T06:38:06Z",
+        "reply_to_id": null,
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n今日 21:00〜\n二郎系ラーメンを食べてみよう！の巻\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/A2AkkL1XFsk?si=D6WR5bqwhtOOQWOB\n\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 21:00〜\n지로계 라멘을 먹어보자! 편\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/A2AkkL1XFsk?si=D6WR5bqwhtOOQWOB\n\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2121853347552752072"
       }
     ],
     "yuno": [
