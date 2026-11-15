@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (A2AkkL1XFsk)",
-    "at": "2026-11-15T06:38:06Z",
+    "action": "본인 예고 후지 미야코 (💜配信よてい💜\n11/16（月）☀あさ7:00～8:00\n #WS ゆめみたブー)",
+    "at": "2026-11-15T07:46:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "01e8f4aca6f46fe7e74f7ce97e6c028b34582dc9",
+    "new_sha": "bc4eecf2d05820aa16a1e17389509e8a98a1bac1",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-15T04:30:00Z",
+      "generated_at": "2026-11-15T06:38:06Z",
       "items": [
         {
           "actual_start": "2026-11-15T03:16:03Z",
@@ -192,10 +192,11 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": "unknown",
-          "last_updated": "2026-11-15T04:30:00Z",
+          "last_updated": "2026-11-15T06:38:06Z",
           "membership": false,
           "scheduled_start": "2026-11-15T12:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2121853347552752072",
           "state": "upcoming",
           "state_since": "2026-11-14T15:02:19Z",
           "thumbnail": "https://i.ytimg.com/vi/A2AkkL1XFsk/maxresdefault.jpg?v=6af877bf",
