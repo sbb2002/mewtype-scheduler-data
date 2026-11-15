@@ -29,3 +29,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · M8AyHXF8INU · 예고 watching", "flow": "websub", "merge_key": "websub-notify:M8AyHXF8INU", "result": "ok", "title": "【＃ゆめみた3周年】なにやら発表ｱﾘ！？デビュー記念配信🎂【夢限大みゅーたいぷ/藤都子】", "ts": "2026-11-15T02:28:19Z", "video_id": "M8AyHXF8INU", "who": "miyako"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-15T02:30:02Z", "who": ""}
 {"detail": "broadcast-change edit · ‘12:00부터 방송 시작합니다’ 라는 문구가 기존 11:00 방송을 12:00으로 연기한다는 의미이기 때문 · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-11-15T02:55:06Z", "via": "ingest", "who": "nonoka"}
+{"detail": "gap-fill · 2121797093581062463 · +8분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-15T02:55:06Z", "tweet_id": "2121797093581062463", "via": "ingest", "who": "nonoka"}
