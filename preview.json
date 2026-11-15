@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-15T06:38:06Z",
+  "generated_at": "2026-11-15T07:46:06Z",
   "items": [
     {
       "actual_start": "2026-11-15T03:16:03Z",
@@ -294,15 +294,16 @@
       "first_seen": "2026-11-15T01:48:30Z",
       "host": null,
       "id": "pv_17442d1b",
-      "info_at": "2026-11-15T01:48:30Z",
-      "info_source": "x-relay",
+      "info_at": "2026-11-15T07:38:56Z",
+      "info_source": "personal",
       "is_premiere": false,
       "kind": "unknown",
-      "last_updated": "2026-11-15T01:48:30Z",
+      "last_updated": "2026-11-15T07:46:06Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-15T22:00:00Z",
       "source": "x-relay",
+      "src_url": "https://x.com/i/status/2121870550427693434",
       "state": "announced",
       "state_since": "2026-11-15T01:48:30Z",
       "thumbnail": null,
