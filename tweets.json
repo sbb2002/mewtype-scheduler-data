@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T01:38:06Z",
+  "generated_at": "2026-11-15T02:55:06Z",
   "tweets": {
     "arale": [
       {
@@ -491,6 +491,20 @@
         "text": "ぴっぴー🚨",
         "text_ko": "피피🚨",
         "url": "https://x.com/i/status/2121595631995330810"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-17T02:47:02Z",
+        "handle": "nonoka_yumemita",
+        "id": "2121797093581062463",
+        "media": [],
+        "posted_at": "2026-11-15T02:47:02Z",
+        "quote": null,
+        "received_at": "2026-11-15T02:55:06Z",
+        "reply_to_id": null,
+        "text": "！！！！！！！ごめん!!!!!アラームかけずにねおちゃってた！！！！！12:00から配信はじめます🙇‍♀️",
+        "text_ko": "죄송해!!! 알람 안 맞추고 자고 있었어!!! 12:00부터 방송 시작합니다🙇‍♀️",
+        "url": "https://x.com/i/status/2121797093581062463"
       }
     ],
     "ritsu": [
