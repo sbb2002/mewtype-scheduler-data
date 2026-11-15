@@ -6338,6 +6338,25 @@
       },
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7bcbd69442",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/16（月）☀あさ7:00～8:00\n #WS ゆめみたブースターパック開封じゃ❣\nなにがでるかな♪なにがでるかな♪\n🔥🐶🔥\n\n縦型配信につき配信URLはちょくぜんにぽしらせ🔔\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2121870550427693434"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/16 07:00에 진행될 방송을 알리는 안내이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-15T07:46:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
