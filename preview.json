@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-15T21:59:55Z",
+  "generated_at": "2026-11-15T22:00:01Z",
   "items": [
     {
       "actual_start": null,
@@ -97,14 +97,14 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-15T21:59:55Z",
+      "last_updated": "2026-11-15T22:00:01Z",
       "membership": false,
       "needs_tl": true,
       "scheduled_start": "2026-11-15T21:59:51Z",
       "source": "api",
       "state": "watching",
       "state_since": "2026-11-15T21:59:55Z",
-      "thumbnail": "https://i.ytimg.com/vi/fkhm1oQ6TD4/maxresdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/fkhm1oQ6TD4/maxresdefault.jpg?v=6afa2b5a",
       "time_tbd": false,
       "title": "【WS開封 】ﾍﾞﾘﾍﾞﾘ …ゆめみたブースターパック、開封❕❕かかってこい❕【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
       "title_ko": null,
@@ -126,7 +126,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-15T21:59:55Z",
+      "last_updated": "2026-11-15T22:00:01Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -155,7 +155,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-15T21:59:55Z",
+      "last_updated": "2026-11-15T22:00:01Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
