@@ -6219,6 +6219,35 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9f392521a0",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "！！！！！！！ごめん!!!!!アラームかけずにねおちゃってた！！！！！12:00から配信はじめます🙇‍♀️",
+        "tag": "p#https://x.com/#1tweet-2121797093581062463"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "‘12:00부터 방송 시작합니다’ 라는 문구가 기존 11:00 방송을 12:00으로 연기한다는 의미이기 때문",
+      "summary": "방송 시각 변경 1건 → 11/15 12:00",
+      "ts": "2026-11-15T02:55:06Z",
+      "undo": {
+        "changes": [
+          {
+            "field": "scheduled_start",
+            "from": "2026-11-15T02:00:00Z",
+            "id": "pv_9ac9a318",
+            "to": "2026-11-15T03:00:00Z"
+          }
+        ],
+        "type": "restore_fields"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
