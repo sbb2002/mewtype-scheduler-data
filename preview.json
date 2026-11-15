@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-15T02:28:19Z",
+  "generated_at": "2026-11-15T02:30:02Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-15T02:28:19Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-15T02:30:00Z",
       "source": "api",
       "state": "watching",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/M8AyHXF8INU/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【＃ゆめみた3周年】なにやら発表ｱﾘ！？デビュー記念配信🎂【夢限大みゅーたいぷ/藤都子】",
-      "title_ko": null,
+      "title_ko": "【#유메미타3周年】뭐가 뭔가 발표 있대!? 데뷔 기념 방송🎂【무겐다이 뮤타입/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=M8AyHXF8INU",
       "video_id": "M8AyHXF8INU"
     },
