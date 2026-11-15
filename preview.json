@@ -99,7 +99,6 @@
       "kind": null,
       "last_updated": "2026-11-15T14:00:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-15T14:00:00Z",
       "source": "api",
       "state": "watching",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/kGYAnR8RWiU/maxresdefault.jpg?v=6af9b886",
       "time_tbd": false,
       "title": "【ただいま！】新潟GP、ありがとうございました！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【돌아왔어요!】니가타 GP, 감사합니다!【 #千石ユ노 / #뱅드림】",
       "url": "https://www.youtube.com/watch?v=kGYAnR8RWiU",
       "video_id": "kGYAnR8RWiU"
     },
