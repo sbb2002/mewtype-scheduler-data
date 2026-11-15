@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:30:00Z",
+  "generated_at": "2026-11-15T09:20:00Z",
   "items": [
     {
       "actual_start": "2026-11-08T02:23:22Z",
@@ -764,6 +764,37 @@
       "title_ko": "【🟡노래 방송】다들 근육운동하고 있어? 느긋한 토요일 밤!【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=xBZHYX6-bFw",
       "video_id": "xBZHYX6-bFw"
+    },
+    {
+      "actual_start": "2026-11-15T03:16:03Z",
+      "announced_start": "2026-11-15T03:00:00Z",
+      "api_start_seen": "2026-11-15T03:15:00Z",
+      "archived_at": "2026-11-15T09:20:00Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 488,
+      "expires_at": "2026-11-15T06:15:00Z",
+      "first_seen": "2026-11-15T03:16:14Z",
+      "host": null,
+      "id": "pv_0ae4f53d",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-15T09:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-15T03:15:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2121804720398623214",
+      "state": "out",
+      "state_since": "2026-11-15T09:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/xPXolFCmFqE/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "# 12【魔法少女ノ魔女裁判】第八話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
+      "title_ko": "12【마법소녀노마녀재판】제8화！(?) 귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバレ",
+      "url": "https://www.youtube.com/watch?v=xPXolFCmFqE",
+      "video_id": "xPXolFCmFqE"
     }
   ]
 }
