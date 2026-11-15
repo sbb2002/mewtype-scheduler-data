@@ -6376,6 +6376,59 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b1fff50dcb",
+      "input": {
+        "channel_key": "arale",
+        "raw": "本日22:00~予定の配信おやすみします…😭\n夜になるにつれてどんどん頭痛が酷くなっちゃって…💦\n楽しみにしてくれてた皆様ごめんね…(^т  ̫ т^)",
+        "tag": "p#https://x.com/#1tweet-2121894709891408012"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에서 오늘 22:00에 예정된 방송을 머리 아파서 쉬겠다고 명시했기 때문에 해당 방송을 취소로 판단했습니다.",
+      "summary": "방송 취소 1건 — 11/15 22:00 ",
+      "ts": "2026-11-15T09:22:06Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "arale",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-15T16:00:00Z",
+            "first_seen": "2026-11-15T01:48:30Z",
+            "host": null,
+            "id": "pv_c0ad0f65",
+            "info_at": "2026-11-15T01:48:30Z",
+            "info_source": "x-relay",
+            "is_premiere": false,
+            "kind": "song",
+            "last_updated": "2026-11-15T01:48:30Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-15T13:00:00Z",
+            "source": "x-relay",
+            "state": "announced",
+            "state_since": "2026-11-15T01:48:30Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "restore_items",
+        "unsuppress": []
+      },
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
