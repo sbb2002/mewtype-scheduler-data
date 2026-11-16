@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:45:00Z",
+  "generated_at": "2026-11-16T13:50:00Z",
   "items": [
     {
       "actual_start": "2026-11-08T22:00:31Z",
@@ -862,6 +862,36 @@
       "title_ko": "【WS개봉】베리베리 …유메미타 부스터 팩, 개봉❕❕달려와❕【무겐다이 뮤타입/후지 미야코】#shorts #세로형방송 #vtuber",
       "url": "https://www.youtube.com/watch?v=fkhm1oQ6TD4",
       "video_id": "fkhm1oQ6TD4"
+    },
+    {
+      "actual_start": "2026-11-16T12:00:43Z",
+      "api_start_seen": "2026-11-16T12:00:00Z",
+      "archived_at": "2026-11-16T13:50:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 817,
+      "expires_at": "2026-11-16T15:00:00Z",
+      "first_seen": "2026-11-16T09:46:55Z",
+      "host": null,
+      "id": "pv_0dc87f9a",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-16T13:50:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-16T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2122273935723200713",
+      "state": "out",
+      "state_since": "2026-11-16T13:50:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/EJ1DNBxLjN4/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【実写】スライムコネコネモミモミフェスティバル【峰月律/ゆめみた】",
+      "title_ko": "【실사】슬라임코네코네모미모페스티벌【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=EJ1DNBxLjN4",
+      "video_id": "EJ1DNBxLjN4"
     }
   ]
 }
