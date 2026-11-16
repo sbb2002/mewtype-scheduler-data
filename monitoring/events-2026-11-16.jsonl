@@ -90,3 +90,5 @@
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-16T14:10:03Z", "who": ""}
 {"detail": "broadcast-change none · 게시물은 새로운 방송 시작을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경한다는 표현이 없기 때문입니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-16T14:13:06Z", "via": "ingest", "who": "nonoka"}
 {"detail": "gap-fill · 2122330289909412207 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-16T14:13:06Z", "tweet_id": "2122330289909412207", "via": "ingest", "who": "nonoka"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-16T14:15:00Z", "who": "8fLFIXbQUAg"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_d37961b7", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "end", "ts": "2026-11-16T14:15:00Z", "video_id": "8fLFIXbQUAg", "who": "yuno"}
