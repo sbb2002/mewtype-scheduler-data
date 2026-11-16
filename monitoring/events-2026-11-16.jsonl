@@ -104,3 +104,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_f92617b0", "result": "ok", "title": "【でかいぬしゅうかい】みんなにきいてみたいこともある# 26【宮永ののか/夢限大みゅーたいぷ】", "to_state": "end", "ts": "2026-11-16T16:41:35Z", "video_id": "UgpQ5l56f08", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · UgpQ5l56f08 · 예고 end", "flow": "websub", "merge_key": "websub-notify:UgpQ5l56f08", "result": "ok", "title": "【でかいぬしゅうかい】みんなにきいてみたいこともある# 26【宮永ののか/夢限大みゅーたいぷ】", "ts": "2026-11-16T16:41:35Z", "video_id": "UgpQ5l56f08", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-16T16:48:19Z", "tweet_id": "2122371187124953311", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-16T16:48:32Z", "who": "宮永ののか🐰🩹"}
