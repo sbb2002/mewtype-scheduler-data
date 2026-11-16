@@ -5,3 +5,4 @@
 {"detail": "보관함 정리 llm · 37건 → llm_actions/2026-10-26.json, llm_actions/2026-10-27.json · 캐시 271KB", "flow": "archive", "result": "ok", "ts": "2026-11-16T21:10:00Z", "who": ""}
 {"detail": "보관함 정리 preview · 4건 → preview_archive/2026-11-09.json, preview_archive/2026-11-10.json · 캐시 33KB", "flow": "archive", "result": "ok", "ts": "2026-11-16T21:10:00Z", "who": ""}
 {"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-16T21:20:01Z", "who": "arale"}
+{"action": "verify", "detail": "허브 검증 통과 (subscribe) · 임대 432000초", "flow": "websub", "lease": "432000", "result": "ok", "ts": "2026-11-16T21:20:03Z", "who": "nonoka"}
