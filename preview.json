@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-16T13:50:00Z",
+  "generated_at": "2026-11-16T14:02:00Z",
   "items": [
     {
       "actual_start": "2026-11-16T13:03:20Z",
@@ -96,7 +96,7 @@
       "info_source": "yt-notif",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T13:50:00Z",
+      "last_updated": "2026-11-16T14:02:00Z",
       "membership": true,
       "scheduled_start": "2026-11-16T13:00:00Z",
       "source": "yt-notif",
@@ -124,7 +124,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T13:50:00Z",
+      "last_updated": "2026-11-16T14:02:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -153,7 +153,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T13:50:00Z",
+      "last_updated": "2026-11-16T14:02:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -181,10 +181,11 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": "unknown",
-      "last_updated": "2026-11-16T13:29:06Z",
+      "last_updated": "2026-11-16T14:02:00Z",
       "membership": true,
       "needs_tl": false,
       "scheduled_start": "2026-11-16T14:00:00Z",
+      "search_checked": true,
       "source": "personal",
       "src_url": "https://x.com/i/status/2122318888801329337",
       "state": "announced",
