@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-16T13:10:00Z",
+  "generated_at": "2026-11-16T13:10:06Z",
   "items": [
     {
       "actual_start": "2026-11-16T12:00:43Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-11-16T13:10:00Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-11-16T13:00:00Z",
       "source": "yt-notif",
       "state": "live",
@@ -135,7 +134,7 @@
       "thumbnail": "https://i.ytimg.com/vi/8fLFIXbQUAg/maxresdefault.jpg?v=6afafdad",
       "time_tbd": false,
       "title": "YUNO's+ 限定配信",
-      "title_ko": null,
+      "title_ko": "유노's+ 제한 방송",
       "url": "https://www.youtube.com/watch?v=8fLFIXbQUAg",
       "video_id": "8fLFIXbQUAg"
     },
