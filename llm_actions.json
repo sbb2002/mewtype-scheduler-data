@@ -6371,6 +6371,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_462a82b56f",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信開始🩹♡\n\nでかいぬメン限、はじまり🎶\nおあつまりください😆\n\n【でかいぬしゅうかい】みんなにきいてみたいこともある# 26【宮永ののか/夢限大みゅーたいぷ】 https://www.youtube.com/live/UgpQ5l56f08?si=V5vAbTGAoFiuod2U",
+        "tag": "p#https://x.com/#1tweet-2122330289909412207"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 새로운 방송 시작을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경한다는 표현이 없기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-16T14:13:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
