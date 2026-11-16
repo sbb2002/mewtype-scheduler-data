@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-16T13:25:00Z",
+  "generated_at": "2026-11-16T13:29:06Z",
   "items": [
     {
       "actual_start": "2026-11-16T13:03:20Z",
@@ -194,6 +194,36 @@
       "title_ko": "【실사】슬라임코네코네모미모페스티벌【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=EJ1DNBxLjN4",
       "video_id": "EJ1DNBxLjN4"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-16T19:00:00Z",
+      "first_seen": "2026-11-16T13:29:06Z",
+      "host": null,
+      "id": "pv_7e67377d",
+      "info_at": "2026-11-16T13:20:28Z",
+      "info_source": "personal",
+      "is_premiere": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-16T13:29:06Z",
+      "membership": true,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-16T14:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2122318888801329337",
+      "state": "announced",
+      "state_since": "2026-11-16T13:29:06Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@nonoka_yumemita",
+      "video_id": null
     }
   ]
 }
