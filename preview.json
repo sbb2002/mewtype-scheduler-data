@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-16T14:04:16Z",
+  "generated_at": "2026-11-16T14:05:39Z",
   "items": [
     {
       "actual_start": "2026-11-16T13:03:20Z",
@@ -96,7 +96,7 @@
       "info_source": "yt-notif",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T14:04:16Z",
+      "last_updated": "2026-11-16T14:05:39Z",
       "membership": true,
       "scheduled_start": "2026-11-16T13:00:00Z",
       "source": "yt-notif",
@@ -110,7 +110,7 @@
       "video_id": "8fLFIXbQUAg"
     },
     {
-      "actual_start": null,
+      "actual_start": "2026-11-16T14:04:44Z",
       "announced_start": "2026-11-16T14:00:00Z",
       "api_start_seen": "2026-11-16T14:05:00Z",
       "assumed_live": false,
@@ -125,13 +125,13 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T14:04:16Z",
+      "last_updated": "2026-11-16T14:05:39Z",
       "membership": true,
       "needs_tl": true,
       "scheduled_start": "2026-11-16T14:05:00Z",
       "source": "api",
-      "state": "watching",
-      "state_since": "2026-11-16T14:04:16Z",
+      "state": "live",
+      "state_since": "2026-11-16T14:05:39Z",
       "thumbnail": "https://i.ytimg.com/vi/UgpQ5l56f08/maxresdefault.jpg?v=6afb0d5e",
       "time_tbd": false,
       "title": "【でかいぬしゅうかい】みんなにきいてみたいこともある# 26【宮永ののか/夢限大みゅーたいぷ】",
@@ -154,7 +154,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T14:04:16Z",
+      "last_updated": "2026-11-16T14:05:39Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -183,7 +183,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T14:04:16Z",
+      "last_updated": "2026-11-16T14:05:39Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
