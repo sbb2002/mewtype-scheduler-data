@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-16T09:50:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-16T12:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/EJ1DNBxLjN4/maxresdefault.jpg?v=6afad10d",
       "time_tbd": false,
       "title": "【実写】スライムコネコネモミモミフェスティバル【峰月律/ゆめみた】",
-      "title_ko": null,
+      "title_ko": "【실사】슬라임코네코네모미모페스티벌【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=EJ1DNBxLjN4",
       "video_id": "EJ1DNBxLjN4"
     },
