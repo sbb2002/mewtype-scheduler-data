@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:50:00Z",
+  "generated_at": "2026-11-16T14:45:00Z",
   "items": [
     {
       "actual_start": "2026-11-08T22:00:31Z",
@@ -892,6 +892,35 @@
       "title_ko": "【실사】슬라임코네코네모미모페스티벌【미네츠키 리츠/유메미타】",
       "url": "https://www.youtube.com/watch?v=EJ1DNBxLjN4",
       "video_id": "EJ1DNBxLjN4"
+    },
+    {
+      "actual_start": "2026-11-16T13:03:20Z",
+      "api_start_seen": "2026-11-16T13:00:00Z",
+      "archived_at": "2026-11-16T14:45:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-16T18:07:51Z",
+      "first_seen": "2026-11-16T13:07:51Z",
+      "host": null,
+      "id": "pv_d37961b7",
+      "info_at": null,
+      "info_source": "yt-notif",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-16T14:45:00Z",
+      "membership": true,
+      "scheduled_start": "2026-11-16T13:00:00Z",
+      "source": "yt-notif",
+      "state": "out",
+      "state_since": "2026-11-16T14:45:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/8fLFIXbQUAg/maxresdefault.jpg?v=6afafdad",
+      "time_tbd": false,
+      "title": "YUNO's+ 限定配信",
+      "title_ko": "유노's+ 제한 방송",
+      "url": "https://www.youtube.com/watch?v=8fLFIXbQUAg",
+      "video_id": "8fLFIXbQUAg"
     }
   ]
 }
