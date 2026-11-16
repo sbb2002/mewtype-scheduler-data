@@ -88,3 +88,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_f92617b0", "result": "ok", "title": "【でかいぬしゅうかい】みんなにきいてみたいこともある# 26【宮永ののか/夢限大みゅーたいぷ】", "to_state": "live", "ts": "2026-11-16T14:05:39Z", "video_id": "UgpQ5l56f08", "who": "nonoka"}
 {"detail": "회원 방송 시작 · nonoka (noop)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-16T14:07:44Z", "who": "宮永ののか -Miyanaga Nonoka- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【でかいぬしゅうかい】"}
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-16T14:10:03Z", "who": ""}
+{"detail": "broadcast-change none · 게시물은 새로운 방송 시작을 알리는 내용이며, 기존에 예고된 방송을 취소하거나 일정 변경한다는 표현이 없기 때문입니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-16T14:13:06Z", "via": "ingest", "who": "nonoka"}
