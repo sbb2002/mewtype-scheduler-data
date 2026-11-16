@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-16T14:05:39Z",
+  "generated_at": "2026-11-16T14:10:03Z",
   "items": [
     {
       "actual_start": "2026-11-16T13:03:20Z",
@@ -127,7 +127,6 @@
       "kind": null,
       "last_updated": "2026-11-16T14:05:39Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-11-16T14:05:00Z",
       "source": "api",
       "state": "live",
@@ -135,7 +134,7 @@
       "thumbnail": "https://i.ytimg.com/vi/UgpQ5l56f08/maxresdefault.jpg?v=6afb0d5e",
       "time_tbd": false,
       "title": "【でかいぬしゅうかい】みんなにきいてみたいこともある# 26【宮永ののか/夢限大みゅーたいぷ】",
-      "title_ko": null,
+      "title_ko": "【대규모 회의】다들에게 물어보고 싶은 것도 있어 # 26【미야나가 노노카/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=UgpQ5l56f08",
       "video_id": "UgpQ5l56f08"
     },
