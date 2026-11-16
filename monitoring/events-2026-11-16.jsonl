@@ -95,3 +95,5 @@
 {"detail": "gap-fill · 2122331492118606253 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-16T14:18:06Z", "tweet_id": "2122331492118606253", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물 내용이 개인적인 안부와 수면 인사이며 방송 일정 취소나 변경에 대한 언급이 없기 때문입니다", "flow": "tweet", "result": "ok", "ts": "2026-11-16T14:18:17Z", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2122331526251876629 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-16T14:18:17Z", "tweet_id": "2122331526251876629", "via": "ingest", "who": "arale"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-16T14:45:00Z", "who": "8fLFIXbQUAg"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_d37961b7", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "out", "ts": "2026-11-16T14:45:00Z", "video_id": "8fLFIXbQUAg", "who": "yuno"}
