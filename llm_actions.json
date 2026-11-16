@@ -6351,6 +6351,26 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f3940b8d6d",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n11/16(月)の配信スケジュール🌟\n＼\n\n✨21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n【メン限】22:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n【メン限】23:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "♡🐰配信告知🩹♡\n\n今日このあと23:00-❤️‍🔥\n\nでかいぬメン限でつ🎶\n集合よろしくお願いします🎶",
+        "tag": "p#https://x.com/#1tweet-2122318888801329337"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 23시 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-16T13:29:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
