@@ -6390,6 +6390,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b974e86318",
+      "input": {
+        "channel_key": "arale",
+        "raw": "今日も若干ﾋﾟｷﾋﾟｷ頭痛でしたけど、昨日よりは快適に過ごせてましたよ…✨\n明日はだいぶ落ち着いてるといいなぁ…！おやすみなさい^-﹃ -^🌃",
+        "tag": "p#https://x.com/#1tweet-2122331526251876629"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물 내용이 개인적인 안부와 수면 인사이며 방송 일정 취소나 변경에 대한 언급이 없기 때문입니다",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-16T14:18:17Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
