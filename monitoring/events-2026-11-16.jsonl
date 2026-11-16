@@ -72,3 +72,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_0dc87f9a", "result": "ok", "title": "【実写】スライムコネコネモミモミフェスティバル【峰月律/ゆめみた】", "to_state": "end", "ts": "2026-11-16T13:20:00Z", "video_id": "EJ1DNBxLjN4", "who": "ritsu"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-16T13:25:00Z", "who": "EJ1DNBxLjN4"}
 {"detail": "gap-fill · 2122318480603230381 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-16T13:26:05Z", "tweet_id": "2122318480603230381", "via": "ingest", "who": "ritsu"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_7e67377d", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-16T13:29:06Z", "video_id": null, "who": "nonoka"}
