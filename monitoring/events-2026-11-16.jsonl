@@ -74,3 +74,4 @@
 {"detail": "gap-fill · 2122318480603230381 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-16T13:26:05Z", "tweet_id": "2122318480603230381", "via": "ingest", "who": "ritsu"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_7e67377d", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-16T13:29:06Z", "video_id": null, "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 오늘 23시 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않아", "flow": "tweet", "result": "ok", "ts": "2026-11-16T13:29:06Z", "via": "ingest", "who": "nonoka"}
+{"detail": "gap-fill · 2122318888801329337 · +8분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-16T13:29:06Z", "tweet_id": "2122318888801329337", "via": "ingest", "who": "nonoka"}
