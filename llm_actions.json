@@ -6324,6 +6324,33 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_14946d5ff4",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n11/16(月)の配信スケジュール🌟\n＼\n\n✨21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n【メン限】22:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n【メン限】23:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+        "raw": "♡🐰配信告知🩹♡\n\n今日このあと23:00-❤️‍🔥\n\nでかいぬメン限でつ🎶\n集合よろしくお願いします🎶",
+        "tag": "p#https://x.com/#1tweet-2122318888801329337"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信告知\"와 오늘 23시 시작이라는 날짜·시각을 함께 적어 앞으로 할 방송을 알리는 예고이기 때문입니다. (근거: 「配信告知\n今日このあと23:00」)",
+      "summary": "본인 예고로 등록 — 23:00 JST · ♡🐰配信告知🩹♡\n\n今日このあと23:00-❤️‍🔥\n\nでかいぬメン限でつ🎶\n集",
+      "ts": "2026-11-16T13:29:06Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_7e67377d"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
