@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:09:06Z",
+  "generated_at": "2026-11-16T12:50:05Z",
   "tweets": {
     "arale": [
       {
@@ -577,6 +577,26 @@
         "text": "〈配信のおしらせ〉\n11/15 23:00〜　新潟GPただいま配信！\n\n弾丸だったので30分だけ！\n新潟の思い出を共有！！！\nhttps://youtube.com/live/kGYAnR8RWiU?feature=share",
         "text_ko": "〈방송 안내〉\n11/15 23:00〜 니가타 GP 지금 방송!\n\n탄환이라 30분만!\n니가타 추억 공유!!!\nhttps://youtube.com/live/kGYAnR8RWiU?feature=share",
         "url": "https://x.com/i/status/2121964618876887347"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-18T12:42:03Z",
+        "handle": "yuno_yumemita",
+        "id": "2122309219424915841",
+        "media": [],
+        "posted_at": "2026-11-16T12:42:03Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HXNRGQ2akAA76Bo.jpg"
+          ],
+          "text": "＼プレイガイド先行 本日受付終了📢／\n\n💖千石ユノ主催DJイベント\n「YUNO’s PARTY Lv.3」💖\n\n⏰受付期間\n本日23:59まで\n\n🎫お申し込みはこちら\nhttps://eplus.jp/yumemita_yunos_party_lv3/\n\n開催までお楽しみに✨\n\n#ゆのぱ3 #バンドリ",
+          "text_ko": "＼플레이 가이드 선행 오늘 접수 종료📢／\n💖센고쿠 유노 주최 DJ 이벤트\n「YUNO’s PARTY Lv.3」💖\n⏰접수 기간\n오늘 23:59까지\n🎫신청은 여기\nhttps://eplus.jp/yumemita_yunos_party_lv3/\n개최까지 기대해 주세요✨\n#ゆのぱ3 #뱅드림"
+        },
+        "received_at": "2026-11-16T12:50:05Z",
+        "reply_to_id": null,
+        "text": "#ゆのぱ3 のプレイガイド先行が今日までです！\n\n申し込んでくれた人、ほまにありがとう✋\nまだの人は、ほまによろしくお願いします✋\n\n12月5日、楽しもうね〜🙌🙌🙌",
+        "text_ko": "#유노파3 플레이 가이드 선행이 오늘까지입니다!\n신청해준 사람, 호마에게 고마워✋\n아직인 사람은, 호마에게 잘 부탁해요✋\n12월 5일, 즐기자~🙌🙌🙌",
+        "url": "https://x.com/i/status/2122309219424915841"
       }
     ]
   }
