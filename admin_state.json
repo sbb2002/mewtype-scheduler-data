@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "본인 예고 미야나가 노노카 (♡🐰配信告知🩹♡\n\n今日このあと23:00-❤️‍🔥\n\nでかいぬメン限でつ🎶\n集)",
-    "at": "2026-11-16T13:29:06Z",
+    "action": "URL 확정 예고 nonoka (UgpQ5l56f08)",
+    "at": "2026-11-16T14:13:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "c9052e64ae65d6d1367728634268b885db10e260",
+    "new_sha": "c754c83c41b48b5f9d4d4086e06c7c009a90ef97",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-16T13:25:00Z",
+      "generated_at": "2026-11-16T14:10:03Z",
       "items": [
         {
           "actual_start": "2026-11-16T13:03:20Z",
@@ -134,7 +134,7 @@
           "info_source": "yt-notif",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-16T13:25:00Z",
+          "last_updated": "2026-11-16T14:05:39Z",
           "membership": true,
           "scheduled_start": "2026-11-16T13:00:00Z",
           "source": "yt-notif",
@@ -146,6 +146,35 @@
           "title_ko": "유노's+ 제한 방송",
           "url": "https://www.youtube.com/watch?v=8fLFIXbQUAg",
           "video_id": "8fLFIXbQUAg"
+        },
+        {
+          "actual_start": "2026-11-16T14:04:44Z",
+          "announced_start": "2026-11-16T14:00:00Z",
+          "api_start_seen": "2026-11-16T14:05:00Z",
+          "assumed_live": false,
+          "channel_key": "nonoka",
+          "collab_with": null,
+          "concurrent_viewers": null,
+          "expires_at": "2026-11-16T17:05:00Z",
+          "first_seen": "2026-11-16T14:04:16Z",
+          "host": null,
+          "id": "pv_f92617b0",
+          "info_at": null,
+          "info_source": "api",
+          "is_premiere": false,
+          "kind": null,
+          "last_updated": "2026-11-16T14:05:39Z",
+          "membership": true,
+          "scheduled_start": "2026-11-16T14:05:00Z",
+          "source": "api",
+          "state": "live",
+          "state_since": "2026-11-16T14:05:39Z",
+          "thumbnail": "https://i.ytimg.com/vi/UgpQ5l56f08/maxresdefault.jpg?v=6afb0d5e",
+          "time_tbd": false,
+          "title": "【でかいぬしゅうかい】みんなにきいてみたいこともある# 26【宮永ののか/夢限大みゅーたいぷ】",
+          "title_ko": "【대규모 회의】다들에게 물어보고 싶은 것도 있어 # 26【미야나가 노노카/무겐다이 뮤타입】",
+          "url": "https://www.youtube.com/watch?v=UgpQ5l56f08",
+          "video_id": "UgpQ5l56f08"
         },
         {
           "actual_start": null,
@@ -162,7 +191,7 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-16T13:25:00Z",
+          "last_updated": "2026-11-16T14:05:39Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -191,7 +220,7 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-16T13:25:00Z",
+          "last_updated": "2026-11-16T14:05:39Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
@@ -203,35 +232,6 @@
           "title_ko": "🖤YUNO의 자유 채팅🩷",
           "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
           "video_id": "ZZMwYj6PM9o"
-        },
-        {
-          "actual_start": "2026-11-16T12:00:43Z",
-          "api_start_seen": "2026-11-16T12:00:00Z",
-          "assumed_live": false,
-          "channel_key": "ritsu",
-          "collab_with": null,
-          "concurrent_viewers": 817,
-          "expires_at": "2026-11-16T15:00:00Z",
-          "first_seen": "2026-11-16T09:46:55Z",
-          "host": null,
-          "id": "pv_0dc87f9a",
-          "info_at": null,
-          "info_source": "api",
-          "is_premiere": false,
-          "kind": null,
-          "last_updated": "2026-11-16T13:25:00Z",
-          "membership": false,
-          "scheduled_start": "2026-11-16T12:00:00Z",
-          "source": "api",
-          "src_url": "https://x.com/i/status/2122273935723200713",
-          "state": "end",
-          "state_since": "2026-11-16T13:20:00Z",
-          "thumbnail": "https://i.ytimg.com/vi/EJ1DNBxLjN4/maxresdefault.jpg",
-          "time_tbd": false,
-          "title": "【実写】スライムコネコネモミモミフェスティバル【峰月律/ゆめみた】",
-          "title_ko": "【실사】슬라임코네코네모미모페스티벌【미네츠키 리츠/유메미타】",
-          "url": "https://www.youtube.com/watch?v=EJ1DNBxLjN4",
-          "video_id": "EJ1DNBxLjN4"
         }
       ]
     }
