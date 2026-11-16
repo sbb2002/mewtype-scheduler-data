@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T13:26:05Z",
+  "generated_at": "2026-11-16T13:29:06Z",
   "tweets": {
     "arale": [
       {
@@ -327,6 +327,28 @@
         "text": "みなさんありがとうございます🎶🥰",
         "text_ko": "여러분 감사합니다🎶🥰",
         "url": "https://x.com/i/status/2121941223468662792"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-18T13:20:28Z",
+        "handle": "nonoka_yumemita",
+        "id": "2122318888801329337",
+        "media": [],
+        "posted_at": "2026-11-16T13:20:28Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HXNfvA5acAAe9YG.jpg",
+            "https://pbs.twimg.com/media/HXNfvA9aYAAbeGc.jpg",
+            "https://pbs.twimg.com/media/HXNfvBCacAA_k3b.jpg"
+          ],
+          "text": "／\n🛸#ゆめみた\n11/16(月)の配信スケジュール🌟\n＼\n\n✨21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n【メン限】22:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n【メン限】23:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
+          "text_ko": "🛸#ゆめみた\n11/16(월) 방송 일정🌟\n\n✨21:00~ 미네츠키 리츠\nhttps://www.youtube.com/@ritsu_yumemita\n\n【멤버십 한정】22:00~ 센고쿠 유노\nhttps://www.youtube.com/@yuno_yumemita\n\n【멤버십 한정】23:00~ 미야나가 노노카\nhttps://www.youtube.com/@nonoka_yumemita\n\n※시간은 사전 예고 없이 변경될 수 있습니다.\n#뱅드림"
+        },
+        "received_at": "2026-11-16T13:29:06Z",
+        "reply_to_id": null,
+        "text": "♡🐰配信告知🩹♡\n\n今日このあと23:00-❤️‍🔥\n\nでかいぬメン限でつ🎶\n集合よろしくお願いします🎶",
+        "text_ko": "♡🐰방송 안내🩹♡\n\n오늘 이 뒤 23:00-❤️‍🔥\n\n데카이누 멤버십 한정으로~🎶\n모여 주세요🎶",
+        "url": "https://x.com/i/status/2122318888801329337"
       }
     ],
     "ritsu": [
