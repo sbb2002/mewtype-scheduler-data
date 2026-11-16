@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-16T09:46:55Z",
+  "generated_at": "2026-11-16T09:50:01Z",
   "items": [
     {
       "actual_start": null,
@@ -96,14 +96,14 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T09:46:55Z",
+      "last_updated": "2026-11-16T09:50:01Z",
       "membership": false,
       "needs_tl": true,
       "scheduled_start": "2026-11-16T12:00:00Z",
       "source": "api",
       "state": "upcoming",
       "state_since": "2026-11-16T09:46:55Z",
-      "thumbnail": "https://i.ytimg.com/vi/EJ1DNBxLjN4/maxresdefault.jpg?v=6afacfcd",
+      "thumbnail": "https://i.ytimg.com/vi/EJ1DNBxLjN4/maxresdefault.jpg?v=6afad10d",
       "time_tbd": false,
       "title": "【実写】スライムコネコネモミモミフェスティバル【峰月律/ゆめみた】",
       "title_ko": null,
@@ -125,7 +125,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T09:46:55Z",
+      "last_updated": "2026-11-16T09:50:01Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -154,7 +154,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-16T09:46:55Z",
+      "last_updated": "2026-11-16T09:50:01Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
