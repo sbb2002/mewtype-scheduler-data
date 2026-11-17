@@ -110,3 +110,4 @@
 {"detail": "mode: yt-member-live upgraded", "flow": "relay", "result": "ok", "ts": "2026-11-17T13:16:02Z", "via": "ingest", "who": "arale"}
 {"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_51b6747a", "result": "ok", "title": "【🟡メン限】3年目最後の配信…🥂【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-11-17T13:16:02Z", "video_id": "0AerhEX37kA", "who": "arale"}
 {"detail": "회원 방송 시작 · arale (upgraded)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-17T13:16:13Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 更新終わるまで"}
+{"detail": "retweet skip: 폰 원문이 @6HPMPLP6 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-17T13:18:58Z", "via": "ingest", "who": "miyako"}
