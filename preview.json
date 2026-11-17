@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-17T14:45:00Z",
+  "generated_at": "2026-11-17T15:15:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-17T14:45:00Z",
+      "last_updated": "2026-11-17T15:15:00Z",
       "membership": false,
       "scheduled_start": "2026-11-18T12:00:00Z",
       "source": "api",
@@ -125,7 +125,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-17T14:45:00Z",
+      "last_updated": "2026-11-17T15:15:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -154,7 +154,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-17T14:45:00Z",
+      "last_updated": "2026-11-17T15:15:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -196,36 +196,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@nonoka_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-11-17T13:01:08Z",
-      "api_start_seen": "2026-11-17T13:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": null,
-      "expires_at": "2026-11-17T18:00:00Z",
-      "first_seen": "2026-11-17T10:32:29Z",
-      "host": null,
-      "id": "pv_51b6747a",
-      "info_at": "2026-11-17T10:32:29Z",
-      "info_source": "yt-notif",
-      "is_premiere": false,
-      "kind": "unknown",
-      "last_updated": "2026-11-17T14:45:00Z",
-      "membership": true,
-      "scheduled_start": "2026-11-17T13:00:00Z",
-      "search_checked": true,
-      "source": "x-relay",
-      "src_url": "https://x.com/i/status/2122634601214693624",
-      "state": "end",
-      "state_since": "2026-11-17T14:45:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/0AerhEX37kA/maxresdefault.jpg?v=6afc434a",
-      "time_tbd": false,
-      "title": "【🟡メン限】3年目最後の配信…🥂【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": "【🟡멤버십 한정】3년 차 마지막 방송…🥂【 나카마치 아라레 / 무겐다이 뮤타입 】",
-      "url": "https://www.youtube.com/watch?v=0AerhEX37kA",
-      "video_id": "0AerhEX37kA"
     }
   ]
 }
