@@ -190,20 +190,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-11-17T09:54:32Z",
-        "handle": "nonoka_yumemita",
-        "id": "2121904675423404355",
-        "media": [],
-        "posted_at": "2026-11-15T09:54:32Z",
-        "quote": null,
-        "received_at": "2026-11-15T10:02:06Z",
-        "reply_to_id": null,
-        "text": "なんかののちゃんもしかして、まのさば、普通にやるのの3倍くらい時間かかってるかな？",
-        "text_ko": "노노짱 혹시, 마노사바, 보통 하면 노노보다 3배 정도 시간 걸리는 걸까?",
-        "url": "https://x.com/i/status/2121904675423404355"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-11-17T12:19:46Z",
         "handle": "nonoka_yumemita",
         "id": "2121941219916042504",
