@@ -51,18 +51,19 @@
       "image_urls": [
         "https://pbs.twimg.com/media/HXO0HPzaUAAOz5R.jpg"
       ],
-      "last_updated": "2026-11-17T09:03:57Z",
+      "last_updated": "2026-11-17T09:11:00Z",
       "match_keys": [
         "きみはまるくん"
       ],
       "name_ja": "きみはまるくん",
       "name_ko": "키미는 마루군",
       "src_ids": [
-        "2122615732672299450"
+        "2122615732672299450",
+        "2122618243672113288"
       ],
       "start_at": "2026-11-18T06:00:00Z",
       "start_time_tbd": null
     }
   ],
-  "generated_at": "2026-11-17T09:03:57Z"
+  "generated_at": "2026-11-17T09:11:00Z"
 }
