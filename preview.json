@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-16T17:15:00Z",
+  "generated_at": "2026-11-17T04:31:36Z",
   "items": [
     {
       "actual_start": null,
@@ -137,6 +137,36 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-19T13:00:00Z",
+      "first_seen": "2026-11-17T04:31:36Z",
+      "host": null,
+      "id": "pv_7da1663e",
+      "info_at": "2026-11-17T04:31:32Z",
+      "info_source": "personal",
+      "is_premiere": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-17T04:31:36Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-19T10:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2122548166847496286",
+      "state": "announced",
+      "state_since": "2026-11-17T04:31:36Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@nonoka_yumemita",
+      "video_id": null
     }
   ]
 }
