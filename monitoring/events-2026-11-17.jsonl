@@ -98,3 +98,6 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-17T13:00:01Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-17T13:02:00Z", "who": "group"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-11-17T13:02:00Z", "who": ""}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-17T13:03:11Z", "who": "vdSknMZJ87Y"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_3edc758a", "result": "ok", "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ", "to_state": "upcoming", "ts": "2026-11-17T13:03:11Z", "video_id": "vdSknMZJ87Y", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · vdSknMZJ87Y · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:vdSknMZJ87Y", "result": "ok", "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ", "ts": "2026-11-17T13:03:11Z", "video_id": "vdSknMZJ87Y", "who": "miyako"}
