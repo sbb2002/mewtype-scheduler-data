@@ -103,3 +103,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · vdSknMZJ87Y · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:vdSknMZJ87Y", "result": "ok", "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ", "ts": "2026-11-17T13:03:11Z", "video_id": "vdSknMZJ87Y", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-17T13:09:42Z", "tweet_id": "2122678555134029839", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T13:09:51Z", "who": "峰月律"}
+{"candidates": 33, "detail": "candidates=33 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-17T13:10:01Z", "who": ""}
