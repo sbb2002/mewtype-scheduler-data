@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f5f2970dc9",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVpWHSUa8AAFHPt.jpg"
+        ],
+        "raw": "┎┈┈┈┈┈┈┈┈┈┈┈┒\n　　撃奏アリーナ開幕！\n┖┈┈┈┈┈┈┈┈┈┈┈┚ \n\n本日より「撃奏アリーナ Season 1」が開幕しました🎉\n撃奏ライブの勝敗によってもらえる「アリーナpt」をためて、ランクを上げていく対戦型コンテンツ！ぜひお楽しみください✨\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115097666996896130"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 내 새로운 대전형 콘텐츠인 ‘撃奏アリーナ’를 소개하는 글이므로 게임 앱 안에서 하는 일이다. (근거: 「本日より「撃奏アリーナ Season 1」が開幕しました🎉」 「撃奏ライブの勝敗によってもらえる「アリーナpt」をためて、ランクを上げていく対戦」) / 본문과 이미지에 인게임 이벤트나 가챠 이름이 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-27T15:06:00Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5e188590fe",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVpWMJfbIAA2xEg.jpg"
+        ],
+        "raw": "撃奏アリーナリリース記念 特別ログインボーナス✨\n\n開催期間中に7日間ログインすることで、合計「スター×2000」「ブーストドリンク×7」をプレゼント✨\n\n※全ての報酬を受け取っていただくには、11月8日(日)3:59までにログインし初日の報酬を受け取っていただく必要があります。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115098232770658763"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 로그인 보너스는 게임 앱 안에서 진행되는 이벤트이므로 in_game이다. (근거: 「撃奏アリーナリリース記念 特別ログインボーナス✨」 「開催期間中に7日間ログインすることで、合計「スター×2000」「ブーストドリンク」 「※全ての報酬を受け取っていただくには、11月8日(日)3:59までにログインし初」) / 본문과 이미지에 인게임 이벤트와 가챠 이름이 없으므로 추출할 항목이 없습니다.",
+      "summary": "행사 배너 — 해당 없음",
+      "ts": "2026-10-27T15:08:12Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_64bd3592ec",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVpWwhPbQAA5X5A.jpg"
+        ],
+        "raw": "10月28日(水)0:00より開催中✨\n「晦冥のナイトウォーカーズガチャ」\n\n期間限定メンバーと期間限定スナップが新登場！\n\n【メンバー】\n・SSR椎名 立希\n・SSRドロリス\n\n【スナップ】\n・SSRそよ&愛音\n・SSR海鈴&睦&にゃむ\n\n※詳細はお知らせをご確認ください。\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115098820765995504"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 게임 앱 안에서 진행되는 가챠 이벤트를 알리는 내용이므로 in_game이다. (근거: 「「晦冥のナイトウォーカーズガチャ」」 「期間限定メンバーと期間限定スナップが新登場！」 「※詳細はお知らせをご確認ください。」) / 본문과 이미지에서 가챠 이름과 기간 정보를 추출했습니다.",
+      "summary": "행사 배너 갱신 — 晦冥のナイトウォーカーズガチャ",
+      "ts": "2026-10-27T15:10:33Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-08T05:59:00Z",
+              "first_seen": "2026-10-26T11:21:42Z",
+              "gacha_only": true,
+              "gachas": [],
+              "hold": null,
+              "id": "bn_06370f94",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HVjVjRaboAAz4Sr.jpg"
+              ],
+              "last_updated": "2026-10-27T11:06:51Z",
+              "match_keys": [
+                "晦冥のナイトウォカズガチャ"
+              ],
+              "name_ja": "晦冥のナイトウォーカーズガチャ",
+              "name_ko": "암흑의 나이트워커즈 가챠",
+              "src_ids": [
+                "2114678842266914986",
+                "2114679200968048673",
+                "2114679561162014898",
+                "2114680038243401781",
+                "2114680324324229476",
+                "2115037294348685399"
+              ],
+              "start_at": "2026-10-27T15:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_06370f94",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_99441a67b5",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/card_img/2115096452527804416/3KEt7Do_?format=jpg&name=800x419"
+        ],
+        "raw": "🎃ハロウィン特設サイト👻\n\nハロウィンイベントを記念した特設サイトが本日オープン🎉\nさらに、特設サイトでは自分だけのオリジナルポスターを作ることができる「ポスターメーカー」などが登場中です💫ぜひチェックしてくださいね！\n\n▼特設サイト\nhttps://bang-dream-on.bushimo.jp/campaign/halloweensnap\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2115099593662935176"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 밖 — 게임 앱 외부에서 운영되는 특설 사이트와 포스터 제작 서비스에 대한 안내이므로 outside이다. (근거: 「ハロウィン特設サイト👻」 「ハロウィンイベントを記念した特設サイトが本日オープン🎉」 「特設サイトでは自分だけのオリジナルポスターを作ることができる「ポスターメーカー」」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 none)",
+      "ts": "2026-10-27T15:13:37Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    }
+  ]
+}
