@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T17:15:00Z",
+  "generated_at": "2026-11-17T15:15:00Z",
   "items": [
     {
       "actual_start": "2026-11-10T12:01:22Z",
@@ -830,6 +830,37 @@
       "title_ko": "【대규모 회의】다들에게 물어보고 싶은 것도 있어 # 26【미야나가 노노카/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=UgpQ5l56f08",
       "video_id": "UgpQ5l56f08"
+    },
+    {
+      "actual_start": "2026-11-17T13:01:08Z",
+      "api_start_seen": "2026-11-17T13:00:00Z",
+      "archived_at": "2026-11-17T15:15:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-17T18:00:00Z",
+      "first_seen": "2026-11-17T10:32:29Z",
+      "host": null,
+      "id": "pv_51b6747a",
+      "info_at": "2026-11-17T10:32:29Z",
+      "info_source": "yt-notif",
+      "is_premiere": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-17T15:15:00Z",
+      "membership": true,
+      "scheduled_start": "2026-11-17T13:00:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2122634601214693624",
+      "state": "out",
+      "state_since": "2026-11-17T15:15:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/0AerhEX37kA/maxresdefault.jpg?v=6afc434a",
+      "time_tbd": false,
+      "title": "【🟡メン限】3年目最後の配信…🥂【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡멤버십 한정】3년 차 마지막 방송…🥂【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=0AerhEX37kA",
+      "video_id": "0AerhEX37kA"
     }
   ]
 }
