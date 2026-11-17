@@ -105,3 +105,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T13:09:51Z", "who": "峰月律"}
 {"candidates": 33, "detail": "candidates=33 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-17T13:10:01Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-17T13:14:33Z", "tweet_id": "2122679778578936222", "via": "ingest", "who": "miyako"}
+{"detail": "broadcast-change none · 게시물은 11/18 21:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-17T13:14:33Z", "via": "ingest", "who": "miyako"}
