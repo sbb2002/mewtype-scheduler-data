@@ -56,3 +56,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T09:38:19Z", "who": "藤都子"}
 {"detail": "banner mode: notice · 소식 none", "flow": "notice", "result": "ok", "ts": "2026-11-17T09:38:15Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T09:38:23Z", "who": "バンドリ！アワーノーツ"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +14분 · 2122621654841115092", "flow": "tweet", "result": "ok", "ts": "2026-11-17T09:38:15Z", "tweet_id": "2122621654841115092", "via": "ingest", "who": "miyako"}
