@@ -4,20 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-11-17T09:14:56Z",
-        "handle": "arale_yumemita",
-        "id": "2121894709891408012",
-        "media": [],
-        "posted_at": "2026-11-15T09:14:56Z",
-        "quote": null,
-        "received_at": "2026-11-15T09:22:06Z",
-        "reply_to_id": null,
-        "text": "本日22:00〜予定の配信おやすみします…😭\n夜になるにつれてどんどん頭痛が酷くなっちゃって…💦\n楽しみにしてくれてた皆様ごめんね…(^т  ̫ т^)",
-        "text_ko": "오늘 22:00 예정 방송 쉬어요…😭\n밤이 될수록 두통이 점점 심해져서…💦\n기대해 주신 여러분 미안해요…(^т  ̫ т^)",
-        "url": "https://x.com/i/status/2121894709891408012"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-11-18T14:10:33Z",
         "handle": "arale_yumemita",
         "id": "2122331492118606253",
@@ -162,24 +148,6 @@
       }
     ],
     "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-11-17T08:52:37Z",
-        "handle": "nonoka_yumemita",
-        "id": "2121889092774600957",
-        "media": [],
-        "posted_at": "2026-11-15T08:52:37Z",
-        "quote": {
-          "media": [],
-          "text": "♡🐰配信開始🩹♡\n\nおまたせしました！！！！！\nごごごめん!!!はじめます‼️\n\n# 12【魔法少女ノ魔女裁判】第八話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ https://www.youtube.com/live/xPXolFCmFqE?si=6apX0BxZS6zRg5rv",
-          "text_ko": "♡🐰방송 시작🩹♡\n\n기다리게 했어요！！！\n죄송해요!!! 시작합니다‼️\n\n# 12【魔法少女ノ魔女裁判】第八話！(？)귀여운 마법소녀 게임을 플레이【宮永ののか】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバレ https://www.youtube.com/live/xPXolFCmFqE?si=6apX0BxZS6zRg5rv"
-        },
-        "received_at": "2026-11-15T09:00:07Z",
-        "reply_to_id": null,
-        "text": "#まのさばネタバレ\n\nヒロちゃんがだいすきです😭",
-        "text_ko": "#마노사바 스포일러\n\n히로짱이 너무 좋아요😭",
-        "url": "https://x.com/i/status/2121889092774600957"
-      },
       {
         "channel_key": "nonoka",
         "expires_at": "2026-11-17T09:54:32Z",
