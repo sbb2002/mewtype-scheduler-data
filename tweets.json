@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:09:42Z",
+  "generated_at": "2026-11-17T13:14:33Z",
   "tweets": {
     "arale": [
       {
@@ -185,6 +185,22 @@
         "text": "ちいさきみやこ\n\n💕🐶💕",
         "text_ko": "작은 미야코  \n💕🐶💕",
         "url": "https://x.com/i/status/2122622308443635795"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-19T13:14:31Z",
+        "handle": "miyako_yumemita",
+        "id": "2122679778578936222",
+        "media": [
+          "https://pbs.twimg.com/media/HXVE4WXaQAAYovE.jpg"
+        ],
+        "posted_at": "2026-11-17T13:14:31Z",
+        "quote": null,
+        "received_at": "2026-11-17T13:14:33Z",
+        "reply_to_id": null,
+        "text": "🎉配信よてい🎉\n11/18（水）21:00〜 周年配信\nみやこデビュー3周年記念日✨🐶✨\n⠀\n【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕みやこイベガチャもひいちゃお♪",
+        "text_ko": "🎉방송 예정🎉\n11/18(수) 21:00~ 기념 방송\n미야코 데뷔 3주년 기념일✨🐶✨\n【#유메미타3周年】퀴즈 미야코💡 데뷔 4년 차 후지 미야코를 맞춰라❕미야코 이벤트 가챠도 해보자♪",
+        "url": "https://x.com/i/status/2122679778578936222"
       }
     ],
     "nonoka": [
