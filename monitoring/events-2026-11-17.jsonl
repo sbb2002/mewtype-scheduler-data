@@ -41,3 +41,4 @@
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-11-17T09:03:57Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T09:04:07Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: added · 이벤트 「きみはまるくん」(2026-11-18 15:00 ~ 2026-11-27 14:59) 새 배너 → added", "flow": "notice", "result": "ok", "ts": "2026-11-17T09:03:57Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T09:04:13Z", "who": "バンドリ！アワーノーツ"}
