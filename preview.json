@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-17T13:14:33Z",
+  "generated_at": "2026-11-17T13:16:02Z",
   "items": [
     {
       "actual_start": null,
@@ -168,7 +168,7 @@
       "video_id": "ZZMwYj6PM9o"
     },
     {
-      "actual_start": null,
+      "actual_start": "2026-11-17T13:16:02Z",
       "api_start_seen": null,
       "assumed_live": false,
       "channel_key": "arale",
@@ -179,24 +179,24 @@
       "host": null,
       "id": "pv_51b6747a",
       "info_at": "2026-11-17T10:32:29Z",
-      "info_source": "x-relay",
+      "info_source": "yt-notif",
       "is_premiere": false,
       "kind": "unknown",
-      "last_updated": "2026-11-17T13:02:00Z",
+      "last_updated": "2026-11-17T13:16:02Z",
       "membership": true,
-      "needs_tl": false,
+      "needs_tl": true,
       "scheduled_start": "2026-11-17T13:00:00Z",
       "search_checked": true,
       "source": "x-relay",
       "src_url": "https://x.com/i/status/2122634601214693624",
-      "state": "announced",
-      "state_since": "2026-11-17T10:32:29Z",
+      "state": "live",
+      "state_since": "2026-11-17T13:16:02Z",
       "thumbnail": null,
       "time_tbd": false,
-      "title": null,
+      "title": "【🟡メン限】3年目最後の配信…🥂【 仲町あられ / 夢限大みゅーたいぷ 】",
       "title_ko": null,
-      "url": null,
-      "video_id": null
+      "url": "https://www.youtube.com/watch?v=0AerhEX37kA",
+      "video_id": "0AerhEX37kA"
     },
     {
       "actual_start": null,
