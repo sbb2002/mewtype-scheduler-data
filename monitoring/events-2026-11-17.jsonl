@@ -125,3 +125,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-17T15:15:00Z", "who": "0AerhEX37kA"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_51b6747a", "result": "ok", "title": "【🟡メン限】3年目最後の配信…🥂【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "out", "ts": "2026-11-17T15:15:00Z", "video_id": "0AerhEX37kA", "who": "arale"}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-11-17T15:22:22Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T15:22:29Z", "who": "バンドリ！アワーノーツ"}
