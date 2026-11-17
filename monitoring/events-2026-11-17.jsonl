@@ -50,3 +50,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T09:11:28Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-17T09:21:10Z", "tweet_id": "2122620902001254630", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T09:21:24Z", "who": "藤都子"}
+{"detail": "gap-fill · 2122621654841115092 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-17T09:31:05Z", "tweet_id": "2122621654841115092", "via": "ingest", "who": "miyako"}
