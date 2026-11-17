@@ -83,3 +83,4 @@
 {"detail": "무시(반영 대상 아님)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-17T12:30:19Z", "who": "30분 후 仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: 【🟡メン限"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-17T12:43:45Z", "tweet_id": "2122671995037081817", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T12:43:58Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-17T12:52:58Z", "tweet_id": "2122674345730572667", "via": "ingest", "who": "nonoka"}
