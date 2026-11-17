@@ -108,3 +108,4 @@
 {"detail": "broadcast-change none · 게시물은 11/18 21:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-17T13:14:33Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T13:14:59Z", "who": "藤都子"}
 {"detail": "mode: yt-member-live upgraded", "flow": "relay", "result": "ok", "ts": "2026-11-17T13:16:02Z", "via": "ingest", "who": "arale"}
+{"assumed_live": false, "detail": "announced→live", "flow": "preview", "from_state": "announced", "item_id": "pv_51b6747a", "result": "ok", "title": "【🟡メン限】3年目最後の配信…🥂【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-11-17T13:16:02Z", "video_id": "0AerhEX37kA", "who": "arale"}
