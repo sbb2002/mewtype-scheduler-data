@@ -35,3 +35,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-17T08:36:30Z", "tweet_id": "2122608988680536374", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 11월 18·19일 예정된 3주년 기념 개인 방송에 대한 안내이며, 1월 1일에 예정된 pv_2602679a 방송과는 관련이 없어 일정 취소·변경으로 판단되지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-17T08:36:30Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T08:36:48Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-17T08:42:51Z", "tweet_id": "2122611396961800389", "via": "ingest", "who": "yuno"}
