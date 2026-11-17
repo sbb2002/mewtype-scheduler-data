@@ -5776,6 +5776,31 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "rule",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_1c40640ed6",
+      "input": {
+        "description": "",
+        "published": "2026-11-17T11:03:35+00:00",
+        "title": "KEEP ON",
+        "video_id": "JeKeE0N8s3Q"
+      },
+      "kind": "song_register",
+      "parent_id": null,
+      "reason": "곡명 「KEEP ON」이 목록에 없음 · 제목 끝 (Cover) 없음 → original · feat. 아님 · 반려한 곡 아님",
+      "summary": "신곡 등록 · KEEP ON (오리지널)",
+      "ts": "2026-11-17T11:03:38Z",
+      "undo": {
+        "added_at": "2026-11-17T11:03:38Z",
+        "id": "JeKeE0N8s3Q",
+        "title": "KEEP ON",
+        "type": "remove_song"
+      },
+      "undone": null,
+      "who": "group"
     }
   ]
 }
