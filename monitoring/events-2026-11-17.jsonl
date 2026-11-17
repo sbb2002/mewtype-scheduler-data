@@ -74,3 +74,4 @@
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T10:32:43Z", "who": "千石ユノ"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_51b6747a", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-17T10:32:29Z", "video_id": null, "who": "arale"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-11-17T10:32:29Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-17T10:32:51Z", "who": "夢限大みゅーたいぷ"}
