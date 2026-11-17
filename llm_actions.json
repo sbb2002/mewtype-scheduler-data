@@ -5801,6 +5801,57 @@
       },
       "undone": null,
       "who": "group"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_59c1cfa144",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "🎉配信よてい🎉\n11/18（水）21:00~ 周年配信\nみやこデビュー3周年記念日✨🐶✨\n⠀\n【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕みやこイベガチャもひいちゃお♪",
+        "tag": "p#https://x.com/#1tweet-2122679778578936222"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信よてい\"와 구체적인 날짜·시각을 제시해 앞으로 할 방송을 알리는 예고이므로 true입니다. (근거: 「配信よてい\n11/18（水）21:00~」)",
+      "summary": "본인 예고로 등록 — 21:00 JST · 🎉配信よてい🎉\n11/18（水）21:00~ 周年配信\nみやこデビュー3周年記念",
+      "ts": "2026-11-17T13:14:33Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": "2026-11-18T12:00:00Z",
+            "assumed_live": false,
+            "channel_key": "miyako",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-18T15:00:00Z",
+            "first_seen": "2026-11-17T13:03:11Z",
+            "host": null,
+            "id": "pv_3edc758a",
+            "info_at": null,
+            "info_source": "api",
+            "is_premiere": false,
+            "kind": null,
+            "last_updated": "2026-11-17T13:10:01Z",
+            "membership": false,
+            "scheduled_start": "2026-11-18T12:00:00Z",
+            "source": "api",
+            "state": "upcoming",
+            "state_since": "2026-11-17T13:03:11Z",
+            "thumbnail": "https://i.ytimg.com/vi/vdSknMZJ87Y/sddefault.jpg?v=6afc5190",
+            "time_tbd": false,
+            "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ",
+            "title_ko": "【#유메미타3周年】퀴즈 미야코💡데뷔 4년 차 후지 미야코를 맞춰라❕～미야코 이베가챠도 뽑아보자♪～ 【무겐다이 뮤타입】#아워노츠",
+            "url": "https://www.youtube.com/watch?v=vdSknMZJ87Y",
+            "video_id": "vdSknMZJ87Y"
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
