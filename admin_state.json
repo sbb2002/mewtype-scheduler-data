@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-11-18T09:43:01Z",
+    "action": "본인 예고 센고쿠 유노 (#パルワールドカードゲーム の情報番組\n『パルカNEWS』 に出演させていただき)",
+    "at": "2026-11-18T10:51:59Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "10a373ef23cbb762dd9732784b383faa4cee04a1",
+    "new_sha": "2973091ffde2324a42b786bc8c6ece620f120af0",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-18T05:20:01Z",
+      "generated_at": "2026-11-18T10:30:09Z",
       "items": [
         {
           "actual_start": null,
@@ -133,20 +133,21 @@
           "info_at": null,
           "info_source": "api",
           "is_premiere": false,
-          "kind": null,
-          "last_updated": "2026-11-18T05:19:15Z",
+          "kind": "unknown",
+          "last_updated": "2026-11-18T10:30:09Z",
           "membership": false,
           "scheduled_start": "2026-11-18T11:00:00Z",
           "source": "api",
           "src_url": "https://x.com/i/status/2122922396692959569",
-          "state": "upcoming",
-          "state_since": "2026-11-18T05:17:42Z",
+          "state": "watching",
+          "state_since": "2026-11-18T10:30:09Z",
           "thumbnail": "https://i.ytimg.com/vi/q5vlJ05CnmU/maxresdefault.jpg?v=6afd34b8",
           "time_tbd": false,
           "title": "【3周年未遂】ユノの３周年記念配信！初配信未遂から３年！【 #千石ユノ / #バンドリ 】",
           "title_ko": "【3주년 미수】센고쿠 유노의 3주년 기념 방송! 첫 방송 미수부터 3년!【 #센고쿠유노 / #뱅드림 】",
           "url": "https://www.youtube.com/watch?v=q5vlJ05CnmU",
-          "video_id": "q5vlJ05CnmU"
+          "video_id": "q5vlJ05CnmU",
+          "yt_tunein": true
         },
         {
           "actual_start": null,
@@ -162,8 +163,8 @@
           "info_at": "2026-11-17T13:14:31Z",
           "info_source": "personal",
           "is_premiere": false,
-          "kind": null,
-          "last_updated": "2026-11-18T05:17:42Z",
+          "kind": "unknown",
+          "last_updated": "2026-11-18T09:43:01Z",
           "membership": false,
           "scheduled_start": "2026-11-18T12:00:00Z",
           "source": "api",
