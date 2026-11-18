@@ -1,0 +1,34 @@
+{
+  "notices": [
+    {
+      "anchor_a": "st",
+      "anchor_b": "うちゅうのふしぎ",
+      "archived_at": "2026-10-19T03:00:09Z",
+      "body_for_llm": "🛸 #バンドリ13thライブ DAY2 #ゆめみた_DIMENSIONALOVERLAP 🛸 アーカイブ配信チケットが 本日 まで発売中📢 ※ご視聴は まで 🎫 ライブ初披露の「うちゅうのふしぎ」や「愛は衝動」をお見逃しなく👀 #バンドリ #ゆめみた",
+      "body_ko": "🛸 #뱅드림 13th 라이브 DAY2\n#ゆめみた_DIMENSIONALOVERLAP 🛸\n\n아카이브 방송 티켓이 오늘 21시까지 판매 중📢\n※시청은 23:59까지\n\n🎫https://eplus.jp/13th-live/st/\n\n라이브 초공개 곡 ‘우주의 신비’와 ‘사랑은 충동’ 놓치지 마세요👀\n\n#뱅드림 #ゆめみた",
+      "body_raw": "🛸 #バンドリ13thライブ DAY2\n#ゆめみた_DIMENSIONALOVERLAP 🛸\n\nアーカイブ配信チケットが\n本日21時まで発売中📢\n※ご視聴は23:59まで\n\n🎫https://eplus.jp/13th-live/st/\n\nライブ初披露の「うちゅうのふしぎ」や「愛は衝動」をお見逃しなく👀\n\n#バンドリ #ゆめみた",
+      "category": "release",
+      "date": "2026-10-18",
+      "deadline": true,
+      "expires_at": "2026-10-18T15:00:00Z",
+      "first_seen": "2026-10-14T10:04:55Z",
+      "id": "2110309646002970986",
+      "last_updated": "2026-10-18T03:30:01Z",
+      "participants": null,
+      "seen_ids": [
+        "2110309646002970986",
+        "2111411903499309079",
+        "2111661044150198460"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "21:00",
+      "title": "本日21時まで発売中",
+      "title_ko": "아카이브 스트리밍 티켓 판매 중!",
+      "title_raw": "本日21時まで発売中",
+      "title_slug": "本日まで発売中",
+      "tweet_url": "https://x.com/i/status/2111661044150198460",
+      "url": "https://eplus.jp/13th-live/st/"
+    }
+  ]
+}
