@@ -35,3 +35,4 @@
 {"candidates": 63, "detail": "candidates=63 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-18T05:20:01Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-18T05:21:21Z", "tweet_id": "2122923074316272077", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T05:21:28Z", "who": "千石ユノ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-18T05:29:32Z", "tweet_id": "2122924968443064722", "via": "ingest", "who": "yuno"}
