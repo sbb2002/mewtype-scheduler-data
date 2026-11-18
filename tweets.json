@@ -180,7 +180,7 @@
       },
       {
         "channel_key": "miyako",
-        "expires_at": "2026-11-20T13:45:44Z",
+        "expires_at": "2026-11-20T13:47:41Z",
         "handle": "miyako_yumemita",
         "id": "2123050024133398613",
         "media": [
@@ -200,6 +200,20 @@
         "text": "30連の神と、呼びなさい\n＃アワーノーツ",
         "text_ko": "30연의 신이라고 불러라\n#아워노츠",
         "url": "https://x.com/i/status/2123050024133398613"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-20T13:47:41Z",
+        "handle": "miyako_yumemita",
+        "id": "2123050515089236347",
+        "media": [],
+        "posted_at": "2026-11-18T13:47:41Z",
+        "quote": null,
+        "received_at": "2026-11-18T13:48:05Z",
+        "reply_to_id": "2123050024133398613",
+        "text": "がちゃがちゃ開始↓\nhttps://www.youtube.com/live/vdSknMZJ87Y?si=oKAioxZ0VdkgJaIx&t=3085",
+        "text_ko": "가챠가챠 시작↓\nhttps://www.youtube.com/live/vdSknMZJ87Y?si=oKAioxZ0VdkgJaIx&t=3085",
+        "url": "https://x.com/i/status/2123050515089236347"
       }
     ],
     "nonoka": [
