@@ -5470,6 +5470,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b0b1a66842",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n11/1９\n　𝗦𝗧𝗔𝗥𝗧 20:00～\n【#ゆめみた3周年】お祝い会するよー！\n壺おじもしましょう！！！！！！祝って岩ってー！\n\n↻ ＵＲＬ\nhttps://youtube.com/live/Onmrh5X2Lr8?feature=share\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2123059463708111064"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/19 20:00에 시작한다는 예고이며 취소·변경 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-18T14:31:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
