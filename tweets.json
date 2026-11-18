@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:14:33Z",
+  "generated_at": "2026-11-18T05:19:15Z",
   "tweets": {
     "arale": [
       {
@@ -587,6 +587,22 @@
         "text": "千石ユノさん、逃げて…",
         "text_ko": "센고쿠 유노 씨, 도망쳐…",
         "url": "https://x.com/i/status/2122637762155442234"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-20T05:18:36Z",
+        "handle": "yuno_yumemita",
+        "id": "2122922396692959569",
+        "media": [
+          "https://pbs.twimg.com/media/HXYiqkabsAABYyH.jpg"
+        ],
+        "posted_at": "2026-11-18T05:18:36Z",
+        "quote": null,
+        "received_at": "2026-11-18T05:19:15Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/18 20:00〜 #ゆめみた 3周年記念 リレー配信 千石ユノさんの回\n\n3周年未遂です\n\nhttps://www.youtube.com/live/q5vlJ05CnmU?si=SCwXHtXn2BCIZ1Mo",
+        "text_ko": "〈방송 안내〉\n11/18 20:00~ #유메미타 3주년 기념 릴레이 방송 센고쿠 유노씨 회\n\n3주년 미수입니다\n\nhttps://www.youtube.com/live/q5vlJ05CnmU?si=SCwXHtXn2BCIZ1Mo",
+        "url": "https://x.com/i/status/2122922396692959569"
       }
     ]
   }
