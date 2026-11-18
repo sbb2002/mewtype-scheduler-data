@@ -76,3 +76,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · q5vlJ05CnmU · 예고 live", "flow": "websub", "merge_key": "websub-notify:q5vlJ05CnmU", "result": "ok", "title": "【3周年未遂】ユノの３周年記念配信！初配信未遂から３年！【 #千石ユノ / #バンドリ 】", "ts": "2026-11-18T11:01:14Z", "video_id": "q5vlJ05CnmU", "who": "yuno"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-18T11:01:26Z", "who": "【3周年未遂】ユノの３周年記念配信！初配信未遂から３年！【 #千石ユノ / #バンドリ 】"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-18T11:30:22Z", "who": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたい"}
+{"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_3edc758a", "result": "ok", "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ", "to_state": "watching", "ts": "2026-11-18T11:30:21Z", "video_id": "vdSknMZJ87Y", "who": "miyako"}
