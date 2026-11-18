@@ -59,3 +59,4 @@
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @kimchikura 의 글", "flow": "relay", "result": "ok", "ts": "2026-11-18T10:01:56Z", "via": "ingest", "who": ""}
 {"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @kimchikura 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T10:01:58Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "retweet skip: 폰 원문이 @kimchikura 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-18T10:19:11Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T10:19:13Z", "who": "藤都子"}
