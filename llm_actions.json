@@ -5254,6 +5254,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_191004cc97",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/18 20:00～ #ゆめみた 3周年記念 リレー配信 千石ユノさんの回\n\n3周年未遂です\n\nhttps://www.youtube.com/live/q5vlJ05CnmU?si=SCwXHtXn2BCIZ1Mo",
+        "tag": "p#https://x.com/#1tweet-2122922396692959569"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/18 20:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-18T05:19:15Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
