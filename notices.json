@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T10:14:14Z",
+  "generated_at": "2026-11-18T09:00:05Z",
   "notices": [
     {
       "anchor_a": "yumemita_KEEP_ONtw",
@@ -152,6 +152,37 @@
       "title_slug": "アニメ・スタいしかわ2026",
       "tweet_url": "https://x.com/i/status/2105568407240544703",
       "url": "https://animest-ishikawa.com/event/"
+    },
+    {
+      "anchor_a": "23914",
+      "anchor_b": "アニメ・スタいしかわ2026",
+      "body_for_llm": "＼💿CDお渡し会 実施決定📢／ 📅 (日)開催 「アニメ・スタいしかわ 2026」にて CDお渡し会の実施が決定🎉 ⏰受付期間: (月･祝) (金) ※先着順・上限数に達し次第終了 🔗詳細はこちら ぜひチェックしてくださいね✨ #バンドリ #ゆめみた",
+      "body_ko": "＼💿CD 전달회 실시 결정📢／\n\n📅11/29(일) 개최\n「アニメ・スタいしかわ 2026」에서\nCD 전달회 실시가 결정🎉\n\n⏰접수 기간:\n11/23(월·공휴일) 19:00〜11/27(금) 23:59\n※선착순·한도에 도달하면 종료\n\n🔗자세한 내용은 여기\nhttps://bushiroad-music.com/topics/23914/\n\n꼭 확인해주세요✨\n\n#뱅드림 #유메미타",
+      "body_raw": "＼💿CDお渡し会 実施決定📢／\n\n📅11/29(日)開催\n「アニメ・スタいしかわ 2026」にて\nCDお渡し会の実施が決定🎉\n\n⏰受付期間:\n11/23(月･祝) 19:00〜11/27(金) 23:59\n※先着順・上限数に達し次第終了\n\n🔗詳細はこちら\nhttps://bushiroad-music.com/topics/23914/\n\nぜひチェックしてくださいね✨\n\n#バンドリ #ゆめみた",
+      "categories": [
+        "event",
+        "goods"
+      ],
+      "category": "release",
+      "date": "2026-11-29",
+      "deadline": false,
+      "expires_at": "2026-11-29T15:00:00Z",
+      "first_seen": "2026-11-18T09:00:05Z",
+      "id": "2122978123545505876",
+      "last_updated": "2026-11-18T09:00:05Z",
+      "participants": null,
+      "seen_ids": [
+        "2122978123545505876"
+      ],
+      "site": "store",
+      "src_handle": "@BDP_yumemita",
+      "time": "19:00",
+      "title": "CDお渡し会実施決定！",
+      "title_ko": "CD 전달회 실시 결정!",
+      "title_raw": "CDお渡し会の実施が決定",
+      "title_slug": "cdお渡し会の実施が決定",
+      "tweet_url": "https://x.com/i/status/2122978123545505876",
+      "url": "https://bushiroad-music.com/topics/23914/"
     },
     {
       "anchor_a": null,
