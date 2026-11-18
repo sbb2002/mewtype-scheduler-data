@@ -64,3 +64,4 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_59ec2e44", "result": "ok", "title": "【3周年未遂】ユノの３周年記念配信！初配信未遂から３年！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-18T10:30:09Z", "video_id": "q5vlJ05CnmU", "who": "yuno"}
 {"detail": "mode: recap", "flow": "notice", "notice_id": "2123000765870706700", "result": "ok", "ts": "2026-11-18T10:30:03Z", "via": "ingest", "who": ""}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-18T10:30:03Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T10:30:26Z", "who": "夢限大みゅーたいぷ"}
