@@ -97,3 +97,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-18T13:10:00Z", "who": "vdSknMZJ87Y"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-18T13:35:00Z", "who": "vdSknMZJ87Y"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_3edc758a", "result": "ok", "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ", "to_state": "out", "ts": "2026-11-18T13:35:00Z", "video_id": "vdSknMZJ87Y", "who": "miyako"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-18T13:37:30Z", "tweet_id": "2123047933881040974", "via": "ingest", "who": "miyako"}
