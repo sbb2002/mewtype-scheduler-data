@@ -46,3 +46,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-18T07:47:34Z", "tweet_id": "2122959869334720792", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T07:47:44Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-18T07:51:40Z", "tweet_id": "2122960905692746161", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물 내용이 카드팩 출시와 관련된 안내이며, 방송 일정 취소나 변경에 대한 언급이 없기 때문입니다", "flow": "tweet", "result": "ok", "ts": "2026-11-18T07:51:40Z", "via": "ingest", "who": "arale"}
