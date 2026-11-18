@@ -182,28 +182,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-11-18T13:20:28Z",
-        "handle": "nonoka_yumemita",
-        "id": "2122318888801329337",
-        "media": [],
-        "posted_at": "2026-11-16T13:20:28Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HXNfvA5acAAe9YG.jpg",
-            "https://pbs.twimg.com/media/HXNfvA9aYAAbeGc.jpg",
-            "https://pbs.twimg.com/media/HXNfvBCacAA_k3b.jpg"
-          ],
-          "text": "／\n🛸#ゆめみた\n11/16(月)の配信スケジュール🌟\n＼\n\n✨21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n【メン限】22:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n【メン限】23:00～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n※時刻は予告なく変更の場合がございます。\n#バンドリ",
-          "text_ko": "🛸#ゆめみた\n11/16(월) 방송 일정🌟\n\n✨21:00~ 미네츠키 리츠\nhttps://www.youtube.com/@ritsu_yumemita\n\n【멤버십 한정】22:00~ 센고쿠 유노\nhttps://www.youtube.com/@yuno_yumemita\n\n【멤버십 한정】23:00~ 미야나가 노노카\nhttps://www.youtube.com/@nonoka_yumemita\n\n※시간은 사전 예고 없이 변경될 수 있습니다.\n#뱅드림"
-        },
-        "received_at": "2026-11-16T13:29:06Z",
-        "reply_to_id": null,
-        "text": "♡🐰配信告知🩹♡\n\n今日このあと23:00-❤️‍🔥\n\nでかいぬメン限でつ🎶\n集合よろしくお願いします🎶",
-        "text_ko": "♡🐰방송 안내🩹♡\n\n오늘 이 뒤 23:00-❤️‍🔥\n\n데카이누 멤버십 한정으로~🎶\n모여 주세요🎶",
-        "url": "https://x.com/i/status/2122318888801329337"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-11-18T14:05:46Z",
         "handle": "nonoka_yumemita",
         "id": "2122330289909412207",
@@ -348,40 +326,6 @@
     "ritsu": [
       {
         "channel_key": "ritsu",
-        "expires_at": "2026-11-18T12:01:04Z",
-        "handle": "ritsu_yumemita",
-        "id": "2122298905622974820",
-        "media": [],
-        "posted_at": "2026-11-16T12:01:04Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HXPU5Nob0AE0YrK.jpg"
-          ],
-          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今日 21:00~\nスライムコネコネモミモミフェスティバル\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/EJ1DNBxLjN4?si=gVMxewy3m12KdHLL\n\n🩵 ･･････････････････････ 🩵",
-          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵 \n\n오늘 21:00~\n슬라임코네코네모미모미 페스티벌\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/EJ1DNBxLjN4?si=gVMxewy3m12KdHLL\n\n🩵 ･･････････････････････ 🩵"
-        },
-        "received_at": "2026-11-16T12:09:06Z",
-        "reply_to_id": null,
-        "text": "はじめるぽよ〜",
-        "text_ko": "시작한다 포요~",
-        "url": "https://x.com/i/status/2122298905622974820"
-      },
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-11-18T13:18:51Z",
-        "handle": "ritsu_yumemita",
-        "id": "2122318480603230381",
-        "media": [],
-        "posted_at": "2026-11-16T13:18:51Z",
-        "quote": null,
-        "received_at": "2026-11-16T13:26:05Z",
-        "reply_to_id": null,
-        "text": "普通のスライム配信してたつもりなのに、またホラー配信を生み出してしまって自分が怖い\n私は誰なの……！？！？僕の中に誰がいるの？",
-        "text_ko": "보통 슬라임 방송하고 있는 줄 알았는데 또 호러 방송을 만들고 말아서 나 자신이 무서워\n나는 대체 누구지……!?! 내 안에 누가 있어?",
-        "url": "https://x.com/i/status/2122318480603230381"
-      },
-      {
-        "channel_key": "ritsu",
         "expires_at": "2026-11-19T13:09:39Z",
         "handle": "ritsu_yumemita",
         "id": "2122678555134029839",
@@ -424,26 +368,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-11-18T12:42:03Z",
-        "handle": "yuno_yumemita",
-        "id": "2122309219424915841",
-        "media": [],
-        "posted_at": "2026-11-16T12:42:03Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HXNRGQ2akAA76Bo.jpg"
-          ],
-          "text": "＼プレイガイド先行 本日受付終了📢／\n\n💖千石ユノ主催DJイベント\n「YUNO’s PARTY Lv.3」💖\n\n⏰受付期間\n本日23:59まで\n\n🎫お申し込みはこちら\nhttps://eplus.jp/yumemita_yunos_party_lv3/\n\n開催までお楽しみに✨\n\n#ゆのぱ3 #バンドリ",
-          "text_ko": "＼플레이 가이드 선행 오늘 접수 종료📢／\n💖센고쿠 유노 주최 DJ 이벤트\n「YUNO’s PARTY Lv.3」💖\n⏰접수 기간\n오늘 23:59까지\n🎫신청은 여기\nhttps://eplus.jp/yumemita_yunos_party_lv3/\n개최까지 기대해 주세요✨\n#ゆのぱ3 #뱅드림"
-        },
-        "received_at": "2026-11-16T12:50:05Z",
-        "reply_to_id": null,
-        "text": "#ゆのぱ3 のプレイガイド先行が今日までです！\n\n申し込んでくれた人、ほまにありがとう✋\nまだの人は、ほまによろしくお願いします✋\n\n12月5日、楽しもうね〜🙌🙌🙌",
-        "text_ko": "#유노파3 플레이 가이드 선행이 오늘까지입니다!\n신청해준 사람, 호마에게 고마워✋\n아직인 사람은, 호마에게 잘 부탁해요✋\n12월 5일, 즐기자~🙌🙌🙌",
-        "url": "https://x.com/i/status/2122309219424915841"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-11-19T08:33:13Z",
