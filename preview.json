@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-18T11:01:14Z",
+  "generated_at": "2026-11-18T11:30:21Z",
   "items": [
     {
       "actual_start": "2026-11-18T11:00:12Z",
@@ -126,19 +126,20 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": "unknown",
-      "last_updated": "2026-11-18T11:01:14Z",
+      "last_updated": "2026-11-18T11:30:21Z",
       "membership": false,
       "scheduled_start": "2026-11-18T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2122679778578936222",
-      "state": "upcoming",
-      "state_since": "2026-11-17T13:03:11Z",
+      "state": "watching",
+      "state_since": "2026-11-18T11:30:21Z",
       "thumbnail": "https://i.ytimg.com/vi/vdSknMZJ87Y/sddefault.jpg?v=6afc5190",
       "time_tbd": false,
       "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ",
       "title_ko": "【#유메미타3周年】퀴즈 미야코💡데뷔 4년 차 후지 미야코를 맞춰라❕～미야코 이베가챠도 뽑아보자♪～ 【무겐다이 뮤타입】#아워노츠",
       "url": "https://www.youtube.com/watch?v=vdSknMZJ87Y",
-      "video_id": "vdSknMZJ87Y"
+      "video_id": "vdSknMZJ87Y",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
