@@ -78,3 +78,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-18T11:30:22Z", "who": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたい"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_3edc758a", "result": "ok", "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ", "to_state": "watching", "ts": "2026-11-18T11:30:21Z", "video_id": "vdSknMZJ87Y", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-18T11:55:59Z", "tweet_id": "2123021934615314933", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T11:56:23Z", "who": "峰月律"}
