@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:19:15Z",
+  "generated_at": "2026-11-18T05:21:21Z",
   "tweets": {
     "arale": [
       {
@@ -521,6 +521,22 @@
         "text": "〈配信のおしらせ〉\n11/18 20:00〜 #ゆめみた 3周年記念 リレー配信 千石ユノさんの回\n\n3周年未遂です\n\nhttps://www.youtube.com/live/q5vlJ05CnmU?si=SCwXHtXn2BCIZ1Mo",
         "text_ko": "〈방송 안내〉\n11/18 20:00~ #유메미타 3주년 기념 릴레이 방송 센고쿠 유노씨 회\n\n3주년 미수입니다\n\nhttps://www.youtube.com/live/q5vlJ05CnmU?si=SCwXHtXn2BCIZ1Mo",
         "url": "https://x.com/i/status/2122922396692959569"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-20T05:21:17Z",
+        "handle": "yuno_yumemita",
+        "id": "2122923074316272077",
+        "media": [
+          "https://pbs.twimg.com/media/HXYjR-jbAAA0ti4.jpg"
+        ],
+        "posted_at": "2026-11-18T05:21:17Z",
+        "quote": null,
+        "received_at": "2026-11-18T05:21:21Z",
+        "reply_to_id": null,
+        "text": "みんな、これ直で食べないんだ…\nユノちゃんは普通にあーんてして食べるけどな…",
+        "text_ko": "여러분, 이거 바로 안 먹는 거예요…\n유노짱은 그냥 아-앗 하고 먹는데…",
+        "url": "https://x.com/i/status/2122923074316272077"
       }
     ]
   }
