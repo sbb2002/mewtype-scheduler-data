@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T12:35:00Z",
+  "generated_at": "2026-11-18T13:35:00Z",
   "items": [
     {
       "actual_start": "2026-11-11T13:01:27Z",
@@ -770,6 +770,37 @@
       "title_ko": "【3주년 미수】센고쿠 유노의 3주년 기념 방송! 첫 방송 미수부터 3년!【 #센고쿠유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=q5vlJ05CnmU",
       "video_id": "q5vlJ05CnmU",
+      "yt_tunein": true
+    },
+    {
+      "actual_start": "2026-11-18T11:57:57Z",
+      "api_start_seen": "2026-11-18T12:00:00Z",
+      "archived_at": "2026-11-18T13:35:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 1311,
+      "expires_at": "2026-11-18T15:00:00Z",
+      "first_seen": "2026-11-17T13:03:11Z",
+      "host": null,
+      "id": "pv_3edc758a",
+      "info_at": "2026-11-17T13:14:31Z",
+      "info_source": "personal",
+      "is_premiere": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-18T13:35:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-18T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2122679778578936222",
+      "state": "out",
+      "state_since": "2026-11-18T13:35:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/vdSknMZJ87Y/sddefault.jpg",
+      "time_tbd": false,
+      "title": "【＃ゆめみた3周年】クイズみやこ💡デビュー4年目の藤都子を当てろ❕～みやこイベガチャもひいちゃお♪～ 【夢限大みゅーたいぷ】＃アワーノーツ",
+      "title_ko": "【#유메미타3周年】퀴즈 미야코💡데뷔 4년 차 후지 미야코를 맞춰라❕～미야코 이베가챠도 뽑아보자♪～ 【무겐다이 뮤타입】#아워노츠",
+      "url": "https://www.youtube.com/watch?v=vdSknMZJ87Y",
+      "video_id": "vdSknMZJ87Y",
       "yt_tunein": true
     }
   ]
