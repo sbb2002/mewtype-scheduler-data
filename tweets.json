@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:21:21Z",
+  "generated_at": "2026-11-18T05:29:32Z",
   "tweets": {
     "arale": [
       {
@@ -537,6 +537,22 @@
         "text": "みんな、これ直で食べないんだ…\nユノちゃんは普通にあーんてして食べるけどな…",
         "text_ko": "여러분, 이거 바로 안 먹는 거예요…\n유노짱은 그냥 아-앗 하고 먹는데…",
         "url": "https://x.com/i/status/2122923074316272077"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-20T05:28:49Z",
+        "handle": "yuno_yumemita",
+        "id": "2122924968443064722",
+        "media": [
+          "https://pbs.twimg.com/media/HXYlAJ9aIAAWXiG.jpg"
+        ],
+        "posted_at": "2026-11-18T05:28:49Z",
+        "quote": null,
+        "received_at": "2026-11-18T05:29:32Z",
+        "reply_to_id": null,
+        "text": "毒うさぎ、勝手に親近感感じてたから嬉しい\nあたしのバッジも毒うさぎなの",
+        "text_ko": "독토끼, 나 스스로 친근감 느꼈으니까 기뻐\n내 배지도 독토끼야",
+        "url": "https://x.com/i/status/2122924968443064722"
       }
     ]
   }
