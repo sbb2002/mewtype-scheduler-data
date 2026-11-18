@@ -41,3 +41,4 @@
 {"detail": "banner mode: updated · 이벤트 「きみはまるくん」(2026-11-18 15:00 ~ 2026-11-27 14:59) 기존 배너 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-11-18T06:14:11Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T06:14:22Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "banner mode: updated · 가챠 「よい子のための新時代トレーニングガチャ」(2026-11-18 15:00 ~ 2026-11-29 14:59) 「きみはまるくん」의 가챠 갱신 → updated", "flow": "notice", "result": "ok", "ts": "2026-11-18T06:21:46Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-18T06:21:58Z", "who": "バンドリ！アワーノーツ"}
