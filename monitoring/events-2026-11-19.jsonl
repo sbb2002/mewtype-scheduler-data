@@ -126,3 +126,4 @@
 {"detail": "gap-fill · 2123387490082201826 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-19T12:14:06Z", "tweet_id": "2123387490082201826", "via": "ingest", "who": "ritsu"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +29분 · 2123386045391925651", "flow": "tweet", "result": "ok", "ts": "2026-11-19T12:30:18Z", "tweet_id": "2123386045391925651", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-19T12:30:22Z", "who": "仲町あられ"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +23분 · 2123387490082201826", "flow": "tweet", "result": "ok", "ts": "2026-11-19T12:30:18Z", "tweet_id": "2123387490082201826", "via": "ingest", "who": "ritsu"}
