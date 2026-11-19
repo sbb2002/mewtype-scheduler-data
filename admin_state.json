@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "ingest 夢限大みゅーたいぷ",
-    "at": "2026-11-19T08:35:24Z",
+    "action": "URL 확정 예고 ritsu (Onmrh5X2Lr8)",
+    "at": "2026-11-19T09:16:23Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "4571c2c1bd1f805c18ab8f3229c662fa6aa2757f",
+    "new_sha": "6f696ff33892fae47e05a620086a588c4253909f",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-19T08:10:01Z",
+      "generated_at": "2026-11-19T08:35:24Z",
       "items": [
         {
           "actual_start": null,
@@ -134,8 +134,8 @@
           "info_at": "2026-11-19T08:08:54Z",
           "info_source": "personal",
           "is_premiere": false,
-          "kind": null,
-          "last_updated": "2026-11-19T08:08:56Z",
+          "kind": "unknown",
+          "last_updated": "2026-11-19T08:35:24Z",
           "membership": false,
           "scheduled_start": "2026-11-19T10:00:00Z",
           "source": "api",
@@ -163,8 +163,8 @@
           "info_at": null,
           "info_source": "api",
           "is_premiere": false,
-          "kind": null,
-          "last_updated": "2026-11-19T08:05:05Z",
+          "kind": "unknown",
+          "last_updated": "2026-11-19T08:35:24Z",
           "membership": false,
           "scheduled_start": "2026-11-19T11:00:00Z",
           "source": "api",
@@ -192,8 +192,8 @@
           "info_at": null,
           "info_source": "api",
           "is_premiere": false,
-          "kind": null,
-          "last_updated": "2026-11-19T08:05:05Z",
+          "kind": "unknown",
+          "last_updated": "2026-11-19T08:35:24Z",
           "membership": false,
           "scheduled_start": "2026-11-19T12:00:00Z",
           "source": "api",
