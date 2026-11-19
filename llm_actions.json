@@ -5715,6 +5715,26 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bc65755762",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n11/1９\n　𝗦𝗧𝗔𝗥𝗧 20:00～\n【#ゆめみた3周年】お祝い会するよー！\n壺おじもしましょう！！！！！！祝って岩ってー！\n\n↻ ＵＲＬ\nhttps://youtube.com/live/Onmrh5X2Lr8?feature=share\n🩵 ･･････････････････････ 🩵",
+        "raw": "配信はじめます！\n今回は3周年なので、\n罰ゲームあり縛りプレイ壺おじです",
+        "tag": "p#https://x.com/#1tweet-2123370968001446227"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 ‘配信はじめます’라며 방송 시작을 알리는 내용이므로 취소나 일정 변경이 아니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-19T11:04:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
