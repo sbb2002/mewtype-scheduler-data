@@ -90,3 +90,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-19T10:06:23Z", "tweet_id": "2123355985502941675", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물은 11/19 19:00에 시작하는 3주년 기념 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-19T10:06:23Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-19T10:06:38Z", "who": "宮永ののか🐰🩹"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-19T10:31:06Z", "who": "【＃ゆめみた3周年】お祝い会するよー！壺おじも余裕でしょう！！！！！！【峰月律/ゆめみた】"}
