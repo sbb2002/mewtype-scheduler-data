@@ -5443,6 +5443,76 @@
       },
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_b0ee316266",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HXUPTnVagAA_2Uh.jpg"
+        ],
+        "raw": "11月18日より開催中🎉\n「よい子のための新時代トレーニングガチャ」\n\n新登場した律&あられ&ユノのSSRスナップイラストを紹介🛸\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2123257958838816914"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 안 — 가챠는 게임 앱 안에서 진행되는 콘텐츠이므로 in_game으로 판단한다. (근거: 「「よい子のための新時代トレーニングガチャ」」 「新登場した律&あられ&ユノのSSRスナップイラストを紹介🛸」) / 본문에 명시된 가챠 정보를 추출했습니다.",
+      "summary": "행사 배너 갱신 — よい子のための新時代トレーニングガチャ",
+      "ts": "2026-11-19T03:33:22Z",
+      "undo": {
+        "items": [
+          {
+            "before": {
+              "end_at": "2026-11-27T05:59:00Z",
+              "first_seen": "2026-11-17T09:03:57Z",
+              "gachas": [
+                {
+                  "end_at": "2026-11-29T05:59:00Z",
+                  "id": "gc_eee59197",
+                  "image_urls": [],
+                  "start_at": "2026-11-18T06:00:00Z",
+                  "title_ja": "よい子のための新時代トレーニングガチャ",
+                  "title_ko": "착한 아이들을 위한 새로운 시대 트레이닝 가챠"
+                }
+              ],
+              "hold": null,
+              "id": "bn_c2f91eb5",
+              "image_urls": [
+                "https://pbs.twimg.com/media/HXO0HPzaUAAOz5R.jpg",
+                "https://pbs.twimg.com/media/HXYqU_DaEAAqcTL.jpg"
+              ],
+              "last_updated": "2026-11-19T03:30:09Z",
+              "match_keys": [
+                "きみはまるくん",
+                "よい子のための新時代トレニングガチャ"
+              ],
+              "name_ja": "きみはまるくん",
+              "name_ko": "키미는 마루군",
+              "src_ids": [
+                "2122615732672299450",
+                "2122618243672113288",
+                "2122617740028789229",
+                "2122617347181842606",
+                "2122936309560000930",
+                "2122936590951461010",
+                "2123249911994933509",
+                "2123250409657831610",
+                "2123257459087413593"
+              ],
+              "start_at": "2026-11-18T06:00:00Z",
+              "start_time_tbd": null
+            },
+            "id": "bn_c2f91eb5",
+            "type": "restore_banner"
+          }
+        ],
+        "type": "restore_banner"
+      },
+      "undone": null,
+      "who": "bang_dream_on"
     }
   ]
 }
