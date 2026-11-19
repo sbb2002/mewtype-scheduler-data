@@ -108,3 +108,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T11:03:00Z", "who": "Onmrh5X2Lr8"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-19T11:04:06Z", "tweet_id": "2123370968001446227", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 ‘配信はじめます’라며 방송 시작을 알리는 내용이므로 취소나 일정 변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-19T11:04:06Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-19T11:04:32Z", "who": "峰月律"}
