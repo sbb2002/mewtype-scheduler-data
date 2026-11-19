@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-19T08:08:56Z",
+  "generated_at": "2026-11-19T08:10:01Z",
   "items": [
     {
       "actual_start": null,
@@ -99,7 +99,6 @@
       "kind": null,
       "last_updated": "2026-11-19T08:08:56Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-19T10:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2123327642132942970",
@@ -108,7 +107,7 @@
       "thumbnail": "https://i.ytimg.com/vi/Pp-PHQtvP6I/maxresdefault.jpg?v=6afead72",
       "time_tbd": false,
       "title": "【#ゆめみた3周年】古のギター配信を同時視聴⁉️😱ののちゃんのあゆみ【記念】【ゆめみた/夢限大みゅーたいぷ】",
-      "title_ko": null,
+      "title_ko": "【#유메미타3周年】고대 기타 방송을 동시 시청⁉️😱노노카의 발자취【기념】【유메미타/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=Pp-PHQtvP6I",
       "video_id": "Pp-PHQtvP6I"
     },
