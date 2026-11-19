@@ -94,3 +94,4 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_535c8b7f", "result": "ok", "title": "【＃ゆめみた3周年】お祝い会するよー！壺おじも余裕でしょう！！！！！！【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-19T10:31:06Z", "video_id": "Onmrh5X2Lr8", "who": "ritsu"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T10:43:01Z", "who": "Onmrh5X2Lr8"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · Onmrh5X2Lr8 · 예고 watching", "flow": "websub", "merge_key": "websub-notify:Onmrh5X2Lr8", "result": "ok", "title": "【＃ゆめみた3周年】お祝い会するよー！壺おじも余裕でしょう！！！！！！【峰月律/ゆめみた】", "ts": "2026-11-19T10:43:01Z", "video_id": "Onmrh5X2Lr8", "who": "ritsu"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-19T10:50:03Z", "who": ""}
