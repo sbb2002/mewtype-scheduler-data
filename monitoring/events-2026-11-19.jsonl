@@ -29,3 +29,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · _Av-nvcUsLw · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:_Av-nvcUsLw", "result": "ok", "title": "更新終わるまで", "ts": "2026-11-19T01:01:56Z", "video_id": "_Av-nvcUsLw", "who": "arale"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-19T02:00:01Z", "who": "group"}
 {"detail": "retweet skip: 폰 원문이 @AKi_Ametista 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-19T02:38:42Z", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-19T02:38:44Z", "who": "千石ユノ"}
