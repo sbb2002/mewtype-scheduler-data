@@ -132,3 +132,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T12:35:00Z", "who": "Onmrh5X2Lr8"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_535c8b7f", "result": "ok", "title": "【＃ゆめみた3周年】めでたい日には、罰ゲームあり縛りプレイ壺おじをします助けて【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-19T12:35:00Z", "video_id": "Onmrh5X2Lr8", "who": "ritsu"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-19T12:50:38Z", "who": "バンドリ！TV LIVE 2026 #341"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-19T13:00:03Z", "who": "group"}
