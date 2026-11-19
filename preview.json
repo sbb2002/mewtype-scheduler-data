@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-19T13:10:00Z",
+  "generated_at": "2026-11-19T13:35:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-19T13:10:00Z",
+      "last_updated": "2026-11-19T13:35:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -125,7 +125,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-19T13:10:00Z",
+      "last_updated": "2026-11-19T13:35:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -167,36 +167,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-11-19T11:58:39Z",
-      "api_start_seen": "2026-11-19T12:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": 1606,
-      "expires_at": "2026-11-19T15:00:00Z",
-      "first_seen": "2026-11-18T15:05:31Z",
-      "host": null,
-      "id": "pv_7e863ec2",
-      "info_at": null,
-      "info_source": "api",
-      "is_premiere": false,
-      "kind": "unknown",
-      "last_updated": "2026-11-19T13:10:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-19T12:00:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2123323053576990913",
-      "state": "end",
-      "state_since": "2026-11-19T13:03:08Z",
-      "thumbnail": "https://i.ytimg.com/vi/VsUYzNLgXQM/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【🟡3周年記念】デビューから3年...！？✨️お祝いしよしよ～～～！✨️【 仲町あられ / バンドリ！ 】",
-      "title_ko": "【🟡3주년 기념】데뷔 3년...!?✨️축하하자~!✨️【 나카마치 아라레 / 뱅드림! 】",
-      "url": "https://www.youtube.com/watch?v=VsUYzNLgXQM",
-      "video_id": "VsUYzNLgXQM",
-      "yt_tunein": true
     }
   ]
 }
