@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:08:56Z",
+  "generated_at": "2026-11-19T09:00:06Z",
   "tweets": {
     "arale": [
       {
@@ -229,6 +229,22 @@
         "text": "毒みやこ",
         "text_ko": "독미야코",
         "url": "https://x.com/i/status/2123249921591775599"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-21T09:00:01Z",
+        "handle": "miyako_yumemita",
+        "id": "2123340509959631098",
+        "media": [
+          "https://pbs.twimg.com/media/HXdCBuVasAE5he0.jpg"
+        ],
+        "posted_at": "2026-11-19T09:00:01Z",
+        "quote": null,
+        "received_at": "2026-11-19T09:00:06Z",
+        "reply_to_id": null,
+        "text": "ちいさきみやこ💜🐶💜\n＃アワーノーツ",
+        "text_ko": "작은 미야코💜🐶💜 #アワーノーツ",
+        "url": "https://x.com/i/status/2123340509959631098"
       }
     ],
     "nonoka": [
