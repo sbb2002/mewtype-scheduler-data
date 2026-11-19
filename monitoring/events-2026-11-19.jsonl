@@ -131,3 +131,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-19T12:30:36Z", "who": "バンドリ！TV LIVE 2026 #341"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T12:35:00Z", "who": "Onmrh5X2Lr8"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_535c8b7f", "result": "ok", "title": "【＃ゆめみた3周年】めでたい日には、罰ゲームあり縛りプレイ壺おじをします助けて【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-19T12:35:00Z", "video_id": "Onmrh5X2Lr8", "who": "ritsu"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-19T12:50:38Z", "who": "バンドリ！TV LIVE 2026 #341"}
