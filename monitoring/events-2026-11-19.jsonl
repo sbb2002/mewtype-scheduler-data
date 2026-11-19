@@ -139,3 +139,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-19T13:04:19Z", "tweet_id": "2123401061830639844", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-19T13:04:32Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T13:10:00Z", "who": "VsUYzNLgXQM"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-19T13:29:00Z", "tweet_id": "2123408164506980705", "via": "ingest", "who": "arale"}
