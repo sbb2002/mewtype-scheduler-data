@@ -141,3 +141,5 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T13:10:00Z", "who": "VsUYzNLgXQM"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-19T13:29:00Z", "tweet_id": "2123408164506980705", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-19T13:29:13Z", "who": "仲町あられ"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T13:35:00Z", "who": "VsUYzNLgXQM"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_7e863ec2", "result": "ok", "title": "【🟡3周年記念】デビューから3年...！？✨️お祝いしよしよ～～～！✨️【 仲町あられ / バンドリ！ 】", "to_state": "out", "ts": "2026-11-19T13:35:00Z", "video_id": "VsUYzNLgXQM", "who": "arale"}
