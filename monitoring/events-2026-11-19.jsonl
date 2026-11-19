@@ -109,3 +109,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-19T11:04:06Z", "tweet_id": "2123370968001446227", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 ‘配信はじめます’라며 방송 시작을 알리는 내용이므로 취소나 일정 변경이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-19T11:04:06Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-19T11:04:32Z", "who": "峰月律"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T11:30:00Z", "who": "Pp-PHQtvP6I"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_c55d1307", "result": "ok", "title": "【#ゆめみた3周年】古のギター配信を同時視聴⁉️😱ののちゃんのあゆみ【記念】【ゆめみた/夢限大みゅーたいぷ】", "to_state": "out", "ts": "2026-11-19T11:30:00Z", "video_id": "Pp-PHQtvP6I", "who": "nonoka"}
