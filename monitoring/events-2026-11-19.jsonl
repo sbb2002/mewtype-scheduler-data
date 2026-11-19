@@ -106,3 +106,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T11:01:21Z", "who": "Onmrh5X2Lr8"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_535c8b7f", "result": "ok", "title": "【＃ゆめみた3周年】めでたい日には、罰ゲームあり縛りプレイ壺おじをします助けて【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-11-19T11:01:21Z", "video_id": "Onmrh5X2Lr8", "who": "ritsu"}
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T11:03:00Z", "who": "Onmrh5X2Lr8"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-19T11:04:06Z", "tweet_id": "2123370968001446227", "via": "ingest", "who": "ritsu"}
