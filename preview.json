@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-19T11:30:55Z",
+  "generated_at": "2026-11-19T11:58:51Z",
   "items": [
     {
       "actual_start": "2026-11-19T11:01:03Z",
@@ -89,7 +89,7 @@
       "collab_with": [
         "nonoka"
       ],
-      "concurrent_viewers": 1445,
+      "concurrent_viewers": 1546,
       "expires_at": "2026-11-19T14:00:00Z",
       "first_seen": "2026-11-18T14:19:37Z",
       "host": null,
@@ -98,7 +98,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": "collab",
-      "last_updated": "2026-11-19T11:30:00Z",
+      "last_updated": "2026-11-19T11:58:51Z",
       "membership": false,
       "scheduled_start": "2026-11-19T11:00:00Z",
       "source": "api",
@@ -114,12 +114,12 @@
       "yt_tunein": true
     },
     {
-      "actual_start": null,
+      "actual_start": "2026-11-19T11:58:39Z",
       "api_start_seen": "2026-11-19T12:00:00Z",
       "assumed_live": false,
       "channel_key": "arale",
       "collab_with": null,
-      "concurrent_viewers": null,
+      "concurrent_viewers": 155,
       "expires_at": "2026-11-19T15:00:00Z",
       "first_seen": "2026-11-18T15:05:31Z",
       "host": null,
@@ -128,13 +128,13 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": "unknown",
-      "last_updated": "2026-11-19T11:30:55Z",
+      "last_updated": "2026-11-19T11:58:51Z",
       "membership": false,
       "scheduled_start": "2026-11-19T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2123323053576990913",
-      "state": "watching",
-      "state_since": "2026-11-19T11:30:55Z",
+      "state": "live",
+      "state_since": "2026-11-19T11:58:51Z",
       "thumbnail": "https://i.ytimg.com/vi/VsUYzNLgXQM/maxresdefault.jpg?v=6afdbe7f",
       "time_tbd": false,
       "title": "【🟡3周年記念】デビューから3年...！？✨️お祝いしよしよ～～～！✨️【 仲町あられ / バンドリ！ 】",
@@ -158,7 +158,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-19T11:30:00Z",
+      "last_updated": "2026-11-19T11:58:51Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -187,7 +187,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-19T11:30:00Z",
+      "last_updated": "2026-11-19T11:58:51Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
