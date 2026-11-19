@@ -124,3 +124,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-19T12:05:00Z", "who": "Onmrh5X2Lr8"}
 {"detail": "gap-fill · 2123386045391925651 · +9분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-19T12:10:07Z", "tweet_id": "2123386045391925651", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2123387490082201826 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-19T12:14:06Z", "tweet_id": "2123387490082201826", "via": "ingest", "who": "ritsu"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +29분 · 2123386045391925651", "flow": "tweet", "result": "ok", "ts": "2026-11-19T12:30:18Z", "tweet_id": "2123386045391925651", "via": "ingest", "who": "arale"}
