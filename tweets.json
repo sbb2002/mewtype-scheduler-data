@@ -411,6 +411,28 @@
       },
       {
         "channel_key": "nonoka",
+        "expires_at": "2026-11-22T14:52:08Z",
+        "handle": "nonoka_yumemita",
+        "id": "2123791506838540629",
+        "media": [
+          "https://pbs.twimg.com/media/HXk5EK7aQAAV07N.jpg"
+        ],
+        "posted_at": "2026-11-20T14:52:08Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/amplify_video_thumb/2123767419210743808/img/rfdgfWZud1-alQHQ.jpg"
+          ],
+          "text": "＼🎊特報🎊／\n\n🛸「バンドリ！ ゆめ∞みた」🛸\n\n新作アニメーションの制作が決定🎉\n\n今後の続報をお待ちください✨\n\n#ゆめみた3周年 #アニメゆめみた\n#バンドリ",
+          "text_ko": "＼🎊특보🎊／\n\n🛸「뱅드림! 유메∞미타」🛸\n\n새 애니메이션 제작 확정🎉\n\n앞으로의 추가 소식 기다려 주세요✨\n\n#유메미타3주년 #애니유메미타\n#뱅드림"
+        },
+        "received_at": "2026-11-20T14:59:20Z",
+        "reply_to_id": null,
+        "text": "#ゆめみた3周年　記念配信ありがとうございました！！\n\n新作アニメーションの制作が、決定...😭\nありがとうございます！！！\n\n夢限大みゅーたいぷどこまでもいこう‼️\nゆめみたは、ビックバン‼️‼️‼️‼️‼️💥💥💥💥💥",
+        "text_ko": "#유메미타3周年 기념 방송 감사합니다!!\n\n새 작품 애니메이션 제작이 결정...😭\n감사합니다！！！\n\n무겐다이 뮤타입 어디까지든 가자‼️\n유메미타는, 빅뱅‼️‼️‼️‼️‼️💥💥💥💥💥",
+        "url": "https://x.com/i/status/2123791506838540629"
+      },
+      {
+        "channel_key": "nonoka",
         "expires_at": "2026-11-22T14:57:13Z",
         "handle": "nonoka_yumemita",
         "id": "2123792788567527503",
