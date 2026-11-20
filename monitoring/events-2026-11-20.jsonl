@@ -103,3 +103,4 @@
 {"detail": "gap-fill · 2123775416242700538 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-20T13:56:06Z", "tweet_id": "2123775416242700538", "via": "ingest", "who": "ritsu"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-20T14:00:00Z", "who": "u7f5p223ByA"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_d69b846f", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！", "to_state": "out", "ts": "2026-11-20T14:00:00Z", "video_id": "u7f5p223ByA", "who": "arale"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-20T14:00:07Z", "who": "group"}
