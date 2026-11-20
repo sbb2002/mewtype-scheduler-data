@@ -95,3 +95,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-20T13:35:00Z", "who": "u7f5p223ByA"}
 {"detail": "broadcast-change none · 게시물은 애니메이션 제작 발표와 감사 인사만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-20T13:45:06Z", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 방송 취소나 일정 변경을 알리는 내용이 아니라 방송 전 예고나 소개에 해당한다.", "flow": "tweet", "result": "ok", "ts": "2026-11-20T13:45:06Z", "via": "ingest", "who": "yuno"}
+{"detail": "gap-fill(자기 답글) · 2123774476500557942 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-20T13:45:06Z", "tweet_id": "2123774476500557942", "via": "ingest", "who": "yuno"}
