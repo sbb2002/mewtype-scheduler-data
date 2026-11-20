@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-19T13:35:00Z",
+  "generated_at": "2026-11-20T10:17:32Z",
   "items": [
     {
       "actual_start": null,
@@ -167,6 +167,41 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
       "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": "2026-11-20T12:00:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [
+        "yuno",
+        "nonoka",
+        "ritsu",
+        "miyako"
+      ],
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-20T15:00:00Z",
+      "first_seen": "2026-11-20T10:17:32Z",
+      "host": "group",
+      "id": "pv_d69b846f",
+      "info_at": "2026-11-20T10:17:32Z",
+      "info_source": "personal",
+      "is_premiere": false,
+      "kind": "collab",
+      "last_updated": "2026-11-20T10:17:32Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-11-20T12:00:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2123721961687928838",
+      "state": "upcoming",
+      "state_since": "2026-11-20T10:17:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/u7f5p223ByA/maxresdefault.jpg?v=6ae0362b",
+      "time_tbd": false,
+      "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！",
+      "title_ko": null,
+      "url": "https://www.youtube.com/watch?v=u7f5p223ByA",
+      "video_id": "u7f5p223ByA"
     }
   ]
 }
