@@ -69,3 +69,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T11:30:10Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-20T11:32:33Z", "who": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_d69b846f", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！", "to_state": "watching", "ts": "2026-11-20T11:32:32Z", "video_id": "u7f5p223ByA", "who": "arale"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-20T11:50:34Z", "who": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！"}
