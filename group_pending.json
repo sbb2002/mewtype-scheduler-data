@@ -3,12 +3,13 @@
     {
       "first_seen": "2026-11-20T03:00:04Z",
       "kind": "live_now",
-      "last_seen": "2026-11-20T03:00:04Z",
+      "last_seen": "2026-11-20T07:42:03Z",
       "ocr": "none",
       "scheduled_start": "2026-11-20T03:00:04Z",
       "source": "group",
       "sources": [
-        "https://x.com/i/status/2123612297822158902"
+        "https://x.com/i/status/2123612297822158902",
+        "https://x.com/i/status/2123683013720678757"
       ],
       "suggested": [],
       "title": null,
