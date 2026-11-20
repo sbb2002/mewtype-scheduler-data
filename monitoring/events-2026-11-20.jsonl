@@ -97,3 +97,4 @@
 {"detail": "broadcast-change none · 게시물은 방송 취소나 일정 변경을 알리는 내용이 아니라 방송 전 예고나 소개에 해당한다.", "flow": "tweet", "result": "ok", "ts": "2026-11-20T13:45:06Z", "via": "ingest", "who": "yuno"}
 {"detail": "gap-fill(자기 답글) · 2123774476500557942 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-20T13:45:06Z", "tweet_id": "2123774476500557942", "via": "ingest", "who": "yuno"}
 {"detail": "banner skip: 리트윗 폰 원문이 @bang_dream_info 의 글", "flow": "notice", "result": "ok", "ts": "2026-11-20T13:46:19Z", "via": "ingest", "who": "bang_dream_on"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-20T13:46:19Z", "via": "ingest", "who": ""}
