@@ -72,3 +72,4 @@
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-20T11:50:34Z", "who": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-20T11:50:34Z", "who": "u7f5p223ByA"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_d69b846f", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！", "to_state": "live", "ts": "2026-11-20T11:50:34Z", "video_id": "u7f5p223ByA", "who": "arale"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-20T11:56:46Z", "tweet_id": "2123747001888305600", "via": "ingest", "who": "ritsu"}
