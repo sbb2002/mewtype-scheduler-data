@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:26:34Z",
+  "generated_at": "2026-11-20T15:37:28Z",
   "tweets": {
     "arale": [
       {
@@ -272,6 +272,22 @@
         "text": "（泣いた後なので目と鼻が若干赤い）（ﾊﾞﾚﾍﾝ❔）",
         "text_ko": "(울고 나서 눈과 코가 약간 빨갛다)(바레헨❔)",
         "url": "https://x.com/i/status/2123780221493260586"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-22T15:37:26Z",
+        "handle": "miyako_yumemita",
+        "id": "2123802909615997197",
+        "media": [
+          "https://pbs.twimg.com/media/HXlDfSSagAEMnyh.jpg"
+        ],
+        "posted_at": "2026-11-20T15:37:26Z",
+        "quote": null,
+        "received_at": "2026-11-20T15:37:28Z",
+        "reply_to_id": null,
+        "text": "うしじゃよ\n#ぬいみやこ",
+        "text_ko": "소야\n#ぬいみ야코",
+        "url": "https://x.com/i/status/2123802909615997197"
       }
     ],
     "nonoka": [
