@@ -107,3 +107,4 @@
 {"detail": "gap-fill · 2123776445789192377 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-20T14:00:04Z", "tweet_id": "2123776445789192377", "via": "ingest", "who": "ritsu"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +11분 · 2123776445789192377", "flow": "tweet", "result": "ok", "ts": "2026-11-20T14:03:45Z", "tweet_id": "2123776445789192377", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T14:03:49Z", "who": "峰月律"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +15분 · 2123775416242700538", "flow": "tweet", "result": "ok", "ts": "2026-11-20T14:03:45Z", "tweet_id": "2123775416242700538", "via": "ingest", "who": "ritsu"}
