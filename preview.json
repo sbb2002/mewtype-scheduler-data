@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T13:30:00Z",
+  "generated_at": "2026-11-20T13:35:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-20T13:30:00Z",
+      "last_updated": "2026-11-20T13:35:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -125,7 +125,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-20T13:30:00Z",
+      "last_updated": "2026-11-20T13:35:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -188,14 +188,14 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": "collab",
-      "last_updated": "2026-11-20T13:30:00Z",
+      "last_updated": "2026-11-20T13:35:00Z",
       "membership": false,
       "scheduled_start": "2026-11-20T12:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2123721961687928838",
       "state": "end",
       "state_since": "2026-11-20T13:30:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/u7f5p223ByA/maxresdefault.jpg?v=6ae0362b",
+      "thumbnail": "https://i.ytimg.com/vi/u7f5p223ByA/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！",
       "title_ko": "【뱅드림！】무겐다이 뮤타입 데뷔 3주년 기념 방송!",
