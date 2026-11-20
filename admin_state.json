@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (u7f5p223ByA)",
-    "at": "2026-11-20T10:17:32Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-11-20T23:30:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "a604a849596f6c8ff2018830a0e1f5e39ac27673",
+    "new_sha": "a8b06255fde002e3500c7e4415b09f71cb9de26f",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-19T13:35:00Z",
+      "generated_at": "2026-11-20T14:00:00Z",
       "items": [
         {
           "actual_start": null,
@@ -134,7 +134,7 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-19T13:35:00Z",
+          "last_updated": "2026-11-20T14:00:00Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-12-24T14:59:00Z",
@@ -163,7 +163,7 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-19T13:35:00Z",
+          "last_updated": "2026-11-20T14:00:00Z",
           "membership": false,
           "scheduled_start": "2028-01-01T14:30:00Z",
           "source": "api",
