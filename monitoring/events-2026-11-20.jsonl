@@ -94,3 +94,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_d69b846f", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！", "to_state": "end", "ts": "2026-11-20T13:30:00Z", "video_id": "u7f5p223ByA", "who": "arale"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-20T13:35:00Z", "who": "u7f5p223ByA"}
 {"detail": "broadcast-change none · 게시물은 애니메이션 제작 발표와 감사 인사만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-20T13:45:06Z", "via": "ingest", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물은 방송 취소나 일정 변경을 알리는 내용이 아니라 방송 전 예고나 소개에 해당한다.", "flow": "tweet", "result": "ok", "ts": "2026-11-20T13:45:06Z", "via": "ingest", "who": "yuno"}
