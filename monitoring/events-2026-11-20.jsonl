@@ -101,3 +101,5 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T13:46:23Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "무시(반영 대상 아님) · 게임 계정 리트윗 — 폰 원문이 @bang_dream_info 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T13:46:21Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "gap-fill · 2123775416242700538 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-20T13:56:06Z", "tweet_id": "2123775416242700538", "via": "ingest", "who": "ritsu"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-20T14:00:00Z", "who": "u7f5p223ByA"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_d69b846f", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！", "to_state": "out", "ts": "2026-11-20T14:00:00Z", "video_id": "u7f5p223ByA", "who": "arale"}
