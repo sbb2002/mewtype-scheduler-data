@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T10:20:01Z",
+  "generated_at": "2026-11-20T11:32:32Z",
   "items": [
     {
       "actual_start": null,
@@ -101,19 +101,20 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": "collab",
-      "last_updated": "2026-11-20T10:17:32Z",
+      "last_updated": "2026-11-20T11:32:32Z",
       "membership": false,
       "scheduled_start": "2026-11-20T12:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2123721961687928838",
-      "state": "upcoming",
-      "state_since": "2026-11-20T10:17:32Z",
+      "state": "watching",
+      "state_since": "2026-11-20T11:32:32Z",
       "thumbnail": "https://i.ytimg.com/vi/u7f5p223ByA/maxresdefault.jpg?v=6ae0362b",
       "time_tbd": false,
       "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！",
       "title_ko": "【뱅드림！】무겐다이 뮤타입 데뷔 3주년 기념 방송!",
       "url": "https://www.youtube.com/watch?v=u7f5p223ByA",
-      "video_id": "u7f5p223ByA"
+      "video_id": "u7f5p223ByA",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
