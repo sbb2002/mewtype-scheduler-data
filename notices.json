@@ -4,10 +4,11 @@
     {
       "anchor_a": "u7f5p223ByA",
       "anchor_b": null,
-      "body_for_llm": "＼明日は生配信📡／ ⏰ (金) 〜 🛸夢限大みゅーたいぷ デビュー3周年記念配信！🛸 配信URLはこちら 配信内では新情報も...👀 ぜひご覧ください✨ #バンドリ #ゆめみた",
-      "body_ko": "＼내일은 생방송📡／\n\n⏰11/20(金) 21:00〜\n\n🛸무겐다이 뮤타입\n　데뷔 3주년 기념 방송！🛸\n\n방송 URL은 여기\nhttps://www.youtube.com/watch?v=u7f5p223ByA\n\n방송 안에서는 새로운 정보도...👀\n꼭 시청해주세요✨\n\n#뱅드림 #유메미타",
-      "body_raw": "＼明日は生配信📡／\n\n⏰11/20(金) 21:00〜\n\n🛸夢限大みゅーたいぷ\n　デビュー3周年記念配信！🛸\n\n配信URLはこちら\nhttps://www.youtube.com/watch?v=u7f5p223ByA\n\n配信内では新情報も...👀\nぜひご覧ください✨\n\n#バンドリ #ゆめみた",
+      "body_for_llm": "＼本日生配信📡／ ⏰ 〜 🛸夢限大みゅーたいぷ デビュー3周年記念配信！🛸 #ゆめみた3周年 で ぜひお祝いください！🎉 🔗配信URLはこちら 配信内では新情報も...👀 #バンドリ",
+      "body_ko": "＼오늘 생방송📡／\n⏰21:00〜\n🛸무겐다이 뮤타입\n　데뷔 3주년 기념 방송!🛸\n#유메미타3주년 에\n꼭 축하해주세요!🎉\n🔗방송 URL은 여기\nhttps://www.youtube.com/watch?v=u7f5p223ByA\n방송 안에서는 새로운 정보도...👀\n#뱅드림",
+      "body_raw": "＼本日生配信📡／\n\n⏰21:00〜\n🛸夢限大みゅーたいぷ\n　デビュー3周年記念配信！🛸\n\n#ゆめみた3周年 で\nぜひお祝いください！🎉\n\n🔗配信URLはこちら\nhttps://www.youtube.com/watch?v=u7f5p223ByA\n\n配信内では新情報も...👀\n\n#バンドリ",
       "categories": [
+        "live",
         "broadcast"
       ],
       "category": "live",
@@ -16,20 +17,23 @@
       "expires_at": "2026-11-20T15:00:00Z",
       "first_seen": "2026-10-27T13:52:43Z",
       "id": "2115079238126833792",
-      "last_updated": "2026-11-19T09:30:03Z",
+      "last_updated": "2026-11-20T03:00:04Z",
+      "live_date": "2026-11-20",
+      "live_name": "夢限大みゅーたいぷ デビュー3周年記念配信",
       "participants": null,
       "seen_ids": [
         "2115079238126833792",
-        "2123348056594894983"
+        "2123348056594894983",
+        "2123612297822158902"
       ],
       "site": "youtube",
       "src_handle": "@BDP_yumemita",
       "time": "21:00",
-      "title": "明日、生配信でデビュー3周年記念！",
-      "title_ko": "내일, 생방송으로 데뷔 3주년 기념!",
-      "title_raw": "明日は生配信📡",
-      "title_slug": "明日は生配信",
-      "tweet_url": "https://x.com/i/status/2123348056594894983",
+      "title": "デビュー3周年記念配信",
+      "title_ko": "데뷔 3주년 기념 방송",
+      "title_raw": "本日生配信📡",
+      "title_slug": "本日生配信",
+      "tweet_url": "https://x.com/i/status/2123612297822158902",
       "url": "https://www.youtube.com/watch?v=u7f5p223ByA"
     },
     {
