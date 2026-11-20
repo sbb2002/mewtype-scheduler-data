@@ -15,3 +15,4 @@
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_a5aba402", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-20T23:30:06Z", "video_id": null, "who": "nonoka"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_f6367c71", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-20T23:30:06Z", "video_id": null, "who": "ritsu"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_7cac1194", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-20T23:30:06Z", "video_id": null, "who": "yuno"}
+{"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_8a41184c", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-20T23:30:06Z", "video_id": null, "who": "arale"}
