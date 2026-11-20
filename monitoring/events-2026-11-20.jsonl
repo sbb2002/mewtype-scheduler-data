@@ -56,3 +56,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T10:14:26Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-20T10:17:32Z", "tweet_id": "2123721961687928838", "via": "ingest", "who": "miyako"}
 {"detail": "group-video members count · arale,yuno,nonoka,ritsu,miyako · u7f5p223ByA", "flow": "tweet", "result": "ok", "ts": "2026-11-20T10:17:32Z", "via": "ingest", "who": "miyako"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_d69b846f", "result": "ok", "title": "【バンドリ！】夢限大みゅーたいぷ デビュー3周年記念配信！", "to_state": "upcoming", "ts": "2026-11-20T10:17:32Z", "video_id": "u7f5p223ByA", "who": "arale"}
