@@ -65,3 +65,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-20T11:22:07Z", "tweet_id": "2123738638005760380", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 오늘 21시 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-20T11:22:07Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T11:22:41Z", "who": "仲町あられ"}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-20T11:30:06Z", "via": "ingest", "who": ""}
