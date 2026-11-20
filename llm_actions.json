@@ -5270,6 +5270,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e667a2ca3b",
+      "input": {
+        "channel_key": "yuno",
+        "quote": "＼本日生配信📡／\n\n⏰21:00～\n🛸夢限大みゅーたいぷ\n　デビュー3周年記念配信！🛸\n\n#ゆめみた3周年 で\nぜひお祝いください！🎉\n\n🔗配信URLはこちら\nhttps://www.youtube.com/watch?v=u7f5p223ByA\n\n配信内では新情報も...👀\n\n#バンドリ",
+        "raw": "本日21時から\nゆめみたデビュー3周年記念配信です！\n\n#ゆめみた3周年 ←いっぱい使うよろし\n\nあれやこれや内容盛りだくさんの予感\n楽しみですね🙂",
+        "tag": "p#https://x.com/#1tweet-2123700629482930558"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 21시부터 진행되는 3주년 기념 방송을 알리는 내용이며, 제시된 방송 목록의 id와 일치하는 취소나 일정 변경이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-20T08:51:04Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
