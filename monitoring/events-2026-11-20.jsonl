@@ -46,3 +46,4 @@
 {"detail": "mode: none · 인식 실패 1줄", "flow": "relay", "result": "err", "ts": "2026-11-20T09:15:02Z", "via": "ingest", "who": ""}
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T09:15:06Z", "who": "夢限大みゅーたいぷ"}
 {"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-20T09:30:08Z", "via": "ingest", "who": ""}
+{"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-20T09:30:12Z", "who": "夢限大みゅーたいぷ"}
