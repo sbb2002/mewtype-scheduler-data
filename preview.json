@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-21T12:29:29Z",
+  "generated_at": "2026-11-21T12:30:07Z",
   "items": [
     {
       "actual_start": "2026-11-21T12:01:17Z",
@@ -128,18 +128,19 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-21T12:03:00Z",
+      "last_updated": "2026-11-21T12:30:07Z",
       "membership": false,
       "scheduled_start": "2026-11-21T13:00:00Z",
       "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-11-21T11:07:01Z",
+      "state": "watching",
+      "state_since": "2026-11-21T12:30:07Z",
       "thumbnail": "https://i.ytimg.com/vi/e0VMqA8Bphg/maxresdefault.jpg?v=6b017b53",
       "time_tbd": false,
       "title": "【 #ヴァンガード 】アルトマイル＆アーシャ！ストライドデッキセット2種開封！【 #千石ユノ / #バンドリ 】",
       "title_ko": "【 #ヴァンガード 】알트마일＆아샤! 스트라이드 덱 세트 2종 개봉!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=e0VMqA8Bphg",
-      "video_id": "e0VMqA8Bphg"
+      "video_id": "e0VMqA8Bphg",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
