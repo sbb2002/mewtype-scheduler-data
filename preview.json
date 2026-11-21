@@ -129,7 +129,6 @@
       "kind": null,
       "last_updated": "2026-11-21T11:10:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-21T13:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -137,7 +136,7 @@
       "thumbnail": "https://i.ytimg.com/vi/e0VMqA8Bphg/maxresdefault.jpg?v=6b017b53",
       "time_tbd": false,
       "title": "【 #ヴァンガード 】アルトマイル＆アーシャ！ストライドデッキセット2種開封！【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #ヴァンガード 】알트마일＆아샤! 스트라이드 덱 세트 2종 개봉!【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=e0VMqA8Bphg",
       "video_id": "e0VMqA8Bphg"
     },
@@ -159,7 +158,6 @@
       "kind": null,
       "last_updated": "2026-11-21T11:10:01Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-21T14:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -167,7 +165,7 @@
       "thumbnail": "https://i.ytimg.com/vi/_kmu3L2FLEo/maxresdefault.jpg?v=6b014ee1",
       "time_tbd": false,
       "title": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡#아워노츠 】첫 SSR 기뻐…!!신시대 트레이닝 가챠라서 땀 많이 흘렸으니 분명 뽑히겠지…✨️【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=_kmu3L2FLEo",
       "video_id": "_kmu3L2FLEo"
     },
