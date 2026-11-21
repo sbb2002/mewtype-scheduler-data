@@ -114,3 +114,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T11:22:11Z", "tweet_id": "2124099510326722611", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T11:22:29Z", "who": "藤都子"}
 {"detail": "gap-fill · 2124101078459572644 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-21T11:30:05Z", "tweet_id": "2124101078459572644", "via": "ingest", "who": "arale"}
+{"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-21T11:30:13Z", "who": "【メン限】りっちゃんズ集会🌸11月"}
