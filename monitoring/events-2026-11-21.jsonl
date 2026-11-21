@@ -116,3 +116,4 @@
 {"detail": "gap-fill · 2124101078459572644 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-21T11:30:05Z", "tweet_id": "2124101078459572644", "via": "ingest", "who": "arale"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-21T11:30:13Z", "who": "【メン限】りっちゃんズ集会🌸11月"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_394536af", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸11月", "to_state": "watching", "ts": "2026-11-21T11:30:13Z", "video_id": "vBVdYCYhFkU", "who": "ritsu"}
+{"detail": "gap-fill · 2124101093441564938 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-21T11:30:14Z", "tweet_id": "2124101093441564938", "via": "ingest", "who": "miyako"}
