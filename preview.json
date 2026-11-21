@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-21T15:47:36Z",
+  "generated_at": "2026-11-21T15:50:02Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-21T15:47:36Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-22T14:00:00Z",
       "source": "api",
       "state": "upcoming",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/4HoiOYfOkt4/maxresdefault.jpg?v=6b01bcdc",
       "time_tbd": false,
       "title": "【バンドリ！アワーノーツ】班長として、ガチャでSSRを手に入れます【峰月律/ゆめみた】#アワーノーツ",
-      "title_ko": null,
+      "title_ko": "【뱅드림! 아워노츠】 반장으로서, 가챠에서 SSR을 획득합니다【미네츠키 리츠/유메미타】#아워노츠",
       "url": "https://www.youtube.com/watch?v=4HoiOYfOkt4",
       "video_id": "4HoiOYfOkt4"
     },
