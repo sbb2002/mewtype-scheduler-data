@@ -195,3 +195,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T15:51:02Z", "tweet_id": "2124168708230914542", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T15:51:14Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T15:52:13Z", "tweet_id": "2124169012770898262", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물은 지난 방송에 대한 감사 인사이며, 취소나 일정 변경을 언급하고 있지 않으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-21T15:52:13Z", "via": "ingest", "who": "arale"}
