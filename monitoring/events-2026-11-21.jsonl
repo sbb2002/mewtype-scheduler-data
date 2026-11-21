@@ -144,3 +144,4 @@
 {"detail": "broadcast-change none · 게시물은 11/21 22:00에 진행될 방송을 알리는 내용이며 취소·변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-21T12:43:06Z", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 스파챗에 대한 감사 인사이며 방송 일정 변경이나 취소를 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-21T12:43:06Z", "via": "ingest", "who": "yuno"}
 {"detail": "gap-fill(자기 답글) · 2124121382124744890 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-21T12:43:06Z", "tweet_id": "2124121382124744890", "via": "ingest", "who": "yuno"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-21T13:00:02Z", "who": "group"}
