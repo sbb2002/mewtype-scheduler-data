@@ -5216,6 +5216,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ba73d58960",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/21(土) 23:00~┊#イ中田丁なう\n\n┊ #アワーノーツ ┊みゃーちゃんの引きが神だった為、筋トレ𝓟𝓸𝔀𝓮𝓻あやかりたい…🙏✨️SSR引きたい…！！！！！✨️\n\n🔗 https://www.youtube.com/live/_kmu3L2FLEo",
+        "tag": "p#https://x.com/#1tweet-2124117985367650808"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/21 23:00에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-21T12:29:29Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
