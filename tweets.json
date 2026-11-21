@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:16:05Z",
+  "generated_at": "2026-11-21T08:37:53Z",
   "tweets": {
     "arale": [
       {
@@ -656,6 +656,22 @@
         "text": "班長です",
         "text_ko": "반장입니다",
         "url": "https://x.com/i/status/2124022207605252415"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-23T08:37:50Z",
+        "handle": "ritsu_yumemita",
+        "id": "2124059700912443630",
+        "media": [
+          "https://pbs.twimg.com/media/HXotCFHa8AAu1Hh.jpg"
+        ],
+        "posted_at": "2026-11-21T08:37:50Z",
+        "quote": null,
+        "received_at": "2026-11-21T08:37:53Z",
+        "reply_to_id": null,
+        "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n　今夜𝗦𝗧𝗔𝗥𝗧 21:00〜\n\nメン限!りっちゃんズ集会\n\n↻ ＵＲＬ\nhttps://youtube.com/live/vBVdYCYhFkU?feature=share\n🩵 ･･････････････････････ 🩵",
+        "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n　오늘 밤 START 21:00〜\n\n멤버십 한정! 리츠짱즈 모임\n\n↻ ＵＲＬ\nhttps://youtube.com/live/vBVdYCYhFkU?feature=share\n🩵 ･･････････････････････ 🩵",
+        "url": "https://x.com/i/status/2124059700912443630"
       }
     ],
     "yuno": [
