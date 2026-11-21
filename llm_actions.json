@@ -5235,6 +5235,25 @@
       "undo": null,
       "undone": null,
       "who": "arale"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6b02d2d955",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/21 22:00～ #ヴァンガード 開封\n\nストライドデッキセット2種あけます！！\nたのしみ(ง ᐢ⩌-⩌ᐢ)ว🎶\nhttps://www.youtube.com/live/e0VMqA8Bphg?si=_hNCqPSyR_sv-GN2",
+        "tag": "p#https://x.com/#1tweet-2124121378454675582"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/21 22:00에 진행될 방송을 알리는 내용이며 취소·변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-21T12:43:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
