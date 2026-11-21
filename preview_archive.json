@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T05:00:00Z",
+  "generated_at": "2026-11-21T13:45:00Z",
   "items": [
     {
       "actual_start": "2026-11-14T02:07:13Z",
@@ -688,6 +688,38 @@
       "title_ko": "# 13【마법소녀노마녀재판】제9화！(?) 귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバレ",
       "url": "https://www.youtube.com/watch?v=sv9JiJR0itU",
       "video_id": "sv9JiJR0itU"
+    },
+    {
+      "actual_start": "2026-11-21T12:01:17Z",
+      "announced_start": "2026-11-21T12:00:00Z",
+      "api_start_seen": "2026-11-21T12:00:00Z",
+      "archived_at": "2026-11-21T13:45:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-21T15:00:00Z",
+      "first_seen": "2026-11-21T08:35:37Z",
+      "host": null,
+      "id": "pv_394536af",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-21T13:45:00Z",
+      "membership": true,
+      "scheduled_start": "2026-11-21T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2124059700912443630",
+      "state": "out",
+      "state_since": "2026-11-21T13:45:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/vBVdYCYhFkU/maxresdefault.jpg?v=6b01579c",
+      "time_tbd": false,
+      "title": "【メン限】りっちゃんズ集会🌸11月",
+      "title_ko": "【멤버십 한정】리츠짱즈 모임🌸11월",
+      "url": "https://www.youtube.com/watch?v=vBVdYCYhFkU",
+      "video_id": "vBVdYCYhFkU",
+      "yt_tunein": true
     }
   ]
 }
