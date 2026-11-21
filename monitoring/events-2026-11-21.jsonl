@@ -136,3 +136,4 @@
 {"detail": "gap-fill · 2124110515840692627 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-21T12:07:05Z", "tweet_id": "2124110515840692627", "via": "ingest", "who": "miyako"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2124110515840692627", "flow": "tweet", "result": "ok", "ts": "2026-11-21T12:08:32Z", "tweet_id": "2124110515840692627", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T12:08:36Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T12:29:29Z", "tweet_id": "2124117985367650808", "via": "ingest", "who": "arale"}
