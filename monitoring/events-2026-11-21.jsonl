@@ -142,3 +142,4 @@
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-21T12:30:08Z", "who": "【 #ヴァンガード 】アルトマイル＆アーシャ！ストライドデッキセット2種開封！【 #千石ユノ / #バンドリ 】"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_230b7a8c", "result": "ok", "title": "【 #ヴァンガード 】アルトマイル＆アーシャ！ストライドデッキセット2種開封！【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-21T12:30:07Z", "video_id": "e0VMqA8Bphg", "who": "yuno"}
 {"detail": "broadcast-change none · 게시물은 11/21 22:00에 진행될 방송을 알리는 내용이며 취소·변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-21T12:43:06Z", "via": "ingest", "who": "yuno"}
+{"detail": "broadcast-change none · 게시물은 스파챗에 대한 감사 인사이며 방송 일정 변경이나 취소를 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-21T12:43:06Z", "via": "ingest", "who": "yuno"}
