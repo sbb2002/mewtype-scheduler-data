@@ -5178,6 +5178,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c1c51a1e60",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信開始🩹♡\n\nおまたせしました‼️‼️‼️‼️おはようございます\nはじめまづ\n\n# 13【魔法少女ノ魔女裁判】第九話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ\nhttps://youtube.com/live/sv9JiJR0itU?feature=share",
+        "tag": "p#https://x.com/#1tweet-2123951544160936202"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 스트리밍 시작을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-21T01:28:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
