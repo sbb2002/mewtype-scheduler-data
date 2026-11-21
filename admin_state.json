@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 arale (_kmu3L2FLEo)",
-    "at": "2026-11-21T12:29:29Z",
+    "action": "URL 확정 예고 yuno (e0VMqA8Bphg)",
+    "at": "2026-11-21T12:43:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "c5960de5a812ab49144da6e8be741ff6059ca9f4",
+    "new_sha": "1d3ee2de72d35cf23f4da73b0ccb83b657b87c93",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-21T12:03:00Z",
+      "generated_at": "2026-11-21T12:30:07Z",
       "items": [
         {
           "actual_start": "2026-11-21T12:01:17Z",
@@ -166,18 +166,19 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-21T12:03:00Z",
+          "last_updated": "2026-11-21T12:30:07Z",
           "membership": false,
           "scheduled_start": "2026-11-21T13:00:00Z",
           "source": "api",
-          "state": "upcoming",
-          "state_since": "2026-11-21T11:07:01Z",
+          "state": "watching",
+          "state_since": "2026-11-21T12:30:07Z",
           "thumbnail": "https://i.ytimg.com/vi/e0VMqA8Bphg/maxresdefault.jpg?v=6b017b53",
           "time_tbd": false,
           "title": "【 #ヴァンガード 】アルトマイル＆アーシャ！ストライドデッキセット2種開封！【 #千石ユノ / #バンドリ 】",
           "title_ko": "【 #ヴァンガード 】알트마일＆아샤! 스트라이드 덱 세트 2종 개봉!【 #센고쿠 유노 / #뱅드림 】",
           "url": "https://www.youtube.com/watch?v=e0VMqA8Bphg",
-          "video_id": "e0VMqA8Bphg"
+          "video_id": "e0VMqA8Bphg",
+          "yt_tunein": true
         },
         {
           "actual_start": null,
@@ -195,10 +196,11 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-21T12:03:00Z",
+          "last_updated": "2026-11-21T12:29:29Z",
           "membership": false,
           "scheduled_start": "2026-11-21T14:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2124117985367650808",
           "state": "upcoming",
           "state_since": "2026-11-21T11:05:29Z",
           "thumbnail": "https://i.ytimg.com/vi/_kmu3L2FLEo/maxresdefault.jpg?v=6b014ee1",
