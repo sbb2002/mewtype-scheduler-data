@@ -163,3 +163,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_394536af", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸11月", "to_state": "out", "ts": "2026-11-21T13:45:00Z", "video_id": "vBVdYCYhFkU", "who": "ritsu"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T13:47:36Z", "tweet_id": "2124137643990753732", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T13:47:49Z", "who": "宮永ののか🐰🩹"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-21T13:58:52Z", "who": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【"}
