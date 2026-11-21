@@ -164,3 +164,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T13:47:36Z", "tweet_id": "2124137643990753732", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T13:47:49Z", "who": "宮永ののか🐰🩹"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-21T13:58:52Z", "who": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-21T13:58:52Z", "who": "_kmu3L2FLEo"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_26c5655e", "result": "ok", "title": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "live", "ts": "2026-11-21T13:58:52Z", "video_id": "_kmu3L2FLEo", "who": "arale"}
