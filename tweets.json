@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T01:43:34Z",
+  "generated_at": "2026-11-21T04:00:26Z",
   "tweets": {
     "arale": [
       {
@@ -322,6 +322,28 @@
         "text": "うしじゃよ\n#ぬいみやこ",
         "text_ko": "소야\n#ぬいみ야코",
         "url": "https://x.com/i/status/2123802909615997197"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-23T03:53:16Z",
+        "handle": "miyako_yumemita",
+        "id": "2123988086409580739",
+        "media": [
+          "https://pbs.twimg.com/media/HXnrzyXbQAAmi9d.jpg"
+        ],
+        "posted_at": "2026-11-21T03:53:16Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HXnMQ9gaMAA_cXH.jpg"
+          ],
+          "text": "／\n💪集え！#ゆめみた筋トレ部 \n　～輝け！上腕二頭筋～💪\n＼\n\nまもなく昼の部開場✨\n\nお早めの整列をお願いいたします🙇‍♀️\n\n🔗詳細はこちら\nhttps://bang-dream.com/events/yumemita_kinntorebu2026/\n\n#バンドリ",
+          "text_ko": "💪모여라! #유메미타근트레이닝부 \n　～빛나라! 상완 이두근～💪\n\n곧 낮 부 개장✨\n\n빠른 정렬 부탁드립니다🙇‍♀️\n\n🔗자세한 내용은 여기\nhttps://bang-dream.com/events/yumemita_kinntorebu2026/\n\n#뱅드림"
+        },
+        "received_at": "2026-11-21T04:00:26Z",
+        "reply_to_id": null,
+        "text": "このあと❣️\n筋トレ部イベント昼の部でごぜえます♪\n\n今日のぽひるは‥\n✨🥦とれーなーおべんと🐔✨\n#ゆめみた筋トレ部",
+        "text_ko": "이후에❣️ 근력운동부 이벤트 낮부에 있을게요♪ 오늘 점심은‥ ✨🥦트레이너 도시락🐔✨ #유메미타근력운동부",
+        "url": "https://x.com/i/status/2123988086409580739"
       }
     ],
     "nonoka": [
