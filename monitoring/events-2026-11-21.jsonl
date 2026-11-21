@@ -30,3 +30,5 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-21T01:02:00Z", "who": "group"}
 {"candidates": 62, "detail": "candidates=62 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 102, "result": "ok", "ts": "2026-11-21T01:02:00Z", "who": ""}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-21T01:27:04Z", "who": "# 13【魔法少女ノ魔女裁判】第九話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-21T01:27:04Z", "who": "sv9JiJR0itU"}
+{"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_52eff4d8", "result": "ok", "title": "# 13【魔法少女ノ魔女裁判】第九話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "live", "ts": "2026-11-21T01:27:04Z", "video_id": "sv9JiJR0itU", "who": "nonoka"}
