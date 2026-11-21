@@ -124,3 +124,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +15분 · 2124101078459572644", "flow": "tweet", "result": "ok", "ts": "2026-11-21T11:37:19Z", "tweet_id": "2124101078459572644", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T11:37:29Z", "who": "仲町あられ"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · zQjXQYPQXQg · 방송 아님(일반 영상 · 종료 등)", "flow": "websub", "merge_key": "websub-notify:zQjXQYPQXQg", "result": "ok", "title": "更新終わるまで", "ts": "2026-11-21T11:47:56Z", "video_id": "zQjXQYPQXQg", "who": "arale"}
+{"detail": "gap-fill · 2124106357397918109 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-21T11:51:05Z", "tweet_id": "2124106357397918109", "via": "ingest", "who": "miyako"}
