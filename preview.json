@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-21T15:55:00Z",
+  "generated_at": "2026-11-21T16:15:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-21T15:55:00Z",
+      "last_updated": "2026-11-21T16:15:00Z",
       "membership": false,
       "scheduled_start": "2026-11-22T14:00:00Z",
       "source": "api",
@@ -124,7 +124,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-21T15:55:00Z",
+      "last_updated": "2026-11-21T16:15:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -153,7 +153,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-21T15:55:00Z",
+      "last_updated": "2026-11-21T16:15:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -195,37 +195,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-11-21T13:58:27Z",
-      "announced_start": "2026-11-21T14:00:00Z",
-      "api_start_seen": "2026-11-21T14:00:00Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": 2182,
-      "expires_at": "2026-11-21T17:00:00Z",
-      "first_seen": "2026-11-21T11:05:29Z",
-      "host": null,
-      "id": "pv_26c5655e",
-      "info_at": null,
-      "info_source": "api",
-      "is_premiere": false,
-      "kind": null,
-      "last_updated": "2026-11-21T15:55:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-21T14:00:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2124117985367650808",
-      "state": "end",
-      "state_since": "2026-11-21T15:45:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/_kmu3L2FLEo/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": "【🟡#아워노츠 】첫 SSR 기뻐…!!신시대 트레이닝 가챠라서 땀 많이 흘렸으니 분명 뽑히겠지…✨️【 나카마치 아라레 / 무겐다이 뮤타입 】",
-      "url": "https://www.youtube.com/watch?v=_kmu3L2FLEo",
-      "video_id": "_kmu3L2FLEo",
-      "yt_tunein": true
     }
   ]
 }
