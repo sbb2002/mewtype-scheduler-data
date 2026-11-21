@@ -59,3 +59,4 @@
 {"detail": "공식 · 스케줄 아님(소식 등은 각 행 참고)", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T04:22:04Z", "who": "夢限大みゅーたいぷ"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-21T04:30:00Z", "who": "sv9JiJR0itU"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_52eff4d8", "result": "ok", "title": "# 13【魔法少女ノ魔女裁判】第九話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "end", "ts": "2026-11-21T04:30:00Z", "video_id": "sv9JiJR0itU", "who": "nonoka"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · sv9JiJR0itU · 예고 end", "flow": "websub", "merge_key": "websub-notify:sv9JiJR0itU", "result": "ok", "title": "# 13【魔法少女ノ魔女裁判】第九話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "ts": "2026-11-21T04:30:11Z", "video_id": "sv9JiJR0itU", "who": "nonoka"}
