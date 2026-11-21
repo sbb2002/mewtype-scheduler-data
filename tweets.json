@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:29:29Z",
+  "generated_at": "2026-11-21T12:43:06Z",
   "tweets": {
     "arale": [
       {
@@ -723,6 +723,22 @@
         "text": "配信直前、泣く前の綺麗な千石ユノさんをお届け",
         "text_ko": "방송 직전, 울기 전의 예쁜 센고쿠 유노 씨를 전합니다",
         "url": "https://x.com/i/status/2123774476500557942"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-23T12:42:55Z",
+        "handle": "yuno_yumemita",
+        "id": "2124121378454675582",
+        "media": [
+          "https://pbs.twimg.com/media/HXplIsyawAAiko1.jpg"
+        ],
+        "posted_at": "2026-11-21T12:42:55Z",
+        "quote": null,
+        "received_at": "2026-11-21T12:43:06Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/21 22:00〜 #ヴァンガード 開封\n\nストライドデッキセット2種あけます！！\nたのしみ(ง ᐢ⩌-⩌ᐢ)ว🎶\nhttps://www.youtube.com/live/e0VMqA8Bphg?si=_hNCqPSyR_sv-GN2",
+        "text_ko": "〈방송 안내〉\n11/21 22:00〜 #ヴァンガード 개봉\n\n스트라이드덱 세트 2종 오픈합니다!!\n기대돼요(ง ᐢ⩌-⩌ᐢ)ว🎶\nhttps://www.youtube.com/live/e0VMqA8Bphg?si=_hNCqPSyR_sv-GN2",
+        "url": "https://x.com/i/status/2124121378454675582"
       }
     ]
   }
