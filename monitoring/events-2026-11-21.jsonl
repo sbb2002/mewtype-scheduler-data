@@ -110,3 +110,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · e0VMqA8Bphg · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:e0VMqA8Bphg", "result": "ok", "title": "【 #ヴァンガード 】アルトマイル＆アーシャ！ストライドデッキセット2種開封！【 #千石ユノ / #バンドリ 】", "ts": "2026-11-21T11:07:01Z", "video_id": "e0VMqA8Bphg", "who": "yuno"}
 {"candidates": 79, "detail": "candidates=79 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 2, "result": "ok", "ts": "2026-11-21T11:10:01Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T11:22:11Z", "tweet_id": "2124099820533264410", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T11:22:23Z", "who": "仲町あられ"}
