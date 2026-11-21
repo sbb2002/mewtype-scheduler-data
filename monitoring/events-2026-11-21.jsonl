@@ -159,3 +159,5 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_26c5655e", "result": "ok", "title": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-11-21T13:30:31Z", "video_id": "_kmu3L2FLEo", "who": "arale"}
 {"detail": "retweet skip: 폰 원문이 @GiGO_okayama 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-21T13:44:05Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T13:44:07Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-21T13:45:00Z", "who": "_kmu3L2FLEo"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_394536af", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸11月", "to_state": "out", "ts": "2026-11-21T13:45:00Z", "video_id": "vBVdYCYhFkU", "who": "ritsu"}
