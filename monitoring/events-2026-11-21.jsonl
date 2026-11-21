@@ -118,3 +118,4 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_394536af", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸11月", "to_state": "watching", "ts": "2026-11-21T11:30:13Z", "video_id": "vBVdYCYhFkU", "who": "ritsu"}
 {"detail": "gap-fill · 2124101093441564938 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-21T11:30:14Z", "tweet_id": "2124101093441564938", "via": "ingest", "who": "miyako"}
 {"detail": "retweet skip: 폰 원문이 @kuunerin 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-21T11:37:19Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T11:37:21Z", "who": "藤都子"}
