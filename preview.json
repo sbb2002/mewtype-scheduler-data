@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-20T23:30:06Z",
+  "generated_at": "2026-11-21T01:02:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-20T14:00:00Z",
+      "last_updated": "2026-11-21T01:02:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -125,7 +125,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-20T14:00:00Z",
+      "last_updated": "2026-11-21T01:02:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -153,10 +153,11 @@
       "info_source": "x-relay",
       "is_premiere": false,
       "kind": "game",
-      "last_updated": "2026-11-20T23:30:06Z",
+      "last_updated": "2026-11-21T01:02:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-21T01:00:00Z",
+      "search_checked": true,
       "source": "x-relay",
       "src_url": "https://x.com/i/status/2123921832977797133",
       "state": "announced",
