@@ -187,3 +187,4 @@
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T15:00:21Z", "who": "バンドリ！アワーノーツ"}
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-21T15:45:00Z", "who": "_kmu3L2FLEo"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_26c5655e", "result": "ok", "title": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "end", "ts": "2026-11-21T15:45:00Z", "video_id": "_kmu3L2FLEo", "who": "arale"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · _kmu3L2FLEo · 예고 end", "flow": "websub", "merge_key": "websub-notify:_kmu3L2FLEo", "result": "ok", "title": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-11-21T15:45:18Z", "video_id": "_kmu3L2FLEo", "who": "arale"}
