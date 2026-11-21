@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-21T04:35:00Z",
+  "generated_at": "2026-11-21T05:00:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-21T04:35:00Z",
+      "last_updated": "2026-11-21T05:00:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -125,7 +125,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-21T04:35:00Z",
+      "last_updated": "2026-11-21T05:00:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -257,36 +257,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-11-21T01:26:48Z",
-      "announced_start": "2026-11-21T01:00:00Z",
-      "api_start_seen": "2026-11-21T01:25:00Z",
-      "assumed_live": false,
-      "channel_key": "nonoka",
-      "collab_with": null,
-      "concurrent_viewers": 68,
-      "expires_at": "2026-11-21T04:25:00Z",
-      "first_seen": "2026-11-21T01:27:04Z",
-      "host": null,
-      "id": "pv_52eff4d8",
-      "info_at": null,
-      "info_source": "api",
-      "is_premiere": false,
-      "kind": null,
-      "last_updated": "2026-11-21T04:35:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-21T01:25:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2123951544160936202",
-      "state": "end",
-      "state_since": "2026-11-21T04:30:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/sv9JiJR0itU/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "# 13【魔法少女ノ魔女裁判】第九話！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
-      "title_ko": "# 13【마법소녀노마녀재판】제9화！(?) 귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバレ",
-      "url": "https://www.youtube.com/watch?v=sv9JiJR0itU",
-      "video_id": "sv9JiJR0itU"
     }
   ]
 }
