@@ -194,3 +194,4 @@
 {"candidates": 78, "detail": "candidates=78 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-21T15:50:02Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T15:51:02Z", "tweet_id": "2124168708230914542", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T15:51:14Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T15:52:13Z", "tweet_id": "2124169012770898262", "via": "ingest", "who": "arale"}
