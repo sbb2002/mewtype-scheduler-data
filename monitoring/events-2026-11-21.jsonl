@@ -179,3 +179,4 @@
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_230b7a8c", "result": "ok", "title": "【 #ヴァンガード 】アルトマイル＆アーシャ！ストライドデッキセット2種開封！【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-11-21T14:10:00Z", "video_id": "e0VMqA8Bphg", "who": "yuno"}
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-21T14:15:00Z", "who": "e0VMqA8Bphg"}
 {"detail": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @GiGO_okayama 의 글", "flow": "relay", "result": "ok", "ts": "2026-11-21T14:28:29Z", "via": "ingest", "who": ""}
+{"detail": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @GiGO_okayama 의 글", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T14:28:32Z", "who": "夢限大みゅーたいぷ"}
