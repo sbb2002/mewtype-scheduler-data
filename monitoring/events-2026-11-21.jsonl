@@ -157,3 +157,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-21T13:21:09Z", "who": "藤都子"}
 {"detail": "유튜브 tunein", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-21T13:30:31Z", "who": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【"}
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_26c5655e", "result": "ok", "title": "【🟡#アワーノーツ 】初SSR嬉しい…!!新時代トレーニングガチャ、ということでいい汗かいたからきっと引けるはず…✨️【 仲町あられ / 夢限大みゅーたいぷ 】", "to_state": "watching", "ts": "2026-11-21T13:30:31Z", "video_id": "_kmu3L2FLEo", "who": "arale"}
+{"detail": "retweet skip: 폰 원문이 @GiGO_okayama 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-21T13:44:05Z", "via": "ingest", "who": "nonoka"}
