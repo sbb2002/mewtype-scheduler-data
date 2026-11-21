@@ -89,3 +89,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-21T08:35:37Z", "who": "vBVdYCYhFkU"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_394536af", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸11月", "to_state": "upcoming", "ts": "2026-11-21T08:35:37Z", "video_id": "vBVdYCYhFkU", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · vBVdYCYhFkU · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:vBVdYCYhFkU", "result": "ok", "title": "【メン限】りっちゃんズ集会🌸11月", "ts": "2026-11-21T08:35:37Z", "video_id": "vBVdYCYhFkU", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-21T08:37:53Z", "tweet_id": "2124059700912443630", "via": "ingest", "who": "ritsu"}
