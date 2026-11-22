@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-22T22:00:55Z",
+  "generated_at": "2026-11-22T22:02:00Z",
   "items": [
     {
       "actual_start": "2026-11-22T21:59:47Z",
@@ -99,7 +99,6 @@
       "kind": null,
       "last_updated": "2026-11-22T22:00:55Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-22T21:59:28Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2124624183938449606",
@@ -108,7 +107,7 @@
       "thumbnail": "https://i.ytimg.com/vi/wmGE4q65afo/maxresdefault.jpg?v=6b0365c6",
       "time_tbd": false,
       "title": "【朝活】筋トレをするイベントをしてきました✨💪🐶🍤【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
-      "title_ko": null,
+      "title_ko": "【아침 활동】근력운동 이벤트 했어요✨💪🐶🍤【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
       "url": "https://www.youtube.com/watch?v=wmGE4q65afo",
       "video_id": "wmGE4q65afo"
     },
