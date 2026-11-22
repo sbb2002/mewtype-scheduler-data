@@ -5145,6 +5145,59 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bd3625a538",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/23(月)7:00～☀朝活\n祝日の朝からぽまえらをたたき起こす♪\n\n昨日の筋トレ部のぽもいでをしゃべしゃべ❣\n配信URLは直前につい～よ🔔\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2124428741560729636"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信よてい’와 구체적인 날짜·시간(11/23(月)7:00～)이 함께 있어 작성자가 앞으로 할 방송을 알리는 예고이다. (근거: 「配信よてい\n11/23(月)7:00～」)",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n11/23(月)7:00～☀朝活\n祝日の朝からぽまえらをたたき起",
+      "ts": "2026-11-22T09:04:19Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "miyako",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-23T01:00:00Z",
+            "first_seen": "2026-11-22T03:00:04Z",
+            "host": null,
+            "id": "pv_65d0e86e",
+            "info_at": "2026-11-22T03:00:04Z",
+            "info_source": "x-relay",
+            "is_premiere": false,
+            "kind": "morning",
+            "last_updated": "2026-11-22T03:00:04Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-22T22:00:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2124337076875546952",
+            "state": "announced",
+            "state_since": "2026-11-22T03:00:04Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
