@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:36:57Z",
+  "generated_at": "2026-11-22T22:00:55Z",
   "tweets": {
     "arale": [
       {
@@ -426,6 +426,28 @@
         "text": "ぬいみやこ、もう11月だよ\nスイカは また来年の夏 たべようね\n#ぬいみやこ",
         "text_ko": "벌써 11월이야\n수박은 내년 여름에 다시 먹자\n#ぬいみやこ",
         "url": "https://x.com/i/status/2124488874332409947"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-24T22:00:53Z",
+        "handle": "miyako_yumemita",
+        "id": "2124624183938449606",
+        "media": [
+          "https://pbs.twimg.com/card_img/2124624095715479552/8wrwkpho?format=jpg&name=800x419"
+        ],
+        "posted_at": "2026-11-22T22:00:53Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HXt8jzxboAA0t92.jpg"
+          ],
+          "text": "💜配信よてい💜\n11/23(月)7:00～☀朝活\n祝日の朝からぽまえらをたたき起こす♪\n\n昨日の筋トレ部のぽもいでをしゃべしゃべ❣\n配信URLは直前につい～よ🔔\n＃みるみやこ",
+          "text_ko": "💜방송 예정💜\n11/23(월) 7:00~ ☀아침 활동\n공휴일 아침부터 포마에라를 깨워줄게♪\n\n어제 근력 트레이닝부의 포모이드를 수다수다❣\n방송 URL은 직전까지 알려줄게🔔\n#미루미야코"
+        },
+        "received_at": "2026-11-22T22:00:55Z",
+        "reply_to_id": null,
+        "text": "配信まるま〜る♪（はじま〜る♪）\n筋トレ部イベントの振り返りじゃ🔥\nhttps://www.youtube.com/watch?v=wmGE4q65afo",
+        "text_ko": "방송 완전~♪ (시작~♪)  \n근력 트레이닝부 이벤트 회고야🔥  \nhttps://www.youtube.com/watch?v=wmGE4q65afo",
+        "url": "https://x.com/i/status/2124624183938449606"
       }
     ],
     "nonoka": [
