@@ -32,3 +32,4 @@
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-22T22:50:32Z", "who": ""}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-22T23:00:02Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-22T23:00:09Z", "who": "group"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T23:01:02Z", "tweet_id": "2124638290519474303", "via": "ingest", "who": "miyako"}
