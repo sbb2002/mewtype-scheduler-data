@@ -5339,6 +5339,32 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5b53c8d832",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信予定🩹♡\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/23 11:00- 魔法少女ノ魔女裁判\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\nあした、まのさばつづきやります！\n3連休♡労働感謝の日らしい🤩\n\n衝撃の展開ですが強く生きようと思います。\nよろしくお願いします。\n\n#ののちゃんたいむ\n#まのさばネタバレ",
+        "tag": "p#https://x.com/#1tweet-2124524655369486721"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信予定’와 구체적인 날짜·시각이 포함된 문구가 앞으로 진행될 방송을 알리는 예고이기 때문입니다. (근거: 「11/23 11:00- 魔法少女ノ魔女裁判」)",
+      "summary": "본인 예고로 등록 — 11:00 JST · ♡🐰配信予定🩹♡\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/23 11:00",
+      "ts": "2026-11-22T15:26:40Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_7139daa4"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
