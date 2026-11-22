@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "본인 예고 나카마치 아라레 (そいえば！次回の配信予定！\n11/23㈪ 23:30~すやバラです🎶🌃\n\n3連休)",
-    "at": "2026-11-22T15:13:06Z",
+    "action": "본인 예고 미야나가 노노카 (♡🐰配信予定🩹♡\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/23 11:00)",
+    "at": "2026-11-22T15:26:40Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "1163f9c0cb01de2ead064686e08c7722c6d02aea",
+    "new_sha": "e9addfb635911254bd349cdea9d782267adada29",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-22T15:05:00Z",
+      "generated_at": "2026-11-22T15:13:06Z",
       "items": [
         {
           "actual_start": null,
@@ -204,6 +204,36 @@
           "title": null,
           "title_ko": null,
           "url": null,
+          "video_id": null
+        },
+        {
+          "actual_start": null,
+          "api_start_seen": null,
+          "assumed_live": false,
+          "channel_key": "arale",
+          "collab_with": [],
+          "concurrent_viewers": null,
+          "expires_at": "2026-11-23T17:30:00Z",
+          "first_seen": "2026-11-22T15:13:06Z",
+          "host": null,
+          "id": "pv_da158e57",
+          "info_at": "2026-11-22T15:05:52Z",
+          "info_source": "personal",
+          "is_premiere": false,
+          "kind": "unknown",
+          "last_updated": "2026-11-22T15:13:06Z",
+          "membership": false,
+          "needs_tl": false,
+          "scheduled_start": "2026-11-23T14:30:00Z",
+          "source": "personal",
+          "src_url": "https://x.com/i/status/2124519738953113734",
+          "state": "announced",
+          "state_since": "2026-11-22T15:13:06Z",
+          "thumbnail": null,
+          "time_tbd": false,
+          "title": null,
+          "title_ko": null,
+          "url": "https://www.youtube.com/@arale_yumemita",
           "video_id": null
         },
         {
