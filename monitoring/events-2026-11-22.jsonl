@@ -36,3 +36,4 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-22T05:00:01Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-22T06:00:01Z", "who": "group"}
 {"detail": "gap-fill · 2124393242288619684 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-22T06:51:07Z", "tweet_id": "2124393242288619684", "via": "ingest", "who": "arale"}
+{"detail": "retweet skip: 폰 원문이 @GiGO_okayama 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-22T06:52:04Z", "via": "ingest", "who": "arale"}
