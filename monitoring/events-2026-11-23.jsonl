@@ -28,3 +28,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T22:46:22Z", "who": "aMnJOBcKQjE"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_2638bafa", "result": "ok", "title": "💜メン限 雑談💜みやこの部屋#14 【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-11-22T22:46:22Z", "video_id": "aMnJOBcKQjE", "who": "miyako"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · aMnJOBcKQjE · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:aMnJOBcKQjE", "result": "ok", "title": "💜メン限 雑談💜みやこの部屋#14 【ゆめみた/藤都子】", "ts": "2026-11-22T22:46:22Z", "video_id": "aMnJOBcKQjE", "who": "miyako"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T22:50:00Z", "who": "wmGE4q65afo"}
