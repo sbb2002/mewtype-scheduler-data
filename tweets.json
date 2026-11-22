@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T11:29:48Z",
+  "generated_at": "2026-11-22T12:41:02Z",
   "tweets": {
     "arale": [
       {
@@ -795,6 +795,22 @@
         "text": "うわ！！！！うわうわうわうわうわ！！！\nすっげー！！！！！！！！\n目が覚めたらまだ午前中！！！！！！！\n\n天才かもしれない！！！！！！！！！！\nえ、すっげー！！！！！",
         "text_ko": "와!!! 와와와와와와!!!\n대박!!!\n일어나 보니 아직 오전이야!!!\n천재일지도 몰라!!!\n어, 대박!!!",
         "url": "https://x.com/i/status/2124331591795384692"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-24T12:35:09Z",
+        "handle": "yuno_yumemita",
+        "id": "2124481812538032183",
+        "media": [
+          "https://pbs.twimg.com/media/HXus8upbgAAAyE8.jpg"
+        ],
+        "posted_at": "2026-11-22T12:35:09Z",
+        "quote": null,
+        "received_at": "2026-11-22T12:41:02Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/22 22:00〜 #アワーノーツ\n\nゆめみたイベント開催中！\nコンプ目指してガチャ引きます！！！\n\nhttps://www.youtube.com/live/xXASBwSHwZE?si=gxtH49Vo5QKEnXme",
+        "text_ko": "〈방송 안내〉\n11/22 22:00〜 #아워노츠\n\n유메미타 이벤트 진행 중!\n컴프 목표로 가챠 뽑습니다!!!",
+        "url": "https://x.com/i/status/2124481812538032183"
       }
     ]
   }
