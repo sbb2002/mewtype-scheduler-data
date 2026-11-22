@@ -104,3 +104,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T14:06:23Z", "tweet_id": "2124503605281763330", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 오늘 23:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-22T14:06:23Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-22T14:06:49Z", "who": "峰月律"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T14:15:00Z", "who": "xXASBwSHwZE"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_e2a6f2e6", "result": "ok", "title": "【 #アワーノーツ 】千石ユノさんはゆめみたが好き【 #千石ユノ / #バンドリ 】", "to_state": "out", "ts": "2026-11-22T14:15:00Z", "video_id": "xXASBwSHwZE", "who": "yuno"}
