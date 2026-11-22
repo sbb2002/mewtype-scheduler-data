@@ -5255,6 +5255,26 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5bdb158aa2",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜23:00〜\n\n班長として、ガチャでSSRを手に入れます\n#アワーノーツ\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/4HoiOYfOkt4?si=Dv1jVZq9XdWi-o1D\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "ハジメマス！ガチャ！",
+        "tag": "p#https://x.com/#1tweet-2124503605281763330"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 23:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-22T14:06:23Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
