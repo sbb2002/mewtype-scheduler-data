@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-22T12:40:00Z",
+  "generated_at": "2026-11-22T12:40:06Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-22T12:40:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-22T13:00:00Z",
       "source": "api",
       "state": "watching",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/xXASBwSHwZE/maxresdefault.jpg?v=6b02e0f7",
       "time_tbd": false,
       "title": "【 #アワーノーツ 】千石ユノさんはゆめみたが好き【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #아워노츠 】센고쿠 유노씨는 유메미타가 좋아【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=xXASBwSHwZE",
       "video_id": "xXASBwSHwZE"
     },
