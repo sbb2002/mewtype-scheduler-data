@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-22T22:50:00Z",
+  "generated_at": "2026-11-22T22:50:32Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-22T22:50:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-25T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/aMnJOBcKQjE/maxresdefault.jpg?v=6affe57f",
       "time_tbd": false,
       "title": "💜メン限 雑談💜みやこの部屋#14 【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "💜멤버십 한정 잡담💜미야코의 방#14 【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=aMnJOBcKQjE",
       "video_id": "aMnJOBcKQjE"
     },
@@ -127,7 +126,6 @@
       "kind": null,
       "last_updated": "2026-11-22T22:50:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-28T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -135,7 +133,7 @@
       "thumbnail": "https://i.ytimg.com/vi/O8w36mKQpTU/maxresdefault.jpg?v=6affe645",
       "time_tbd": false,
       "title": "【歌枠】ボカロをうたいまくり隊【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【노래 방송】보컬로를 부르는 팀【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=O8w36mKQpTU",
       "video_id": "O8w36mKQpTU"
     },
