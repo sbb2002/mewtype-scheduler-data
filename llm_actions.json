@@ -5275,6 +5275,32 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_429b35f5f0",
+      "input": {
+        "channel_key": "arale",
+        "raw": "そいえば！次回の配信予定！\n11/23㈪ 23:30~すやバラです🎶🌃\n\n3連休最後の夜に、平日頑張れるように安眠導入しようね〜^ ͈ᴗ̀ ̫ᴗ́ ͈^✨️\n\nほな、おやすみなさい…^-﹃ -^",
+        "tag": "p#https://x.com/#1tweet-2124519738953113734"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 다음 방송 일시와 시간을 명시하여 예고하고 있기 때문에 true입니다. (근거: 「11/23㈪ 23:30~すやバラです」)",
+      "summary": "본인 예고로 등록 — 23:30 JST · そいえば！次回の配信予定！\n11/23㈪ 23:30~すやバラです🎶🌃\n\n3連休",
+      "ts": "2026-11-22T15:13:06Z",
+      "undo": {
+        "items": [
+          {
+            "id": "pv_da158e57"
+          }
+        ],
+        "type": "remove_items"
+      },
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
