@@ -5236,6 +5236,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_6e10d47a31",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/22 22:00～ #アワーノーツ \n\nゆめみたイベント開催中！\nコンプ目指してガチャ引きます！！！\n\nhttps://www.youtube.com/live/xXASBwSHwZE?si=gxtH49Vo5QKEnXme",
+        "tag": "p#https://x.com/#1tweet-2124481812538032183"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/22 22:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-22T12:41:02Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
