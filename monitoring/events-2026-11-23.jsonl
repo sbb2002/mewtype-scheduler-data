@@ -35,3 +35,5 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T23:01:02Z", "tweet_id": "2124638290519474303", "via": "ingest", "who": "miyako"}
 {"detail": "url-schedule skip: 이미 끝난 방송 wmGE4q65afo", "flow": "tweet", "result": "ok", "ts": "2026-11-22T23:01:02Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-22T23:01:14Z", "who": "藤都子"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T23:20:00Z", "who": "wmGE4q65afo"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_62104875", "result": "ok", "title": "【朝活】筋トレをするイベントをしてきました✨💪🐶🍤【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "out", "ts": "2026-11-22T23:20:00Z", "video_id": "wmGE4q65afo", "who": "miyako"}
