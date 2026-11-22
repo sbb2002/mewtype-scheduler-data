@@ -72,3 +72,4 @@
 {"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T12:40:00Z", "who": "xXASBwSHwZE"}
 {"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_e2a6f2e6", "result": "ok", "title": "【 #アワーノーツ 】千石ユノさんはゆめみたが好き【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-22T12:40:00Z", "video_id": "xXASBwSHwZE", "who": "yuno"}
 {"candidates": 63, "detail": "candidates=63 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-22T12:40:06Z", "who": ""}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T12:41:02Z", "tweet_id": "2124481812538032183", "via": "ingest", "who": "yuno"}
