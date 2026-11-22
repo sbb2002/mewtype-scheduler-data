@@ -38,3 +38,4 @@
 {"detail": "gap-fill · 2124393242288619684 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-22T06:51:07Z", "tweet_id": "2124393242288619684", "via": "ingest", "who": "arale"}
 {"detail": "retweet skip: 폰 원문이 @GiGO_okayama 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-22T06:52:04Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-22T06:52:06Z", "who": "仲町あられ"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +8분 · 2124393242288619684", "flow": "tweet", "result": "ok", "ts": "2026-11-22T06:52:04Z", "tweet_id": "2124393242288619684", "via": "ingest", "who": "arale"}
