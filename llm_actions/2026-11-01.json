@@ -44,6 +44,175 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_68ffb7573d",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信開始🩹♡\n\nおはようございますはじまます\nよしゃー‼️‼️‼️‼️\n\n#ののちゃんたいむ\n\n# 9【魔法少女ノ魔女裁判】第五回魔女裁判！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ　https://www.youtube.com/live/jZbWoJ7n54Q?si=hwcxOPBBLLCxXtPR",
+        "tag": "p#https://x.com/#1tweet-2116716672157663361"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 방송 시작을 알리는 내용이며, 취소나 일정 변경에 대한 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-01T02:19:24Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_58c740ef47",
+      "input": {
+        "acct": "bang_dream_on",
+        "media": [
+          "https://pbs.twimg.com/media/HVx28TTbAAAm5Uo.jpg"
+        ],
+        "raw": "明日よりコラボ開催！\n『BanG Dream! Our Notes』×SWEETS PARADISE🍰\n\nいよいよ明日より開催いたします🎉ぜひお楽しみに！\n\n▼詳細はこちら\nhttps://www.sweets-paradise.jp/collaboration/ournotes\n\n#バンドリ #アワーノーツ",
+        "tag": "p#https://x.com/#1tweet-2116726938991468766"
+      },
+      "kind": "banner_judge",
+      "parent_id": null,
+      "reason": "게임 밖 — 게임 외부의 SWEETS PARADISE와의 콜라보 행사 안내이므로 게임 앱 밖의 일이다. (근거: 「明日よりコラボ開催！」 「『BanG Dream! Our Notes』×SWEETS PARADISE🍰」 「いよいよ明日より開催いたします🎉ぜひお楽しみに！」)",
+      "summary": "행사 배너 아님 — 게임 밖 콜라보 · 행사라 소식으로 (소식 none)",
+      "ts": "2026-11-01T03:02:19Z",
+      "undo": null,
+      "undone": null,
+      "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_5f4c439686",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "【2026年11月 配信スケジュール】   \nバンドリ！夢限大みゅーたいぷ DJ & Mp. 千石ユノです🖤🩷  \n\n11/4はユノちゃんのお誕生日！！！\n\nエゴサ▶︎ #みてユノ\n配信▶︎ #ユノの生存報告\nFA▶︎ #ユノ展\nVG▶︎ #ユノちとヴァンガード \n\nYouTube : https://youtube.com/@yuno_yumemita",
+        "tag": "p#https://x.com/#1tweet-2116810940020834811"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11월 4일 생일 및 다양한 해시태그와 일정 안내이며, 기존에 제시된 11/01 22:00와 01/01 23:30 방송을 취소하거나 변경한다는 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-01T08:37:59Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_8ae4febfb5",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/2(月)7:00～朝配信☀\nさむさむに打ち勝ち起床しなさい🐏❣\nぽやしみ🌙\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2116871855315501214"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "작성자가 \"配信よてい\"와 구체적인 날짜·시간(11/2(月)7:00～)을 함께 적어 앞으로 할 방송을 알리는 예고이기 때문입니다. (근거: 「配信よてい\n11/2(月)7:00～朝配信」)",
+      "summary": "본인 예고로 등록 — 07:00 JST · 💜配信よてい💜\n11/2(月)7:00～朝配信☀\nさむさむに打ち勝ち起床しなさい",
+      "ts": "2026-11-01T12:35:56Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "miyako",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-02T01:00:00Z",
+            "first_seen": "2026-11-01T00:30:03Z",
+            "host": null,
+            "id": "pv_e2f21c2b",
+            "info_at": "2026-11-01T00:30:03Z",
+            "info_source": "x-relay",
+            "kind": "morning",
+            "last_updated": "2026-11-01T00:30:03Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-01T22:00:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2116689176615927818",
+            "state": "announced",
+            "state_since": "2026-11-01T00:30:03Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2c05c118fc",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/2(月)7:00～朝配信☀\nさむさむに打ち勝ち起床しなさい🐏❣\nぽやしみ🌙\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2116871855315501214"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/2(월) 7시 아침 방송을 알리는 내용이며, 기존 일정의 취소나 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-01T12:35:56Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e1717b315c",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/1 22:00～ 雑談\n\n明日の配信予定が今日になったよ✌\nなにしようかしら？\nhttps://youtube.com/live/KWIRL2rcmio?feature=share",
+        "tag": "p#https://x.com/#1tweet-2116876155810951538"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/1 22:00에 잡담 스트리밍을 새로 알리는 내용이며, 기존 일정의 취소나 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-01T12:53:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_9e44b49b30",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n11/2 朝8:00~\nおはようりっちゃん☀️\n11月は〜朝活からスタート！\n\n↻ ＵＲＬ\n https://www.youtube.com/live/wQmJpHFkRug?si=SdFAq-GTq15C-lWF\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2116881728233259336"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "예고 글이며 기존 일정 변경이나 취소를 언급하지 않음",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-01T13:15:11Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
