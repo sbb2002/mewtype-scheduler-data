@@ -64,3 +64,4 @@
 {"detail": "gap-fill · 2124459417542537480 · +7분 · mode: dup", "flow": "tweet", "result": "warn", "ts": "2026-11-22T11:14:06Z", "tweet_id": "2124459417542537480", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-22T11:14:11Z", "who": "宮永ののか🐰🩹"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T11:29:48Z", "tweet_id": "2124465353967411218", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-22T11:29:59Z", "who": "藤都子"}
