@@ -5126,6 +5126,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_d9268a0ec0",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜23:00〜\n\n班長として、ガチャでSSRを手に入れます\n#アワーノーツ\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/4HoiOYfOkt4?si=Dv1jVZq9XdWi-o1D\n\n🩵 ･･････････････････････ 🩵",
+        "tag": "p#https://x.com/#1tweet-2124402143100826058"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 23:00에 진행될 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않기 때문입니다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-22T07:26:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
