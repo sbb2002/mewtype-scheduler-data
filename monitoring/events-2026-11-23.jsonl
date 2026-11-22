@@ -16,3 +16,4 @@
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_62104875", "result": "ok", "title": "【朝活】筋トレをするイベントをしてきました✨💪🐶🍤【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "to_state": "live", "ts": "2026-11-22T22:00:13Z", "video_id": "wmGE4q65afo", "who": "miyako"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · wmGE4q65afo · 예고 live", "flow": "websub", "merge_key": "websub-notify:wmGE4q65afo", "result": "ok", "title": "【朝活】筋トレをするイベントをしてきました✨💪🐶🍤【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber", "ts": "2026-11-22T22:00:33Z", "video_id": "wmGE4q65afo", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T22:00:55Z", "tweet_id": "2124624183938449606", "via": "ingest", "who": "miyako"}
+{"detail": "broadcast-change none · 게시물은 11/23 07:00에 진행될 방송을 알리는 예고이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-22T22:00:55Z", "via": "ingest", "who": "miyako"}
