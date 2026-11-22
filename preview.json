@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-22T22:50:32Z",
+  "generated_at": "2026-11-22T23:20:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-22T22:50:00Z",
+      "last_updated": "2026-11-22T23:20:00Z",
       "membership": false,
       "scheduled_start": "2026-11-25T12:30:00Z",
       "source": "api",
@@ -124,7 +124,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-22T22:50:00Z",
+      "last_updated": "2026-11-22T23:20:00Z",
       "membership": false,
       "scheduled_start": "2026-11-28T12:30:00Z",
       "source": "api",
@@ -152,7 +152,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-22T22:50:00Z",
+      "last_updated": "2026-11-22T23:20:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -181,7 +181,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-22T22:50:00Z",
+      "last_updated": "2026-11-22T23:20:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -283,36 +283,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-11-22T21:59:47Z",
-      "announced_start": "2026-11-22T22:00:00Z",
-      "api_start_seen": "2026-11-22T21:59:28Z",
-      "assumed_live": false,
-      "channel_key": "miyako",
-      "collab_with": null,
-      "concurrent_viewers": 97,
-      "expires_at": "2026-11-23T00:59:28Z",
-      "first_seen": "2026-11-22T22:00:13Z",
-      "host": null,
-      "id": "pv_62104875",
-      "info_at": null,
-      "info_source": "api",
-      "is_premiere": false,
-      "kind": null,
-      "last_updated": "2026-11-22T22:50:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-22T21:59:28Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2124624183938449606",
-      "state": "end",
-      "state_since": "2026-11-22T22:45:17Z",
-      "thumbnail": "https://i.ytimg.com/vi/wmGE4q65afo/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【朝活】筋トレをするイベントをしてきました✨💪🐶🍤【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
-      "title_ko": "【아침 활동】근력운동 이벤트 했어요✨💪🐶🍤【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
-      "url": "https://www.youtube.com/watch?v=wmGE4q65afo",
-      "video_id": "wmGE4q65afo"
     }
   ]
 }
