@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:35:00Z",
+  "generated_at": "2026-11-22T23:20:00Z",
   "items": [
     {
       "actual_start": "2026-11-15T22:00:08Z",
@@ -597,6 +597,37 @@
       "title_ko": "【뱅드림! 아워노츠】 반장으로서, 가챠에서 SSR을 획득합니다【미네츠키 리츠/유메미타】#아워노츠",
       "url": "https://www.youtube.com/watch?v=4HoiOYfOkt4",
       "video_id": "4HoiOYfOkt4"
+    },
+    {
+      "actual_start": "2026-11-22T21:59:47Z",
+      "announced_start": "2026-11-22T22:00:00Z",
+      "api_start_seen": "2026-11-22T21:59:28Z",
+      "archived_at": "2026-11-22T23:20:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 97,
+      "expires_at": "2026-11-23T00:59:28Z",
+      "first_seen": "2026-11-22T22:00:13Z",
+      "host": null,
+      "id": "pv_62104875",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-22T23:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-22T21:59:28Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2124624183938449606",
+      "state": "out",
+      "state_since": "2026-11-22T23:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/wmGE4q65afo/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【朝活】筋トレをするイベントをしてきました✨💪🐶🍤【夢限大みゅーたいぷ/藤都子】#shorts #縦型配信 #vtuber",
+      "title_ko": "【아침 활동】근력운동 이벤트 했어요✨💪🐶🍤【무겐다이 뮤타입/후지 미야코】#shorts #縦型配信 #vtuber",
+      "url": "https://www.youtube.com/watch?v=wmGE4q65afo",
+      "video_id": "wmGE4q65afo"
     }
   ]
 }
