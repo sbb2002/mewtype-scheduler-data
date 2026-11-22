@@ -114,3 +114,6 @@
 {"candidates": 47, "detail": "candidates=47 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T15:00:00Z", "who": ""}
 {"assumed_live": false, "detail": "announced→out", "flow": "preview", "from_state": "announced", "item_id": "pv_783d3a35", "result": "ok", "title": null, "to_state": "out", "ts": "2026-11-22T15:00:00Z", "video_id": null, "who": "yuno"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-22T15:00:43Z", "who": "group"}
+{"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T15:01:48Z", "who": "4HoiOYfOkt4"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_6fa4ba6e", "result": "ok", "title": "【バンドリ！アワーノーツ】班長として、ガチャでSSRを手に入れます【峰月律/ゆめみた】#アワーノーツ", "to_state": "end", "ts": "2026-11-22T15:01:48Z", "video_id": "4HoiOYfOkt4", "who": "ritsu"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · 4HoiOYfOkt4 · 예고 end", "flow": "websub", "merge_key": "websub-notify:4HoiOYfOkt4", "result": "ok", "title": "【バンドリ！アワーノーツ】班長として、ガチャでSSRを手に入れます【峰月律/ゆめみた】#アワーノーツ", "ts": "2026-11-22T15:01:48Z", "video_id": "4HoiOYfOkt4", "who": "ritsu"}
