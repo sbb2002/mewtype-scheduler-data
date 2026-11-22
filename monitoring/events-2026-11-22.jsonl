@@ -86,3 +86,5 @@
 {"candidates": 33, "detail": "candidates=33 preview_changed=True", "flow": "tick", "mode": "light", "preview_changed": true, "quota": 101, "result": "ok", "ts": "2026-11-22T13:02:00Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T13:03:16Z", "tweet_id": "2124488874332409947", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-22T13:03:34Z", "who": "藤都子"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T13:40:00Z", "who": "4HoiOYfOkt4"}
+{"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_6fa4ba6e", "result": "ok", "title": "【バンドリ！アワーノーツ】班長として、ガチャでSSRを手に入れます【峰月律/ゆめみた】#アワーノーツ", "to_state": "watching", "ts": "2026-11-22T13:40:00Z", "video_id": "4HoiOYfOkt4", "who": "ritsu"}
