@@ -131,3 +131,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T15:26:40Z", "tweet_id": "2124524740262162875", "via": "ingest", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-22T15:26:42Z", "tweet_id": "2124524977320034788", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-22T15:27:02Z", "who": "宮永ののか🐰🩹"}
+{"detail": "text-schedule skip: announces_own_broadcast() 5회 모두 실패(응답 · 근거 없음) — 미등록", "flow": "tweet", "result": "err", "ts": "2026-11-22T15:26:40Z", "via": "ingest", "who": "nonoka"}
