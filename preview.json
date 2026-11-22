@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-22T15:05:00Z",
+  "generated_at": "2026-11-22T15:13:06Z",
   "items": [
     {
       "actual_start": null,
@@ -226,6 +226,36 @@
       "title_ko": "【뱅드림! 아워노츠】 반장으로서, 가챠에서 SSR을 획득합니다【미네츠키 리츠/유메미타】#아워노츠",
       "url": "https://www.youtube.com/watch?v=4HoiOYfOkt4",
       "video_id": "4HoiOYfOkt4"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [],
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-23T17:30:00Z",
+      "first_seen": "2026-11-22T15:13:06Z",
+      "host": null,
+      "id": "pv_da158e57",
+      "info_at": "2026-11-22T15:05:52Z",
+      "info_source": "personal",
+      "is_premiere": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-22T15:13:06Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-23T14:30:00Z",
+      "source": "personal",
+      "src_url": "https://x.com/i/status/2124519738953113734",
+      "state": "announced",
+      "state_since": "2026-11-22T15:13:06Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": "https://www.youtube.com/@arale_yumemita",
+      "video_id": null
     }
   ]
 }
