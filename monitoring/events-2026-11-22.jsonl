@@ -120,3 +120,4 @@
 {"candidates": 3, "detail": "candidates=3 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-22T15:05:00Z", "who": "4HoiOYfOkt4"}
 {"assumed_live": false, "detail": "None→announced", "flow": "preview", "from_state": null, "item_id": "pv_da158e57", "result": "ok", "title": null, "to_state": "announced", "ts": "2026-11-22T15:13:06Z", "video_id": null, "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 11/23 23:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하고 있지 않다.", "flow": "tweet", "result": "ok", "ts": "2026-11-22T15:13:06Z", "via": "ingest", "who": "arale"}
+{"detail": "gap-fill · 2124519738953113734 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-22T15:13:06Z", "tweet_id": "2124519738953113734", "via": "ingest", "who": "arale"}
