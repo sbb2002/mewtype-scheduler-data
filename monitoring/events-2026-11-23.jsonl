@@ -69,3 +69,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-23T07:00:08Z", "tweet_id": "2124759072289575025", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-23T07:00:22Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-23T07:56:46Z", "tweet_id": "2124774134295273627", "via": "ingest", "who": "ritsu"}
+{"detail": "broadcast-change del · ‘오늘은 쉬는 날’이라고 사과하며 오늘 방송을 하지 않겠다고 밝혀 해당 방송을 취소한다는 내용이다. · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-11-23T07:56:46Z", "via": "ingest", "who": "ritsu"}
