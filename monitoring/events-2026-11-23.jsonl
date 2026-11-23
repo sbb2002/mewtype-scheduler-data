@@ -90,3 +90,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-23T10:35:03Z", "tweet_id": "2124813890374766660", "via": "ingest", "who": "nonoka"}
 {"detail": "url-schedule skip: 이미 끝난 방송 4I8MEsPjlEY", "flow": "tweet", "result": "ok", "ts": "2026-11-23T10:35:03Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-23T10:35:30Z", "who": "宮永ののか🐰🩹"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-23T10:49:13Z", "tweet_id": "2124817534348370215", "via": "ingest", "who": "nonoka"}
