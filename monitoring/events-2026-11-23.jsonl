@@ -108,3 +108,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-23T12:59:52Z", "who": "DPy9q_weiGk"}
 {"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_1f8b54bf", "result": "ok", "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-23T12:59:52Z", "video_id": "DPy9q_weiGk", "who": "yuno"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · DPy9q_weiGk · 예고 watching", "flow": "websub", "merge_key": "websub-notify:DPy9q_weiGk", "result": "ok", "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】", "ts": "2026-11-23T12:59:52Z", "video_id": "DPy9q_weiGk", "who": "yuno"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-23T13:00:00Z", "who": "group"}
