@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:36:00Z",
+  "generated_at": "2026-11-23T16:50:00Z",
   "items": [
     {
       "actual_start": "2026-11-15T22:00:08Z",
@@ -692,6 +692,38 @@
       "title_ko": "【 #바이오7 】상황이 꽤 꼬였어요【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=DPy9q_weiGk",
       "video_id": "DPy9q_weiGk"
+    },
+    {
+      "actual_end": "2026-11-23T16:15:43Z",
+      "actual_start": "2026-11-23T14:39:54Z",
+      "announced_start": "2026-11-23T14:30:00Z",
+      "api_start_seen": "2026-11-23T14:30:00Z",
+      "archived_at": "2026-11-23T16:50:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": null,
+      "concurrent_viewers": 150,
+      "expires_at": "2026-11-23T17:30:00Z",
+      "first_seen": "2026-11-23T14:31:31Z",
+      "host": null,
+      "id": "pv_4421eec8",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-23T16:50:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-23T14:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2124874191992398244",
+      "state": "out",
+      "state_since": "2026-11-23T16:50:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/ZwwSClcomUg/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【🟡すやバラ歌枠】超久しぶり？？三連休最後にすやバラうたわーく！ #Shorts【 仲町あられ / 夢限大みゅーたいぷ 】",
+      "title_ko": "【🟡수야바라 노래 방송】초오랜만?? 3연휴 마지막에 수야바라 노래 방송! #Shorts【 나카마치 아라레 / 무겐다이 뮤타입 】",
+      "url": "https://www.youtube.com/watch?v=ZwwSClcomUg",
+      "video_id": "ZwwSClcomUg"
     }
   ]
 }
