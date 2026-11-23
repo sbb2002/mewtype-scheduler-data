@@ -5308,6 +5308,59 @@
       },
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_4a75492938",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/23 22:00頃～ #バイオ7 \n\n逃げてたんですけど、そろそろ逃げられなくなってきました",
+        "tag": "p#https://x.com/#1tweet-2124849831147635144"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "‘配信のおしらせ’와 구체적인 날짜·시각이 함께 있어 앞으로 할 방송을 알리는 예고로 판단했습니다. (근거: 「〈配信のおしらせ〉\n11/23 22:00頃～」)",
+      "summary": "본인 예고로 등록 — 22:00 JST · 〈配信のおしらせ〉\n11/23 22:00頃～ #バイオ7 \n\n逃げてたんですけ",
+      "ts": "2026-11-23T12:57:35Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "yuno",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-23T16:00:00Z",
+            "first_seen": "2026-11-23T00:30:02Z",
+            "host": null,
+            "id": "pv_2fe6e9fc",
+            "info_at": "2026-11-23T00:30:02Z",
+            "info_source": "x-relay",
+            "is_premiere": false,
+            "kind": "game",
+            "last_updated": "2026-11-23T00:30:02Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-23T13:00:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2124661708128202906",
+            "state": "announced",
+            "state_since": "2026-11-23T00:30:02Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
