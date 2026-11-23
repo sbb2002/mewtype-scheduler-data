@@ -59,3 +59,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-23T02:15:41Z", "tweet_id": "2124688300057477363", "via": "ingest", "who": "nonoka"}
 {"detail": "broadcast-change none · 게시물에 방송 취소나 일정 변경에 대한 언급이 없고, 단순히 인사와 현재 진행 중인 스트리밍 링크만 포함되어 있어", "flow": "tweet", "result": "ok", "ts": "2026-11-23T02:15:41Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-23T02:16:06Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 1, "result": "ok", "ts": "2026-11-23T02:20:01Z", "who": ""}
