@@ -120,3 +120,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-23T14:05:07Z", "who": "DPy9q_weiGk"}
 {"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_1f8b54bf", "result": "ok", "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】", "to_state": "end", "ts": "2026-11-23T14:05:07Z", "video_id": "DPy9q_weiGk", "who": "yuno"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · DPy9q_weiGk · 예고 end", "flow": "websub", "merge_key": "websub-notify:DPy9q_weiGk", "result": "ok", "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】", "ts": "2026-11-23T14:05:07Z", "video_id": "DPy9q_weiGk", "who": "yuno"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-23T14:10:00Z", "who": "DPy9q_weiGk"}
