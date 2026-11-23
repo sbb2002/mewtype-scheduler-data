@@ -105,3 +105,6 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-23T12:57:35Z", "tweet_id": "2124849831147635144", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change none · 해당 글은 11/23 22:00 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않음", "flow": "tweet", "result": "ok", "ts": "2026-11-23T12:57:35Z", "via": "ingest", "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-23T12:58:04Z", "who": "千石ユノ"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-23T12:59:52Z", "who": "DPy9q_weiGk"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_1f8b54bf", "result": "ok", "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】", "to_state": "watching", "ts": "2026-11-23T12:59:52Z", "video_id": "DPy9q_weiGk", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · DPy9q_weiGk · 예고 watching", "flow": "websub", "merge_key": "websub-notify:DPy9q_weiGk", "result": "ok", "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】", "ts": "2026-11-23T12:59:52Z", "video_id": "DPy9q_weiGk", "who": "yuno"}
