@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T16:50:00Z",
+  "generated_at": "2026-11-23T19:00:01Z",
   "items": [
     {
       "actual_start": "2026-11-15T22:00:08Z",
@@ -724,6 +724,43 @@
       "title_ko": "【🟡수야바라 노래 방송】초오랜만?? 3연휴 마지막에 수야바라 노래 방송! #Shorts【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=ZwwSClcomUg",
       "video_id": "ZwwSClcomUg"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "archived_at": "2026-11-23T19:00:01Z",
+      "assumed_live": false,
+      "cancelled": {
+        "at": "2026-11-23T07:56:46Z",
+        "by": "tweet",
+        "tweet_id": "2124774134295273627",
+        "tweet_url": "https://x.com/i/status/2124774134295273627"
+      },
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-23T15:00:00Z",
+      "first_seen": "2026-11-23T00:30:02Z",
+      "host": null,
+      "id": "pv_5142b918",
+      "info_at": "2026-11-23T00:30:02Z",
+      "info_source": "x-relay",
+      "is_premiere": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-23T07:56:46Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-23T12:00:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2124661708128202906",
+      "state": "announced",
+      "state_since": "2026-11-23T00:30:02Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     }
   ]
 }
