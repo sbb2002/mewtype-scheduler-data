@@ -5361,6 +5361,25 @@
       },
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_7183e11336",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/23 22:00頃～ #バイオ7 \n\n逃げてたんですけど、そろそろ逃げられなくなってきました",
+        "tag": "p#https://x.com/#1tweet-2124849831147635144"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "해당 글은 11/23 22:00 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않음",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-23T12:57:35Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
