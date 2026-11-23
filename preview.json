@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T02:20:01Z",
+  "generated_at": "2026-11-23T07:56:46Z",
   "items": [
     {
       "actual_start": "2026-11-23T02:14:47Z",
@@ -228,6 +228,12 @@
       "actual_start": null,
       "api_start_seen": null,
       "assumed_live": false,
+      "cancelled": {
+        "at": "2026-11-23T07:56:46Z",
+        "by": "tweet",
+        "tweet_id": "2124774134295273627",
+        "tweet_url": "https://x.com/i/status/2124774134295273627"
+      },
       "channel_key": "ritsu",
       "collab_with": null,
       "concurrent_viewers": null,
@@ -239,7 +245,7 @@
       "info_source": "x-relay",
       "is_premiere": false,
       "kind": "unknown",
-      "last_updated": "2026-11-23T00:30:02Z",
+      "last_updated": "2026-11-23T07:56:46Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-23T12:00:00Z",
