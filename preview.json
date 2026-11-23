@@ -99,7 +99,6 @@
       "kind": null,
       "last_updated": "2026-11-23T13:00:00Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-23T13:05:00Z",
       "source": "api",
       "state": "watching",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/DPy9q_weiGk/maxresdefault.jpg?v=6b0438c7",
       "time_tbd": false,
       "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】",
-      "title_ko": null,
+      "title_ko": "【 #바이오7 】상황이 꽤 꼬였어요【 #센고쿠 유노 / #뱅드림 】",
       "url": "https://www.youtube.com/watch?v=DPy9q_weiGk",
       "video_id": "DPy9q_weiGk"
     },
