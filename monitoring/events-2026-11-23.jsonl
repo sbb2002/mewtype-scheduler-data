@@ -57,3 +57,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-23T02:15:05Z", "who": "4I8MEsPjlEY"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_8e2f9635", "result": "ok", "title": "# 14【魔法少女ノ魔女裁判】第九回魔女裁判！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "live", "ts": "2026-11-23T02:15:05Z", "video_id": "4I8MEsPjlEY", "who": "nonoka"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-23T02:15:41Z", "tweet_id": "2124688300057477363", "via": "ingest", "who": "nonoka"}
+{"detail": "broadcast-change none · 게시물에 방송 취소나 일정 변경에 대한 언급이 없고, 단순히 인사와 현재 진행 중인 스트리밍 링크만 포함되어 있어", "flow": "tweet", "result": "ok", "ts": "2026-11-23T02:15:41Z", "via": "ingest", "who": "nonoka"}
