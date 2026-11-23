@@ -5254,6 +5254,60 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_bfd227698b",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "ごめんね今日はおやすみdayにします……！\nまた配信する時お知らせします(՞  . .՞)\"",
+        "tag": "p#https://x.com/#1tweet-2124774134295273627"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "‘오늘은 쉬는 날’이라고 사과하며 오늘 방송을 하지 않겠다고 밝혀 해당 방송을 취소한다는 내용이다.",
+      "summary": "방송 취소 1건(취소됨 표시) — 11/23 21:00 ",
+      "ts": "2026-11-23T07:56:46Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "ritsu",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-23T15:00:00Z",
+            "first_seen": "2026-11-23T00:30:02Z",
+            "host": null,
+            "id": "pv_5142b918",
+            "info_at": "2026-11-23T00:30:02Z",
+            "info_source": "x-relay",
+            "is_premiere": false,
+            "kind": "unknown",
+            "last_updated": "2026-11-23T00:30:02Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-23T12:00:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2124661708128202906",
+            "state": "announced",
+            "state_since": "2026-11-23T00:30:02Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "restore_items",
+        "unsuppress": []
+      },
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
