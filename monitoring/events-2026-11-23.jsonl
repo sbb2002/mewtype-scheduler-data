@@ -72,3 +72,4 @@
 {"detail": "broadcast-change del · ‘오늘은 쉬는 날’이라고 사과하며 오늘 방송을 하지 않겠다고 밝혀 해당 방송을 취소한다는 내용이다. · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-11-23T07:56:46Z", "via": "ingest", "who": "ritsu"}
 {"collab_with": null, "detail": "ritsu 방송 취소(LLM) · announced→cancelled", "flow": "preview", "from_state": "announced", "id": "pv_5142b918", "result": "ok", "title": null, "to_state": "cancelled", "ts": "2026-11-23T07:56:46Z", "video_id": null, "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-23T07:57:08Z", "who": "峰月律"}
+{"detail": "retweet skip: 폰 원문이 @gekirock_shop 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-23T07:57:24Z", "via": "ingest", "who": "ritsu"}
