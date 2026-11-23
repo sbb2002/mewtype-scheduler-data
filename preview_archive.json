@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:00:00Z",
+  "generated_at": "2026-11-23T14:36:00Z",
   "items": [
     {
       "actual_start": "2026-11-15T22:00:08Z",
@@ -661,6 +661,37 @@
       "title_ko": "# 14【마법소녀와 마녀 재판】제9회 마녀 재판! (？) 귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバ레",
       "url": "https://www.youtube.com/watch?v=4I8MEsPjlEY",
       "video_id": "4I8MEsPjlEY"
+    },
+    {
+      "actual_end": "2026-11-23T14:04:14Z",
+      "actual_start": "2026-11-23T13:05:21Z",
+      "announced_start": "2026-11-23T13:00:00Z",
+      "api_start_seen": "2026-11-23T13:05:00Z",
+      "archived_at": "2026-11-23T14:36:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": 213,
+      "expires_at": "2026-11-23T16:05:00Z",
+      "first_seen": "2026-11-23T12:59:52Z",
+      "host": null,
+      "id": "pv_1f8b54bf",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-23T14:36:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-23T13:05:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-11-23T14:36:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/DPy9q_weiGk/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【 #バイオ7 】結構詰んでいる状況です【 #千石ユノ / #バンドリ 】",
+      "title_ko": "【 #바이오7 】상황이 꽤 꼬였어요【 #센고쿠 유노 / #뱅드림 】",
+      "url": "https://www.youtube.com/watch?v=DPy9q_weiGk",
+      "video_id": "DPy9q_weiGk"
     }
   ]
 }
