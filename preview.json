@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T10:55:00Z",
+  "generated_at": "2026-11-23T11:00:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-23T10:55:00Z",
+      "last_updated": "2026-11-23T11:00:00Z",
       "membership": false,
       "scheduled_start": "2026-11-25T12:30:00Z",
       "source": "api",
@@ -124,7 +124,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-23T10:55:00Z",
+      "last_updated": "2026-11-23T11:00:00Z",
       "membership": false,
       "scheduled_start": "2026-11-28T12:30:00Z",
       "source": "api",
@@ -152,7 +152,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-23T10:55:00Z",
+      "last_updated": "2026-11-23T11:00:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -181,7 +181,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-23T10:55:00Z",
+      "last_updated": "2026-11-23T11:00:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -319,36 +319,6 @@
       "title_ko": null,
       "url": "https://www.youtube.com/@yuno_yumemita",
       "video_id": null
-    },
-    {
-      "actual_start": "2026-11-23T02:14:47Z",
-      "announced_start": "2026-11-23T02:00:00Z",
-      "api_start_seen": "2026-11-23T02:10:00Z",
-      "assumed_live": false,
-      "channel_key": "nonoka",
-      "collab_with": null,
-      "concurrent_viewers": 115,
-      "expires_at": "2026-11-23T05:10:00Z",
-      "first_seen": "2026-11-23T02:13:33Z",
-      "host": null,
-      "id": "pv_8e2f9635",
-      "info_at": null,
-      "info_source": "api",
-      "is_premiere": false,
-      "kind": null,
-      "last_updated": "2026-11-23T10:55:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-23T02:10:00Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2124688300057477363",
-      "state": "end",
-      "state_since": "2026-11-23T10:27:16Z",
-      "thumbnail": "https://i.ytimg.com/vi/4I8MEsPjlEY/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "# 14【魔法少女ノ魔女裁判】第九回魔女裁判！(？)かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
-      "title_ko": "# 14【마법소녀와 마녀 재판】제9회 마녀 재판! (？) 귀여운 마법소녀 게임을 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#まのさば実況 #まのさばネタバ레",
-      "url": "https://www.youtube.com/watch?v=4I8MEsPjlEY",
-      "video_id": "4I8MEsPjlEY"
     }
   ]
 }
