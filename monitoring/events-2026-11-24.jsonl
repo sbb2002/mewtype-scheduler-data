@@ -46,3 +46,4 @@
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T10:09:28Z", "who": "峰月律"}
 {"candidates": 64, "detail": "candidates=64 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-24T10:10:01Z", "who": ""}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T10:37:25Z", "tweet_id": "2125176893981032636", "via": "ingest", "who": "nonoka"}
+{"detail": "broadcast-change none · 게시물은 방송 내용 소개와 기대감 표현이며, 일정 변경이나 취소에 대한 언급이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-24T10:37:25Z", "via": "ingest", "who": "nonoka"}
