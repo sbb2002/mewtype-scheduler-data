@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T10:10:01Z",
+  "generated_at": "2026-11-24T10:37:25Z",
   "items": [
     {
       "actual_start": null,
@@ -264,11 +264,11 @@
       "first_seen": "2026-11-24T09:30:27Z",
       "host": null,
       "id": "pv_e0ddd650",
-      "info_at": "2026-11-24T09:30:27Z",
-      "info_source": "x-relay",
+      "info_at": "2026-11-24T10:37:10Z",
+      "info_source": "personal",
       "is_premiere": false,
       "kind": "game",
-      "last_updated": "2026-11-24T09:30:27Z",
+      "last_updated": "2026-11-24T10:37:25Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-24T12:30:00Z",
