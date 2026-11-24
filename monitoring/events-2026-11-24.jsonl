@@ -102,3 +102,4 @@
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T13:15:00Z", "who": "CPrbmESp-Q8"}
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T13:40:00Z", "who": "tQy1jWeTLOI"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_eced24d0", "result": "ok", "title": "近づいてみたよ", "to_state": "out", "ts": "2026-11-24T13:40:00Z", "video_id": "CPrbmESp-Q8", "who": "ritsu"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-24T14:00:03Z", "who": "group"}
