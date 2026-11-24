@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:37:54Z",
+  "generated_at": "2026-11-24T13:08:07Z",
   "tweets": {
     "arale": [
       {
@@ -418,6 +418,22 @@
         "text": "はじめます",
         "text_ko": "시작합니다",
         "url": "https://x.com/i/status/2125198207240302957"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-26T13:07:12Z",
+        "handle": "ritsu_yumemita",
+        "id": "2125214652015788537",
+        "media": [
+          "https://pbs.twimg.com/media/HX5Hbm6aQAAVbSx.jpg"
+        ],
+        "posted_at": "2026-11-24T13:07:12Z",
+        "quote": null,
+        "received_at": "2026-11-24T13:08:07Z",
+        "reply_to_id": null,
+        "text": "はへ",
+        "text_ko": "하헤",
+        "url": "https://x.com/i/status/2125214652015788537"
       }
     ],
     "yuno": [
