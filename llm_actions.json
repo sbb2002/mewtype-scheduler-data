@@ -5276,6 +5276,60 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_c12399c29d",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n11/24(火)の配信スケジュール🌟\n＼\n\n✨21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n🎮21:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n💭22:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n🎤23:30～ 仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n#バンドリ",
+        "raw": "♡🐰今日の配信🩹♡\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/24 21:30-\n\n魔法少女ノ魔女裁判‼️最終章‼️\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\nののちゃんのまのさば、きょうでついに最終回!!!\nほんとうに胸がアツい展開で、最終章楽しみすぎます....😭✨\n見届けましょう‼️\n\n #ののちゃんたいむ  #まのさばネタバレ",
+        "tag": "p#https://x.com/#1tweet-2125176893981032636"
+      },
+      "kind": "own_broadcast",
+      "parent_id": null,
+      "reason": "날짜와 시각이 명시된 \"11/24 21:30-\"와 \"配信\"이라는 표현이 함께 있어 앞으로 진행될 방송을 알리는 예고이므로 true이다. (근거: 「11/24 21:30-\n魔法少女ノ魔女裁判‼️最終章‼️」)",
+      "summary": "본인 예고로 등록 — 21:30 JST · ♡🐰今日の配信🩹♡\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/24 21:30",
+      "ts": "2026-11-24T10:37:25Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "nonoka",
+            "collab_with": null,
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-24T15:30:00Z",
+            "first_seen": "2026-11-24T09:30:27Z",
+            "host": null,
+            "id": "pv_e0ddd650",
+            "info_at": "2026-11-24T09:30:27Z",
+            "info_source": "x-relay",
+            "is_premiere": false,
+            "kind": "game",
+            "last_updated": "2026-11-24T09:30:27Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-24T12:30:00Z",
+            "source": "x-relay",
+            "src_url": "https://x.com/i/status/2125159993947095319",
+            "state": "announced",
+            "state_since": "2026-11-24T09:30:27Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": null,
+            "video_id": null
+          }
+        ],
+        "type": "replace_items"
+      },
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
