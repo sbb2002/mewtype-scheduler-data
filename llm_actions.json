@@ -5427,6 +5427,25 @@
       "undo": null,
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_cfffdcae5e",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/24(火) 23:30~┊#イ中田丁なう\n\n┊ すやバラ歌枠 ┊アコギでお届け安眠♬\n\n🔗 https://youtube.com/live/7ccVq2_XlYY",
+        "tag": "p#https://x.com/#1tweet-2125229755775750352"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/24 23:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-24T14:07:15Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
