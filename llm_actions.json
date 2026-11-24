@@ -5330,6 +5330,26 @@
       },
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_ac91501b57",
+      "input": {
+        "channel_key": "nonoka",
+        "quote": "／\n🛸#ゆめみた\n11/24(火)の配信スケジュール🌟\n＼\n\n✨21:00～ 峰月律\nhttps://www.youtube.com/@ritsu_yumemita\n\n🎮21:30～ 宮永ののか\nhttps://www.youtube.com/@nonoka_yumemita\n\n💭22:00～ 千石ユノ\nhttps://www.youtube.com/@yuno_yumemita\n\n🎤23:30～ 仲町あられ\nhttps://www.youtube.com/@arale_yumemita\n\n#バンドリ",
+        "raw": "♡🐰今日の配信🩹♡\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/24 21:30-\n\n魔法少女ノ魔女裁判‼️最終章‼️\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\nののちゃんのまのさば、きょうでついに最終回!!!\nほんとうに胸がアツい展開で、最終章楽しみすぎます....😭✨\n見届けましょう‼️\n\n #ののちゃんたいむ  #まのさばネタバレ",
+        "tag": "p#https://x.com/#1tweet-2125176893981032636"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 방송 내용 소개와 기대감 표현이며, 일정 변경이나 취소에 대한 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-24T10:37:25Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
