@@ -65,3 +65,6 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-24T12:02:01Z", "who": "group"}
 {"detail": "broadcast-change none · ‘はじめます’와 ‘今夜21:00~’는 새로운 방송을 알리는 내용이며 취소·변경을 나타내는 표현이 없기 때문", "flow": "tweet", "result": "ok", "ts": "2026-11-24T12:01:53Z", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T12:02:24Z", "who": "峰月律"}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T12:11:19Z", "who": "tQy1jWeTLOI"}
+{"assumed_live": false, "detail": "None→watching", "flow": "preview", "from_state": null, "item_id": "pv_85d1e0a7", "result": "ok", "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "to_state": "watching", "ts": "2026-11-24T12:11:19Z", "video_id": "tQy1jWeTLOI", "who": "nonoka"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · tQy1jWeTLOI · 예고 watching", "flow": "websub", "merge_key": "websub-notify:tQy1jWeTLOI", "result": "ok", "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "ts": "2026-11-24T12:11:19Z", "video_id": "tQy1jWeTLOI", "who": "nonoka"}
