@@ -71,3 +71,4 @@
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T12:15:00Z", "who": "tQy1jWeTLOI"}
 {"candidates": 79, "detail": "candidates=79 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-24T12:20:03Z", "who": ""}
 {"action": "notify", "count": 1, "detail": "알림 수신 · tQy1jWeTLOI · 예고 watching", "flow": "websub", "merge_key": "websub-notify:tQy1jWeTLOI", "result": "ok", "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ", "ts": "2026-11-24T12:30:24Z", "video_id": "tQy1jWeTLOI", "who": "nonoka"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-24T12:31:02Z", "who": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ"}
