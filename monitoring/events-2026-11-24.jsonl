@@ -141,3 +141,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T16:06:30Z", "tweet_id": "2125259770097734005", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T16:06:49Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @ukyomigi 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-24T16:06:55Z", "via": "ingest", "who": "nonoka"}
+{"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T16:06:57Z", "who": "宮永ののか🐰🩹"}
