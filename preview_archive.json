@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:00:01Z",
+  "generated_at": "2026-11-24T13:40:00Z",
   "items": [
     {
       "actual_start": "2026-11-17T13:01:08Z",
@@ -640,6 +640,38 @@
       "title_ko": null,
       "url": null,
       "video_id": null
+    },
+    {
+      "actual_end": "2026-11-24T13:06:38Z",
+      "actual_start": "2026-11-24T12:01:03Z",
+      "announced_start": "2026-11-24T12:00:00Z",
+      "api_start_seen": "2026-11-24T12:00:00Z",
+      "archived_at": "2026-11-24T13:40:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 821,
+      "expires_at": "2026-11-24T15:00:00Z",
+      "first_seen": "2026-11-24T10:02:14Z",
+      "host": null,
+      "id": "pv_eced24d0",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-24T13:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-24T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2125169142047326311",
+      "state": "out",
+      "state_since": "2026-11-24T13:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/CPrbmESp-Q8/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "近づいてみたよ",
+      "title_ko": "다가가 봤어",
+      "url": "https://www.youtube.com/watch?v=CPrbmESp-Q8",
+      "video_id": "CPrbmESp-Q8"
     }
   ]
 }
