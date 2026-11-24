@@ -1,0 +1,1174 @@
+{
+  "backfillOnly": false,
+  "cmd": [],
+  "date": "2026-11-24",
+  "downRanges": [],
+  "eventCount": 154,
+  "hasLog": true,
+  "notice": [
+    {
+      "d": "mode: recap",
+      "nid": "2125137345951269267",
+      "t": "17:00",
+      "tone": "ok",
+      "ts": "2026-11-24T08:00:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "banner mode: none · 뽑을 이벤트 · 가챠 없음",
+      "nid": null,
+      "t": "20:31",
+      "tone": "ok",
+      "ts": "2026-11-24T11:31:27Z",
+      "via": "ingest"
+    }
+  ],
+  "nowHm": null,
+  "ops": [],
+  "preview": [
+    {
+      "member": "arale",
+      "segs": [
+        {
+          "carried": true,
+          "from": "06:00",
+          "id": "pv_c31e5a29",
+          "s": "upcoming",
+          "title": "【🟡配信】内容迷い中【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "23:00",
+          "vid": "7ccVq2_XlYY"
+        },
+        {
+          "from": "23:00",
+          "id": "pv_c31e5a29",
+          "s": "watching",
+          "title": "【🟡配信】内容迷い中【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "23:32",
+          "vid": "7ccVq2_XlYY"
+        },
+        {
+          "from": "23:32",
+          "id": "pv_c31e5a29",
+          "s": "live",
+          "title": "【🟡すやバラ歌枠】2夜連続✌️ちょっとだけ予定【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "00:59",
+          "vid": "7ccVq2_XlYY"
+        },
+        {
+          "from": "00:59",
+          "id": "pv_c31e5a29",
+          "s": "end",
+          "title": "【🟡すやバラ歌枠】2夜連続✌️ちょっとだけ予定【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "01:30",
+          "vid": "7ccVq2_XlYY"
+        },
+        {
+          "from": "01:30",
+          "id": "pv_c31e5a29",
+          "s": "out",
+          "title": "【🟡すやバラ歌枠】2夜連続✌️ちょっとだけ予定【 仲町あられ / 夢限大みゅーたいぷ 】",
+          "to": "01:33",
+          "vid": "7ccVq2_XlYY"
+        }
+      ],
+      "title": "【🟡すやバラ歌枠】2夜連続✌️ちょっとだけ予定【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "member": "yuno",
+      "segs": [
+        {
+          "from": "18:30",
+          "id": "pv_a9900689",
+          "s": "announced",
+          "title": null,
+          "to": "21:31",
+          "vid": null
+        },
+        {
+          "from": "21:31",
+          "id": "pv_0241bc82",
+          "s": "upcoming",
+          "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】",
+          "to": "21:40",
+          "vid": "3sT1hm90tEQ"
+        },
+        {
+          "from": "21:40",
+          "id": "pv_0241bc82",
+          "s": "watching",
+          "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】",
+          "to": "22:04",
+          "vid": "3sT1hm90tEQ"
+        },
+        {
+          "from": "22:04",
+          "id": "pv_0241bc82",
+          "s": "live",
+          "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】",
+          "to": "23:17",
+          "vid": "3sT1hm90tEQ"
+        },
+        {
+          "from": "23:17",
+          "id": "pv_0241bc82",
+          "s": "end",
+          "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】",
+          "to": "23:50",
+          "vid": "3sT1hm90tEQ"
+        },
+        {
+          "from": "23:50",
+          "id": "pv_0241bc82",
+          "s": "out",
+          "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】",
+          "to": "23:53",
+          "vid": "3sT1hm90tEQ"
+        }
+      ],
+      "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "member": "nonoka",
+      "segs": [
+        {
+          "from": "18:30",
+          "id": "pv_e0ddd650",
+          "s": "announced",
+          "title": null,
+          "to": "21:11",
+          "vid": null
+        },
+        {
+          "from": "21:11",
+          "id": "pv_85d1e0a7",
+          "s": "watching",
+          "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
+          "to": "21:31",
+          "vid": "tQy1jWeTLOI"
+        },
+        {
+          "from": "21:31",
+          "id": "pv_85d1e0a7",
+          "s": "live",
+          "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
+          "to": "01:00",
+          "vid": "tQy1jWeTLOI"
+        },
+        {
+          "from": "01:00",
+          "id": "pv_85d1e0a7",
+          "s": "end",
+          "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
+          "to": "01:30",
+          "vid": "tQy1jWeTLOI"
+        },
+        {
+          "from": "01:30",
+          "id": "pv_85d1e0a7",
+          "s": "out",
+          "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ",
+          "to": "01:33",
+          "vid": "tQy1jWeTLOI"
+        }
+      ],
+      "title": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ"
+    },
+    {
+      "member": "ritsu",
+      "segs": [
+        {
+          "from": "18:30",
+          "id": "pv_8272b0a5",
+          "s": "announced",
+          "title": null,
+          "to": "19:02",
+          "vid": null
+        },
+        {
+          "from": "19:02",
+          "id": "pv_eced24d0",
+          "s": "upcoming",
+          "title": "近づいてみたよ",
+          "to": "20:40",
+          "vid": "CPrbmESp-Q8"
+        },
+        {
+          "from": "20:40",
+          "id": "pv_eced24d0",
+          "s": "watching",
+          "title": "近づいてみたよ",
+          "to": "21:01",
+          "vid": "CPrbmESp-Q8"
+        },
+        {
+          "from": "21:01",
+          "id": "pv_eced24d0",
+          "s": "live",
+          "title": "近づいてみたよ",
+          "to": "22:06",
+          "vid": "CPrbmESp-Q8"
+        },
+        {
+          "from": "22:06",
+          "id": "pv_eced24d0",
+          "s": "end",
+          "title": "近づいてみたよ",
+          "to": "22:40",
+          "vid": "CPrbmESp-Q8"
+        },
+        {
+          "from": "22:40",
+          "id": "pv_eced24d0",
+          "s": "out",
+          "title": "近づいてみたよ",
+          "to": "22:43",
+          "vid": "CPrbmESp-Q8"
+        }
+      ],
+      "title": "近づいてみたよ"
+    },
+    {
+      "member": "miyako",
+      "segs": [],
+      "title": null
+    }
+  ],
+  "relay": [
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "nid": null,
+      "t": "11:39",
+      "tone": "ok",
+      "ts": "2026-11-24T02:39:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "nid": null,
+      "t": "13:15",
+      "tone": "ok",
+      "ts": "2026-11-24T04:15:28Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: none",
+      "nid": null,
+      "t": "17:00",
+      "tone": "ok",
+      "ts": "2026-11-24T08:00:17Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added · 파싱 4건",
+      "nid": null,
+      "t": "18:30",
+      "tone": "ok",
+      "ts": "2026-11-24T09:30:27Z",
+      "via": "ingest"
+    }
+  ],
+  "snapshotAt": "2026-11-24T21:10:00Z",
+  "song": [
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "06:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "06:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "07:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "08:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "09:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "10:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "11:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "12:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "13:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "14:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "15:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "16:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "17:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "18:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "19:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "20:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "21:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "21:02",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "22:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "22:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "22:02",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "23:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "23:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "00:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "01:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "02:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "03:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "04:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    },
+    {
+      "action": "rss_empty",
+      "d": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함",
+      "label": "RSS 비어 있음",
+      "ops": false,
+      "t": "05:00",
+      "title": "",
+      "tone": "warn",
+      "vid": ""
+    }
+  ],
+  "ticks": [
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "19:02"
+    },
+    {
+      "d": "candidates=64 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "19:10"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "20:40"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:01"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:11"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:15"
+    },
+    {
+      "d": "candidates=79 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "21:20"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:31"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:31"
+    },
+    {
+      "d": "candidates=64 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 2,
+      "t": "21:32"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "21:40"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:04"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:06"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:15"
+    },
+    {
+      "d": "candidates=8 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "22:40"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:06"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:06"
+    },
+    {
+      "d": "candidates=7 preview_changed=False",
+      "kind": "tick",
+      "mode": "light",
+      "ok": true,
+      "quota": 1,
+      "t": "23:10"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:17"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:21"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:32"
+    },
+    {
+      "d": "candidates=7 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "23:50"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "00:59"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:00"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:05"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:10"
+    },
+    {
+      "d": "candidates=6 preview_changed=True",
+      "kind": "wake",
+      "mode": "wake",
+      "ok": true,
+      "quota": 1,
+      "t": "01:30"
+    }
+  ],
+  "tweet": [
+    {
+      "d": "retweet skip: 폰 원문이 @cfvanguard_PR 의 글",
+      "member": "yuno",
+      "t": "11:41",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T02:41:57Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "19:09",
+      "tid": "2125169142047326311",
+      "tone": "ok",
+      "ts": "2026-11-24T10:09:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 오늘 21:00 방송을 알리는 내용이며 취소·변경을 언급하지 않는다.",
+      "member": "ritsu",
+      "t": "19:09",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T10:09:03Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "19:37",
+      "tid": "2125176893981032636",
+      "tone": "ok",
+      "ts": "2026-11-24T10:37:25Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 방송 내용 소개와 기대감 표현이며, 일정 변경이나 취소에 대한 언급이 없으므로",
+      "member": "nonoka",
+      "t": "19:37",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T10:37:25Z",
+      "via": "ingest"
+    },
+    {
+      "d": "gap-fill · 2125188258644836641 · +7분 · mode: added",
+      "member": "nonoka",
+      "t": "20:30",
+      "tid": "2125188258644836641",
+      "tone": "warn",
+      "ts": "2026-11-24T11:30:06Z",
+      "via": "ingest"
+    },
+    {
+      "d": "폰 늦게 도착 · 보충 뒤 +9분 · 2125188258644836641",
+      "member": "nonoka",
+      "t": "20:31",
+      "tid": "2125188258644836641",
+      "tone": "ok",
+      "ts": "2026-11-24T11:31:27Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "21:01",
+      "tid": "2125198207240302957",
+      "tone": "ok",
+      "ts": "2026-11-24T12:01:53Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · ‘はじめます’와 ‘今夜21:00~’는 새로운 방송을 알리는 내용이며 취소·변경을 나타내는 표현이 없기 때문",
+      "member": "ritsu",
+      "t": "21:01",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T12:01:53Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "yuno",
+      "t": "21:37",
+      "tid": "2125206879823692060",
+      "tone": "ok",
+      "ts": "2026-11-24T12:37:54Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "21:37",
+      "tid": "2125206322773889116",
+      "tone": "ok",
+      "ts": "2026-11-24T12:37:54Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 새로운 최종 장 방송 시작을 알리는 내용이며, 기존에 예정된 방송을 취소하거나 일정 변경을 언급하고 있지 않다.",
+      "member": "nonoka",
+      "t": "21:37",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T12:37:54Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 11/24 22:00에 예정된 생존 보고 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "member": "yuno",
+      "t": "21:37",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T12:37:54Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "ritsu",
+      "t": "22:08",
+      "tid": "2125214652015788537",
+      "tone": "ok",
+      "ts": "2026-11-24T13:08:07Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:07",
+      "tid": "2125229755775750352",
+      "tone": "ok",
+      "ts": "2026-11-24T14:07:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 11/24 23:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "member": "arale",
+      "t": "23:07",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T14:07:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "arale",
+      "t": "23:35",
+      "tid": "2125236800126058986",
+      "tone": "ok",
+      "ts": "2026-11-24T14:35:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "broadcast-change none · 게시물은 11/24 23:30 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않는다.",
+      "member": "arale",
+      "t": "23:35",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T14:35:15Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "01:04",
+      "tid": "2125259133419184224",
+      "tone": "ok",
+      "ts": "2026-11-24T16:04:00Z",
+      "via": "ingest"
+    },
+    {
+      "d": "url-schedule skip: 이미 끝난 방송 tQy1jWeTLOI",
+      "member": "nonoka",
+      "t": "01:04",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T16:04:00Z",
+      "via": "ingest"
+    },
+    {
+      "d": "mode: added",
+      "member": "nonoka",
+      "t": "01:06",
+      "tid": "2125259770097734005",
+      "tone": "ok",
+      "ts": "2026-11-24T16:06:30Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @ukyomigi 의 글",
+      "member": "nonoka",
+      "t": "01:06",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T16:06:55Z",
+      "via": "ingest"
+    },
+    {
+      "d": "retweet skip: 폰 원문이 @ukyomigi 의 글",
+      "member": "nonoka",
+      "t": "01:06",
+      "tid": null,
+      "tone": "ok",
+      "ts": "2026-11-24T16:06:58Z",
+      "via": "ingest"
+    }
+  ],
+  "upstream": [
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "src": "x",
+      "t": "11:39",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · mode: none · 공식 글 아님 · 리트윗: 폰 원문이 @PalworldOCG 의 글",
+      "derived": true,
+      "src": "x",
+      "t": "11:39",
+      "tone": "ok",
+      "who": ""
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "11:41",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "무시(반영 대상 아님) · 공식 글 아님 · 리트윗: 폰 원문이 @bang_dream_info 의 글",
+      "src": "x",
+      "t": "13:15",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 · 스케줄 아님(소식 등은 각 행 참고)",
+      "src": "x",
+      "t": "17:00",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "공식 스케줄 · 예고 4건",
+      "src": "x",
+      "t": "18:30",
+      "tone": "ok",
+      "who": "夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "19:09",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "19:37",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "20:31",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "처리됨",
+      "src": "x",
+      "t": "20:31",
+      "tone": "ok",
+      "who": "バンドリ！アワーノーツ"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "21:01",
+      "tone": "ok",
+      "who": "峰月律-Minetsuki Ritsu- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "21:02",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "21:31",
+      "tone": "ok",
+      "who": "# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "21:38",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · yuno",
+      "src": "x",
+      "t": "21:38",
+      "tone": "ok",
+      "who": "千石ユノ"
+    },
+    {
+      "d": "유튜브 sub_start",
+      "src": "yt",
+      "t": "22:04",
+      "tone": "ok",
+      "who": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】"
+    },
+    {
+      "d": "개인 트윗 · ritsu",
+      "src": "x",
+      "t": "22:08",
+      "tone": "ok",
+      "who": "峰月律"
+    },
+    {
+      "d": "유튜브 tunein",
+      "src": "yt",
+      "t": "23:00",
+      "tone": "ok",
+      "who": "【🟡配信】内容迷い中【 仲町あられ / 夢限大みゅーたいぷ 】"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:07",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "유튜브 reminder",
+      "src": "yt",
+      "t": "23:32",
+      "tone": "ok",
+      "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"
+    },
+    {
+      "d": "개인 트윗 · arale",
+      "src": "x",
+      "t": "23:35",
+      "tone": "ok",
+      "who": "仲町あられ"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "01:04",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "01:06",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "01:06",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    },
+    {
+      "d": "개인 트윗 · nonoka",
+      "src": "x",
+      "t": "01:07",
+      "tone": "ok",
+      "who": "宮永ののか🐰🩹"
+    }
+  ],
+  "vercelDeploys": {
+    "error": 0,
+    "preview": 20,
+    "production": 12,
+    "total": 32
+  }
+}
