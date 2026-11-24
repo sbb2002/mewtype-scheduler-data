@@ -111,3 +111,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · 7ccVq2_XlYY · 예고 watching", "flow": "websub", "merge_key": "websub-notify:7ccVq2_XlYY", "result": "ok", "title": "【🟡配信】内容迷い中【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-11-24T14:06:13Z", "video_id": "7ccVq2_XlYY", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T14:07:15Z", "tweet_id": "2125229755775750352", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 11/24 23:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-24T14:07:15Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T14:07:41Z", "who": "仲町あられ"}
