@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T11:30:06Z",
+  "generated_at": "2026-11-24T12:01:53Z",
   "tweets": {
     "arale": [
       {
@@ -384,6 +384,26 @@
         "text": "【配信予定】\n🩵 ･･････････････････････ 🩵\n\n今夜21:00〜\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/CPrbmESp-Q8?si=aZ4gxU4Hmb4JqSOd\n\n🩵 ･･････････････････････ 🩵",
         "text_ko": "【방송 예정】\n🩵 ･･････････････････････ 🩵\n\n오늘 밤 21:00부터\n\n↻ URL\nhttps://www.youtube.com/live/CPrbmESp-Q8?si=aZ4gxU4Hmb4JqSOd\n\n🩵 ･･････････････････････ 🩵",
         "url": "https://x.com/i/status/2125169142047326311"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-26T12:01:51Z",
+        "handle": "ritsu_yumemita",
+        "id": "2125198207240302957",
+        "media": [],
+        "posted_at": "2026-11-24T12:01:51Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HX4eEM7a8AIv4Mv.jpg"
+          ],
+          "text": "【配信予定】 \n🩵 ･･････････････････････ 🩵 \n\n今夜21:00~\n\n↻ ＵＲＬ\nhttps://www.youtube.com/live/CPrbmESp-Q8?si=aZ4gxU4Hmb4JqSOd\n\n🩵 ･･････････････････････ 🩵",
+          "text_ko": "【방송 예정】 \n🩵 ･･････････････････････ 🩵 \n\n오늘 밤 21:00~\n\n↻ URL\nhttps://www.youtube.com/live/CPrbmESp-Q8?si=aZ4gxU4Hmb4JqSOd\n\n🩵 ･･････････････････････ 🩵"
+        },
+        "received_at": "2026-11-24T12:01:53Z",
+        "reply_to_id": null,
+        "text": "はじめます",
+        "text_ko": "시작합니다",
+        "url": "https://x.com/i/status/2125198207240302957"
       }
     ],
     "yuno": [
