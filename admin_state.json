@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 ritsu (CPrbmESp-Q8)",
-    "at": "2026-11-24T10:09:03Z",
+    "action": "본인 예고 미야나가 노노카 (♡🐰今日の配信🩹♡\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n\n11/24 21:30)",
+    "at": "2026-11-24T10:37:25Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "f7e38d91279684b05a31ab9b595711de899f5097",
+    "new_sha": "81ba97fff5ed933fae7028781c5be76261435784",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-24T10:02:14Z",
+      "generated_at": "2026-11-24T10:10:01Z",
       "items": [
         {
           "actual_start": null,
@@ -135,17 +135,17 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-24T10:02:14Z",
+          "last_updated": "2026-11-24T10:09:03Z",
           "membership": false,
-          "needs_tl": true,
           "scheduled_start": "2026-11-24T12:00:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2125169142047326311",
           "state": "upcoming",
           "state_since": "2026-11-24T10:02:14Z",
-          "thumbnail": "https://i.ytimg.com/vi/CPrbmESp-Q8/maxresdefault.jpg?v=6b05609a",
+          "thumbnail": "https://i.ytimg.com/vi/CPrbmESp-Q8/maxresdefault.jpg?v=6b056130",
           "time_tbd": false,
           "title": "近づいてみたよ",
-          "title_ko": null,
+          "title_ko": "다가가 봤어",
           "url": "https://www.youtube.com/watch?v=CPrbmESp-Q8",
           "video_id": "CPrbmESp-Q8"
         },
