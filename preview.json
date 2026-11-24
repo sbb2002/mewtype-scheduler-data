@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T12:01:41Z",
+  "generated_at": "2026-11-24T12:01:53Z",
   "items": [
     {
       "actual_start": "2026-11-24T12:01:03Z",
@@ -88,7 +88,7 @@
       "assumed_live": false,
       "channel_key": "ritsu",
       "collab_with": null,
-      "concurrent_viewers": 252,
+      "concurrent_viewers": 279,
       "expires_at": "2026-11-24T15:00:00Z",
       "first_seen": "2026-11-24T10:02:14Z",
       "host": null,
@@ -97,7 +97,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-24T12:01:41Z",
+      "last_updated": "2026-11-24T12:01:53Z",
       "membership": false,
       "scheduled_start": "2026-11-24T12:00:00Z",
       "source": "api",
