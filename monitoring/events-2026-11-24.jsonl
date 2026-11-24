@@ -144,3 +144,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T16:06:57Z", "who": "宮永ののか🐰🩹"}
 {"detail": "retweet skip: 폰 원문이 @ukyomigi 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-24T16:06:58Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T16:07:02Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T16:10:00Z", "who": "tQy1jWeTLOI"}
