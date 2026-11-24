@@ -93,3 +93,4 @@
 {"candidates": 8, "detail": "candidates=8 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T13:04:18Z", "who": "3sT1hm90tEQ"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_0241bc82", "result": "ok", "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】", "to_state": "live", "ts": "2026-11-24T13:04:18Z", "video_id": "3sT1hm90tEQ", "who": "yuno"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 3sT1hm90tEQ · 예고 live", "flow": "websub", "merge_key": "websub-notify:3sT1hm90tEQ", "result": "ok", "title": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】", "ts": "2026-11-24T13:04:18Z", "video_id": "3sT1hm90tEQ", "who": "yuno"}
+{"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-24T13:04:51Z", "who": "【月に一度の】ユノの生存報告 #53 【 #千石ユノ / #バンドリ 】"}
