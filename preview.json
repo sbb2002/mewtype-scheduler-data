@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T10:09:03Z",
+  "generated_at": "2026-11-24T10:10:01Z",
   "items": [
     {
       "actual_start": null,
@@ -99,7 +99,6 @@
       "kind": null,
       "last_updated": "2026-11-24T10:09:03Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-24T12:00:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2125169142047326311",
@@ -108,7 +107,7 @@
       "thumbnail": "https://i.ytimg.com/vi/CPrbmESp-Q8/maxresdefault.jpg?v=6b056130",
       "time_tbd": false,
       "title": "近づいてみたよ",
-      "title_ko": null,
+      "title_ko": "다가가 봤어",
       "url": "https://www.youtube.com/watch?v=CPrbmESp-Q8",
       "video_id": "CPrbmESp-Q8"
     },
