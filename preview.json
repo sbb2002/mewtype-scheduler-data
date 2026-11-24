@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T14:32:38Z",
+  "generated_at": "2026-11-24T14:35:15Z",
   "items": [
     {
       "actual_start": "2026-11-24T12:30:22Z",
@@ -117,7 +117,7 @@
       "assumed_live": false,
       "channel_key": "arale",
       "collab_with": null,
-      "concurrent_viewers": 357,
+      "concurrent_viewers": 404,
       "expires_at": "2026-11-24T17:30:00Z",
       "first_seen": "2026-11-23T16:15:44Z",
       "host": null,
@@ -126,7 +126,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": "song",
-      "last_updated": "2026-11-24T14:32:38Z",
+      "last_updated": "2026-11-24T14:35:15Z",
       "membership": false,
       "scheduled_start": "2026-11-24T14:30:00Z",
       "source": "api",
