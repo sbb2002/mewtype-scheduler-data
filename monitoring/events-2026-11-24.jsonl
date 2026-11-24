@@ -61,3 +61,4 @@
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-24T12:01:41Z", "who": "峰月律-Minetsuki Ritsu- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T12:01:41Z", "who": "CPrbmESp-Q8"}
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_eced24d0", "result": "ok", "title": "近づいてみたよ", "to_state": "live", "ts": "2026-11-24T12:01:41Z", "video_id": "CPrbmESp-Q8", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T12:01:53Z", "tweet_id": "2125198207240302957", "via": "ingest", "who": "ritsu"}
