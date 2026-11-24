@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 nonoka (tQy1jWeTLOI)",
+    "action": "URL 확정 예고 yuno (3sT1hm90tEQ)",
     "at": "2026-11-24T12:37:54Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "3cfabb97d0115359e73406627c0987ebc1cde047",
+    "new_sha": "41cc75cf74f332da088a2f0cff3c9f389bc076c2",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-24T12:32:00Z",
+      "generated_at": "2026-11-24T12:37:54Z",
       "items": [
         {
           "actual_start": "2026-11-24T12:01:03Z",
@@ -156,7 +156,7 @@
           "assumed_live": false,
           "channel_key": "nonoka",
           "collab_with": null,
-          "concurrent_viewers": 167,
+          "concurrent_viewers": 448,
           "expires_at": "2026-11-24T15:30:00Z",
           "first_seen": "2026-11-24T12:11:19Z",
           "host": null,
@@ -165,10 +165,11 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-24T12:31:32Z",
+          "last_updated": "2026-11-24T12:37:54Z",
           "membership": false,
           "scheduled_start": "2026-11-24T12:30:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2125206322773889116",
           "state": "live",
           "state_since": "2026-11-24T12:31:03Z",
           "thumbnail": "https://i.ytimg.com/vi/tQy1jWeTLOI/maxresdefault.jpg?v=6b057ee5",
