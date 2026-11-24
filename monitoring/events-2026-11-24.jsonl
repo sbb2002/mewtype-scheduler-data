@@ -64,3 +64,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T12:01:53Z", "tweet_id": "2125198207240302957", "via": "ingest", "who": "ritsu"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-24T12:02:01Z", "who": "group"}
 {"detail": "broadcast-change none · ‘はじめます’와 ‘今夜21:00~’는 새로운 방송을 알리는 내용이며 취소·변경을 나타내는 표현이 없기 때문", "flow": "tweet", "result": "ok", "ts": "2026-11-24T12:01:53Z", "via": "ingest", "who": "ritsu"}
+{"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T12:02:24Z", "who": "峰月律"}
