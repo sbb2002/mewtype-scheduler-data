@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T14:06:13Z",
+  "generated_at": "2026-11-24T14:07:15Z",
   "items": [
     {
       "actual_start": "2026-11-24T12:30:22Z",
@@ -156,7 +156,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": "song",
-      "last_updated": "2026-11-24T14:06:13Z",
+      "last_updated": "2026-11-24T14:07:15Z",
       "membership": false,
       "needs_tl": true,
       "scheduled_start": "2026-11-24T14:30:00Z",
