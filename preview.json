@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T14:07:15Z",
+  "generated_at": "2026-11-24T14:10:03Z",
   "items": [
     {
       "actual_start": "2026-11-24T12:30:22Z",
@@ -158,7 +158,6 @@
       "kind": "song",
       "last_updated": "2026-11-24T14:07:15Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-24T14:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2125159993947095319",
@@ -167,7 +166,7 @@
       "thumbnail": "https://i.ytimg.com/vi/7ccVq2_XlYY/maxresdefault.jpg?v=6b0599ae",
       "time_tbd": false,
       "title": "【🟡すやバラ歌枠】2夜連続✌️ちょっとだけ予定【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": null,
+      "title_ko": "【🟡스야바라 노래 방송】2밤 연속✌️잠깐만 예정【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=7ccVq2_XlYY",
       "video_id": "7ccVq2_XlYY",
       "yt_tunein": true
