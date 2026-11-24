@@ -54,3 +54,5 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T11:31:30Z", "who": "宮永ののか🐰🩹"}
 {"detail": "banner mode: none · 뽑을 이벤트 · 가챠 없음", "flow": "notice", "result": "ok", "ts": "2026-11-24T11:31:27Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T11:31:35Z", "who": "バンドリ！アワーノーツ"}
+{"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T11:40:00Z", "who": "CPrbmESp-Q8"}
+{"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_eced24d0", "result": "ok", "title": "近づいてみたよ", "to_state": "watching", "ts": "2026-11-24T11:40:00Z", "video_id": "CPrbmESp-Q8", "who": "ritsu"}
