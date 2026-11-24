@@ -122,3 +122,4 @@
 {"action": "notify", "count": 1, "detail": "알림 수신 · 7ccVq2_XlYY · 예고 live", "flow": "websub", "merge_key": "websub-notify:7ccVq2_XlYY", "result": "ok", "title": "【🟡すやバラ歌枠】2夜連続✌️ちょっとだけ予定【 仲町あられ / 夢限大みゅーたいぷ 】", "ts": "2026-11-24T14:32:38Z", "video_id": "7ccVq2_XlYY", "who": "arale"}
 {"detail": "유튜브 reminder", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-24T14:32:49Z", "who": "仲町あられ -Nakamachi Arale- / 夢限大みゅーたいぷ 실시간 스트리밍 시작"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T14:35:15Z", "tweet_id": "2125236800126058986", "via": "ingest", "who": "arale"}
+{"detail": "broadcast-change none · 게시물은 11/24 23:30 방송을 알리는 내용이며 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-24T14:35:15Z", "via": "ingest", "who": "arale"}
