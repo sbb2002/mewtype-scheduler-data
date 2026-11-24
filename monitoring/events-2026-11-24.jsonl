@@ -41,3 +41,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T10:02:14Z", "who": "CPrbmESp-Q8"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_eced24d0", "result": "ok", "title": "近づいてみたよ", "to_state": "upcoming", "ts": "2026-11-24T10:02:14Z", "video_id": "CPrbmESp-Q8", "who": "ritsu"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · CPrbmESp-Q8 · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:CPrbmESp-Q8", "result": "ok", "title": "近づいてみたよ", "ts": "2026-11-24T10:02:14Z", "video_id": "CPrbmESp-Q8", "who": "ritsu"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T10:09:03Z", "tweet_id": "2125169142047326311", "via": "ingest", "who": "ritsu"}
