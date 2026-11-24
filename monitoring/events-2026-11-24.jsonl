@@ -138,3 +138,4 @@
 {"detail": "url-schedule skip: 이미 끝난 방송 tQy1jWeTLOI", "flow": "tweet", "result": "ok", "ts": "2026-11-24T16:04:00Z", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-24T16:04:17Z", "who": "宮永ののか🐰🩹"}
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-24T16:05:00Z", "who": "tQy1jWeTLOI"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-24T16:06:30Z", "tweet_id": "2125259770097734005", "via": "ingest", "who": "nonoka"}
