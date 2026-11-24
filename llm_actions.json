@@ -5408,6 +5408,25 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_f83f040ef5",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "〈配信のおしらせ〉\n11/24 22:00～ 生存報告\n\nユノちゃんは生存を報告しなくちゃいけない！\n\nｶｯﾃ…ｶｯﾃ…(ᐢ⩌-⩌ᐢ)\n\nおや？なにか聞こえてきますね？\n一体なんでしょう…？\n\nhttps://www.youtube.com/live/3sT1hm90tEQ?si=vhZaqPpoAHqu1y8L",
+        "tag": "p#https://x.com/#1tweet-2125206879823692060"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/24 22:00에 예정된 생존 보고 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-24T12:37:54Z",
+      "undo": null,
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
