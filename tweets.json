@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:01:53Z",
+  "generated_at": "2026-11-24T12:37:54Z",
   "tweets": {
     "arale": [
       {
@@ -454,6 +454,22 @@
         "text": "〈配信のおしらせ〉\n11/23 22:00頃〜 #バイオ7\n\n逃げてたんですけど、そろそろ逃げられなくなってきました",
         "text_ko": "〈방송 안내〉\n11/23 22:00頃〜 #바이오7\n\n도망치고 있었는데, 이제 곧 도망칠 수 없게 됐어요.",
         "url": "https://x.com/i/status/2124849831147635144"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-26T12:36:19Z",
+        "handle": "yuno_yumemita",
+        "id": "2125206879823692060",
+        "media": [
+          "https://pbs.twimg.com/media/HX5AZMbakAAX4ma.jpg"
+        ],
+        "posted_at": "2026-11-24T12:36:19Z",
+        "quote": null,
+        "received_at": "2026-11-24T12:37:54Z",
+        "reply_to_id": null,
+        "text": "〈配信のおしらせ〉\n11/24 22:00〜 生存報告\n\nユノちゃんは生存を報告しなくちゃいけない！\n\nｶｯﾃ…ｶｯﾃ…(ᐢ⩌-⩌ᐢ)\n\nおや？なにか聞こえてきますね？\n一体なんでしょう…？\n\nhttps://www.youtube.com/live/3sT1hm90tEQ?si=vhZaqPpoAHqu1y8L",
+        "text_ko": "〈방송 안내〉\n11/24 22:00〜 생존 보고\n\n유노짱은 생존을 보고해야 해!\n\n카테…카테…(ᐢ⩌-⩌ᐢ)\n\n어? 뭔가 들리네요?\n대체 뭐일까요…？\n\nhttps://www.youtube.com/live/3sT1hm90tEQ?si=vhZaqPpoAHqu1y8L",
+        "url": "https://x.com/i/status/2125206879823692060"
       }
     ]
   }
