@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T13:40:00Z",
+  "generated_at": "2026-11-24T14:00:29Z",
   "items": [
     {
       "actual_start": "2026-11-24T12:30:22Z",
@@ -156,19 +156,20 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": "song",
-      "last_updated": "2026-11-24T13:40:00Z",
+      "last_updated": "2026-11-24T14:00:29Z",
       "membership": false,
       "scheduled_start": "2026-11-24T14:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2125159993947095319",
-      "state": "upcoming",
-      "state_since": "2026-11-23T16:15:44Z",
+      "state": "watching",
+      "state_since": "2026-11-24T14:00:29Z",
       "thumbnail": "https://i.ytimg.com/vi/7ccVq2_XlYY/maxresdefault.jpg",
       "time_tbd": false,
       "title": "【🟡配信】内容迷い中【 仲町あられ / 夢限大みゅーたいぷ 】",
       "title_ko": "【🟡방송】내용 고민 중【 나카마치 아라레 / 무겐다이 뮤타입 】",
       "url": "https://www.youtube.com/watch?v=7ccVq2_XlYY",
-      "video_id": "7ccVq2_XlYY"
+      "video_id": "7ccVq2_XlYY",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
