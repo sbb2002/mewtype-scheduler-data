@@ -102,3 +102,4 @@
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T14:12:57Z", "who": "宮永ののか🐰🩹"}
 {"detail": "url-schedule skip: 이미 끝난 방송 aMnJOBcKQjE", "flow": "tweet", "result": "ok", "ts": "2026-11-25T14:25:06Z", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 11/25에 예정된 방송을 알리는 내용이며, 목록에 있는 11/28 방송과는 관련이 없어 취소·변경으로 판단되지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-25T14:25:06Z", "via": "ingest", "who": "miyako"}
+{"detail": "gap-fill · 2125594824397267328 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-25T14:25:06Z", "tweet_id": "2125594824397267328", "via": "ingest", "who": "miyako"}
