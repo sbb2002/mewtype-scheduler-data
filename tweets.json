@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:36:42Z",
+  "generated_at": "2026-11-25T09:44:28Z",
   "tweets": {
     "arale": [
       {
@@ -326,6 +326,20 @@
         "text": "〈配信のおしらせ〉\n11/24 22:00〜 生存報告\n\nユノちゃんは生存を報告しなくちゃいけない！\n\nｶｯﾃ…ｶｯﾃ…(ᐢ⩌-⩌ᐢ)\n\nおや？なにか聞こえてきますね？\n一体なんでしょう…？\n\nhttps://www.youtube.com/live/3sT1hm90tEQ?si=vhZaqPpoAHqu1y8L",
         "text_ko": "〈방송 안내〉\n11/24 22:00〜 생존 보고\n\n유노짱은 생존을 보고해야 해!\n\n카테…카테…(ᐢ⩌-⩌ᐢ)\n\n어? 뭔가 들리네요?\n대체 뭐일까요…？\n\nhttps://www.youtube.com/live/3sT1hm90tEQ?si=vhZaqPpoAHqu1y8L",
         "url": "https://x.com/i/status/2125206879823692060"
+      },
+      {
+        "channel_key": "yuno",
+        "expires_at": "2026-11-27T09:44:25Z",
+        "handle": "yuno_yumemita",
+        "id": "2125526009885917567",
+        "media": [],
+        "posted_at": "2026-11-25T09:44:25Z",
+        "quote": null,
+        "received_at": "2026-11-25T09:44:28Z",
+        "reply_to_id": null,
+        "text": "今日の個人配信はお休みにさせていただきます！！\nよろしくお願いします🙌🙌🙌🙌🙌",
+        "text_ko": "오늘 개인 방송은 휴식합니다!! 잘 부탁드립니다🙌🙌🙌🙌🙌",
+        "url": "https://x.com/i/status/2125526009885917567"
       }
     ]
   }
