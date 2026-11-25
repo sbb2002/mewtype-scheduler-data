@@ -285,22 +285,6 @@
     "yuno": [
       {
         "channel_key": "yuno",
-        "expires_at": "2026-11-25T12:57:32Z",
-        "handle": "yuno_yumemita",
-        "id": "2124849831147635144",
-        "media": [
-          "https://pbs.twimg.com/media/HXz7qPTakAA4M5p.jpg"
-        ],
-        "posted_at": "2026-11-23T12:57:32Z",
-        "quote": null,
-        "received_at": "2026-11-23T12:57:35Z",
-        "reply_to_id": null,
-        "text": "〈配信のおしらせ〉\n11/23 22:00頃〜 #バイオ7\n\n逃げてたんですけど、そろそろ逃げられなくなってきました",
-        "text_ko": "〈방송 안내〉\n11/23 22:00頃〜 #바이오7\n\n도망치고 있었는데, 이제 곧 도망칠 수 없게 됐어요.",
-        "url": "https://x.com/i/status/2124849831147635144"
-      },
-      {
-        "channel_key": "yuno",
         "expires_at": "2026-11-26T12:36:19Z",
         "handle": "yuno_yumemita",
         "id": "2125206879823692060",
