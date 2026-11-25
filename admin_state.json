@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "yuno 방송 취소(LLM)",
-    "at": "2026-11-25T09:44:28Z",
+    "action": "ingest 夢限大みゅーたいぷ",
+    "at": "2026-11-25T10:00:06Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "6c9b85fe286a3468d217c3f6fe71a3d2577c0800",
+    "new_sha": "93d43310a5577b6b64ffb70355c68c5cea091852",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-25T09:36:42Z",
+      "generated_at": "2026-11-25T09:44:28Z",
       "items": [
         {
           "actual_start": null,
@@ -237,6 +237,12 @@
           "actual_start": null,
           "api_start_seen": null,
           "assumed_live": false,
+          "cancelled": {
+            "at": "2026-11-25T09:44:28Z",
+            "by": "tweet",
+            "tweet_id": "2125526009885917567",
+            "tweet_url": "https://x.com/i/status/2125526009885917567"
+          },
           "channel_key": "yuno",
           "collab_with": [],
           "concurrent_viewers": null,
@@ -248,7 +254,7 @@
           "info_source": "personal",
           "is_premiere": false,
           "kind": "game",
-          "last_updated": "2026-11-18T10:51:59Z",
+          "last_updated": "2026-11-25T09:44:28Z",
           "membership": false,
           "needs_tl": false,
           "scheduled_start": "2026-11-25T11:00:00Z",
