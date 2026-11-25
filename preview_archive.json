@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:50:20Z",
+  "generated_at": "2026-11-25T19:00:01Z",
   "items": [
     {
       "actual_start": "2026-11-18T11:00:12Z",
@@ -833,6 +833,81 @@
       "title_ko": "【#アワーノーツ】몇 분에 아라미야 SSR 둘 다 뽑을 수 있을까。【유메미타/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=3rr0KtwAfv8",
       "video_id": "3rr0KtwAfv8"
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "archived_at": "2026-11-25T19:00:01Z",
+      "assumed_live": false,
+      "cancelled": {
+        "at": "2026-11-25T13:33:19Z",
+        "by": "tweet",
+        "tweet_id": "2125526009885917567",
+        "tweet_url": "https://x.com/i/status/2125526009885917567"
+      },
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-25T16:00:00Z",
+      "first_seen": "2026-11-25T10:00:06Z",
+      "host": null,
+      "id": "pv_7fc7e26e",
+      "info_at": "2026-11-25T10:00:06Z",
+      "info_source": "x-relay",
+      "is_premiere": false,
+      "kind": "game",
+      "last_updated": "2026-11-25T13:33:19Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-25T13:00:00Z",
+      "search_checked": true,
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2125529940603056365",
+      "state": "announced",
+      "state_since": "2026-11-25T10:00:06Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
+    },
+    {
+      "actual_start": null,
+      "api_start_seen": null,
+      "archived_at": "2026-11-25T19:00:01Z",
+      "assumed_live": false,
+      "cancelled": {
+        "at": "2026-11-25T13:33:19Z",
+        "by": "tweet",
+        "tweet_id": "2125541667000516959",
+        "tweet_url": "https://x.com/i/status/2125541667000516959"
+      },
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-25T17:00:00Z",
+      "first_seen": "2026-11-25T10:00:06Z",
+      "host": null,
+      "id": "pv_915036f0",
+      "info_at": "2026-11-25T10:00:06Z",
+      "info_source": "x-relay",
+      "is_premiere": false,
+      "kind": "game",
+      "last_updated": "2026-11-25T13:33:19Z",
+      "membership": false,
+      "needs_tl": false,
+      "scheduled_start": "2026-11-25T14:00:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2125529940603056365",
+      "state": "announced",
+      "state_since": "2026-11-25T10:00:06Z",
+      "thumbnail": null,
+      "time_tbd": false,
+      "title": null,
+      "title_ko": null,
+      "url": null,
+      "video_id": null
     }
   ]
 }
