@@ -43,3 +43,4 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T09:37:08Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-25T09:44:28Z", "tweet_id": "2125526009885917567", "via": "ingest", "who": "yuno"}
 {"detail": "broadcast-change del · ‘今日の個人配信はお休みにさせていただきます！！’ 라는 문구가 오늘(11/25)의 개인 방송을 취소한다는 의미이므로 · 대상 1건", "flow": "tweet", "result": "ok", "ts": "2026-11-25T09:44:28Z", "via": "ingest", "who": "yuno"}
+{"collab_with": [], "detail": "yuno 방송 취소(LLM) · announced→cancelled", "flow": "preview", "from_state": "announced", "id": "pv_7ea0ded4", "result": "ok", "title": null, "to_state": "cancelled", "ts": "2026-11-25T09:44:28Z", "video_id": null, "who": "yuno"}
