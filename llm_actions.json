@@ -5480,6 +5480,25 @@
       },
       "undone": null,
       "who": "notice"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_185b6b1318",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/25(水)21:30～ぽぽぽ♪限定\nめんば～しっぷ配信⚡\n\n🔗https://youtube.com/live/aMnJOBcKQjE?feature=share\n\nぽかぽかな服で集合♪🔥🐶🔥\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2125523974264345009"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/25 21:30에 진행될 방송을 새롭게 알리는 내용이며 취소·변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-25T09:36:42Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
