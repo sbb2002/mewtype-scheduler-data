@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:40:00Z",
+  "generated_at": "2026-11-25T14:30:00Z",
   "items": [
     {
       "actual_start": "2026-11-18T11:00:12Z",
@@ -771,6 +771,37 @@
       "title_ko": null,
       "url": "https://www.youtube.com/watch?v=zdFXJG5tRWc",
       "video_id": "zdFXJG5tRWc"
+    },
+    {
+      "actual_end": "2026-11-25T13:57:07Z",
+      "actual_start": "2026-11-25T12:31:48Z",
+      "api_start_seen": "2026-11-25T12:30:00Z",
+      "archived_at": "2026-11-25T14:30:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-25T15:30:00Z",
+      "first_seen": "2026-11-22T22:46:22Z",
+      "host": null,
+      "id": "pv_2638bafa",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": "unknown",
+      "last_updated": "2026-11-25T14:30:00Z",
+      "membership": true,
+      "scheduled_start": "2026-11-25T12:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2125523974264345009",
+      "state": "out",
+      "state_since": "2026-11-25T14:30:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/aMnJOBcKQjE/maxresdefault.jpg?v=6affe57f",
+      "time_tbd": false,
+      "title": "💜メン限 雑談💜みやこの部屋#14 【ゆめみた/藤都子】",
+      "title_ko": "💜멤버십 한정 잡담💜미야코의 방#14 【유메미타/후지 미야코】",
+      "url": "https://www.youtube.com/watch?v=aMnJOBcKQjE",
+      "video_id": "aMnJOBcKQjE"
     }
   ]
 }
