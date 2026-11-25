@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:30:00Z",
+  "generated_at": "2026-11-25T15:50:20Z",
   "items": [
     {
       "actual_start": "2026-11-18T11:00:12Z",
@@ -802,6 +802,37 @@
       "title_ko": "💜멤버십 한정 잡담💜미야코의 방#14 【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=aMnJOBcKQjE",
       "video_id": "aMnJOBcKQjE"
+    },
+    {
+      "actual_end": "2026-11-25T15:13:37Z",
+      "actual_start": "2026-11-25T14:10:34Z",
+      "api_start_seen": "2026-11-25T14:10:00Z",
+      "archived_at": "2026-11-25T15:50:20Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": 1063,
+      "expires_at": "2026-11-25T17:10:00Z",
+      "first_seen": "2026-11-25T14:10:02Z",
+      "host": null,
+      "id": "pv_29c214e7",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-25T15:50:20Z",
+      "membership": false,
+      "scheduled_start": "2026-11-25T14:10:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2125593086894264473",
+      "state": "out",
+      "state_since": "2026-11-25T15:50:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/3rr0KtwAfv8/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【#アワーノーツ】何分であらみやSSR両方ひけるか。【ゆめみた/夢限大みゅーたいぷ】",
+      "title_ko": "【#アワーノーツ】몇 분에 아라미야 SSR 둘 다 뽑을 수 있을까。【유메미타/무겐다이 뮤타입】",
+      "url": "https://www.youtube.com/watch?v=3rr0KtwAfv8",
+      "video_id": "3rr0KtwAfv8"
     }
   ]
 }
