@@ -65,3 +65,4 @@
 {"detail": "retweet skip: 폰 원문이 @Y86703Mw 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-25T12:15:42Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T12:15:44Z", "who": "藤都子"}
 {"detail": "retweet skip: 폰 원문이 @naoyakm46 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-25T12:15:58Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T12:16:00Z", "who": "藤都子"}
