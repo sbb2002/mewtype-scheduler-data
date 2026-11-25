@@ -30,11 +30,11 @@
     }
   ],
   "undo": {
-    "action": "URL 확정 예고 miyako (aMnJOBcKQjE)",
-    "at": "2026-11-25T09:36:42Z",
+    "action": "yuno 방송 취소(LLM)",
+    "at": "2026-11-25T09:44:28Z",
     "cmd": null,
     "contents": null,
-    "new_sha": "407a3b1e500ea4cd4ea965ae6a9bedab83854926",
+    "new_sha": "6c9b85fe286a3468d217c3f6fe71a3d2577c0800",
     "path": "preview.json",
     "prev_content": {
       "channel_order": [
@@ -117,7 +117,7 @@
           ]
         }
       },
-      "generated_at": "2026-11-24T16:30:00Z",
+      "generated_at": "2026-11-25T09:36:42Z",
       "items": [
         {
           "actual_start": null,
@@ -134,10 +134,11 @@
           "info_source": "api",
           "is_premiere": false,
           "kind": null,
-          "last_updated": "2026-11-24T16:30:00Z",
+          "last_updated": "2026-11-25T09:36:42Z",
           "membership": false,
           "scheduled_start": "2026-11-25T12:30:00Z",
           "source": "api",
+          "src_url": "https://x.com/i/status/2125523974264345009",
           "state": "upcoming",
           "state_since": "2026-11-22T22:46:22Z",
           "thumbnail": "https://i.ytimg.com/vi/aMnJOBcKQjE/maxresdefault.jpg?v=6affe57f",
