@@ -96,20 +96,6 @@
     "nonoka": [
       {
         "channel_key": "nonoka",
-        "expires_at": "2026-11-25T10:56:12Z",
-        "handle": "nonoka_yumemita",
-        "id": "2124819298497749416",
-        "media": [],
-        "posted_at": "2026-11-23T10:56:12Z",
-        "quote": null,
-        "received_at": "2026-11-23T10:56:14Z",
-        "reply_to_id": null,
-        "text": "ののちゃんはカプチュー",
-        "text_ko": "노노카짱은 카푸치",
-        "url": "https://x.com/i/status/2124819298497749416"
-      },
-      {
-        "channel_key": "nonoka",
         "expires_at": "2026-11-26T10:37:10Z",
         "handle": "nonoka_yumemita",
         "id": "2125176893981032636",
@@ -281,22 +267,6 @@
       }
     ],
     "yuno": [
-      {
-        "channel_key": "yuno",
-        "expires_at": "2026-11-25T11:18:47Z",
-        "handle": "yuno_yumemita",
-        "id": "2124824981075079389",
-        "media": [
-          "https://pbs.twimg.com/media/HXzlDtwbUAAD5xX.jpg"
-        ],
-        "posted_at": "2026-11-23T11:18:47Z",
-        "quote": null,
-        "received_at": "2026-11-23T11:18:49Z",
-        "reply_to_id": null,
-        "text": "無料単発ありがとう\n完凸です",
-        "text_ko": "무료 단발 고마워\n완뽑입니다",
-        "url": "https://x.com/i/status/2124824981075079389"
-      },
       {
         "channel_key": "yuno",
         "expires_at": "2026-11-25T12:57:32Z",
