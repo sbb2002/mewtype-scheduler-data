@@ -5572,6 +5572,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_416fd21efb",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "💜配信よてい💜\n11/25(水)21:30～ぽぽぽ♪限定\nめんば～しっぷ配信⚡\n\n🔗https://youtube.com/live/aMnJOBcKQjE?feature=share\n\nぽかぽかな服で集合♪🔥🐶🔥\n＃みるみやこ",
+        "raw": "はじま～る♪",
+        "tag": "p#https://x.com/#1tweet-2125568726678601815"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/25 21:30에 예정된 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-25T12:34:13Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
