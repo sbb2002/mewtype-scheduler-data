@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:25:06Z",
+  "generated_at": "2026-11-25T14:32:02Z",
   "tweets": {
     "arale": [
       {
@@ -53,6 +53,20 @@
         "text": "はじまたで〜〜〜ﾜﾜﾜ",
         "text_ko": "첫 방송에서~와와와",
         "url": "https://x.com/i/status/2125236800126058986"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-27T14:31:54Z",
+        "handle": "arale_yumemita",
+        "id": "2125598354373767434",
+        "media": [],
+        "posted_at": "2026-11-25T14:31:54Z",
+        "quote": null,
+        "received_at": "2026-11-25T14:32:02Z",
+        "reply_to_id": null,
+        "text": "明日は朝活6:30〜やるよ〜^.ˬ.^🎶\nお話しすることいっぱいかも💭ﾍﾍﾍﾍ",
+        "text_ko": "내일 아침 활동 6:30부터 할게~^.ˬ.^🎶\n얘기할 거 많이 있을지도💭헤헤헤헤",
+        "url": "https://x.com/i/status/2125598354373767434"
       }
     ],
     "miyako": [
