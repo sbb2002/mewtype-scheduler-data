@@ -5553,6 +5553,25 @@
       },
       "undone": null,
       "who": "yuno"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_65b35eaf0a",
+      "input": {
+        "channel_key": "ritsu",
+        "raw": "今日の律の配信は、パルワールドだけになります！\nよろしくお願いいたします……！！\nカード、たくさん学びたい！！！！！！！\n初心者カードゲーマー律の修行は、つづく",
+        "tag": "p#https://x.com/#1tweet-2125541667000516959"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 오늘 방송 내용이 팔월드만 진행된다고 알리는 것이며, 방송 취소나 일정 변경을 언급하지 않는다",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-25T10:51:57Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
