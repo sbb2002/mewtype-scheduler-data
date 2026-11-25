@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:00:03Z",
+  "generated_at": "2026-11-25T09:30:35Z",
   "notices": [
     {
       "anchor_a": "u7f5p223ByA",
@@ -406,11 +406,11 @@
       "url": null
     },
     {
-      "anchor_a": "23448",
+      "anchor_a": "4259",
       "anchor_b": "it’sourchoice",
-      "body_for_llm": "＼先着購入特典決定🎉／ 2027年 (水)リリース #ゆめみた 2nd Album「It’s our choice」🛸 に開催された、 「新宿着陸計画」DAY2のライブ音源1曲を収録した 「特典CD」1枚(全5種)をプレゼント🎁✨ 特典配布対象店舗の詳細はこちら🛸 #バンドリ",
-      "body_ko": "선착순 구매 특전 결정🎉\n\n2027년 1월 27일(수) 발매\n#ゆめみた 2nd Album「It’s our choice」🛸\n\n9월 25일에 개최된\n「신주쿠 착륙 계획」DAY2 라이브 음원 1곡을 수록한\n「특전 CD」 1장(전 5종)을 선물🎁✨\n\n특전 배포 대상 매장의 상세 내용은 여기🛸\nhttps://bushiroad-music.com/topics/23448/\n\n#뱅드림",
-      "body_raw": "＼先着購入特典決定🎉／\n\n2027年1月27日(水)リリース\n#ゆめみた 2nd Album「It’s our choice」🛸\n\n9月25日に開催された、\n「新宿着陸計画」DAY2のライブ音源1曲を収録した\n「特典CD」1枚(全5種)をプレゼント🎁✨\n\n特典配布対象店舗の詳細はこちら🛸\nhttps://bushiroad-music.com/topics/23448/\n\n#バンドリ",
+      "body_for_llm": "＼特典デザイン公開🎉／ (水)リリース 夢限大みゅーたいぷ 2nd Album 「It’s our choice」🛸 🎁初回生産分限定封入特典 ミニブロマイド1枚(5種＋シークレット複製サイン入り5種) 法人別特典デザインも公開👇 #バンドリ #ゆめみた",
+      "body_ko": "＼특전 디자인 공개🎉／\n\n1/27(수) 발매\n무겐다이 뮤타입 2nd Album\n「It’s our choice」🛸\n\n🎁초회 생산분 한정 삽입 특전\n미니 브로마이드 1장(5종+시크릿 복제 사인 5종)\n\n법인별 특전 디자인도 공개👇\nhttps://bang-dream.com/discographies/4259/\n\n#뱅드림 #유메미타",
+      "body_raw": "＼特典デザイン公開🎉／\n\n1/27(水)リリース\n夢限大みゅーたいぷ 2nd Album\n「It’s our choice」🛸\n\n🎁初回生産分限定封入特典\nミニブロマイド1枚(5種＋シークレット複製サイン入り5種)\n\n法人別特典デザインも公開👇\nhttps://bang-dream.com/discographies/4259/\n\n#バンドリ #ゆめみた",
       "categories": [
         "goods"
       ],
@@ -420,22 +420,23 @@
       "expires_at": "2027-01-27T15:00:00Z",
       "first_seen": "2026-10-11T11:17:01Z",
       "id": "2109241849189941510",
-      "last_updated": "2026-10-23T07:26:56Z",
+      "last_updated": "2026-11-25T09:30:35Z",
       "participants": null,
       "seen_ids": [
         "2109241849189941510",
         "2109242416658346395",
-        "2109242232373215313"
+        "2109242232373215313",
+        "2125522380504113248"
       ],
-      "site": "store",
+      "site": "web",
       "src_handle": "@BDP_yumemita",
       "time": null,
-      "title": "「特典CD」1枚(全5種)をプレゼント",
-      "title_ko": "2027년 2nd 앨범 “It’s our choice” 발매 결정",
-      "title_raw": "「特典CD」1枚(全5種)をプレゼント",
-      "title_slug": "特典cd1枚全5種をプレゼント",
-      "tweet_url": "https://x.com/i/status/2109242232373215313",
-      "url": "https://bushiroad-music.com/topics/23448/"
+      "title": "特典デザイン公開 🎉 「It’s our choice」リリース",
+      "title_ko": "특전 디자인 공개 🎉 \"It’s our choice\" 릴리즈",
+      "title_raw": "1/27(水)リリース",
+      "title_slug": "水リリース",
+      "tweet_url": "https://x.com/i/status/2125522380504113248",
+      "url": "https://bang-dream.com/discographies/4259/"
     },
     {
       "anchor_a": "miyako_atelier",
