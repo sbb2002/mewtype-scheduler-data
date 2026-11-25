@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-25T23:30:05Z",
+  "generated_at": "2026-11-25T23:55:00Z",
   "items": [
     {
       "actual_start": null,
@@ -96,7 +96,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-25T23:30:00Z",
+      "last_updated": "2026-11-25T23:55:00Z",
       "membership": false,
       "scheduled_start": "2026-11-28T12:30:00Z",
       "source": "api",
@@ -124,7 +124,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-25T23:30:00Z",
+      "last_updated": "2026-11-25T23:55:00Z",
       "membership": false,
       "scheduled_start": "2026-11-29T14:30:00Z",
       "source": "api",
@@ -152,7 +152,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-25T23:30:00Z",
+      "last_updated": "2026-11-25T23:55:00Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-12-24T14:59:00Z",
@@ -181,7 +181,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-25T23:30:00Z",
+      "last_updated": "2026-11-25T23:55:00Z",
       "membership": false,
       "scheduled_start": "2028-01-01T14:30:00Z",
       "source": "api",
@@ -193,37 +193,6 @@
       "title_ko": "🖤YUNO의 자유 채팅🩷",
       "url": "https://www.youtube.com/watch?v=ZZMwYj6PM9o",
       "video_id": "ZZMwYj6PM9o"
-    },
-    {
-      "actual_end": "2026-11-25T23:24:28Z",
-      "actual_start": "2026-11-25T21:36:05Z",
-      "announced_start": "2026-11-25T21:30:00Z",
-      "api_start_seen": "2026-11-25T21:35:49Z",
-      "assumed_live": false,
-      "channel_key": "arale",
-      "collab_with": null,
-      "concurrent_viewers": 337,
-      "expires_at": "2026-11-26T00:35:49Z",
-      "first_seen": "2026-11-25T21:36:51Z",
-      "host": null,
-      "id": "pv_8445ea96",
-      "info_at": null,
-      "info_source": "api",
-      "is_premiere": false,
-      "kind": null,
-      "last_updated": "2026-11-25T23:30:00Z",
-      "membership": false,
-      "scheduled_start": "2026-11-25T21:35:49Z",
-      "source": "api",
-      "src_url": "https://x.com/i/status/2125705790866722925",
-      "state": "end",
-      "state_since": "2026-11-25T23:25:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/p1O0mLJWO5g/maxresdefault.jpg",
-      "time_tbd": false,
-      "title": "【🟡朝活】最近の出来事！お話しいっぱい？ #Shorts #Vtuber 【 仲町あられ / 夢限大みゅーたいぷ 】",
-      "title_ko": "【🟡아침 활동】최근 일들! 이야기 가득? #Shorts #Vtuber 【 나카마치 아라레 / 무겐다이 뮤타입 】",
-      "url": "https://www.youtube.com/watch?v=p1O0mLJWO5g",
-      "video_id": "p1O0mLJWO5g"
     }
   ]
 }
