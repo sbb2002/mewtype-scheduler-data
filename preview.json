@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-25T14:10:02Z",
+  "generated_at": "2026-11-25T14:10:07Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-25T14:10:02Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-25T14:10:00Z",
       "source": "api",
       "state": "watching",
@@ -106,7 +105,7 @@
       "thumbnail": "https://i.ytimg.com/vi/3rr0KtwAfv8/maxresdefault.jpg?v=6b06ebfb",
       "time_tbd": false,
       "title": "【#アワーノーツ】何分であらみやSSR両方ひけるか。【ゆめみた/夢限大みゅーたいぷ】",
-      "title_ko": null,
+      "title_ko": "【#アワーノーツ】몇 분에 아라미야 SSR 둘 다 뽑을 수 있을까。【유메미타/무겐다이 뮤타입】",
       "url": "https://www.youtube.com/watch?v=3rr0KtwAfv8",
       "video_id": "3rr0KtwAfv8"
     },
