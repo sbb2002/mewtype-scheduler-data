@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:58:00Z",
+  "generated_at": "2026-11-25T14:11:06Z",
   "tweets": {
     "arale": [
       {
@@ -176,6 +176,20 @@
         "text": "まのさばを未プレイのひとは、\n自分が未プレイであることに感謝して、\nとりあえずプレイしたほうがいいよ\n\n #まのさば",
         "text_ko": "마노사바를 아직 안 해본 사람은, 자신이 아직 안 해본 것에 감사하고, 일단 플레이하는 게 좋겠어 #まのさば",
         "url": "https://x.com/i/status/2125259770097734005"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-27T14:02:08Z",
+        "handle": "nonoka_yumemita",
+        "id": "2125590863334310232",
+        "media": [],
+        "posted_at": "2026-11-25T14:02:08Z",
+        "quote": null,
+        "received_at": "2026-11-25T14:11:06Z",
+        "reply_to_id": null,
+        "text": "はいしんしまつ",
+        "text_ko": "방송 종료",
+        "url": "https://x.com/i/status/2125590863334310232"
       }
     ],
     "ritsu": [
