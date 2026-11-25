@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-25T13:02:00Z",
+  "generated_at": "2026-11-25T13:33:19Z",
   "items": [
     {
       "actual_start": "2026-11-25T12:31:48Z",
@@ -196,17 +196,13 @@
       "video_id": "ZZMwYj6PM9o"
     },
     {
-      "actual_start": null,
-      "api_start_seen": null,
+      "actual_start": "2026-11-25T10:55:10Z",
+      "api_start_seen": "2026-11-25T11:00:00Z",
       "assumed_live": false,
-      "cancelled": {
-        "at": "2026-11-25T09:44:28Z",
-        "by": "tweet",
-        "tweet_id": "2125526009885917567",
-        "tweet_url": "https://x.com/i/status/2125526009885917567"
-      },
       "channel_key": "yuno",
-      "collab_with": [],
+      "collab_with": [
+        "ritsu"
+      ],
       "concurrent_viewers": null,
       "expires_at": "2026-11-25T14:00:00Z",
       "first_seen": "2026-11-18T10:51:59Z",
@@ -216,25 +212,31 @@
       "info_source": "personal",
       "is_premiere": false,
       "kind": "game",
-      "last_updated": "2026-11-25T09:44:28Z",
+      "last_updated": "2026-11-25T13:33:19Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-25T11:00:00Z",
       "source": "personal",
-      "src_url": "https://x.com/i/status/2123005237187559436",
-      "state": "announced",
-      "state_since": "2026-11-18T10:51:59Z",
-      "thumbnail": null,
+      "src_url": "https://x.com/i/status/2125526338513809550",
+      "state": "end",
+      "state_since": "2026-11-25T12:05:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/zdFXJG5tRWc/maxresdefault.jpg?v=6afd361d",
       "time_tbd": false,
-      "title": null,
+      "title": "パルカNEWS｜パルワールド オフィシャルカードゲーム",
       "title_ko": null,
-      "url": "https://www.youtube.com/@yuno_yumemita",
-      "video_id": null
+      "url": "https://www.youtube.com/watch?v=zdFXJG5tRWc",
+      "video_id": "zdFXJG5tRWc"
     },
     {
       "actual_start": null,
       "api_start_seen": null,
       "assumed_live": false,
+      "cancelled": {
+        "at": "2026-11-25T13:33:19Z",
+        "by": "tweet",
+        "tweet_id": "2125526009885917567",
+        "tweet_url": "https://x.com/i/status/2125526009885917567"
+      },
       "channel_key": "yuno",
       "collab_with": null,
       "concurrent_viewers": null,
@@ -246,7 +248,7 @@
       "info_source": "x-relay",
       "is_premiere": false,
       "kind": "game",
-      "last_updated": "2026-11-25T13:02:00Z",
+      "last_updated": "2026-11-25T13:33:19Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-25T13:00:00Z",
@@ -266,6 +268,12 @@
       "actual_start": null,
       "api_start_seen": null,
       "assumed_live": false,
+      "cancelled": {
+        "at": "2026-11-25T13:33:19Z",
+        "by": "tweet",
+        "tweet_id": "2125541667000516959",
+        "tweet_url": "https://x.com/i/status/2125541667000516959"
+      },
       "channel_key": "ritsu",
       "collab_with": null,
       "concurrent_viewers": null,
@@ -277,7 +285,7 @@
       "info_source": "x-relay",
       "is_premiere": false,
       "kind": "game",
-      "last_updated": "2026-11-25T10:00:06Z",
+      "last_updated": "2026-11-25T13:33:19Z",
       "membership": false,
       "needs_tl": false,
       "scheduled_start": "2026-11-25T14:00:00Z",
