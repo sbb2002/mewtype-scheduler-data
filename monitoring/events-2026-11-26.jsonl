@@ -3,3 +3,4 @@
 {"detail": "보관함 정리 tweet · 11건 → tweet_archive/2026-11-18.json · 캐시 107KB", "flow": "archive", "result": "ok", "ts": "2026-11-25T21:10:00Z", "who": ""}
 {"detail": "보관함 정리 notice · 2건 → notice_archive/2026-09-25.json, notice_archive/2026-10-02.json · 캐시 46KB", "flow": "archive", "result": "ok", "ts": "2026-11-25T21:10:00Z", "who": ""}
 {"detail": "보관함 정리 llm · 4건 → llm_actions/2026-11-04.json · 캐시 270KB", "flow": "archive", "result": "ok", "ts": "2026-11-25T21:10:00Z", "who": ""}
+{"detail": "보관함 정리 preview · 2건 → preview_archive/2026-11-18.json · 캐시 33KB", "flow": "archive", "result": "ok", "ts": "2026-11-25T21:10:00Z", "who": ""}
