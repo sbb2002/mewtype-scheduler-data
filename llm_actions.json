@@ -5592,6 +5592,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_2fa8f73f84",
+      "input": {
+        "channel_key": "nonoka",
+        "raw": "♡🐰配信開始🩹♡\n\nおまたせしました！\nりんごのカードもかってみました。\n\n【#アワーノーツ】何分であらみやSSR両方ひけるか。【ゆめみた/夢限大みゅーたいぷ】 https://www.youtube.com/live/3rr0KtwAfv8?si=AkFEk-ylBEIwB1a8",
+        "tag": "p#https://x.com/#1tweet-2125593086894264473"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 현재 스트리밍 시작을 알리는 내용이며, 기존에 예고된 11/25 23:10 방송을 취소하거나 일정 변경한다는 언급이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-25T14:12:34Z",
+      "undo": null,
+      "undone": null,
+      "who": "nonoka"
     }
   ]
 }
