@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T15:15:25Z",
+  "generated_at": "2026-11-25T15:22:30Z",
   "tweets": {
     "arale": [
       {
@@ -238,6 +238,24 @@
         "text": "爆────☆",
         "text_ko": "폭────☆",
         "url": "https://x.com/i/status/2125609295526129813"
+      },
+      {
+        "channel_key": "nonoka",
+        "expires_at": "2026-11-27T15:18:45Z",
+        "handle": "nonoka_yumemita",
+        "id": "2125610145665499610",
+        "media": [],
+        "posted_at": "2026-11-25T15:18:45Z",
+        "quote": {
+          "media": [],
+          "text": "♡🐰配信開始🩹♡\n\nおまたせしました！\nりんごのカードもかってみました。\n\n【#アワーノーツ】何分であらみやSSR両方ひけるか。【ゆめみた/夢限大みゅーたいぷ】 https://www.youtube.com/live/3rr0KtwAfv8?si=AkFEk-ylBEIwB1a8",
+          "text_ko": "♡🐰방송 시작🩹♡\n\n오래 기다리셨습니다!\n사과 카드도 뽑아봤어요.\n\n【#아워노트】몇 분 안에 아라미야 SSR 둘 다 뽑을 수 있을까。【유메미타/무겐다이 뮤타입】 https://www.youtube.com/live/3rr0KtwAfv8?si=AkFEk-ylBEIwB1a8"
+        },
+        "received_at": "2026-11-25T15:22:30Z",
+        "reply_to_id": null,
+        "text": "さっきまでのののちゃん、まさかこんなことになると思わず、\n「本当にののちゃんて運がいいんだよな🎶」と思いながらサムネイルを作っていてやばい\n #ののちゃんたいむ",
+        "text_ko": "아까까지 노노짱, 이런 일이 일어날 줄은 몰라서, “노노짱 진짜 운이 좋구나🎶” 라고 생각하면서 썸네일을 만들고 있는데 대박 #노노짱타임",
+        "url": "https://x.com/i/status/2125610145665499610"
       }
     ],
     "ritsu": [
