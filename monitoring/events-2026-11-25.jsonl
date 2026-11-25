@@ -108,3 +108,4 @@
 {"detail": "폰 늦게 도착 · 보충 뒤 +14분 · 2125594824397267328", "flow": "tweet", "result": "ok", "ts": "2026-11-25T14:32:02Z", "tweet_id": "2125594824397267328", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T14:32:06Z", "who": "藤都子"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-25T14:32:02Z", "tweet_id": "2125598354373767434", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T14:32:13Z", "who": "仲町あられ"}
