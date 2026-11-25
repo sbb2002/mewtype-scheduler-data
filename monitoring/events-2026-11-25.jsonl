@@ -46,3 +46,4 @@
 {"collab_with": [], "detail": "yuno 방송 취소(LLM) · announced→cancelled", "flow": "preview", "from_state": "announced", "id": "pv_7ea0ded4", "result": "ok", "title": null, "to_state": "cancelled", "ts": "2026-11-25T09:44:28Z", "video_id": null, "who": "yuno"}
 {"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T09:44:48Z", "who": "千石ユノ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-25T09:45:46Z", "tweet_id": "2125526338513809550", "via": "ingest", "who": "yuno"}
+{"detail": "개인 트윗 · yuno", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T09:45:54Z", "who": "千石ユノ"}
