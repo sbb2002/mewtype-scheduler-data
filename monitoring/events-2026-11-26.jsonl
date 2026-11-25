@@ -22,3 +22,4 @@
 {"detail": "broadcast-change none · 게시물은 11/26 6:30에 방송 시작을 알리는 내용이며, 기존에 예정된 방송을 취소하거나 일정 변경한다는 표현이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-25T21:42:33Z", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T21:42:56Z", "who": "仲町あられ"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-25T22:00:02Z", "who": "group"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-25T23:00:02Z", "who": "group"}
