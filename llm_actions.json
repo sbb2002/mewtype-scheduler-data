@@ -5499,6 +5499,60 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_00440a61a2",
+      "input": {
+        "channel_key": "yuno",
+        "raw": "今日の個人配信はお休みにさせていただきます！！\nよろしくお願いします🙌🙌🙌🙌🙌",
+        "tag": "p#https://x.com/#1tweet-2125526009885917567"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "‘今日の個人配信はお休みにさせていただきます！！’ 라는 문구가 오늘(11/25)의 개인 방송을 취소한다는 의미이므로",
+      "summary": "방송 취소 1건(취소됨 표시) — 11/25 20:00 ",
+      "ts": "2026-11-25T09:44:28Z",
+      "undo": {
+        "items": [
+          {
+            "actual_start": null,
+            "api_start_seen": null,
+            "assumed_live": false,
+            "channel_key": "yuno",
+            "collab_with": [],
+            "concurrent_viewers": null,
+            "expires_at": "2026-11-25T14:00:00Z",
+            "first_seen": "2026-11-18T10:51:59Z",
+            "host": null,
+            "id": "pv_7ea0ded4",
+            "info_at": "2026-11-18T10:47:46Z",
+            "info_source": "personal",
+            "is_premiere": false,
+            "kind": "game",
+            "last_updated": "2026-11-18T10:51:59Z",
+            "membership": false,
+            "needs_tl": false,
+            "scheduled_start": "2026-11-25T11:00:00Z",
+            "source": "personal",
+            "src_url": "https://x.com/i/status/2123005237187559436",
+            "state": "announced",
+            "state_since": "2026-11-18T10:51:59Z",
+            "thumbnail": null,
+            "time_tbd": false,
+            "title": null,
+            "title_ko": null,
+            "url": "https://www.youtube.com/@yuno_yumemita",
+            "video_id": null
+          }
+        ],
+        "type": "restore_items",
+        "unsuppress": []
+      },
+      "undone": null,
+      "who": "yuno"
     }
   ]
 }
