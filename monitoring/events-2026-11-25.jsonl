@@ -66,3 +66,6 @@
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T12:15:44Z", "who": "藤都子"}
 {"detail": "retweet skip: 폰 원문이 @naoyakm46 의 글", "flow": "tweet", "result": "ok", "ts": "2026-11-25T12:15:58Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T12:16:00Z", "who": "藤都子"}
+{"candidates": 4, "detail": "candidates=4 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-25T12:32:51Z", "who": "aMnJOBcKQjE"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_2638bafa", "result": "ok", "title": "💜メン限 雑談💜みやこの部屋#14 【ゆめみた/藤都子】", "to_state": "live", "ts": "2026-11-25T12:32:51Z", "video_id": "aMnJOBcKQjE", "who": "miyako"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · aMnJOBcKQjE · 예고 live", "flow": "websub", "merge_key": "websub-notify:aMnJOBcKQjE", "result": "ok", "title": "💜メン限 雑談💜みやこの部屋#14 【ゆめみた/藤都子】", "ts": "2026-11-25T12:32:51Z", "video_id": "aMnJOBcKQjE", "who": "miyako"}
