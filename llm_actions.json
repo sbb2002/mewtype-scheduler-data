@@ -5551,6 +5551,25 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_0500aefbc3",
+      "input": {
+        "channel_key": "arale",
+        "raw": "❑ ━━━ 配信開始！ ━━━ ❑\n\n┊ 11/26(木) 6:30~┊#イ中田丁なう\n\n┊ 朝活 ┊いってらっしゃいでお見送り☀️\n\n🔗 https://youtube.com/live/p1O0mLJWO5g",
+        "tag": "p#https://x.com/#1tweet-2125705790866722925"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/26 6:30에 방송 시작을 알리는 내용이며, 기존에 예정된 방송을 취소하거나 일정 변경한다는 표현이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-25T21:42:33Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
