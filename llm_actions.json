@@ -5611,6 +5611,26 @@
       "undo": null,
       "undone": null,
       "who": "nonoka"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_fdf5ceb10e",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "💜配信よてい💜\n11/25(水)21:30～ぽぽぽ♪限定\nめんば～しっぷ配信⚡\n\n🔗https://youtube.com/live/aMnJOBcKQjE?feature=share\n\nぽかぽかな服で集合♪🔥🐶🔥\n＃みるみやこ",
+        "raw": "みやこしっぷ配信ありゃとうございました❣\nそしてch登録4万人ありゃ～と✨\n\n💭🐶\n↑斜め上を向きなにかを考えているみやこ\n\nぱぱいや！お灸！健康～～！\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2125594824397267328"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/25에 예정된 방송을 알리는 내용이며, 목록에 있는 11/28 방송과는 관련이 없어 취소·변경으로 판단되지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-25T14:25:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
