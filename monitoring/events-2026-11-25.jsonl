@@ -32,3 +32,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-25T09:20:50Z", "tweet_id": "2125520058357346404", "via": "ingest", "who": "ritsu"}
 {"detail": "개인 트윗 · ritsu", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T09:21:05Z", "who": "峰月律"}
 {"detail": "mode: updated", "flow": "notice", "notice_id": "2125522380504113248", "result": "ok", "ts": "2026-11-25T09:30:35Z", "via": "ingest", "who": ""}
+{"detail": "mode: none", "flow": "relay", "result": "ok", "ts": "2026-11-25T09:30:35Z", "via": "ingest", "who": ""}
