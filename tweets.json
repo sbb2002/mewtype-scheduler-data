@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:20:50Z",
+  "generated_at": "2026-11-25T09:36:42Z",
   "tweets": {
     "arale": [
       {
@@ -53,6 +53,24 @@
         "text": "はじまたで〜〜〜ﾜﾜﾜ",
         "text_ko": "첫 방송에서~와와와",
         "url": "https://x.com/i/status/2125236800126058986"
+      }
+    ],
+    "miyako": [
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-27T09:36:20Z",
+        "handle": "miyako_yumemita",
+        "id": "2125523974264345009",
+        "media": [
+          "https://pbs.twimg.com/media/HX9gxzdbUAAaxEw.jpg"
+        ],
+        "posted_at": "2026-11-25T09:36:20Z",
+        "quote": null,
+        "received_at": "2026-11-25T09:36:42Z",
+        "reply_to_id": null,
+        "text": "💜配信よてい💜\n11/25(水)21:30〜ぽぽぽ♪限定\nめんば〜しっぷ配信⚡\n\n🔗https://youtube.com/live/aMnJOBcKQjE?feature=share\n\nぽかぽかな服で集合♪🔥🐶🔥\n＃みるみやこ",
+        "text_ko": "💜방송 예정💜\n11/25(수)21:30~ 포포포♪한정\n멤버십 한정 방송⚡\n\n🔗https://youtube.com/live/aMnJOBcKQjE?feature=share\n\n포카포카한 옷 입고 모여요♪🔥🐶🔥\n#みるみやこ",
+        "url": "https://x.com/i/status/2125523974264345009"
       }
     ],
     "nonoka": [
