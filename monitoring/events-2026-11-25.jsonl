@@ -41,3 +41,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-25T09:36:42Z", "tweet_id": "2125523974264345009", "via": "ingest", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 11/25 21:30에 진행될 방송을 새롭게 알리는 내용이며 취소·변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-25T09:36:42Z", "via": "ingest", "who": "miyako"}
 {"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-25T09:37:08Z", "who": "藤都子"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-25T09:44:28Z", "tweet_id": "2125526009885917567", "via": "ingest", "who": "yuno"}
