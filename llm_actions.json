@@ -5810,6 +5810,32 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_caa9d0a1f3",
+      "input": {
+        "guest_keys": [
+          "miyako"
+        ],
+        "host_key": "arale",
+        "raw": "【配信開始📡】\n\n「#バンドリTVLIVE 2026」＃342\n配信開始しました✨\n\n夢限大みゅーたいぷより\n仲町あられ・藤都子が出演💛💜\n\n📺配信URLはこちら\nhttps://www.youtube.com/watch?v=i64CrvW6zng\n\nぜひご覧ください！\n\n#ゆめみた",
+        "target": {
+          "channel_key": "arale",
+          "start": "2026-11-26T13:03:19Z",
+          "video_id": "i64CrvW6zng"
+        }
+      },
+      "kind": "collab_guest",
+      "parent_id": null,
+      "reason": "",
+      "summary": "공식 스케줄 합동 줄 — 게스트 아님 판정 miyako · 11/26 22:03 バンドリTVLIVE 2026",
+      "ts": "2026-11-26T13:03:19Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
