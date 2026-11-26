@@ -4,42 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-11-26T14:07:13Z",
-        "handle": "arale_yumemita",
-        "id": "2125229755775750352",
-        "media": [
-          "https://pbs.twimg.com/media/HX5VL5FbEAA8DFl.jpg"
-        ],
-        "posted_at": "2026-11-24T14:07:13Z",
-        "quote": null,
-        "received_at": "2026-11-24T14:07:15Z",
-        "reply_to_id": null,
-        "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/24(火) 23:30〜┊#イ中田丁なう\n\n┊ すやバラ歌枠 ┊アコギでお届け安眠♬\n\n🔗 https://youtube.com/live/7ccVq2_XlYY",
-        "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 11/24(화) 23:30〜┊#イ中田丁なう\n\n┊ 수야바라 노래 방송 ┊어쿠스틱 기타로 전해드리는 숙면♬\n\n🔗 https://youtube.com/live/7ccVq2_XlYY",
-        "url": "https://x.com/i/status/2125229755775750352"
-      },
-      {
-        "channel_key": "arale",
-        "expires_at": "2026-11-26T14:35:12Z",
-        "handle": "arale_yumemita",
-        "id": "2125236800126058986",
-        "media": [],
-        "posted_at": "2026-11-24T14:35:12Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HX5VL5FbEAA8DFl.jpg"
-          ],
-          "text": "❑ ━━━ 配信予定 ━━━ ❑\n\n┊ 11/24(火) 23:30~┊#イ中田丁なう\n\n┊ すやバラ歌枠 ┊アコギでお届け安眠♬\n\n🔗 https://youtube.com/live/7ccVq2_XlYY",
-          "text_ko": "❑ ━━━ 방송 예정 ━━━ ❑\n\n┊ 11/24(화) 23:30~┊#イ中田丁なう\n\n┊ 수야바라 노래 방송 ┊어쿠스틱 기타로 전해드리는 숙면♬\n\n🔗 https://youtube.com/live/7ccVq2_XlYY"
-        },
-        "received_at": "2026-11-24T14:35:15Z",
-        "reply_to_id": null,
-        "text": "はじまたで〜〜〜ﾜﾜﾜ",
-        "text_ko": "첫 방송에서~와와와",
-        "url": "https://x.com/i/status/2125236800126058986"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-11-27T14:31:54Z",
         "handle": "arale_yumemita",
         "id": "2125598354373767434",
@@ -410,22 +374,6 @@
       }
     ],
     "ritsu": [
-      {
-        "channel_key": "ritsu",
-        "expires_at": "2026-11-26T13:07:12Z",
-        "handle": "ritsu_yumemita",
-        "id": "2125214652015788537",
-        "media": [
-          "https://pbs.twimg.com/media/HX5Hbm6aQAAVbSx.jpg"
-        ],
-        "posted_at": "2026-11-24T13:07:12Z",
-        "quote": null,
-        "received_at": "2026-11-24T13:08:07Z",
-        "reply_to_id": null,
-        "text": "はへ",
-        "text_ko": "하헤",
-        "url": "https://x.com/i/status/2125214652015788537"
-      },
       {
         "channel_key": "ritsu",
         "expires_at": "2026-11-27T09:20:46Z",
