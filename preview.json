@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T12:50:23Z",
+  "generated_at": "2026-11-26T12:50:24Z",
   "items": [
     {
       "actual_start": "2026-11-26T12:50:01Z",
@@ -107,6 +107,38 @@
       "time_tbd": false,
       "title": "バンドリ！TV LIVE 2026 #342",
       "title_ko": "뱅드림！TV LIVE 2026 #342",
+      "url": "https://www.youtube.com/watch?v=i64CrvW6zng",
+      "video_id": "i64CrvW6zng"
+    },
+    {
+      "actual_start": "2026-11-26T12:50:01Z",
+      "api_start_seen": "2026-11-26T13:00:00Z",
+      "assumed_live": false,
+      "channel_key": "arale",
+      "collab_with": [
+        "miyako"
+      ],
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-26T15:50:24Z",
+      "first_seen": "2026-11-26T12:50:24Z",
+      "host": null,
+      "id": "pv_7fe694bf",
+      "info_at": "2026-11-26T12:50:24Z",
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": "collab",
+      "last_updated": "2026-11-26T12:50:24Z",
+      "membership": false,
+      "needs_tl": true,
+      "scheduled_start": "2026-11-26T13:00:00Z",
+      "source": "x-relay",
+      "src_url": "https://x.com/i/status/2125933421822448042",
+      "state": "live",
+      "state_since": "2026-11-26T12:50:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/i64CrvW6zng/maxresdefault.jpg?v=6afed8ab",
+      "time_tbd": false,
+      "title": "バンドリ！TV LIVE 2026 #342",
+      "title_ko": null,
       "url": "https://www.youtube.com/watch?v=i64CrvW6zng",
       "video_id": "i64CrvW6zng"
     },
