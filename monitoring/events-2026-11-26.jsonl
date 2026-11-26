@@ -96,3 +96,4 @@
 {"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_29f36535", "result": "ok", "title": "バンドリ！TV LIVE 2026 #342", "to_state": "live", "ts": "2026-11-26T12:50:23Z", "video_id": "i64CrvW6zng", "who": "miyako"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-26T12:50:24Z", "tweet_id": "2125934792470622217", "via": "ingest", "who": "miyako"}
 {"detail": "mode: updated", "flow": "notice", "notice_id": "2125933421822448042", "result": "ok", "ts": "2026-11-26T12:50:24Z", "via": "ingest", "who": ""}
+{"detail": "broadcast-change none · 게시물은 22:00에 진행될 \"뱅드림！TV LIVE 2026 #342\" 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-26T12:50:24Z", "via": "ingest", "who": "miyako"}
