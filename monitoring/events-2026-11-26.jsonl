@@ -87,3 +87,5 @@
 {"detail": "gap-fill(자기 답글) · 2125925960428241246 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-26T12:14:07Z", "tweet_id": "2125925960428241246", "via": "ingest", "who": "nonoka"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +3분 · 2125925643733066096", "flow": "tweet", "result": "ok", "ts": "2026-11-26T12:16:04Z", "tweet_id": "2125925643733066096", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-26T12:16:08Z", "who": "宮永ののか🐰🩹"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-26T12:40:00Z", "who": "i64CrvW6zng"}
+{"assumed_live": false, "detail": "upcoming→watching", "flow": "preview", "from_state": "upcoming", "item_id": "pv_29f36535", "result": "ok", "title": "バンドリ！TV LIVE 2026 #342", "to_state": "watching", "ts": "2026-11-26T12:40:00Z", "video_id": "i64CrvW6zng", "who": "miyako"}
