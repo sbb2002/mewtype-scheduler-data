@@ -1835,6 +1835,40 @@
       "text": "はじめます",
       "text_ko": "시작합니다",
       "url": "https://x.com/i/status/2125198207240302957"
+    },
+    {
+      "archived_at": "2026-11-26T12:50:24Z",
+      "archived_reason": "expired",
+      "channel_key": "nonoka",
+      "expires_at": "2026-11-26T12:34:06Z",
+      "handle": "nonoka_yumemita",
+      "id": "2125206322773889116",
+      "media": [],
+      "posted_at": "2026-11-24T12:34:06Z",
+      "quote": null,
+      "received_at": "2026-11-24T12:37:54Z",
+      "reply_to_id": null,
+      "text": "♡🐰配信開始🩹♡\n\nついに最終章‼️‼️‼️\nはじめます！！\n\n# 15 最終回【魔法少女ノ魔女裁判】最終章！かわいい魔法少女ゲームをあそぶ【宮永ののか】【ゆめみた/夢限大みゅーたいぷ】#まのさば実況 #まのさばネタバレ　https://www.youtube.com/live/tQy1jWeTLOI?si=IYoHXINQs2udfdNK",
+      "text_ko": "♡🐰방송 시작🩹♡\n\n드디어 최종 장‼️‼️‼️ 시작합니다!!\n\n# 15 최종회【마법소녀노마녀재판】최종 장! 귀여운 마법소녀 게임 플레이【미야나가 노노카】【유메미타/무겐다이 뮤타입】#마노사바実況 #마노사바ネタバレ https://www.youtube.com/live/tQy1jWeTLOI?si=IYoHXINQs2udfdNK",
+      "url": "https://x.com/i/status/2125206322773889116"
+    },
+    {
+      "archived_at": "2026-11-26T12:50:24Z",
+      "archived_reason": "expired",
+      "channel_key": "yuno",
+      "expires_at": "2026-11-26T12:36:19Z",
+      "handle": "yuno_yumemita",
+      "id": "2125206879823692060",
+      "media": [
+        "https://pbs.twimg.com/media/HX5AZMbakAAX4ma.jpg"
+      ],
+      "posted_at": "2026-11-24T12:36:19Z",
+      "quote": null,
+      "received_at": "2026-11-24T12:37:54Z",
+      "reply_to_id": null,
+      "text": "〈配信のおしらせ〉\n11/24 22:00〜 生存報告\n\nユノちゃんは生存を報告しなくちゃいけない！\n\nｶｯﾃ…ｶｯﾃ…(ᐢ⩌-⩌ᐢ)\n\nおや？なにか聞こえてきますね？\n一体なんでしょう…？\n\nhttps://www.youtube.com/live/3sT1hm90tEQ?si=vhZaqPpoAHqu1y8L",
+      "text_ko": "〈방송 안내〉\n11/24 22:00〜 생존 보고\n\n유노짱은 생존을 보고해야 해!\n\n카테…카테…(ᐢ⩌-⩌ᐢ)\n\n어? 뭔가 들리네요?\n대체 뭐일까요…？\n\nhttps://www.youtube.com/live/3sT1hm90tEQ?si=vhZaqPpoAHqu1y8L",
+      "url": "https://x.com/i/status/2125206879823692060"
     }
   ]
 }
