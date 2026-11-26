@@ -5769,6 +5769,27 @@
       "undo": null,
       "undone": null,
       "who": "miyako"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_e678c7c24c",
+      "input": {
+        "channel_key": "miyako",
+        "quote": "このあと22:00頃〜生配信📺✨\n「バンドリ！TV LIVE 2026」＃342\n\n出演者\n倉知玲鳳（パレオ 役）\n仲町あられ\n藤都子\n\nYouTube で生配信📺✨\nhttps://youtube.com/live/i64CrvW6zng\n\nhttps://bang-dream.com/news/2464/\n\n#バンドリ #バンドリTVLIVE",
+        "raw": "🔥💪🍤🔥\nみてね〜〜〜❣️",
+        "tag": "p#https://x.com/#1tweet-2125934792470622217",
+        "video_id": "i64CrvW6zng"
+      },
+      "kind": "participation",
+      "parent_id": null,
+      "reason": "",
+      "summary": "외부 채널 영상 — 참여 아님 · バンドリ！TV LIVE 2026 #342",
+      "ts": "2026-11-26T12:50:24Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
