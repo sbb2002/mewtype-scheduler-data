@@ -85,3 +85,4 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-26T11:00:01Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-26T12:00:01Z", "who": "group"}
 {"detail": "gap-fill(자기 답글) · 2125925960428241246 · +0분 · mode: added · 원글 함께", "flow": "tweet", "result": "ok", "ts": "2026-11-26T12:14:07Z", "tweet_id": "2125925960428241246", "via": "ingest", "who": "nonoka"}
+{"detail": "폰 늦게 도착 · 보충 뒤 +3분 · 2125925643733066096", "flow": "tweet", "result": "ok", "ts": "2026-11-26T12:16:04Z", "tweet_id": "2125925643733066096", "via": "ingest", "who": "nonoka"}
