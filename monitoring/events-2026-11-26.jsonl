@@ -68,3 +68,4 @@
 {"detail": "gap-fill · 2125860831640555573 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-26T08:02:06Z", "tweet_id": "2125860831640555573", "via": "ingest", "who": "arale"}
 {"detail": "폰 늦게 도착 · 보충 뒤 +10분 · 2125860831640555573", "flow": "tweet", "result": "ok", "ts": "2026-11-26T08:05:32Z", "tweet_id": "2125860831640555573", "via": "ingest", "who": "arale"}
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-26T08:05:36Z", "who": "仲町あられ"}
+{"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-26T08:45:20Z", "tweet_id": "2125873510933488085", "via": "ingest", "who": "miyako"}
