@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T08:45:20Z",
+  "generated_at": "2026-11-26T08:50:02Z",
   "items": [
     {
       "actual_start": null,
@@ -98,7 +98,6 @@
       "kind": null,
       "last_updated": "2026-11-26T08:45:20Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-26T13:00:00Z",
       "source": "personal",
       "src_url": "https://x.com/i/status/2125873510933488085",
@@ -107,7 +106,7 @@
       "thumbnail": "https://i.ytimg.com/vi/i64CrvW6zng/maxresdefault.jpg?v=6afed8ab",
       "time_tbd": false,
       "title": "バンドリ！TV LIVE 2026 #342",
-      "title_ko": null,
+      "title_ko": "뱅드림！TV LIVE 2026 #342",
       "url": "https://www.youtube.com/watch?v=i64CrvW6zng",
       "video_id": "i64CrvW6zng"
     },
