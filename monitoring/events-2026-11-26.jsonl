@@ -113,3 +113,4 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_7fe694bf", "result": "ok", "title": "バンドリ！TV LIVE 2026 #342", "to_state": "out", "ts": "2026-11-26T14:35:00Z", "video_id": "i64CrvW6zng", "who": "arale"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-26T14:45:19Z", "tweet_id": "2125964107027480687", "via": "ingest", "who": "miyako"}
 {"detail": "url-schedule skip: 이미 끝난 방송 i64CrvW6zng", "flow": "tweet", "result": "ok", "ts": "2026-11-26T14:45:19Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-26T14:45:37Z", "who": "藤都子"}
