@@ -71,3 +71,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-26T08:45:20Z", "tweet_id": "2125873510933488085", "via": "ingest", "who": "miyako"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_29f36535", "result": "ok", "title": "バンドリ！TV LIVE 2026 #342", "to_state": "upcoming", "ts": "2026-11-26T08:45:20Z", "video_id": "i64CrvW6zng", "who": "miyako"}
 {"detail": "broadcast-change none · 게시물은 오늘 22시 방송에 출연한다는 안내이며, 취소·변경을 알리는 내용이 아니다.", "flow": "tweet", "result": "ok", "ts": "2026-11-26T08:45:20Z", "via": "ingest", "who": "miyako"}
+{"detail": "개인 트윗 · miyako", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-26T08:45:47Z", "who": "藤都子"}
