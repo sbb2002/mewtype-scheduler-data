@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-26T13:00:03Z",
+  "generated_at": "2026-11-26T13:03:19Z",
   "items": [
     {
       "actual_start": "2026-11-26T12:50:01Z",
@@ -98,7 +98,7 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": "collab",
-      "last_updated": "2026-11-26T12:51:04Z",
+      "last_updated": "2026-11-26T13:03:19Z",
       "membership": false,
       "scheduled_start": "2026-11-26T13:00:00Z",
       "source": "x-relay",
