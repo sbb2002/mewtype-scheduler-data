@@ -99,3 +99,4 @@
 {"detail": "broadcast-change none · 게시물은 22:00에 진행될 \"뱅드림！TV LIVE 2026 #342\" 방송을 알리는 내용이며, 취소나 일정 변경을 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-26T12:50:24Z", "via": "ingest", "who": "miyako"}
 {"assumed_live": false, "detail": "None→live", "flow": "preview", "from_state": null, "item_id": "pv_7fe694bf", "result": "ok", "title": "バンドリ！TV LIVE 2026 #342", "to_state": "live", "ts": "2026-11-26T12:50:24Z", "video_id": "i64CrvW6zng", "who": "arale"}
 {"detail": "mode: added · 파싱 1건", "flow": "relay", "result": "ok", "ts": "2026-11-26T12:50:24Z", "via": "ingest", "who": ""}
+{"detail": "공식 스케줄 · 예고 1건", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-26T12:51:04Z", "who": "夢限大みゅーたいぷ"}
