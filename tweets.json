@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:26:42Z",
+  "generated_at": "2026-11-26T02:29:11Z",
   "tweets": {
     "arale": [
       {
@@ -101,6 +101,22 @@
         "text": "腰をクイッとさせる動き、ほんとかわいい",
         "text_ko": "허리를 퀴~ 하는 움직임, 진짜 귀여워",
         "url": "https://x.com/i/status/2125778231433588823"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-28T02:29:09Z",
+        "handle": "arale_yumemita",
+        "id": "2125778859522167184",
+        "media": [
+          "https://pbs.twimg.com/media/HYBImuoacAAOatf.jpg"
+        ],
+        "posted_at": "2026-11-26T02:29:09Z",
+        "quote": null,
+        "received_at": "2026-11-26T02:29:11Z",
+        "reply_to_id": null,
+        "text": "デカスイカに感動…🍉[合宿オフショ]",
+        "text_ko": "큰 수박에 감동…🍉[합숙 오프쇼]",
+        "url": "https://x.com/i/status/2125778859522167184"
       }
     ],
     "miyako": [
