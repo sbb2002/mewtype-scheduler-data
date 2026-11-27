@@ -64,3 +64,4 @@
 {"candidates": 6, "detail": "candidates=6 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-27T14:15:00Z", "who": "rYsiN6KWjmU"}
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_ad1a6aaf", "result": "ok", "title": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-27T14:15:00Z", "video_id": "rYsiN6KWjmU", "who": "ritsu"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-27T14:29:39Z", "who": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】"}
+{"detail": "회원 방송 시작 · yuno (noop)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-27T14:29:42Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: YUNO's+ 限定配信"}
