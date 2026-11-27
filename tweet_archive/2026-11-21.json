@@ -1,0 +1,38 @@
+{
+  "tweets": [
+    {
+      "archived_at": "2026-11-22T15:26:40Z",
+      "archived_reason": "expired",
+      "channel_key": "nonoka",
+      "expires_at": "2026-11-22T15:26:29Z",
+      "handle": "nonoka_yumemita",
+      "id": "2123800153836687810",
+      "media": [],
+      "posted_at": "2026-11-20T15:26:29Z",
+      "quote": null,
+      "received_at": "2026-11-20T15:26:34Z",
+      "reply_to_id": null,
+      "text": "ゆめみた3周年、ありがとう🥹\n4年目、さらに活躍していきたいです✨\n\nであってくれたみんなと一緒に、人生の輝きを感じたい！！感じてほしい！！！\nみなさんに、夢限大みゅーたいぷというバンドが、一生新鮮な体験をお届けしたい‼️\n\n愛しています、みゅーたいぱー、夢限大みゅーたいぷ、人類、全生物",
+      "text_ko": "유메미타 3주년, 고마워🥹\n4년 차, 더욱 활약하고 싶어요✨\n\n함께해준 모두와 함께, 인생의 빛을 느끼고 싶어!! 느꼈으면 좋겠어!!!\n여러분에게, 무겐다이 뮤타입라는 밴드가, 평생 신선한 체험을 전하고 싶습니다‼️\n\n사랑합니다, 뮤타이퍼, 무겐다이 뮤타입, 인류, 전 생물",
+      "url": "https://x.com/i/status/2123800153836687810"
+    },
+    {
+      "archived_at": "2026-11-22T22:00:55Z",
+      "archived_reason": "expired",
+      "channel_key": "miyako",
+      "expires_at": "2026-11-22T15:37:26Z",
+      "handle": "miyako_yumemita",
+      "id": "2123802909615997197",
+      "media": [
+        "https://pbs.twimg.com/media/HXlDfSSagAEMnyh.jpg"
+      ],
+      "posted_at": "2026-11-20T15:37:26Z",
+      "quote": null,
+      "received_at": "2026-11-20T15:37:28Z",
+      "reply_to_id": null,
+      "text": "うしじゃよ\n#ぬいみやこ",
+      "text_ko": "소야\n#ぬいみ야코",
+      "url": "https://x.com/i/status/2123802909615997197"
+    }
+  ]
+}
