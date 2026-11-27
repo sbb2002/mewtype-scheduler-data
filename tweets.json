@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:19:06Z",
+  "generated_at": "2026-11-27T13:59:06Z",
   "tweets": {
     "arale": [
       {
@@ -430,6 +430,22 @@
         "text": "はじめます",
         "text_ko": "시작합니다",
         "url": "https://x.com/i/status/2126285762996158549"
+      },
+      {
+        "channel_key": "ritsu",
+        "expires_at": "2026-11-29T13:51:33Z",
+        "handle": "ritsu_yumemita",
+        "id": "2126312975997047069",
+        "media": [
+          "https://pbs.twimg.com/media/HYIuYcqa0AABHF9.jpg"
+        ],
+        "posted_at": "2026-11-27T13:51:33Z",
+        "quote": null,
+        "received_at": "2026-11-27T13:59:06Z",
+        "reply_to_id": null,
+        "text": "峰月たんぽぽ",
+        "text_ko": "미네츠키 리츠 민들레",
+        "url": "https://x.com/i/status/2126312975997047069"
       }
     ],
     "yuno": [
