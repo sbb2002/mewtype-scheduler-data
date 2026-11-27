@@ -38,3 +38,5 @@
 {"detail": "upcoming→watching (yt-notif tunein)", "flow": "preview", "from_state": "upcoming", "item_id": "pv_ad1a6aaf", "result": "ok", "title": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】", "to_state": "watching", "ts": "2026-11-27T11:30:17Z", "video_id": "rYsiN6KWjmU", "who": "ritsu"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-27T12:00:02Z", "who": "group"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-27T12:03:13Z", "who": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-27T12:03:13Z", "who": "rYsiN6KWjmU"}
+{"assumed_live": false, "detail": "watching→live", "flow": "preview", "from_state": "watching", "item_id": "pv_ad1a6aaf", "result": "ok", "title": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】", "to_state": "live", "ts": "2026-11-27T12:03:13Z", "video_id": "rYsiN6KWjmU", "who": "ritsu"}
