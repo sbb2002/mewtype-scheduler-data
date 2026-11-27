@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:35:00Z",
+  "generated_at": "2026-11-27T14:15:00Z",
   "items": [
     {
       "actual_start": "2026-11-20T11:50:11Z",
@@ -815,6 +815,38 @@
       "title_ko": "뱅드림！TV LIVE 2026 #342",
       "url": "https://www.youtube.com/watch?v=i64CrvW6zng",
       "video_id": "i64CrvW6zng"
+    },
+    {
+      "actual_end": "2026-11-27T13:43:10Z",
+      "actual_start": "2026-11-27T12:03:02Z",
+      "api_start_seen": "2026-11-27T12:00:00Z",
+      "archived_at": "2026-11-27T14:15:00Z",
+      "assumed_live": false,
+      "channel_key": "ritsu",
+      "collab_with": null,
+      "concurrent_viewers": 837,
+      "expires_at": "2026-11-27T15:00:00Z",
+      "first_seen": "2026-11-27T10:37:39Z",
+      "host": null,
+      "id": "pv_ad1a6aaf",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-27T14:15:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-27T12:00:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2126264175320256960",
+      "state": "out",
+      "state_since": "2026-11-27T14:15:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/rYsiN6KWjmU/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】",
+      "title_ko": "【민들레는 견뎌라.】민들레가 된 포포~☆彡【미네츠키 리츠/유메미타】",
+      "url": "https://www.youtube.com/watch?v=rYsiN6KWjmU",
+      "video_id": "rYsiN6KWjmU",
+      "yt_tunein": true
     }
   ]
 }
