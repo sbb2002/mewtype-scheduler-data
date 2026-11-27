@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:15:00Z",
+  "generated_at": "2026-11-27T15:05:00Z",
   "items": [
     {
       "actual_start": "2026-11-20T11:50:11Z",
@@ -847,6 +847,36 @@
       "url": "https://www.youtube.com/watch?v=rYsiN6KWjmU",
       "video_id": "rYsiN6KWjmU",
       "yt_tunein": true
+    },
+    {
+      "actual_end": "2026-11-27T14:33:29Z",
+      "actual_start": "2026-11-27T13:04:58Z",
+      "api_start_seen": "2026-11-27T13:00:00Z",
+      "archived_at": "2026-11-27T15:05:00Z",
+      "assumed_live": false,
+      "channel_key": "yuno",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-27T16:00:00Z",
+      "first_seen": "2026-11-27T13:01:39Z",
+      "host": null,
+      "id": "pv_bdb022c6",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-27T15:05:00Z",
+      "membership": true,
+      "scheduled_start": "2026-11-27T13:00:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-11-27T15:05:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/e4Co1myGtMc/maxresdefault.jpg?v=6b097ef6",
+      "time_tbd": false,
+      "title": "YUNO's+ 限定配信",
+      "title_ko": "YUNO's+ 한정 방송",
+      "url": "https://www.youtube.com/watch?v=e4Co1myGtMc",
+      "video_id": "e4Co1myGtMc"
     }
   ]
 }
