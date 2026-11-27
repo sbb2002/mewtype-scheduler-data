@@ -5665,6 +5665,25 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_376bf315be",
+      "input": {
+        "channel_key": "miyako",
+        "raw": "💜配信よてい💜\n11/28(土)21:30～歌枠🎤\n\n🔗https://youtube.com/live/O8w36mKQpTU?feature=share\n\nぼかろをうたうぼか～♪\n＃みるみやこ",
+        "tag": "p#https://x.com/#1tweet-2126287685744767380"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 11/28 21:30에 진행될 방송을 안내하는 내용이며 일정 변경이나 취소를 언급하지 않는다.",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-27T12:19:06Z",
+      "undo": null,
+      "undone": null,
+      "who": "miyako"
     }
   ]
 }
