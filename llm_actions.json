@@ -5645,6 +5645,26 @@
       "undo": null,
       "undone": null,
       "who": "ritsu"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_63735306ef",
+      "input": {
+        "channel_key": "ritsu",
+        "quote": "【配信予定】 \n🩵 ･･････････････････････ 🩵\n\n　今夜𝗦𝗧𝗔𝗥𝗧 21:00～\n\nたんぽぽになったぽぽ～☆彡\n\n↻ ＵＲＬ\n\nhttps://youtube.com/live/rYsiN6KWjmU?feature=share\n\n🩵 ･･････････････････････ 🩵",
+        "raw": "はじめます",
+        "tag": "p#https://x.com/#1tweet-2126285762996158549"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물에 기존 21:00 방송을 진행한다는 내용만 있어 취소·변경이 아님",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-27T12:11:05Z",
+      "undo": null,
+      "undone": null,
+      "who": "ritsu"
     }
   ]
 }
