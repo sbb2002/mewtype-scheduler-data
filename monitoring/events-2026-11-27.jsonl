@@ -65,3 +65,6 @@
 {"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_ad1a6aaf", "result": "ok", "title": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】", "to_state": "out", "ts": "2026-11-27T14:15:00Z", "video_id": "rYsiN6KWjmU", "who": "ritsu"}
 {"detail": "유튜브 sub_start", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-27T14:29:39Z", "who": "【タンポポは耐える。】たんぽぽになったぽぽ～☆彡【峰月律/ゆめみた】"}
 {"detail": "회원 방송 시작 · yuno (noop)", "flow": "upstream", "result": "ok", "source": "yt", "ts": "2026-11-27T14:29:42Z", "who": "千石ユノ -Sengoku Yuno- / 夢限大みゅーたいぷ 실시간 스트리밍 시작: YUNO's+ 限定配信"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-27T14:34:31Z", "who": "e4Co1myGtMc"}
+{"assumed_live": false, "detail": "live→end", "flow": "preview", "from_state": "live", "item_id": "pv_bdb022c6", "result": "ok", "title": "YUNO's+ 限定配信", "to_state": "end", "ts": "2026-11-27T14:34:31Z", "video_id": "e4Co1myGtMc", "who": "yuno"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · e4Co1myGtMc · 예고 end", "flow": "websub", "merge_key": "websub-notify:e4Co1myGtMc", "result": "ok", "title": "YUNO's+ 限定配信", "ts": "2026-11-27T14:34:31Z", "video_id": "e4Co1myGtMc", "who": "yuno"}
