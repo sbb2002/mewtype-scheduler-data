@@ -44,3 +44,4 @@
 {"detail": "broadcast-change none · 게시물에 기존 21:00 방송을 진행한다는 내용만 있어 취소·변경이 아님", "flow": "tweet", "result": "ok", "ts": "2026-11-27T12:11:05Z", "via": "ingest", "who": "ritsu"}
 {"detail": "gap-fill · 2126285762996158549 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-27T12:11:05Z", "tweet_id": "2126285762996158549", "via": "ingest", "who": "ritsu"}
 {"detail": "broadcast-change none · 게시물은 11/28 21:30에 진행될 방송을 안내하는 내용이며 일정 변경이나 취소를 언급하지 않는다.", "flow": "tweet", "result": "ok", "ts": "2026-11-27T12:19:06Z", "via": "ingest", "who": "miyako"}
+{"detail": "gap-fill · 2126287685744767380 · +8분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-27T12:19:06Z", "tweet_id": "2126287685744767380", "via": "ingest", "who": "miyako"}
