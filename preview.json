@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-27T13:06:06Z",
+  "generated_at": "2026-11-27T13:10:03Z",
   "items": [
     {
       "actual_start": "2026-11-27T12:03:02Z",
@@ -128,7 +128,6 @@
       "kind": null,
       "last_updated": "2026-11-27T13:06:06Z",
       "membership": true,
-      "needs_tl": true,
       "scheduled_start": "2026-11-27T13:00:00Z",
       "source": "api",
       "state": "live",
@@ -136,7 +135,7 @@
       "thumbnail": "https://i.ytimg.com/vi/e4Co1myGtMc/maxresdefault.jpg?v=6b097ef6",
       "time_tbd": false,
       "title": "YUNO's+ 限定配信",
-      "title_ko": null,
+      "title_ko": "YUNO's+ 한정 방송",
       "url": "https://www.youtube.com/watch?v=e4Co1myGtMc",
       "video_id": "e4Co1myGtMc"
     },
