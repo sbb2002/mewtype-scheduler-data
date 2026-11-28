@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-28T11:40:00Z",
+  "generated_at": "2026-11-28T12:00:20Z",
   "items": [
     {
       "actual_start": null,
@@ -96,19 +96,20 @@
       "info_source": "api",
       "is_premiere": false,
       "kind": null,
-      "last_updated": "2026-11-28T11:40:00Z",
+      "last_updated": "2026-11-28T12:00:20Z",
       "membership": false,
       "scheduled_start": "2026-11-28T12:30:00Z",
       "source": "api",
       "src_url": "https://x.com/i/status/2126287685744767380",
-      "state": "upcoming",
-      "state_since": "2026-11-22T22:45:17Z",
+      "state": "watching",
+      "state_since": "2026-11-28T12:00:20Z",
       "thumbnail": "https://i.ytimg.com/vi/O8w36mKQpTU/maxresdefault.jpg?v=6affe645",
       "time_tbd": false,
       "title": "【歌枠】ボカロをうたいまくり隊【ゆめみた/藤都子】",
       "title_ko": "【노래 방송】보컬로를 부르는 팀【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=O8w36mKQpTU",
-      "video_id": "O8w36mKQpTU"
+      "video_id": "O8w36mKQpTU",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
