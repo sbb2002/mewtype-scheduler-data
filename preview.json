@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-28T11:28:34Z",
+  "generated_at": "2026-11-28T11:30:02Z",
   "items": [
     {
       "actual_start": null,
@@ -269,7 +269,6 @@
       "kind": null,
       "last_updated": "2026-11-28T11:28:34Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-11-28T11:00:00Z",
       "source": "api",
       "state": "end",
@@ -277,7 +276,7 @@
       "thumbnail": "https://i.ytimg.com/vi/7yQn4lMvQjQ/maxresdefault.jpg",
       "time_tbd": false,
       "title": "やばい💦夏終わる💦たすけて💦",
-      "title_ko": null,
+      "title_ko": "심각해💦여름 끝나가💦도와줘💦",
       "url": "https://www.youtube.com/watch?v=7yQn4lMvQjQ",
       "video_id": "7yQn4lMvQjQ",
       "yt_tunein": true
