@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T11:40:00Z",
+  "generated_at": "2026-11-28T14:20:00Z",
   "items": [
     {
       "actual_start": "2026-11-21T01:26:48Z",
@@ -871,6 +871,38 @@
       "title_ko": "심각해💦여름 끝나가💦도와줘💦",
       "url": "https://www.youtube.com/watch?v=7yQn4lMvQjQ",
       "video_id": "7yQn4lMvQjQ",
+      "yt_tunein": true
+    },
+    {
+      "actual_end": "2026-11-28T13:49:22Z",
+      "actual_start": "2026-11-28T12:30:28Z",
+      "api_start_seen": "2026-11-28T12:30:00Z",
+      "archived_at": "2026-11-28T14:20:00Z",
+      "assumed_live": false,
+      "channel_key": "miyako",
+      "collab_with": null,
+      "concurrent_viewers": 200,
+      "expires_at": "2026-11-28T15:30:00Z",
+      "first_seen": "2026-11-22T22:45:17Z",
+      "host": null,
+      "id": "pv_4b3aa945",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": false,
+      "kind": null,
+      "last_updated": "2026-11-28T14:20:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-28T12:30:00Z",
+      "source": "api",
+      "src_url": "https://x.com/i/status/2126287685744767380",
+      "state": "out",
+      "state_since": "2026-11-28T14:20:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/O8w36mKQpTU/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "【歌枠】ボカロをうたいまくり隊【ゆめみた/藤都子】",
+      "title_ko": "【노래 방송】보컬로를 부르는 팀【유메미타/후지 미야코】",
+      "url": "https://www.youtube.com/watch?v=O8w36mKQpTU",
+      "video_id": "O8w36mKQpTU",
       "yt_tunein": true
     }
   ]
