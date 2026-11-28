@@ -40,3 +40,4 @@
 {"candidates": 62, "detail": "candidates=62 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-28T09:30:01Z", "who": ""}
 {"detail": "gap-fill · 2126608822756385229 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-28T09:35:06Z", "tweet_id": "2126608822756385229", "via": "ingest", "who": "arale"}
 {"detail": "gap-fill · 2126610745244979453 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-28T09:42:07Z", "tweet_id": "2126610745244979453", "via": "ingest", "who": "nonoka"}
+{"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-28T10:00:01Z", "who": "group"}
