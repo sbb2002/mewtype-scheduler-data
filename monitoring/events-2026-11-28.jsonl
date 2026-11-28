@@ -91,3 +91,4 @@
 {"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-28T15:05:10Z", "who": "仲町あられ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-28T15:05:29Z", "tweet_id": "2126693965676392686", "via": "ingest", "who": "arale"}
 {"detail": "broadcast-change none · 게시물은 인사와 굿나잇 인사만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로", "flow": "tweet", "result": "ok", "ts": "2026-11-28T15:05:29Z", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-28T15:05:43Z", "who": "仲町あられ"}
