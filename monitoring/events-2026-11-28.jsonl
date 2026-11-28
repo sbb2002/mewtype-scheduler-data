@@ -38,3 +38,4 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_205e14bc", "result": "ok", "title": "【＃アワーノーツ】きみはまるくん！藤都子によるストーリー読み配信【ゆめみた/藤都子】", "to_state": "upcoming", "ts": "2026-11-28T09:23:18Z", "video_id": "NplVpRdr73M", "who": "miyako"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · NplVpRdr73M · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:NplVpRdr73M", "result": "ok", "title": "【＃アワーノーツ】きみはまるくん！藤都子によるストーリー読み配信【ゆめみた/藤都子】", "ts": "2026-11-28T09:23:18Z", "video_id": "NplVpRdr73M", "who": "miyako"}
 {"candidates": 62, "detail": "candidates=62 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-28T09:30:01Z", "who": ""}
+{"detail": "gap-fill · 2126608822756385229 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-28T09:35:06Z", "tweet_id": "2126608822756385229", "via": "ingest", "who": "arale"}
