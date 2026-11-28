@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:27:06Z",
+  "generated_at": "2026-11-28T13:20:34Z",
   "notices": [
     {
       "anchor_a": "event",
@@ -60,6 +60,36 @@
       "title_slug": "プレミア公開",
       "tweet_url": "https://x.com/i/status/2126486032250249381",
       "url": "https://youtu.be/7yQn4lMvQjQ"
+    },
+    {
+      "anchor_a": "arale_yumemita",
+      "anchor_b": null,
+      "body_for_llm": "本日 〜✨ ちょとだけはなす！ｲﾝｽﾀﾗｰｲﾌﾞ✨",
+      "body_ko": "오늘 23:00~✨\n잠깐만 얘기해! 인스타 라이브✨\n\nhttps://www.instagram.com/arale_yumemita",
+      "body_raw": "本日23:00〜✨\nちょとだけはなす！ｲﾝｽﾀﾗｰｲﾌﾞ✨\n\nhttps://www.instagram.com/arale_yumemita",
+      "categories": [
+        "broadcast"
+      ],
+      "category": "etc",
+      "date": "2026-11-28",
+      "deadline": false,
+      "expires_at": "2026-11-28T15:00:00Z",
+      "first_seen": "2026-11-28T13:20:34Z",
+      "id": "2126667226321399996",
+      "last_updated": "2026-11-28T13:20:34Z",
+      "participants": null,
+      "seen_ids": [
+        "2126667226321399996"
+      ],
+      "site": "web",
+      "src_handle": "@BDP_yumemita",
+      "time": "23:00",
+      "title": "本日 ちょとだけはなす！インスタライブ",
+      "title_ko": "오늘 조금만 이야기해요! 인스타라이브",
+      "title_raw": "本日23:00〜",
+      "title_slug": "本日",
+      "tweet_url": "https://x.com/i/status/2126667226321399996",
+      "url": "https://www.instagram.com/arale_yumemita"
     },
     {
       "anchor_a": "23914",
