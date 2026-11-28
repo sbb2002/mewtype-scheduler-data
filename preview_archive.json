@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:05:00Z",
+  "generated_at": "2026-11-28T11:40:00Z",
   "items": [
     {
       "actual_start": "2026-11-21T01:26:48Z",
@@ -841,6 +841,37 @@
       "title_ko": "YUNO's+ 한정 방송",
       "url": "https://www.youtube.com/watch?v=e4Co1myGtMc",
       "video_id": "e4Co1myGtMc"
+    },
+    {
+      "actual_end": "2026-11-28T11:06:12Z",
+      "actual_start": "2026-11-28T11:00:09Z",
+      "api_start_seen": "2026-11-28T11:00:00Z",
+      "archived_at": "2026-11-28T11:40:00Z",
+      "assumed_live": false,
+      "channel_key": "nonoka",
+      "collab_with": null,
+      "concurrent_viewers": null,
+      "expires_at": "2026-11-28T14:00:00Z",
+      "first_seen": "2026-11-28T01:11:14Z",
+      "host": null,
+      "id": "pv_ec9dc0f2",
+      "info_at": null,
+      "info_source": "api",
+      "is_premiere": true,
+      "kind": null,
+      "last_updated": "2026-11-28T11:40:00Z",
+      "membership": false,
+      "scheduled_start": "2026-11-28T11:00:00Z",
+      "source": "api",
+      "state": "out",
+      "state_since": "2026-11-28T11:40:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/7yQn4lMvQjQ/maxresdefault.jpg",
+      "time_tbd": false,
+      "title": "やばい💦夏終わる💦たすけて💦",
+      "title_ko": "심각해💦여름 끝나가💦도와줘💦",
+      "url": "https://www.youtube.com/watch?v=7yQn4lMvQjQ",
+      "video_id": "7yQn4lMvQjQ",
+      "yt_tunein": true
     }
   ]
 }
