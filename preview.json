@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-28T09:23:18Z",
+  "generated_at": "2026-11-28T09:30:01Z",
   "items": [
     {
       "actual_start": null,
@@ -183,7 +183,6 @@
       "kind": null,
       "last_updated": "2026-11-28T09:23:18Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-12-02T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -191,7 +190,7 @@
       "thumbnail": "https://i.ytimg.com/vi/NplVpRdr73M/maxresdefault.jpg?v=6b0a9471",
       "time_tbd": false,
       "title": "【＃アワーノーツ】きみはまるくん！藤都子によるストーリー読み配信【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【#아워노트】키미는 마루쿤! 후지 미야코의 스토리 읽기 방송【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=NplVpRdr73M",
       "video_id": "NplVpRdr73M"
     },
@@ -212,7 +211,6 @@
       "kind": null,
       "last_updated": "2026-11-28T09:23:18Z",
       "membership": false,
-      "needs_tl": true,
       "scheduled_start": "2026-12-05T12:30:00Z",
       "source": "api",
       "state": "upcoming",
@@ -220,7 +218,7 @@
       "thumbnail": "https://i.ytimg.com/vi/vVxrmkNpRP8/maxresdefault.jpg?v=6b0a93bb",
       "time_tbd": false,
       "title": "【Refind Self: 性格診断ゲーム】3年ぶり再診断❕人は変わるものなのか❔【ゆめみた/藤都子】",
-      "title_ko": null,
+      "title_ko": "【Refind Self: 성격 진단 게임】3년 만에 재진단❕사람은 변하는 걸까❔【유메미타/후지 미야코】",
       "url": "https://www.youtube.com/watch?v=vVxrmkNpRP8",
       "video_id": "vVxrmkNpRP8"
     },
