@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T13:20:34Z",
+  "generated_at": "2026-11-28T14:07:17Z",
   "tweets": {
     "arale": [
       {
@@ -176,6 +176,28 @@
         "text": "月曜日が12月じゃない‥‥❔\n11月30日…❔\n\n12月－1日❣",
         "text_ko": "월요일이 12월이 아니네‥‥❔\n11월 30일…❔\n\n12월‑1일❣",
         "url": "https://x.com/i/status/2126605466243674219"
+      },
+      {
+        "channel_key": "miyako",
+        "expires_at": "2026-11-30T14:07:14Z",
+        "handle": "miyako_yumemita",
+        "id": "2126679314209120313",
+        "media": [
+          "https://pbs.twimg.com/media/HYN56S2aAAAFJmS.jpg"
+        ],
+        "posted_at": "2026-11-28T14:07:14Z",
+        "quote": {
+          "media": [
+            "https://pbs.twimg.com/media/HYIXQx-bkAAG0CU.jpg"
+          ],
+          "text": "💜配信よてい💜\n11/28(土)21:30～歌枠🎤\n\n🔗https://youtube.com/live/O8w36mKQpTU?feature=share\n\nぼかろをうたうぼか～♪\n＃みるみやこ",
+          "text_ko": "💜방송 예정💜\n11/28(토)21:30~노래 방송🎤\n\n🔗https://youtube.com/live/O8w36mKQpTU?feature=share\n\n보카로를 부르는 보카~♪\n#みるみやこ"
+        },
+        "received_at": "2026-11-28T14:07:17Z",
+        "reply_to_id": null,
+        "text": "ぼ〜かぼかぼか♪\nボカロ歌枠ありゃとうございました🐼🎤\n\n🎵せとり🎵\nワールドイズマイン\nロミオとシンデレラ\nからくりピエロ\nmagnet\nスイートマジック\nいーあるふぁんくらぶ\n\nねおちゃいなまるくんもにっこり♪\n＃みるみやこ",
+        "text_ko": "보~카보카보카♪  \n보컬로 노래 방송 감사합니다🐼🎤  \n\n🎵세토리🎵  \n월드 이즈 마인  \n로미오와 신데렐라  \n카라쿠리 피에로  \nmagnet  \n스위트 매직  \n이얼펀 클럽  \n\n네오차이 나마루군도 웃어요♪  \n#みるみやこ",
+        "url": "https://x.com/i/status/2126679314209120313"
       }
     ],
     "nonoka": [
