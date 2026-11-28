@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:15:05Z",
+  "generated_at": "2026-11-28T13:20:34Z",
   "tweets": {
     "arale": [
       {
@@ -90,6 +90,22 @@
         "text": "あ、雨粒デカい…！！",
         "text_ko": "아, 빗방울 커…!!",
         "url": "https://x.com/i/status/2126608822756385229"
+      },
+      {
+        "channel_key": "arale",
+        "expires_at": "2026-11-30T13:19:12Z",
+        "handle": "arale_yumemita",
+        "id": "2126667226321399996",
+        "media": [
+          "https://pbs.twimg.com/media/HYNwfUEbMAEeJDX.jpg"
+        ],
+        "posted_at": "2026-11-28T13:19:12Z",
+        "quote": null,
+        "received_at": "2026-11-28T13:20:34Z",
+        "reply_to_id": null,
+        "text": "本日23:00〜✨️\nちょとだけはなす！ｲﾝｽﾀﾗｰｲﾌﾞ✨️\n\nhttps://www.instagram.com/arale_yumemita",
+        "text_ko": "오늘 23:00~✨️\n잠깐만 얘기해! 인스타 라이브✨️\n\nhttps://www.instagram.com/arale_yumemita",
+        "url": "https://x.com/i/status/2126667226321399996"
       }
     ],
     "miyako": [
