@@ -4,26 +4,6 @@
     "arale": [
       {
         "channel_key": "arale",
-        "expires_at": "2026-11-28T07:54:53Z",
-        "handle": "arale_yumemita",
-        "id": "2125860831640555573",
-        "media": [],
-        "posted_at": "2026-11-26T07:54:53Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HXfjV9TbAAEffdR.jpg"
-          ],
-          "text": "本日11/26(木)は #バンドリのじかん💫\n\n⭐️「バンドリ！TV LIVE 2026」＃342 を生配信！\n\n⭐️TVアニメ「バンドリ！ ゆめ∞みた」\n23:00からTOKYO MX、24:00からBS日テレにて再放送！\n\nお楽しみに🎵\n#バンドリ #バンドリTVLIVE",
-          "text_ko": "본일 11/26(목)은 #뱅드림의 시간💫  \n⭐️「뱅드림! TV LIVE 2026」#342 를 생방송!  \n⭐️TV 애니메이션 「뱅드림! 유메∞미타」 23:00부터 TOKYO MX, 24:00부터 BS일테레에서 재방송!  \n많이 기대해요🎵  \n#뱅드림 #뱅드림 TVLIVE"
-        },
-        "received_at": "2026-11-26T08:02:06Z",
-        "reply_to_id": null,
-        "text": "本日！22:00〜より！\n#バンドリTVLIVE 出演させていただきます！✨️\nよろしくお願いいたします🙏",
-        "text_ko": "오늘! 22:00부터! #뱅드림 TVLIVE 출연합니다!✨️ 잘 부탁드립니다🙏",
-        "url": "https://x.com/i/status/2125860831640555573"
-      },
-      {
-        "channel_key": "arale",
         "expires_at": "2026-11-28T15:01:58Z",
         "handle": "arale_yumemita",
         "id": "2125968309023895653",
@@ -101,26 +81,6 @@
     "miyako": [
       {
         "channel_key": "miyako",
-        "expires_at": "2026-11-28T08:45:16Z",
-        "handle": "miyako_yumemita",
-        "id": "2125873510933488085",
-        "media": [],
-        "posted_at": "2026-11-26T08:45:16Z",
-        "quote": {
-          "media": [
-            "https://pbs.twimg.com/media/HXfjV9TbAAEffdR.jpg"
-          ],
-          "text": "明日11/26(木)22:00頃～\n「バンドリ！TV LIVE 2026」＃342 が生配信🎤⭐️\n\n出演者\n倉知玲鳳（パレオ 役）\n仲町あられ\n藤都子\n\nYouTube で生配信📺✨\nhttps://youtube.com/live/i64CrvW6zng\n\nhttps://bang-dream.com/news/2464/\n\n#バンドリ #バンドリTVLIVE",
-          "text_ko": "내일 11/26(목) 22:00경～\n「뱅드림! TV LIVE 2026」#342 가 생방송🎤⭐️\n\n출연자\n쿠라치 레이호(파레오 역)\n나카마치 아라레\n후지 미야코\n\nYouTube에서 생방송📺✨\nhttps://youtube.com/live/i64CrvW6zng\n\nhttps://bang-dream.com/news/2464/\n\n#뱅드림 #뱅드림 TVLIVE"
-        },
-        "received_at": "2026-11-26T08:45:20Z",
-        "reply_to_id": null,
-        "text": "本日22:00から❣️ #バンドリTVLIVE\n出演させていただきます⭐️\nよろしくおねがいしますฅ∬꒰ ◠ ᴥ ◠꙳꒱♩♬",
-        "text_ko": "오늘 22:00부터 ❣️ #뱅드림 TVLIVE에 출연합니다⭐️ 잘 부탁드립니다ฅ∬꒰ ◠ ᴥ ◠꙳꒱♩♬",
-        "url": "https://x.com/i/status/2125873510933488085"
-      },
-      {
-        "channel_key": "miyako",
         "expires_at": "2026-11-28T12:48:47Z",
         "handle": "miyako_yumemita",
         "id": "2125934792470622217",
@@ -179,20 +139,6 @@
       }
     ],
     "nonoka": [
-      {
-        "channel_key": "nonoka",
-        "expires_at": "2026-11-28T07:32:24Z",
-        "handle": "nonoka_yumemita",
-        "id": "2125855172203294806",
-        "media": [],
-        "posted_at": "2026-11-26T07:32:24Z",
-        "quote": null,
-        "received_at": "2026-11-26T07:35:27Z",
-        "reply_to_id": null,
-        "text": "理科室の水道は水圧が高いとか、もうすでにピンポイントで意識しないと思い出せないのに、\nあのころ大好きだった小学生あるあるの替え歌って、小学生の気持ちを忘れずにそれを考えてた大人が、いたってことなのかよ......",
-        "text_ko": "이과실 물압이 높다든가, 이미 정확히 기억 못 할 정도로 의식 안 했는데, 그때 정말 좋아했던 초등학생 흔한 상황을 패러디한 노래를 부른 초등학생 감성을 잊지 않고 생각하던 어른이 있었다는 거야......",
-        "url": "https://x.com/i/status/2125855172203294806"
-      },
       {
         "channel_key": "nonoka",
         "expires_at": "2026-11-28T12:13:41Z",
