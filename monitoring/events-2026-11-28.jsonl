@@ -88,3 +88,4 @@
 {"detail": "banner mode: notice · 소식 none", "flow": "notice", "result": "ok", "ts": "2026-11-28T15:04:25Z", "via": "ingest", "who": "bang_dream_on"}
 {"detail": "처리됨", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-28T15:04:30Z", "who": "バンドリ！アワーノーツ"}
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-28T15:04:49Z", "tweet_id": "2126693798373998880", "via": "ingest", "who": "arale"}
+{"detail": "개인 트윗 · arale", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-28T15:05:10Z", "who": "仲町あられ"}
