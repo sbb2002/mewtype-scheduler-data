@@ -52,3 +52,5 @@
 {"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-28T11:28:34Z", "who": "7yQn4lMvQjQ"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 7yQn4lMvQjQ · 예고 end", "flow": "websub", "merge_key": "websub-notify:7yQn4lMvQjQ", "result": "ok", "title": "やばい💦夏終わる💦たすけて💦", "ts": "2026-11-28T11:28:34Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-28T11:30:02Z", "who": ""}
+{"candidates": 7, "detail": "candidates=7 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-28T11:40:00Z", "who": "7yQn4lMvQjQ"}
+{"assumed_live": false, "detail": "end→out", "flow": "preview", "from_state": "end", "item_id": "pv_ec9dc0f2", "result": "ok", "title": "やばい💦夏終わる💦たすけて💦", "to_state": "out", "ts": "2026-11-28T11:40:00Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
