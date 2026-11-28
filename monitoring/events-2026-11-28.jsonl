@@ -61,3 +61,4 @@
 {"detail": "mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-28T12:13:43Z", "tweet_id": "2126650605645262949", "via": "ingest", "who": "nonoka"}
 {"detail": "개인 트윗 · nonoka", "flow": "upstream", "result": "ok", "source": "x", "ts": "2026-11-28T12:13:54Z", "who": "宮永ののか🐰🩹"}
 {"detail": "gap-fill(자기 답글) · 2126650946289909951 · +0분 · mode: added", "flow": "tweet", "result": "ok", "ts": "2026-11-28T12:15:05Z", "tweet_id": "2126650946289909951", "via": "ingest", "who": "nonoka"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · O8w36mKQpTU · 예고 watching", "flow": "websub", "merge_key": "websub-notify:O8w36mKQpTU", "result": "ok", "title": "【歌枠】ボカロをうたいまくり隊【ゆめみた/藤都子】", "ts": "2026-11-28T12:30:32Z", "video_id": "O8w36mKQpTU", "who": "miyako"}
