@@ -5572,6 +5572,25 @@
       "undo": null,
       "undone": null,
       "who": "bang_dream_on"
+    },
+    {
+      "by": "llm",
+      "flow_id": null,
+      "followup": null,
+      "id": "llm_3726091bcd",
+      "input": {
+        "channel_key": "arale",
+        "raw": "歯磨いて〜…おやすみ！\n𝐺𝑜𝑜𝑑 𝑛𝑖𝑔ℎ𝑡🌃✨️",
+        "tag": "p#https://x.com/#1tweet-2126693965676392686"
+      },
+      "kind": "broadcast_change",
+      "parent_id": null,
+      "reason": "게시물은 인사와 굿나잇 인사만 포함하고 있어 방송 취소나 일정 변경을 알리는 내용이 없으므로",
+      "summary": "방송 취소 · 변경 아님",
+      "ts": "2026-11-28T15:05:29Z",
+      "undo": null,
+      "undone": null,
+      "who": "arale"
     }
   ]
 }
