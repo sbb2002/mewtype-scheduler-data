@@ -79,7 +79,7 @@
       ]
     }
   },
-  "generated_at": "2026-11-28T09:30:01Z",
+  "generated_at": "2026-11-28T10:30:09Z",
   "items": [
     {
       "actual_start": null,
@@ -96,18 +96,19 @@
       "info_source": "api",
       "is_premiere": true,
       "kind": null,
-      "last_updated": "2026-11-28T09:23:18Z",
+      "last_updated": "2026-11-28T10:30:09Z",
       "membership": false,
       "scheduled_start": "2026-11-28T11:00:00Z",
       "source": "api",
-      "state": "upcoming",
-      "state_since": "2026-11-28T01:11:14Z",
+      "state": "watching",
+      "state_since": "2026-11-28T10:30:09Z",
       "thumbnail": "https://i.ytimg.com/vi/7yQn4lMvQjQ/maxresdefault.jpg",
       "time_tbd": false,
       "title": "???💦",
       "title_ko": "???💦",
       "url": "https://www.youtube.com/watch?v=7yQn4lMvQjQ",
-      "video_id": "7yQn4lMvQjQ"
+      "video_id": "7yQn4lMvQjQ",
+      "yt_tunein": true
     },
     {
       "actual_start": null,
