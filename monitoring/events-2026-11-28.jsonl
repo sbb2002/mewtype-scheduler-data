@@ -14,3 +14,6 @@
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-27T23:00:01Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-28T00:00:01Z", "who": "group"}
 {"action": "rss_empty", "detail": "뮤타입 음원 채널 RSS 가 비어 있음(조회 실패 가능) — 신곡 감지 못 함", "flow": "song", "result": "warn", "ts": "2026-11-28T01:00:01Z", "who": "group"}
+{"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-28T01:11:14Z", "who": "7yQn4lMvQjQ"}
+{"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_ec9dc0f2", "result": "ok", "title": "???💦", "to_state": "upcoming", "ts": "2026-11-28T01:11:14Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
+{"action": "notify", "count": 1, "detail": "알림 수신 · 7yQn4lMvQjQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:7yQn4lMvQjQ", "result": "ok", "title": "???💦", "ts": "2026-11-28T01:11:14Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
