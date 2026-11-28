@@ -18,3 +18,4 @@
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_ec9dc0f2", "result": "ok", "title": "???💦", "to_state": "upcoming", "ts": "2026-11-28T01:11:14Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 7yQn4lMvQjQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:7yQn4lMvQjQ", "result": "ok", "title": "???💦", "ts": "2026-11-28T01:11:14Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
 {"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-28T01:20:01Z", "who": ""}
+{"detail": "gap-fill · 2126486032250249381 · +7분 · mode: added", "flow": "tweet", "result": "warn", "ts": "2026-11-28T01:27:06Z", "tweet_id": "2126486032250249381", "via": "ingest", "who": "nonoka"}
