@@ -17,3 +17,4 @@
 {"candidates": 5, "detail": "candidates=5 preview_changed=True", "flow": "wake", "mode": "wake", "preview_changed": true, "quota": 1, "result": "ok", "ts": "2026-11-28T01:11:14Z", "who": "7yQn4lMvQjQ"}
 {"assumed_live": false, "detail": "None→upcoming", "flow": "preview", "from_state": null, "item_id": "pv_ec9dc0f2", "result": "ok", "title": "???💦", "to_state": "upcoming", "ts": "2026-11-28T01:11:14Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
 {"action": "notify", "count": 1, "detail": "알림 수신 · 7yQn4lMvQjQ · 예고 upcoming", "flow": "websub", "merge_key": "websub-notify:7yQn4lMvQjQ", "result": "ok", "title": "???💦", "ts": "2026-11-28T01:11:14Z", "video_id": "7yQn4lMvQjQ", "who": "nonoka"}
+{"candidates": 77, "detail": "candidates=77 preview_changed=False", "flow": "tick", "mode": "light", "preview_changed": false, "quota": 2, "result": "ok", "ts": "2026-11-28T01:20:01Z", "who": ""}
